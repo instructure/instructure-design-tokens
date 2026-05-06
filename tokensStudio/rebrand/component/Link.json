@@ -71,7 +71,7 @@
     "inlineLink": {
       "small": {
         "value": {
-          "fontFamily": "{fontFamily.base}",
+          "fontFamily": "{semantic.fontFamily.base}",
           "fontWeight": "{semantic.fontWeight.body.strong}",
           "fontSize": "{semantic.fontSize.textSm}",
           "lineHeight": "{semantic.lineHeight.standalone.textSm}",
@@ -81,7 +81,7 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{fontFamily.base}",
+          "fontFamily": "{semantic.fontFamily.base}",
           "fontWeight": "{semantic.fontWeight.body.strong}",
           "fontSize": "{semantic.fontSize.textBase}",
           "lineHeight": "{semantic.lineHeight.paragraph.textBase}",
@@ -91,7 +91,7 @@
       },
       "large": {
         "value": {
-          "fontFamily": "{fontFamily.base}",
+          "fontFamily": "{semantic.fontFamily.base}",
           "fontWeight": "{semantic.fontWeight.body.strong}",
           "fontSize": "{semantic.fontSize.textXl}",
           "lineHeight": "{semantic.lineHeight.standalone.textXl}",

@@ -134,7 +134,7 @@
     },
     "descriptionPage": {
       "value": {
-        "fontFamily": "{fontFamily.base}",
+        "fontFamily": "{semantic.fontFamily.base}",
         "fontWeight": "{semantic.fontWeight.body.base}",
         "fontSize": "{semantic.fontSize.textLg}",
         "lineHeight": "{semantic.lineHeight.paragraph.base}"
@@ -144,7 +144,7 @@
     },
     "descriptionSection": {
       "value": {
-        "fontFamily": "{fontFamily.base}",
+        "fontFamily": "{semantic.fontFamily.base}",
         "fontWeight": "{semantic.fontWeight.body.base}",
         "fontSize": "{semantic.fontSize.textBase}",
         "lineHeight": "{semantic.lineHeight.paragraph.base}"
@@ -154,7 +154,7 @@
     },
     "content": {
       "value": {
-        "fontFamily": "{fontFamily.base}",
+        "fontFamily": "{semantic.fontFamily.base}",
         "fontWeight": "{semantic.fontWeight.body.base}",
         "fontSize": "{semantic.fontSize.textBase}",
         "lineHeight": "{semantic.lineHeight.paragraph.base}"
@@ -164,7 +164,7 @@
     },
     "contentImportant": {
       "value": {
-        "fontFamily": "{fontFamily.base}",
+        "fontFamily": "{semantic.fontFamily.base}",
         "fontWeight": "{semantic.fontWeight.body.strong}",
         "fontSize": "{semantic.fontSize.textBase}",
         "lineHeight": "{semantic.lineHeight.paragraph.base}"
@@ -174,7 +174,7 @@
     },
     "contentQuote": {
       "value": {
-        "fontFamily": "{fontFamily.base}",
+        "fontFamily": "{semantic.fontFamily.base}",
         "fontWeight": "Medium Italic",
         "fontSize": "{semantic.fontSize.textBase}",
         "lineHeight": "{semantic.lineHeight.paragraph.base}"
@@ -184,7 +184,7 @@
     },
     "contentSmall": {
       "value": {
-        "fontFamily": "{fontFamily.base}",
+        "fontFamily": "{semantic.fontFamily.base}",
         "fontWeight": "{semantic.fontWeight.body.base}",
         "fontSize": "{semantic.fontSize.textSm}",
         "lineHeight": "{semantic.lineHeight.paragraph.base}"
@@ -194,7 +194,7 @@
     },
     "legend": {
       "value": {
-        "fontFamily": "{fontFamily.base}",
+        "fontFamily": "{semantic.fontFamily.base}",
         "fontWeight": "{semantic.fontWeight.body.base}",
         "fontSize": "{semantic.fontSize.textXs}",
         "lineHeight": "{semantic.lineHeight.paragraph.base}"

@@ -122,7 +122,7 @@
     },
     "titlePageDesktop": {
       "value": {
-        "fontFamily": "{fontFamily.heading}",
+        "fontFamily": "{semantic.fontFamily.heading}",
         "fontWeight": "{semantic.fontWeight.heading.strong}",
         "fontSize": "{semantic.fontSize.text2xl}",
         "lineHeight": "{semantic.lineHeight.heading.base}"
@@ -131,7 +131,7 @@
     },
     "titlePageMobile": {
       "value": {
-        "fontFamily": "{fontFamily.heading}",
+        "fontFamily": "{semantic.fontFamily.heading}",
         "fontWeight": "{semantic.fontWeight.heading.strong}",
         "fontSize": "2rem",
         "lineHeight": "{semantic.lineHeight.heading.base}"
@@ -140,7 +140,7 @@
     },
     "titleSection": {
       "value": {
-        "fontFamily": "{fontFamily.heading}",
+        "fontFamily": "{semantic.fontFamily.heading}",
         "fontWeight": "{semantic.fontWeight.heading.strong}",
         "fontSize": "{semantic.fontSize.textXl}",
         "lineHeight": "{semantic.lineHeight.heading.base}"
@@ -149,7 +149,7 @@
     },
     "titleCardSection": {
       "value": {
-        "fontFamily": "{fontFamily.heading}",
+        "fontFamily": "{semantic.fontFamily.heading}",
         "fontWeight": "{semantic.fontWeight.heading.strong}",
         "fontSize": "{semantic.fontSize.textXl}",
         "lineHeight": "{semantic.lineHeight.heading.base}"
@@ -158,7 +158,7 @@
     },
     "titleModule": {
       "value": {
-        "fontFamily": "{fontFamily.heading}",
+        "fontFamily": "{semantic.fontFamily.heading}",
         "fontWeight": "{semantic.fontWeight.heading.strong}",
         "fontSize": "1.5rem",
         "lineHeight": "{semantic.lineHeight.heading.base}"
@@ -167,7 +167,7 @@
     },
     "titleCardLarge": {
       "value": {
-        "fontFamily": "{fontFamily.heading}",
+        "fontFamily": "{semantic.fontFamily.heading}",
         "fontWeight": "{semantic.fontWeight.heading.strong}",
         "fontSize": "1.5rem",
         "lineHeight": "{semantic.lineHeight.heading.base}"
@@ -176,7 +176,7 @@
     },
     "titleCardRegular": {
       "value": {
-        "fontFamily": "{fontFamily.heading}",
+        "fontFamily": "{semantic.fontFamily.heading}",
         "fontWeight": "{semantic.fontWeight.heading.strong}",
         "fontSize": "{semantic.fontSize.textLg}",
         "lineHeight": "{semantic.lineHeight.heading.base}"
@@ -185,7 +185,7 @@
     },
     "titleCardMini": {
       "value": {
-        "fontFamily": "{fontFamily.heading}",
+        "fontFamily": "{semantic.fontFamily.heading}",
         "fontWeight": "{semantic.fontWeight.heading.strong}",
         "fontSize": "{semantic.fontSize.textBase}",
         "lineHeight": "{semantic.lineHeight.heading.base}"
@@ -194,7 +194,7 @@
     },
     "label": {
       "value": {
-        "fontFamily": "{fontFamily.heading}",
+        "fontFamily": "{semantic.fontFamily.heading}",
         "fontWeight": "{semantic.fontWeight.heading.strong}",
         "fontSize": "{semantic.fontSize.textBase}",
         "lineHeight": "{semantic.lineHeight.heading.base}"
@@ -203,7 +203,7 @@
     },
     "labelInline": {
       "value": {
-        "fontFamily": "{fontFamily.heading}",
+        "fontFamily": "{semantic.fontFamily.heading}",
         "fontWeight": "{semantic.fontWeight.heading.strong}",
         "fontSize": "{semantic.fontSize.textBase}",
         "lineHeight": "{semantic.lineHeight.heading.base}"
