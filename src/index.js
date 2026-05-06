@@ -5,9 +5,9 @@ import { globSync } from 'glob'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
-const tokensDir = join(__dirname, '..', 'tokenStudio')
+const tokensDir = join(__dirname, '..', 'tokensStudio')
 
-// Nested object mirroring the tokenStudio/ directory structure
+// Nested object mirroring the tokensStudio/ directory structure
 export const themeTokens = {}
 
 for (const filePath of globSync('**/*.json', { cwd: tokensDir })) {
