@@ -1,19 +1,19 @@
 {
   "tag": {
     "defaultBackground": {
-      "value": "{color.background.interactive.action.secondary.base}",
+      "value": "{semantic.color.background.interactive.action.secondary.base}",
       "type": "color"
     },
     "defaultBackgroundHover": {
-      "value": "{color.background.interactive.action.secondary.hover}",
+      "value": "{semantic.color.background.interactive.action.secondary.hover}",
       "type": "color"
     },
     "defaultBorderColor": {
-      "value": "{color.stroke.interactive.action.secondary.base}",
+      "value": "{semantic.color.stroke.interactive.action.secondary.base}",
       "type": "color"
     },
     "defaultBorderRadius": {
-      "value": "{borderRadius.md}",
+      "value": "{semantic.borderRadius.md}",
       "type": "borderRadius"
     },
     "defaultBorderStyle": {
@@ -25,35 +25,35 @@
       "type": "text"
     },
     "defaultBorderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "inlineBorderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "defaultColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "inlineColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontSizeLarge": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "fontSizeMedium": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "fontSizeSmall": {
-      "value": "{fontSize.textXs}",
+      "value": "{semantic.fontSize.textXs}",
       "type": "fontSizes"
     },
     "heightLarge": {
@@ -73,19 +73,19 @@
       "type": "spacing"
     },
     "inlineBackground": {
-      "value": "{color.background.interactive.action.secondary.base}",
+      "value": "{semantic.color.background.interactive.action.secondary.base}",
       "type": "color"
     },
     "inlineBackgroundHover": {
-      "value": "{color.background.interactive.action.secondary.hover}",
+      "value": "{semantic.color.background.interactive.action.secondary.hover}",
       "type": "color"
     },
     "inlineBorderColor": {
-      "value": "{color.background.interactive.action.secondary.base}",
+      "value": "{semantic.color.background.interactive.action.secondary.base}",
       "type": "color"
     },
     "inlineBorderRadius": {
-      "value": "{borderRadius.sm}",
+      "value": "{semantic.borderRadius.sm}",
       "type": "borderRadius"
     },
     "maxWidth": {
@@ -93,11 +93,11 @@
       "type": "sizing"
     },
     "paddingHorizontal": {
-      "value": "{spacing.padding.container.xxs}",
+      "value": "{semantic.spacing.padding.container.xxs}",
       "type": "spacing"
     },
     "paddingHorizontalSmall": {
-      "value": "{spacing.padding.container.xxs}",
+      "value": "{semantic.spacing.padding.container.xxs}",
       "type": "spacing"
     },
     "transitionTiming": {
@@ -105,11 +105,11 @@
       "type": "text"
     },
     "inlineIconColor": {
-      "value": "{color.background.interactive.action.primary.base}",
+      "value": "{semantic.color.background.interactive.action.primary.base}",
       "type": "color"
     },
     "inlineIconHoverColor": {
-      "value": "{color.background.interactive.action.primary.hover}",
+      "value": "{semantic.color.background.interactive.action.primary.hover}",
       "type": "color"
     }
   }

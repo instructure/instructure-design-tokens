@@ -1,39 +1,39 @@
 {
   "calendar": {
     "background": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "color": {
-      "value": "{color.institutional.brandFontColorDark}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "navMargin": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "navWithYearMargin": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "yearPickerMargin": {
-      "value": "{spacing.spaceLg}",
+      "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
     },
     "lineHeight": {
-      "value": "{lineHeight.paragraph.base}",
+      "value": "{semantic.lineHeight.paragraph.base}",
       "type": "lineHeights"
     },
     "maxHeaderWidth": {
@@ -43,51 +43,51 @@
   },
   "calendarDay": {
     "background": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "color": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "outsideMonthColor": {
-      "value": "{color.text.muted}",
+      "value": "{semantic.color.text.muted}",
       "type": "color"
     },
     "selectedBackground": {
-      "value": "{color.background.interactive.action.success.base}",
+      "value": "{semantic.color.background.interactive.action.success.base}",
       "type": "color"
     },
     "selectedColor": {
-      "value": "{color.text.onColor}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "todayColor": {
-      "value": "{color.text.onColor}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "todayBackground": {
-      "value": "{color.institutional.brandPrimary}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "fontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "height": {
-      "value": "{size.interactive.height.sm}",
+      "value": "{semantic.size.interactive.height.sm}",
       "type": "sizing"
     },
     "minWidth": {
-      "value": "{size.interactive.height.sm}",
+      "value": "{semantic.size.interactive.height.sm}",
       "type": "sizing"
     },
     "selectedBorderRadius": {
-      "value": "{borderRadius.lg}",
+      "value": "{semantic.borderRadius.lg}",
       "type": "borderRadius"
     },
     "todayBorderRadius": {
-      "value": "{borderRadius.full}",
+      "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     }
   }

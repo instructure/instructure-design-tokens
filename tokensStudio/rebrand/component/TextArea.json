@@ -1,103 +1,103 @@
 {
   "textArea": {
     "backgroundColor": {
-      "value": "{color.background.interactive.input.base}",
+      "value": "{semantic.color.background.interactive.input.base}",
       "type": "color"
     },
     "backgroundHoverColor": {
-      "value": "{color.background.interactive.input.hover}",
+      "value": "{semantic.color.background.interactive.input.hover}",
       "type": "color"
     },
     "backgroundReadonlyColor": {
-      "value": "{color.background.interactive.input.readonly}",
+      "value": "{semantic.color.background.interactive.input.readonly}",
       "type": "color"
     },
     "backgroundDisabledColor": {
-      "value": "{color.background.interactive.input.disabled}",
+      "value": "{semantic.color.background.interactive.input.disabled}",
       "type": "color"
     },
     "borderColor": {
-      "value": "{color.stroke.interactive.input.base}",
+      "value": "{semantic.color.stroke.interactive.input.base}",
       "type": "color"
     },
     "borderHoverColor": {
-      "value": "{color.stroke.interactive.input.hover}",
+      "value": "{semantic.color.stroke.interactive.input.hover}",
       "type": "color"
     },
     "borderReadonlyColor": {
-      "value": "{color.stroke.interactive.input.readonly}",
+      "value": "{semantic.color.stroke.interactive.input.readonly}",
       "type": "color"
     },
     "borderDisabledColor": {
-      "value": "{color.stroke.interactive.input.disabled}",
+      "value": "{semantic.color.stroke.interactive.input.disabled}",
       "type": "color"
     },
     "errorBorderColor": {
-      "value": "{color.stroke.interactive.action.destructive.base}",
+      "value": "{semantic.color.stroke.interactive.action.destructive.base}",
       "type": "color"
     },
     "successBorderColor": {
-      "value": "{color.stroke.interactive.action.success.secondary.base}",
+      "value": "{semantic.color.stroke.interactive.action.success.secondary.base}",
       "type": "color"
     },
     "borderRadius": {
-      "value": "{borderRadius.interactive.base}",
+      "value": "{semantic.borderRadius.interactive.base}",
       "type": "borderRadius"
     },
     "borderWidth": {
-      "value": "{borderWidth.interactive.base}",
+      "value": "{semantic.borderWidth.interactive.base}",
       "type": "borderWidth"
     },
     "textColor": {
-      "value": "{color.text.interactive.input.base}",
+      "value": "{semantic.color.text.interactive.input.base}",
       "type": "color"
     },
     "textReadonlyColor": {
-      "value": "{color.text.interactive.input.readonly}",
+      "value": "{semantic.color.text.interactive.input.readonly}",
       "type": "color"
     },
     "textDisabledColor": {
-      "value": "{color.text.interactive.input.disabled}",
+      "value": "{semantic.color.text.interactive.input.disabled}",
       "type": "color"
     },
     "placeholderColor": {
-      "value": "{color.text.interactive.input.placeholder}",
+      "value": "{semantic.color.text.interactive.input.placeholder}",
       "type": "color"
     },
     "placeholderHoverColor": {
-      "value": "{color.text.interactive.input.hover}",
+      "value": "{semantic.color.text.interactive.input.hover}",
       "type": "color"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "fontSizeSm": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "fontSizeMd": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "fontSizeLg": {
-      "value": "{fontSize.textLg}",
+      "value": "{semantic.fontSize.textLg}",
       "type": "fontSizes"
     },
     "gapContent": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "padding": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "gapPrimitives": {
-      "value": "{spacing.gap.inputElements}",
+      "value": "{semantic.spacing.gap.inputElements}",
       "type": "spacing"
     }
   }

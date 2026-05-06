@@ -1,7 +1,7 @@
 {
   "pill": {
     "paddingHorizontal": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "height": {
@@ -9,19 +9,19 @@
       "type": "sizing"
     },
     "backgroundColor": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "textFontSize": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "textFontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "statusLabelFontWeight": {
-      "value": "{fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     },
     "maxWidth": {
@@ -29,59 +29,59 @@
       "type": "sizing"
     },
     "baseTextColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "baseBorderColor": {
-      "value": "{color.stroke.base}",
+      "value": "{semantic.color.stroke.base}",
       "type": "color"
     },
     "infoTextColor": {
-      "value": "{color.text.info}",
+      "value": "{semantic.color.text.info}",
       "type": "color"
     },
     "infoBorderColor": {
-      "value": "{color.stroke.info}",
+      "value": "{semantic.color.stroke.info}",
       "type": "color"
     },
     "errorTextColor": {
-      "value": "{color.text.error}",
+      "value": "{semantic.color.text.error}",
       "type": "color"
     },
     "errorBorderColor": {
-      "value": "{color.stroke.error}",
+      "value": "{semantic.color.stroke.error}",
       "type": "color"
     },
     "successTextColor": {
-      "value": "{color.text.success}",
+      "value": "{semantic.color.text.success}",
       "type": "color"
     },
     "successBorderColor": {
-      "value": "{color.stroke.success}",
+      "value": "{semantic.color.stroke.success}",
       "type": "color"
     },
     "warningTextColor": {
-      "value": "{color.text.warning}",
+      "value": "{semantic.color.text.warning}",
       "type": "color"
     },
     "warningBorderColor": {
-      "value": "{color.stroke.warning}",
+      "value": "{semantic.color.stroke.warning}",
       "type": "color"
     },
     "borderRadius": {
-      "value": "{borderRadius.full}",
+      "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     },
     "borderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "lineHeight": {
-      "value": "{lineHeight.standalone.textSm}",
+      "value": "{semantic.lineHeight.standalone.textSm}",
       "type": "lineHeights"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "borderStyle": {

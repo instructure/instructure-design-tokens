@@ -1,35 +1,35 @@
 {
   "formFieldLayout": {
     "textColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "readonlyTextColor": {
-      "value": "{color.text.muted}",
+      "value": "{semantic.color.text.muted}",
       "type": "color"
     },
     "asteriskColor": {
-      "value": "{color.text.error}",
+      "value": "{semantic.color.text.error}",
       "type": "color"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     },
     "fontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "lineHeight": {
-      "value": "{lineHeight.label.base}",
+      "value": "{semantic.lineHeight.label.base}",
       "type": "lineHeights"
     },
     "gapPrimitives": {
-      "value": "{spacing.gap.inputElements}",
+      "value": "{semantic.spacing.gap.inputElements}",
       "type": "spacing"
     },
     "stackedOrInlineBreakpoint": {

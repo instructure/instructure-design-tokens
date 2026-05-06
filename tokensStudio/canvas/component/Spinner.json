@@ -1,15 +1,15 @@
 {
   "spinner": {
     "color": {
-      "value": "{color.icon.info}",
+      "value": "{semantic.color.icon.info}",
       "type": "color"
     },
     "inverseColor": {
-      "value": "{color.icon.onColor}",
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "trackColor": {
-      "value": "{color.background.muted}",
+      "value": "{semantic.color.background.muted}",
       "type": "color"
     },
     "strokeWidthXs": {

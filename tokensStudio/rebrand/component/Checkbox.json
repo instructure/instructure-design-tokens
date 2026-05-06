@@ -1,119 +1,119 @@
 {
   "checkbox": {
     "backgroundColor": {
-      "value": "{color.background.interactive.input.base}",
+      "value": "{semantic.color.background.interactive.input.base}",
       "type": "color"
     },
     "backgroundHoverColor": {
-      "value": "{color.background.interactive.input.hover}",
+      "value": "{semantic.color.background.interactive.input.hover}",
       "type": "color"
     },
     "backgroundReadonlyColor": {
-      "value": "{color.background.interactive.input.readonly}",
+      "value": "{semantic.color.background.interactive.input.readonly}",
       "type": "color"
     },
     "backgroundDisabledColor": {
-      "value": "{color.background.interactive.input.disabled}",
+      "value": "{semantic.color.background.interactive.input.disabled}",
       "type": "color"
     },
     "backgroundCheckedColor": {
-      "value": "{color.background.interactive.input.selected}",
+      "value": "{semantic.color.background.interactive.input.selected}",
       "type": "color"
     },
     "borderColor": {
-      "value": "{color.stroke.interactive.input.base}",
+      "value": "{semantic.color.stroke.interactive.input.base}",
       "type": "color"
     },
     "borderHoverColor": {
-      "value": "{color.stroke.interactive.input.hover}",
+      "value": "{semantic.color.stroke.interactive.input.hover}",
       "type": "color"
     },
     "borderReadonlyColor": {
-      "value": "{color.stroke.interactive.input.readonly}",
+      "value": "{semantic.color.stroke.interactive.input.readonly}",
       "type": "color"
     },
     "borderDisabledColor": {
-      "value": "{color.stroke.interactive.input.disabled}",
+      "value": "{semantic.color.stroke.interactive.input.disabled}",
       "type": "color"
     },
     "errorBorderColor": {
-      "value": "{color.stroke.interactive.action.destructive.secondary.base}",
+      "value": "{semantic.color.stroke.interactive.action.destructive.secondary.base}",
       "type": "color"
     },
     "errorBorderHoverColor": {
-      "value": "{color.stroke.interactive.action.destructive.secondary.hover}",
+      "value": "{semantic.color.stroke.interactive.action.destructive.secondary.hover}",
       "type": "color"
     },
     "asteriskColor": {
-      "value": "{color.text.error}",
+      "value": "{semantic.color.text.error}",
       "type": "color"
     },
     "borderCheckedColor": {
-      "value": "{color.stroke.interactive.input.selected}",
+      "value": "{semantic.color.stroke.interactive.input.selected}",
       "type": "color"
     },
     "fontSizeSm": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "fontSizeMd": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "fontSizeLg": {
-      "value": "{fontSize.textLg}",
+      "value": "{semantic.fontSize.textLg}",
       "type": "fontSizes"
     },
     "lineHeight": {
-      "value": "{lineHeight.standalone.base}",
+      "value": "{semantic.lineHeight.standalone.base}",
       "type": "lineHeights"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "gap": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "borderRadius": {
-      "value": "{borderRadius.sm}",
+      "value": "{semantic.borderRadius.sm}",
       "type": "borderRadius"
     },
     "controlSizeSm": {
-      "value": "{size.choiceControl.height.sm}",
+      "value": "{semantic.size.choiceControl.height.sm}",
       "type": "sizing"
     },
     "controlSizeMd": {
-      "value": "{size.choiceControl.height.md}",
+      "value": "{semantic.size.choiceControl.height.md}",
       "type": "sizing"
     },
     "controlSizeLg": {
-      "value": "{size.choiceControl.height.lg}",
+      "value": "{semantic.size.choiceControl.height.lg}",
       "type": "sizing"
     },
     "borderWidth": {
-      "value": "{borderWidth.interactive.base}",
+      "value": "{semantic.borderWidth.interactive.base}",
       "type": "borderWidth"
     },
     "labelBaseColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "labelHoverColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "labelDisabledColor": {
-      "value": "{color.text.interactive.disabled.base}",
+      "value": "{semantic.color.text.interactive.disabled.base}",
       "type": "color"
     },
     "labelReadonlyColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "controlVerticalMargin": {

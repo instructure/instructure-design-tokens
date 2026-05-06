@@ -1,35 +1,35 @@
 {
   "link": {
     "textColor": {
-      "value": "{color.institutional.linkColor}",
+      "value": "{semantic.color.institutional.linkColor}",
       "type": "color"
     },
     "textHoverColor": {
-      "value": "{color.text.interactive.navigation.primary.hover}",
+      "value": "{semantic.color.text.interactive.navigation.primary.hover}",
       "type": "color"
     },
     "textDisabledColor": {
-      "value": "{color.text.interactive.disabled.base}",
+      "value": "{semantic.color.text.interactive.disabled.base}",
       "type": "color"
     },
     "onColorTextColor": {
-      "value": "{color.text.interactive.navigation.primaryOnColor.base}",
+      "value": "{semantic.color.text.interactive.navigation.primaryOnColor.base}",
       "type": "color"
     },
     "onColorTextHoverColor": {
-      "value": "{color.text.interactive.navigation.primaryOnColor.hover}",
+      "value": "{semantic.color.text.interactive.navigation.primaryOnColor.hover}",
       "type": "color"
     },
     "onColorTextDisabledColor": {
-      "value": "{color.text.interactive.disabled.onColor}",
+      "value": "{semantic.color.text.interactive.disabled.onColor}",
       "type": "color"
     },
     "fontSizeSm": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "fontSizeMd": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "fontSizeLg": {
@@ -37,27 +37,27 @@
       "type": "fontSizes"
     },
     "fontWeight": {
-      "value": "{fontWeight.interactive}",
+      "value": "{semantic.fontWeight.interactive}",
       "type": "fontWeights"
     },
     "gapSm": {
-      "value": "{spacing.space2xs}",
+      "value": "{semantic.spacing.space2xs}",
       "type": "spacing"
     },
     "gapMd": {
-      "value": "{spacing.spaceXs}",
+      "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
     },
     "gapLg": {
-      "value": "{spacing.spaceXs}",
+      "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
     },
     "lineHeightSm": {
-      "value": "{lineHeight.standalone.textSm}",
+      "value": "{semantic.lineHeight.standalone.textSm}",
       "type": "lineHeights"
     },
     "lineHeightMd": {
-      "value": "{lineHeight.standalone.textBase}",
+      "value": "{semantic.lineHeight.standalone.textBase}",
       "type": "lineHeights"
     },
     "lineHeightLg": {
@@ -65,16 +65,16 @@
       "type": "lineHeights"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "inlineLink": {
       "small": {
         "value": {
           "fontFamily": "{fontFamily.base}",
-          "fontWeight": "{fontWeight.body.base}",
-          "fontSize": "{fontSize.textSm}",
-          "lineHeight": "{lineHeight.paragraph.textSm}",
+          "fontWeight": "{semantic.fontWeight.body.base}",
+          "fontSize": "{semantic.fontSize.textSm}",
+          "lineHeight": "{semantic.lineHeight.paragraph.textSm}",
           "textDecoration": "underline"
         },
         "type": "typography"
@@ -82,9 +82,9 @@
       "medium": {
         "value": {
           "fontFamily": "{fontFamily.base}",
-          "fontWeight": "{fontWeight.body.base}",
-          "fontSize": "{fontSize.textBase}",
-          "lineHeight": "{lineHeight.paragraph.textBase}",
+          "fontWeight": "{semantic.fontWeight.body.base}",
+          "fontSize": "{semantic.fontSize.textBase}",
+          "lineHeight": "{semantic.lineHeight.paragraph.textBase}",
           "textDecoration": "underline"
         },
         "type": "typography"
@@ -92,7 +92,7 @@
       "large": {
         "value": {
           "fontFamily": "{fontFamily.base}",
-          "fontWeight": "{fontWeight.body.base}",
+          "fontWeight": "{semantic.fontWeight.body.base}",
           "fontSize": "22px",
           "lineHeight": "33px",
           "textDecoration": "underline"
@@ -109,7 +109,7 @@
       "type": "textDecoration"
     },
     "unstyledTextColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     }
   }

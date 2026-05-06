@@ -1,15 +1,15 @@
 {
   "sideNavBar": {
     "backgroundColor": {
-      "value": "{color.institutional.brandGlobalNavBgd}",
+      "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
     },
     "fill": {
-      "value": "{color.icon.onColor}",
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "fontColor": {
-      "value": "{color.institutional.brandGlobalNavMenuItemTextColor}",
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
       "type": "color"
     },
     "minimizedWidth": {
@@ -89,27 +89,27 @@
       "type": "spacing"
     },
     "fontColor": {
-      "value": "{color.institutional.brandGlobalNavMenuItemTextColor}",
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
       "type": "color"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontSize": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "hoverBackgroundColor": {
-      "value": "{color.institutional.globalNavLinkHover}",
+      "value": "{semantic.color.institutional.globalNavLinkHover}",
       "type": "color"
     },
     "lineHeight": {
-      "value": "{lineHeight.paragraph.base}",
+      "value": "{semantic.lineHeight.paragraph.base}",
       "type": "lineHeights"
     },
     "linkTextDecoration": {
@@ -117,27 +117,27 @@
       "type": "other"
     },
     "selectedBackgroundColor": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "selectedFontColor": {
-      "value": "{color.institutional.brandGlobalNavMenuItemTextColorActive}",
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
       "type": "color"
     },
     "innerFocusOutlineColor": {
-      "value": "{color.stroke.interactive.focusRing.onColor}",
+      "value": "{semantic.color.stroke.interactive.focusRing.onColor}",
       "type": "color"
     },
     "selectedInnerFocusOutlineColor": {
-      "value": "{color.stroke.interactive.focusRing.base}",
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
       "type": "color"
     },
     "outerFocusOutlineColor": {
-      "value": "{color.stroke.base}",
+      "value": "{semantic.color.stroke.base}",
       "type": "color"
     },
     "selectedOuterFocusOutlineColor": {
-      "value": "{color.stroke.interactive.focusRing.onColor}",
+      "value": "{semantic.color.stroke.interactive.focusRing.onColor}",
       "type": "color"
     }
   }

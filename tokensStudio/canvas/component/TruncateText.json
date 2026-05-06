@@ -1,11 +1,11 @@
 {
   "truncateText": {
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "lineHeight": {
-      "value": "{lineHeight.paragraph.base}",
+      "value": "{semantic.lineHeight.paragraph.base}",
       "type": "lineHeights"
     }
   }

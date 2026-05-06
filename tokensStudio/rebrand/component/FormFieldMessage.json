@@ -1,31 +1,31 @@
 {
   "formFieldMessage": {
     "hintTextColor": {
-      "value": "{color.text.muted}",
+      "value": "{semantic.color.text.muted}",
       "type": "color"
     },
     "errorTextColor": {
-      "value": "{color.text.error}",
+      "value": "{semantic.color.text.error}",
       "type": "color"
     },
     "successTextColor": {
-      "value": "{color.text.success}",
+      "value": "{semantic.color.text.success}",
       "type": "color"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "fontSize": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "lineHeight": {
-      "value": "{lineHeight.paragraph.textSm}",
+      "value": "{semantic.lineHeight.paragraph.textSm}",
       "type": "lineHeights"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     }
   }

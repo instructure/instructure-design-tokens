@@ -1,29 +1,29 @@
 {
   "grid": {
     "mediumMin": {
-      "value": "{size.media.mediumMin}",
+      "value": "{semantic.size.media.mediumMin}",
       "type": "sizing"
     },
     "largeMin": {
-      "value": "{size.media.largeMin}",
+      "value": "{semantic.size.media.largeMin}",
       "type": "sizing"
     },
     "xLargeMin": {
-      "value": "{size.media.xLargeMin}",
+      "value": "{semantic.size.media.xLargeMin}",
       "type": "sizing"
     }
   },
   "gridCol": {
     "mediumMin": {
-      "value": "{size.media.mediumMin}",
+      "value": "{semantic.size.media.mediumMin}",
       "type": "sizing"
     },
     "largeMin": {
-      "value": "{size.media.largeMin}",
+      "value": "{semantic.size.media.largeMin}",
       "type": "sizing"
     },
     "xLargeMin": {
-      "value": "{size.media.xLargeMin}",
+      "value": "{semantic.size.media.xLargeMin}",
       "type": "sizing"
     },
     "spacingLarge": {
@@ -31,25 +31,25 @@
       "type": "spacing"
     },
     "spacingMedium": {
-      "value": "{spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     },
     "spacingSmall": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     }
   },
   "gridRow": {
     "mediumMin": {
-      "value": "{size.media.mediumMin}",
+      "value": "{semantic.size.media.mediumMin}",
       "type": "sizing"
     },
     "largeMin": {
-      "value": "{size.media.largeMin}",
+      "value": "{semantic.size.media.largeMin}",
       "type": "sizing"
     },
     "xLargeMin": {
-      "value": "{size.media.xLargeMin}",
+      "value": "{semantic.size.media.xLargeMin}",
       "type": "sizing"
     },
     "spacingLarge": {
@@ -57,11 +57,11 @@
       "type": "spacing"
     },
     "spacingMedium": {
-      "value": "{spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     },
     "spacingSmall": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     }
   }

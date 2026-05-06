@@ -1,183 +1,183 @@
 {
   "toggle": {
     "backgroundColor": {
-      "value": "{color.background.interactive.input.base}",
+      "value": "{semantic.color.background.interactive.input.base}",
       "type": "color"
     },
     "backgroundHoverColor": {
-      "value": "{color.background.interactive.input.hover}",
+      "value": "{semantic.color.background.interactive.input.hover}",
       "type": "color"
     },
     "backgroundDisabledColor": {
-      "value": "{color.background.interactive.input.disabled}",
+      "value": "{semantic.color.background.interactive.input.disabled}",
       "type": "color"
     },
     "backgroundReadonlyColor": {
-      "value": "{color.background.interactive.input.readonly}",
+      "value": "{semantic.color.background.interactive.input.readonly}",
       "type": "color"
     },
     "errorBackgroundColor": {
-      "value": "{color.background.interactive.input.base}",
+      "value": "{semantic.color.background.interactive.input.base}",
       "type": "color"
     },
     "errorBackgroundHoverColor": {
-      "value": "{color.background.interactive.action.destructive.secondary.hover}",
+      "value": "{semantic.color.background.interactive.action.destructive.secondary.hover}",
       "type": "color"
     },
     "borderColor": {
-      "value": "{color.stroke.interactive.input.base}",
+      "value": "{semantic.color.stroke.interactive.input.base}",
       "type": "color"
     },
     "borderHoverColor": {
-      "value": "{color.stroke.interactive.input.hover}",
+      "value": "{semantic.color.stroke.interactive.input.hover}",
       "type": "color"
     },
     "borderDisabledColor": {
-      "value": "{color.stroke.interactive.input.disabled}",
+      "value": "{semantic.color.stroke.interactive.input.disabled}",
       "type": "color"
     },
     "borderReadonlyColor": {
-      "value": "{color.stroke.interactive.input.readonly}",
+      "value": "{semantic.color.stroke.interactive.input.readonly}",
       "type": "color"
     },
     "borderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "borderRadius": {
-      "value": "{borderRadius.full}",
+      "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     },
     "errorBorderColor": {
-      "value": "{color.stroke.interactive.action.destructive.secondary.base}",
+      "value": "{semantic.color.stroke.interactive.action.destructive.secondary.base}",
       "type": "color"
     },
     "checkedBorderColor": {
-      "value": "{color.stroke.interactive.action.success.base}",
+      "value": "{semantic.color.stroke.interactive.action.success.base}",
       "type": "color"
     },
     "checkedBorderHoverColor": {
-      "value": "{color.stroke.interactive.action.success.hover}",
+      "value": "{semantic.color.stroke.interactive.action.success.hover}",
       "type": "color"
     },
     "checkedBorderDisabledColor": {
-      "value": "{color.stroke.interactive.action.success.disabled}",
+      "value": "{semantic.color.stroke.interactive.action.success.disabled}",
       "type": "color"
     },
     "checkedBorderReadonlyColor": {
-      "value": "{color.stroke.interactive.input.readonly}",
+      "value": "{semantic.color.stroke.interactive.input.readonly}",
       "type": "color"
     },
     "checkedBackgroundColor": {
-      "value": "{color.background.interactive.action.success.base}",
+      "value": "{semantic.color.background.interactive.action.success.base}",
       "type": "color"
     },
     "checkedBackgroundHoverColor": {
-      "value": "{color.background.interactive.action.success.hover}",
+      "value": "{semantic.color.background.interactive.action.success.hover}",
       "type": "color"
     },
     "checkedBackgroundDisabledColor": {
-      "value": "{color.background.interactive.action.success.disabled}",
+      "value": "{semantic.color.background.interactive.action.success.disabled}",
       "type": "color"
     },
     "checkedBackgroundReadonlyColor": {
-      "value": "{color.background.interactive.input.readonly}",
+      "value": "{semantic.color.background.interactive.input.readonly}",
       "type": "color"
     },
     "labelColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "labelDisabledColor": {
-      "value": "{color.text.interactive.disabled.base}",
+      "value": "{semantic.color.text.interactive.disabled.base}",
       "type": "color"
     },
     "uncheckedIconBorderColor": {
-      "value": "{color.stroke.interactive.input.base}",
+      "value": "{semantic.color.stroke.interactive.input.base}",
       "type": "color"
     },
     "uncheckedIconErrorBorderColor": {
-      "value": "{color.stroke.interactive.action.destructive.secondary.base}",
+      "value": "{semantic.color.stroke.interactive.action.destructive.secondary.base}",
       "type": "color"
     },
     "uncheckedIconBorderHoverColor": {
-      "value": "{color.stroke.interactive.input.hover}",
+      "value": "{semantic.color.stroke.interactive.input.hover}",
       "type": "color"
     },
     "uncheckedIconBorderDisabledColor": {
-      "value": "{color.stroke.interactive.input.disabled}",
+      "value": "{semantic.color.stroke.interactive.input.disabled}",
       "type": "color"
     },
     "uncheckedIconBorderReadonlyColor": {
-      "value": "{color.stroke.interactive.input.readonly}",
+      "value": "{semantic.color.stroke.interactive.input.readonly}",
       "type": "color"
     },
     "checkedIconBorderColor": {
-      "value": "{color.stroke.interactive.action.success.base}",
+      "value": "{semantic.color.stroke.interactive.action.success.base}",
       "type": "color"
     },
     "checkedIconBorderHoverColor": {
-      "value": "{color.stroke.interactive.action.success.hover}",
+      "value": "{semantic.color.stroke.interactive.action.success.hover}",
       "type": "color"
     },
     "checkedIconBorderDisabledColor": {
-      "value": "{color.stroke.interactive.action.success.disabled}",
+      "value": "{semantic.color.stroke.interactive.action.success.disabled}",
       "type": "color"
     },
     "marginStart": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "marginEnd": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "marginVertical": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "toggleSize": {
-      "value": "{size.choiceControl.height.md}",
+      "value": "{semantic.size.choiceControl.height.md}",
       "type": "sizing"
     },
     "labelFontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "labelFontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "labelLineHeightSm": {
-      "value": "{lineHeight.paragraph.textSm}",
+      "value": "{semantic.lineHeight.paragraph.textSm}",
       "type": "lineHeights"
     },
     "labelLineHeightMd": {
-      "value": "{lineHeight.paragraph.textBase}",
+      "value": "{semantic.lineHeight.paragraph.textBase}",
       "type": "lineHeights"
     },
     "labelLineHeightLg": {
-      "value": "{lineHeight.paragraph.textBase}",
+      "value": "{semantic.lineHeight.paragraph.textBase}",
       "type": "lineHeights"
     },
     "labelFontSizeMd": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "labelFontSizeLg": {
-      "value": "{fontSize.textLg}",
+      "value": "{semantic.fontSize.textLg}",
       "type": "fontSizes"
     },
     "labelFontSizeSm": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "checkedIconBorderReadonlyColor": {
-      "value": "{color.stroke.interactive.input.readonly}",
+      "value": "{semantic.color.stroke.interactive.input.readonly}",
       "type": "color"
     },
     "toggleBackground": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "toggleWidth": {
@@ -188,18 +188,18 @@
       "value": [
         {
           "x": "{dropShadow.x.elevation1.dropshadow1}",
-          "y": "{dropShadow.y.elevation1.dropshadow1}",
-          "blur": "{dropShadow.blur.elevation1.dropshadow1}",
-          "spread": "{dropShadow.spread.elevation1.dropshadow1}",
-          "color": "{color.dropShadow.shadowColor1}",
+          "y": "{semantic.dropShadow.y.elevation1.dropshadow1}",
+          "blur": "{semantic.dropShadow.blur.elevation1.dropshadow1}",
+          "spread": "{semantic.dropShadow.spread.elevation1.dropshadow1}",
+          "color": "{semantic.color.dropShadow.shadowColor1}",
           "type": "dropShadow"
         },
         {
           "x": "{dropShadow.x.elevation1.dropshadow2}",
-          "y": "{dropShadow.y.elevation1.dropshadow2}",
-          "blur": "{dropShadow.blur.elevation1.dropshadow2}",
-          "spread": "{dropShadow.spread.elevation1.dropshadow2}",
-          "color": "{color.dropShadow.shadowColor2}",
+          "y": "{semantic.dropShadow.y.elevation1.dropshadow2}",
+          "blur": "{semantic.dropShadow.blur.elevation1.dropshadow2}",
+          "spread": "{semantic.dropShadow.spread.elevation1.dropshadow2}",
+          "color": "{semantic.color.dropShadow.shadowColor2}",
           "type": "dropShadow"
         }
       ],
@@ -207,7 +207,7 @@
       "description": "Do not use this for other components"
     },
     "disabledOpacity": {
-      "value": "{opacity.base}",
+      "value": "{semantic.opacity.base}",
       "type": "opacity"
     }
   }

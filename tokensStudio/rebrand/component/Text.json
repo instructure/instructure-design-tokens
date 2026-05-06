@@ -3,9 +3,9 @@
     "descriptionPage": {
       "value": {
         "fontFamily": "{fontFamily.base}",
-        "fontWeight": "{fontWeight.body.base}",
-        "fontSize": "{fontSize.textLg}",
-        "lineHeight": "{lineHeight.paragraph.base}"
+        "fontWeight": "{semantic.fontWeight.body.base}",
+        "fontSize": "{semantic.fontSize.textLg}",
+        "lineHeight": "{semantic.lineHeight.paragraph.base}"
       },
       "type": "typography",
       "description": "Used for introductory or overview text that explains the purpose or context of an entire page."
@@ -13,9 +13,9 @@
     "descriptionSection": {
       "value": {
         "fontFamily": "{fontFamily.base}",
-        "fontWeight": "{fontWeight.body.base}",
-        "fontSize": "{fontSize.textBase}",
-        "lineHeight": "{lineHeight.paragraph.base}"
+        "fontWeight": "{semantic.fontWeight.body.base}",
+        "fontSize": "{semantic.fontSize.textBase}",
+        "lineHeight": "{semantic.lineHeight.paragraph.base}"
       },
       "type": "typography",
       "description": "Used for text that introduces or summarizes a specific section within a page."
@@ -23,9 +23,9 @@
     "content": {
       "value": {
         "fontFamily": "{fontFamily.base}",
-        "fontWeight": "{fontWeight.body.base}",
-        "fontSize": "{fontSize.textBase}",
-        "lineHeight": "{lineHeight.paragraph.base}"
+        "fontWeight": "{semantic.fontWeight.body.base}",
+        "fontSize": "{semantic.fontSize.textBase}",
+        "lineHeight": "{semantic.lineHeight.paragraph.base}"
       },
       "type": "typography",
       "description": "Used for standard descriptive body text that provides detailed information."
@@ -33,9 +33,9 @@
     "contentImportant": {
       "value": {
         "fontFamily": "{fontFamily.base}",
-        "fontWeight": "{fontWeight.body.strong}",
-        "fontSize": "{fontSize.textBase}",
-        "lineHeight": "{lineHeight.paragraph.base}"
+        "fontWeight": "{semantic.fontWeight.body.strong}",
+        "fontSize": "{semantic.fontSize.textBase}",
+        "lineHeight": "{semantic.lineHeight.paragraph.base}"
       },
       "type": "typography",
       "description": "Used to highlight key statements or essential information within descriptive text."
@@ -44,8 +44,8 @@
       "value": {
         "fontFamily": "{fontFamily.base}",
         "fontWeight": "Medium Italic",
-        "fontSize": "{fontSize.textBase}",
-        "lineHeight": "{lineHeight.paragraph.base}"
+        "fontSize": "{semantic.fontSize.textBase}",
+        "lineHeight": "{semantic.lineHeight.paragraph.base}"
       },
       "type": "typography",
       "description": "Used to style quoted or referenced text distinct from the main content."
@@ -53,9 +53,9 @@
     "contentSmall": {
       "value": {
         "fontFamily": "{fontFamily.base}",
-        "fontWeight": "{fontWeight.body.base}",
-        "fontSize": "{fontSize.textSm}",
-        "lineHeight": "{lineHeight.paragraph.base}"
+        "fontWeight": "{semantic.fontWeight.body.base}",
+        "fontSize": "{semantic.fontSize.textSm}",
+        "lineHeight": "{semantic.lineHeight.paragraph.base}"
       },
       "type": "typography",
       "description": "Used for fine-print or secondary descriptions such as notes or disclaimers."
@@ -63,31 +63,31 @@
     "legend": {
       "value": {
         "fontFamily": "{fontFamily.base}",
-        "fontWeight": "{fontWeight.body.base}",
-        "fontSize": "{fontSize.textXs}",
-        "lineHeight": "{lineHeight.paragraph.base}"
+        "fontWeight": "{semantic.fontWeight.body.base}",
+        "fontSize": "{semantic.fontSize.textXs}",
+        "lineHeight": "{semantic.lineHeight.paragraph.base}"
       },
       "type": "typography",
       "description": "Used for short explanatory text accompanying data visualizations, icons, or UI elements."
     },
     "fontSizeXSmall": {
-      "value": "{fontSize.textXs}",
+      "value": "{semantic.fontSize.textXs}",
       "type": "fontSizes"
     },
     "fontSizeSmall": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "fontSizeMedium": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "fontSizeLarge": {
-      "value": "{fontSize.textXl}",
+      "value": "{semantic.fontSize.textXl}",
       "type": "fontSizes"
     },
     "fontSizeXLarge": {
-      "value": "{fontSize.text2xl}",
+      "value": "{semantic.fontSize.text2xl}",
       "type": "fontSizes"
     },
     "fontSizeXXLarge": {
@@ -99,19 +99,19 @@
       "type": "fontWeights"
     },
     "fontWeightNormal": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "fontWeightBold": {
-      "value": "{fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     },
     "fontWeightImportant": {
-      "value": "{fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     },
     "fontWeightRegular": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "lineHeight": {
@@ -159,55 +159,55 @@
       "type": "letterSpacing"
     },
     "aiBackgroundColor": {
-      "value": "{color.background.aiText}",
+      "value": "{semantic.color.background.aiText}",
       "type": "color"
     },
     "aiColor": {
-      "value": "{color.text.aiColor}",
+      "value": "{semantic.color.text.aiColor}",
       "type": "color"
     },
     "primaryColor": {
-      "value": "{color.text.interactive.navigation.primary.base}",
+      "value": "{semantic.color.text.interactive.navigation.primary.base}",
       "type": "color"
     },
     "errorColor": {
-      "value": "{color.text.error}",
+      "value": "{semantic.color.text.error}",
       "type": "color"
     },
     "baseColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "baseOnColor": {
-      "value": "{color.text.onColor}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "inverseColor": {
-      "value": "{color.text.inverse}",
+      "value": "{semantic.color.text.inverse}",
       "type": "color"
     },
     "mutedColor": {
-      "value": "{color.text.muted}",
+      "value": "{semantic.color.text.muted}",
       "type": "color"
     },
     "mutedOnColor": {
-      "value": "{color.text.onColor}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "successColor": {
-      "value": "{color.text.success}",
+      "value": "{semantic.color.text.success}",
       "type": "color"
     },
     "warningColor": {
-      "value": "{color.text.warning}",
+      "value": "{semantic.color.text.warning}",
       "type": "color"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontFamilyMonospace": {
-      "value": "{fontFamily.code}",
+      "value": "{semantic.fontFamily.code}",
       "type": "fontFamilies"
     }
   }

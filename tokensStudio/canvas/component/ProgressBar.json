@@ -5,35 +5,35 @@
       "type": "borderRadius"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "xSmallValueFontSize": {
-      "value": "{fontSize.textXs}",
+      "value": "{semantic.fontSize.textXs}",
       "type": "fontSizes"
     },
     "smallValueFontSize": {
-      "value": "{fontSize.textXs}",
+      "value": "{semantic.fontSize.textXs}",
       "type": "fontSizes"
     },
     "mediumValueFontSize": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "largeValueFontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "lineHeight": {
-      "value": "{lineHeight.heading.base}",
+      "value": "{semantic.lineHeight.heading.base}",
       "type": "lineHeights"
     },
     "xSmallHeight": {
@@ -49,51 +49,51 @@
       "type": "sizing"
     },
     "meterColorAlert": {
-      "value": "{color.background.info}",
+      "value": "{semantic.color.background.info}",
       "type": "color"
     },
     "meterColorAlertInverse": {
-      "value": "{color.background.info}",
+      "value": "{semantic.color.background.info}",
       "type": "color"
     },
     "meterColorBrand": {
-      "value": "{color.background.brand}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "meterColorBrandInverse": {
-      "value": "{color.background.brand}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "meterColorDanger": {
-      "value": "{color.background.error}",
+      "value": "{semantic.color.background.error}",
       "type": "color"
     },
     "meterColorDangerInverse": {
-      "value": "{color.background.error}",
+      "value": "{semantic.color.background.error}",
       "type": "color"
     },
     "meterColorInfo": {
-      "value": "{color.background.info}",
+      "value": "{semantic.color.background.info}",
       "type": "color"
     },
     "meterColorInfoInverse": {
-      "value": "{color.background.info}",
+      "value": "{semantic.color.background.info}",
       "type": "color"
     },
     "meterColorSuccess": {
-      "value": "{color.background.success}",
+      "value": "{semantic.color.background.success}",
       "type": "color"
     },
     "meterColorSuccessInverse": {
-      "value": "{color.background.success}",
+      "value": "{semantic.color.background.success}",
       "type": "color"
     },
     "meterColorWarning": {
-      "value": "{color.background.warning}",
+      "value": "{semantic.color.background.warning}",
       "type": "color"
     },
     "meterColorWarningInverse": {
-      "value": "{color.background.warning}",
+      "value": "{semantic.color.background.warning}",
       "type": "color"
     },
     "largeHeight": {
@@ -101,27 +101,27 @@
       "type": "sizing"
     },
     "trackBottomBorderColor": {
-      "value": "{color.stroke.strong}",
+      "value": "{semantic.color.stroke.strong}",
       "type": "color"
     },
     "trackBottomBorderColorInverse": {
-      "value": "{color.stroke.onColor}",
+      "value": "{semantic.color.stroke.onColor}",
       "type": "color"
     },
     "trackBottomBorderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "trackColor": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "trackColorInverse": {
-      "value": "{color.transparentColor}",
+      "value": "{semantic.color.transparentColor}",
       "type": "color"
     },
     "textColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "valuePadding": {
@@ -129,15 +129,15 @@
       "type": "spacing"
     },
     "textColorInverse": {
-      "value": "{color.text.onColor}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "borderColor": {
-      "value": "{color.transparentColor}",
+      "value": "{semantic.color.transparentColor}",
       "type": "color"
     },
     "borderColorInverse": {
-      "value": "{color.transparentColor}",
+      "value": "{semantic.color.transparentColor}",
       "type": "color"
     }
   }

@@ -1,39 +1,39 @@
 {
   "sourceCodeEditor": {
     "background": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "borderColor": {
-      "value": "{color.stroke.base}",
+      "value": "{semantic.color.stroke.base}",
       "type": "color"
     },
     "borderRadius": {
-      "value": "{borderRadius.md}",
+      "value": "{semantic.borderRadius.md}",
       "type": "borderRadius"
     },
     "borderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "color": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "fontFamily": {
-      "value": "{fontFamily.code}",
+      "value": "{semantic.fontFamily.code}",
       "type": "fontFamilies"
     },
     "fontSize": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "gutterBackground": {
-      "value": "{color.background.muted}",
+      "value": "{semantic.color.background.muted}",
       "type": "color"
     },
     "horizontalPadding": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "verticalPadding": {
@@ -45,63 +45,63 @@
       "type": "color"
     },
     "placeholderBackgroundColor": {
-      "value": "{color.text.accent.stone}",
+      "value": "{semantic.color.text.accent.stone}",
       "type": "color"
     },
     "tagKeywordColor": {
-      "value": "{color.text.accent.violet}",
+      "value": "{semantic.color.text.accent.violet}",
       "type": "color"
     },
     "tagLiteralColor": {
-      "value": "{color.text.accent.green}",
+      "value": "{semantic.color.text.accent.green}",
       "type": "color"
     },
     "tagStringColor": {
-      "value": "{color.text.accent.red}",
+      "value": "{semantic.color.text.accent.red}",
       "type": "color"
     },
     "tagDefinitionVariableNameColor": {
-      "value": "{color.text.accent.blue}",
+      "value": "{semantic.color.text.accent.blue}",
       "type": "color"
     },
     "tagLocalVariableNameColor": {
-      "value": "{color.text.accent.sky}",
+      "value": "{semantic.color.text.accent.sky}",
       "type": "color"
     },
     "tagClassNameColor": {
-      "value": "{color.text.accent.sea}",
+      "value": "{semantic.color.text.accent.sea}",
       "type": "color"
     },
     "tagSpecialVariableNameColor": {
-      "value": "{color.text.accent.sea}",
+      "value": "{semantic.color.text.accent.sea}",
       "type": "color"
     },
     "tagDefinitionPropertyNameColor": {
-      "value": "{color.text.accent.blue}",
+      "value": "{semantic.color.text.accent.blue}",
       "type": "color"
     },
     "tagCommentColor": {
-      "value": "{color.text.accent.orange}",
+      "value": "{semantic.color.text.accent.orange}",
       "type": "color"
     },
     "tagMetaColor": {
-      "value": "{color.text.muted}",
+      "value": "{semantic.color.text.muted}",
       "type": "color"
     },
     "tagRegExpColor": {
-      "value": "{color.text.accent.orange}",
+      "value": "{semantic.color.text.accent.orange}",
       "type": "color"
     },
     "tagTypeNameColor": {
-      "value": "{color.text.accent.aurora}",
+      "value": "{semantic.color.text.accent.aurora}",
       "type": "color"
     },
     "tagInvalidColor": {
-      "value": "{color.text.error}",
+      "value": "{semantic.color.text.error}",
       "type": "color"
     },
     "tagAtomColor": {
-      "value": "{color.text.accent.blue}",
+      "value": "{semantic.color.text.accent.blue}",
       "type": "color"
     },
     "activeLineColor": {

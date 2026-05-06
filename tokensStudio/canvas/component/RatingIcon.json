@@ -1,15 +1,15 @@
 {
   "ratingIcon": {
     "iconMargin": {
-      "value": "{spacing.space2xs}",
+      "value": "{semantic.spacing.space2xs}",
       "type": "spacing"
     },
     "iconEmptyColor": {
-      "value": "{color.stroke.brand}",
+      "value": "{semantic.color.stroke.brand}",
       "type": "color"
     },
     "iconFilledColor": {
-      "value": "{color.background.brand}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "smallIconFontSize": {

@@ -1,7 +1,7 @@
 {
   "dataPermissionLevels": {
     "cardBorderRadius": {
-      "value": "{borderRadius.lg}",
+      "value": "{semantic.borderRadius.lg}",
       "type": "borderRadius"
     },
     "contentContainerBorderRadius": {
@@ -9,35 +9,35 @@
       "type": "borderRadius"
     },
     "cardBorderColor": {
-      "value": "{color.stroke.muted}",
+      "value": "{semantic.color.stroke.muted}",
       "type": "color"
     },
     "cardBorderWidth": {
-      "value": "{borderWidth.md}",
+      "value": "{semantic.borderWidth.md}",
       "type": "borderWidth"
     },
     "currentFeaturePaddingSides": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "currentFeaturePaddingTopBottom": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "permissionTitleBottomMargin": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "levelColor": {
-      "value": "{color.text.aiColor}",
+      "value": "{semantic.color.text.aiColor}",
       "type": "color"
     },
     "aiTextLeftGradientColor": {
-      "value": "{color.background.aiTopGradient}",
+      "value": "{semantic.color.background.aiTopGradient}",
       "type": "color"
     },
     "aiTextRightGradientColor": {
-      "value": "{color.background.aiBottomGradient}",
+      "value": "{semantic.color.background.aiBottomGradient}",
       "type": "color"
     },
     "bodyPadding": {
@@ -45,7 +45,7 @@
       "type": "spacing"
     },
     "contentContainerColor": {
-      "value": "{color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     }
   }

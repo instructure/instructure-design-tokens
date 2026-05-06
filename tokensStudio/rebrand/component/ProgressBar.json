@@ -1,23 +1,23 @@
 {
   "progressBar": {
     "borderRadius": {
-      "value": "{borderRadius.md}",
+      "value": "{semantic.borderRadius.md}",
       "type": "borderRadius"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "lineHeight": {
-      "value": "{lineHeight.heading.base}",
+      "value": "{semantic.lineHeight.heading.base}",
       "type": "lineHeights"
     },
     "xSmallHeight": {
@@ -33,51 +33,51 @@
       "type": "sizing"
     },
     "meterColorAlert": {
-      "value": "{color.background.brand}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "meterColorAlertInverse": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "meterColorBrand": {
-      "value": "{color.background.brand}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "meterColorBrandInverse": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "meterColorDanger": {
-      "value": "{color.background.brand}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "meterColorDangerInverse": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "meterColorInfo": {
-      "value": "{color.background.brand}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "meterColorInfoInverse": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "meterColorSuccess": {
-      "value": "{color.background.brand}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "meterColorSuccessInverse": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "meterColorWarning": {
-      "value": "{color.background.brand}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "meterColorWarningInverse": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "largeHeight": {
@@ -85,59 +85,59 @@
       "type": "sizing"
     },
     "trackBottomBorderColor": {
-      "value": "{color.transparentColor}",
+      "value": "{semantic.color.transparentColor}",
       "type": "color"
     },
     "trackBottomBorderColorInverse": {
-      "value": "{color.transparentColor}",
+      "value": "{semantic.color.transparentColor}",
       "type": "color"
     },
     "trackBottomBorderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "trackColor": {
-      "value": "{color.transparentColor}",
+      "value": "{semantic.color.transparentColor}",
       "type": "color"
     },
     "trackColorInverse": {
-      "value": "{color.transparentColor}",
+      "value": "{semantic.color.transparentColor}",
       "type": "color"
     },
     "valuePadding": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "textColor": {
-      "value": "{color.text.muted}",
+      "value": "{semantic.color.text.muted}",
       "type": "color"
     },
     "textColorInverse": {
-      "value": "{color.text.inverse}",
+      "value": "{semantic.color.text.inverse}",
       "type": "color"
     },
     "xSmallValueFontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "smallValueFontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "mediumValueFontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "largeValueFontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "borderColor": {
-      "value": "{color.stroke.brand}",
+      "value": "{semantic.color.stroke.brand}",
       "type": "color"
     },
     "borderColorInverse": {
-      "value": "{color.stroke.inverse}",
+      "value": "{semantic.color.stroke.inverse}",
       "type": "color"
     }
   }

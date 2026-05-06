@@ -1,19 +1,19 @@
 {
   "sideNavBarNew": {
     "backgroundColor": {
-      "value": "{color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "fill": {
-      "value": "{color.icon.interactive.action.primaryOnColor.base}",
+      "value": "{semantic.color.icon.interactive.action.primaryOnColor.base}",
       "type": "color"
     },
     "borderColor": {
-      "value": "{color.stroke.muted}",
+      "value": "{semantic.color.stroke.muted}",
       "type": "color"
     },
     "textColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "minimizedminWidth": {
@@ -29,7 +29,7 @@
       "type": "sizing"
     },
     "margin": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "minimizedMargin": {
@@ -45,11 +45,11 @@
       "type": "spacing"
     },
     "mainNavGap": {
-      "value": "{spacing.padding.container.xxs}",
+      "value": "{semantic.spacing.padding.container.xxs}",
       "type": "spacing"
     },
     "navItemsGap": {
-      "value": "{spacing.spaceXs}",
+      "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
     },
     "boxShadow": {
@@ -75,20 +75,20 @@
       "description": "Do not use this for other components"
     },
     "borderRadius": {
-      "value": "{borderRadius.container.md}",
+      "value": "{semantic.borderRadius.container.md}",
       "type": "borderRadius"
     },
     "minimizedBorderRadius": {
-      "value": "{borderRadius.container.sm}",
+      "value": "{semantic.borderRadius.container.sm}",
       "type": "borderRadius"
     },
     "borderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "item": {
       "horizontalPadding": {
-        "value": "{spacing.spaceSm}",
+        "value": "{semantic.spacing.spaceSm}",
         "type": "spacing"
       },
       "verticalPadding": {
@@ -100,7 +100,7 @@
         "type": "sizing"
       },
       "borderRadius": {
-        "value": "{borderRadius.lg}",
+        "value": "{semantic.borderRadius.lg}",
         "type": "borderRadius"
       },
       "backgroundColor": {
@@ -108,35 +108,35 @@
         "type": "color"
       },
       "fontColor": {
-        "value": "{color.text.base}",
+        "value": "{semantic.color.text.base}",
         "type": "color"
       },
       "fontFamily": {
-        "value": "{fontFamily.base}",
+        "value": "{semantic.fontFamily.base}",
         "type": "fontFamilies"
       },
       "fontSize": {
-        "value": "{fontSize.textBase}",
+        "value": "{semantic.fontSize.textBase}",
         "type": "fontSizes"
       },
       "fontWeight": {
-        "value": "{fontWeight.body.base}",
+        "value": "{semantic.fontWeight.body.base}",
         "type": "fontWeights"
       },
       "innerFocusOutlineColor": {
-        "value": "{color.stroke.interactive.focusRing.base}",
+        "value": "{semantic.color.stroke.interactive.focusRing.base}",
         "type": "color"
       },
       "outerFocusOutlineColor": {
-        "value": "{color.transparentColor}",
+        "value": "{semantic.color.transparentColor}",
         "type": "color"
       },
       "hoverBackgroundColor": {
-        "value": "{color.background.interactive.action.tertiary.hover}",
+        "value": "{semantic.color.background.interactive.action.tertiary.hover}",
         "type": "color"
       },
       "lineHeight": {
-        "value": "{lineHeight.paragraph.base}",
+        "value": "{semantic.lineHeight.paragraph.base}",
         "type": "lineHeights"
       },
       "linkTextDecoration": {
@@ -144,109 +144,109 @@
         "type": "other"
       },
       "currentBackgroundColor": {
-        "value": "{color.background.brand}",
+        "value": "{semantic.color.background.brand}",
         "type": "color"
       },
       "selectedBackgroundColor": {
-        "value": "{color.background.interactive.action.tertiary.active}",
+        "value": "{semantic.color.background.interactive.action.tertiary.active}",
         "type": "color"
       },
       "currentTextColor": {
-        "value": "{color.text.inverse}",
+        "value": "{semantic.color.text.inverse}",
         "type": "color"
       },
       "selectedAccountBackgroundColor": {
-        "value": "{color.background.interactive.action.tertiary.active}",
+        "value": "{semantic.color.background.interactive.action.tertiary.active}",
         "type": "color"
       },
       "selectedAccountFontColor": {
-        "value": "{color.text.base}",
+        "value": "{semantic.color.text.base}",
         "type": "color"
       },
       "selectedInnerFocusOutlineColor": {
-        "value": "{color.icon.inverse}",
+        "value": "{semantic.color.icon.inverse}",
         "type": "color"
       },
       "selectedOuterFocusOutlineColor": {
-        "value": "{color.transparentColor}",
+        "value": "{semantic.color.transparentColor}",
         "type": "color"
       }
     },
     "drilldownOption": {
       "backgroundColor": {
-        "value": "{color.transparentColor}",
+        "value": "{semantic.color.transparentColor}",
         "type": "color"
       },
       "hoverBackgroundColor": {
-        "value": "{color.background.interactive.action.tertiary.hover}",
+        "value": "{semantic.color.background.interactive.action.tertiary.hover}",
         "type": "color"
       },
       "activeBackgroundColor": {
-        "value": "{color.background.interactive.action.tertiary.active}",
+        "value": "{semantic.color.background.interactive.action.tertiary.active}",
         "type": "color"
       },
       "selectedBackgroundColor": {
-        "value": "{color.background.brand}",
+        "value": "{semantic.color.background.brand}",
         "type": "color"
       },
       "textColor": {
-        "value": "{color.text.base}",
+        "value": "{semantic.color.text.base}",
         "type": "color"
       },
       "selectedTextColor": {
-        "value": "{color.text.inverse}",
+        "value": "{semantic.color.text.inverse}",
         "type": "color"
       },
       "logoutTextColor": {
-        "value": "{color.text.error}",
+        "value": "{semantic.color.text.error}",
         "type": "color"
       },
       "borderRadius": {
-        "value": "{borderRadius.lg}",
+        "value": "{semantic.borderRadius.lg}",
         "type": "borderRadius"
       }
     },
     "button": {
       "textColor": {
-        "value": "{color.text.base}",
+        "value": "{semantic.color.text.base}",
         "type": "color"
       }
     },
     "subNav": {
       "strokeColor": {
-        "value": "{color.stroke.muted}",
+        "value": "{semantic.color.stroke.muted}",
         "type": "color"
       },
       "textColor": {
-        "value": "{color.text.base}",
+        "value": "{semantic.color.text.base}",
         "type": "color"
       },
       "padding": {
-        "value": "{spacing.spaceMd}",
+        "value": "{semantic.spacing.spaceMd}",
         "type": "spacing"
       },
       "gap": {
-        "value": "{spacing.spaceSm}",
+        "value": "{semantic.spacing.spaceSm}",
         "type": "spacing"
       }
     },
     "institutionLogo": {
       "textColor": {
-        "value": "{color.text.base}",
+        "value": "{semantic.color.text.base}",
         "type": "color"
       },
       "strokeColor": {
-        "value": "{color.stroke.muted}",
+        "value": "{semantic.color.stroke.muted}",
         "type": "color"
       }
     },
     "insitutionLogo": {
       "padding": {
-        "value": "{spacing.spaceSm}",
+        "value": "{semantic.spacing.spaceSm}",
         "type": "spacing"
       },
       "gap": {
-        "value": "{spacing.spaceMd}",
+        "value": "{semantic.spacing.spaceMd}",
         "type": "spacing"
       }
     }
