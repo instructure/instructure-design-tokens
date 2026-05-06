@@ -11,11 +11,11 @@
           "type": "sizing"
         },
         "sm": {
-          "value": "{size.size28}",
+          "value": "{size.size32}",
           "type": "sizing"
         },
         "md": {
-          "value": "2.375rem",
+          "value": "{size.size40}",
           "type": "sizing"
         },
         "lg": {
@@ -27,15 +27,15 @@
     "choiceControl": {
       "height": {
         "sm": {
-          "value": "{size.size16}",
+          "value": "{size.size24}",
           "type": "sizing"
         },
         "md": {
-          "value": "{size.size20}",
+          "value": "{size.size24}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{size.size28}",
+          "value": "{size.size24}",
           "type": "sizing"
         }
       }
@@ -122,7 +122,7 @@
       },
       "cards": {
         "sm": {
-          "value": "{size.size12}",
+          "value": "{size.size16}",
           "type": "spacing"
         },
         "md": {
@@ -130,7 +130,7 @@
           "type": "spacing"
         },
         "lg": {
-          "value": "{size.size24}",
+          "value": "{size.size32}",
           "type": "spacing"
         }
       },
@@ -145,7 +145,7 @@
         }
       },
       "inputElements": {
-        "value": "{size.size12}",
+        "value": "{size.size8}",
         "type": "spacing"
       }
     },
@@ -196,7 +196,7 @@
   },
   "borderRadius": {
     "xs": {
-      "value": "{size.size4}",
+      "value": "{size.size2}",
       "type": "borderRadius"
     },
     "sm": {
@@ -204,19 +204,19 @@
       "type": "borderRadius"
     },
     "md": {
-      "value": "{size.size4}",
+      "value": "{size.size8}",
       "type": "borderRadius"
     },
     "lg": {
-      "value": "{size.size4}",
+      "value": "{size.size12}",
       "type": "borderRadius"
     },
     "xl": {
-      "value": "{size.size4}",
+      "value": "{size.size16}",
       "type": "borderRadius"
     },
     "xxl": {
-      "value": "{size.size4}",
+      "value": "{size.size24}",
       "type": "borderRadius"
     },
     "full": {
@@ -225,25 +225,25 @@
     },
     "container": {
       "sm": {
-        "value": "{size.size4}",
+        "value": "{size.size8}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "{size.size4}",
+        "value": "{size.size16}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "{size.size4}",
+        "value": "{size.size24}",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "{size.size4}",
+        "value": "{size.size32}",
         "type": "borderRadius"
       }
     },
     "interactive": {
       "base": {
-        "value": "{size.size4}",
+        "value": "{size.size12}",
         "type": "borderRadius"
       }
     }
@@ -274,11 +274,11 @@
   },
   "fontFamily": {
     "heading": {
-      "value": "{fontFamily.lato}",
+      "value": "{fontFamily.inclusiveSans}",
       "type": "fontFamilies"
     },
     "base": {
-      "value": "{fontFamily.lato}",
+      "value": "{fontFamily.atkinson}",
       "type": "fontFamilies"
     },
     "code": {
@@ -293,13 +293,13 @@
         "type": "fontWeights"
       },
       "strong": {
-        "value": "{fontWeight.bold}",
+        "value": "{fontWeight.semiBold}",
         "type": "fontWeights"
       }
     },
     "heading": {
       "base": {
-        "value": "{fontWeight.regular}",
+        "value": "{fontWeight.semiBold}",
         "type": "fontWeights"
       },
       "strong": {
@@ -308,7 +308,7 @@
       }
     },
     "interactive": {
-      "value": "{fontWeight.regular}",
+      "value": "{fontWeight.medium}",
       "type": "fontWeights"
     }
   },
@@ -416,7 +416,7 @@
       "type": "fontSizes"
     },
     "textLg": {
-      "value": "1.375rem",
+      "value": "{size.size20}",
       "type": "fontSizes"
     },
     "textXl": {
@@ -424,17 +424,9 @@
       "type": "fontSizes"
     },
     "text2xl": {
-      "value": "2.375rem",
+      "value": "{size.size40}",
       "type": "fontSizes"
     }
-  },
-  "visibleInCanvas": {
-    "value": "true",
-    "type": "boolean"
-  },
-  "visibleInRebrand": {
-    "value": "false",
-    "type": "boolean"
   },
   "opacity": {
     "base": {

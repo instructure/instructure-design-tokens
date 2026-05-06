@@ -13,7 +13,7 @@
   },
   "files": [
     "src/",
-    "tokenStudio/**/*.json"
+    "tokensStudio/**/*.json"
   ],
   "dependencies": {
     "glob": "^13.0.6"
