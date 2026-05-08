@@ -17,7 +17,7 @@
       "type": "fontFamilies"
     },
     "fontWeight": {
-      "value": "{semantic.fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "fontSize": {
