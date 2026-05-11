@@ -226,7 +226,7 @@
       "elevation1": {
         "value": [
           {
-            "x": "{dropShadow.x.elevation1.dropshadow1}",
+            "x": "{semantic.dropShadow.x.elevation1.dropshadow1}",
             "y": "{semantic.dropShadow.y.elevation1.dropshadow1}",
             "blur": "{semantic.dropShadow.blur.elevation1.dropshadow1}",
             "spread": "{semantic.dropShadow.spread.elevation1.dropshadow1}",
@@ -234,7 +234,7 @@
             "type": "dropShadow"
           },
           {
-            "x": "{dropShadow.x.elevation1.dropshadow2}",
+            "x": "{semantic.dropShadow.x.elevation1.dropshadow1}",
             "y": "{semantic.dropShadow.y.elevation1.dropshadow2}",
             "blur": "{semantic.dropShadow.blur.elevation1.dropshadow2}",
             "spread": "{semantic.dropShadow.spread.elevation1.dropshadow2}",
@@ -248,7 +248,7 @@
       "elevation2": {
         "value": [
           {
-            "x": "{dropShadow.x.elevation2.dropshadow1}",
+            "x": "{semantic.dropShadow.x.elevation2.dropshadow1}",
             "y": "{semantic.dropShadow.y.elevation2.dropshadow1}",
             "blur": "{semantic.dropShadow.blur.elevation2.dropshadow1}",
             "spread": "{semantic.dropShadow.spread.elevation2.dropshadow1}",
@@ -256,7 +256,7 @@
             "type": "dropShadow"
           },
           {
-            "x": "{dropShadow.x.elevation2.dropshadow2}",
+            "x": "{semantic.dropShadow.x.elevation2.dropshadow2}",
             "y": "{semantic.dropShadow.y.elevation2.dropshadow2}",
             "blur": "{semantic.dropShadow.blur.elevation2.dropshadow2}",
             "spread": "{semantic.dropShadow.spread.elevation2.dropshadow2}",
@@ -270,7 +270,7 @@
       "elevation3": {
         "value": [
           {
-            "x": "{dropShadow.x.elevation3.dropshadow1}",
+            "x": "{semantic.dropShadow.x.elevation3.dropshadow1}",
             "y": "{semantic.dropShadow.y.elevation3.dropshadow1}",
             "blur": "{semantic.dropShadow.blur.elevation3.dropshadow1}",
             "spread": "{semantic.dropShadow.spread.elevation3.dropshadow1}",
@@ -278,7 +278,7 @@
             "type": "dropShadow"
           },
           {
-            "x": "{dropShadow.x.elevation3.dropshadow2}",
+            "x": "{semantic.dropShadow.x.elevation3.dropshadow2}",
             "y": "{semantic.dropShadow.y.elevation3.dropshadow2}",
             "blur": "{semantic.dropShadow.blur.elevation3.dropshadow2}",
             "spread": "{semantic.dropShadow.spread.elevation3.dropshadow2}",
@@ -292,7 +292,7 @@
       "elevation4": {
         "value": [
           {
-            "x": "{dropShadow.x.elevation4.dropshadow1}",
+            "x": "{semantic.dropShadow.x.elevation4.dropshadow1}",
             "y": "{semantic.dropShadow.y.elevation4.dropshadow1}",
             "blur": "{semantic.dropShadow.blur.elevation4.dropshadow1}",
             "spread": "{semantic.dropShadow.spread.elevation4.dropshadow1}",
@@ -300,7 +300,7 @@
             "type": "dropShadow"
           },
           {
-            "x": "{dropShadow.x.elevation4.dropshadow2}",
+            "x": "{semantic.dropShadow.x.elevation4.dropshadow2}",
             "y": "{semantic.dropShadow.y.elevation4.dropshadow2}",
             "blur": "{semantic.dropShadow.blur.elevation4.dropshadow2}",
             "spread": "{semantic.dropShadow.spread.elevation4.dropshadow2}",
