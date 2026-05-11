@@ -127,7 +127,7 @@
             "type": "spacing"
           },
           "md": {
-            "value": "{size.size24}",
+            "value": "{size.size16}",
             "type": "spacing"
           },
           "lg": {

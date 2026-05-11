@@ -123,15 +123,15 @@
         },
         "cards": {
           "sm": {
-            "value": "{size.size16}",
+            "value": "{size.size12}",
             "type": "spacing"
           },
           "md": {
-            "value": "{size.size24}",
+            "value": "{size.size16}",
             "type": "spacing"
           },
           "lg": {
-            "value": "{size.size32}",
+            "value": "{size.size24}",
             "type": "spacing"
           }
         },
