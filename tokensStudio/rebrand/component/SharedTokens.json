@@ -39,7 +39,7 @@
           "type": "borderRadius"
         },
         "lg": {
-          "value": "{semantic.borderRadius.container.lg}",
+          "value": "{semantic.borderRadius.container.md}",
           "type": "borderRadius"
         },
         "nestedContainer": {
