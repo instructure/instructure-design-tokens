@@ -143,7 +143,7 @@
     "toggleShadow": {
       "value": [
         {
-          "x": "{dropShadow.x.elevation1.dropshadow1}",
+          "x": "{semantic.dropShadow.x.elevation1.dropshadow1}",
           "y": "{semantic.dropShadow.y.elevation1.dropshadow1}",
           "blur": "{semantic.dropShadow.blur.elevation1.dropshadow1}",
           "spread": "{semantic.dropShadow.spread.elevation1.dropshadow1}",
@@ -151,7 +151,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "{dropShadow.x.elevation1.dropshadow2}",
+          "x": "{semantic.dropShadow.x.elevation1.dropshadow2}",
           "y": "{semantic.dropShadow.y.elevation1.dropshadow2}",
           "blur": "{semantic.dropShadow.blur.elevation1.dropshadow2}",
           "spread": "{semantic.dropShadow.spread.elevation1.dropshadow2}",

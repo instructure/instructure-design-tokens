@@ -55,7 +55,7 @@
           "y": "0rem",
           "blur": "0rem",
           "spread": "0rem",
-          "color": "{color.transparentColor}",
+          "color": "{semantic.color.transparentColor}",
           "type": "dropShadow"
         },
         {
@@ -63,7 +63,7 @@
           "y": "0rem",
           "blur": "0rem",
           "spread": "0rem",
-          "color": "{color.transparentColor}",
+          "color": "{semantic.color.transparentColor}",
           "type": "dropShadow"
         }
       ],

@@ -59,7 +59,7 @@
           "y": "0.0625rem",
           "blur": "0.125rem",
           "spread": "0rem",
-          "color": "{color.dropShadow.shadowColor1}",
+          "color": "{semantic.color.dropShadow.shadowColor1}",
           "type": "dropShadow"
         },
         {
@@ -67,7 +67,7 @@
           "y": "0.125rem",
           "blur": "0.25rem",
           "spread": "0.125rem",
-          "color": "{color.dropShadow.shadowColor2}",
+          "color": "{semantic.color.dropShadow.shadowColor2}",
           "type": "dropShadow"
         }
       ],

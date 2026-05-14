@@ -62,7 +62,7 @@
     },
     "delimiterDashedBorder": {
       "value": {
-        "color": "{color.stroke.muted}",
+        "color": "{semantic.color.stroke.muted}",
         "width": "{semantic.borderWidth.sm}",
         "style": "dashed"
       },
@@ -70,7 +70,7 @@
     },
     "delimiterSolidBorder": {
       "value": {
-        "color": "{color.stroke.muted}",
+        "color": "{semantic.color.stroke.muted}",
         "width": "{semantic.borderWidth.sm}",
         "style": "solid"
       },
