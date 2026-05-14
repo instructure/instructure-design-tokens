@@ -15,7 +15,7 @@
     "boxShadow": {
       "value": [
         {
-          "x": "{dropShadow.x.elevation4.dropshadow1}",
+          "x": "{semantic.dropShadow.x.elevation4.dropshadow1}",
           "y": "{semantic.dropShadow.y.elevation4.dropshadow1}",
           "blur": "{semantic.dropShadow.blur.elevation4.dropshadow1}",
           "spread": "{semantic.dropShadow.spread.elevation4.dropshadow1}",
@@ -23,7 +23,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "{dropShadow.x.elevation4.dropshadow2}",
+          "x": "{semantic.dropShadow.x.elevation4.dropshadow2}",
           "y": "{semantic.dropShadow.y.elevation4.dropshadow2}",
           "blur": "{semantic.dropShadow.blur.elevation4.dropshadow2}",
           "spread": "{semantic.dropShadow.spread.elevation4.dropshadow2}",
