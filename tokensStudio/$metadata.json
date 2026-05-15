@@ -14,6 +14,7 @@
     "canvas/component/Breadcrumb",
     "canvas/component/Byline",
     "canvas/component/Calendar",
+    "canvas/component/Chart",
     "canvas/component/Checkbox",
     "canvas/component/ColorContrast",
     "canvas/component/ColorIndicator",
@@ -70,9 +71,6 @@
     "canvas/component/TreeBrowser",
     "canvas/component/TruncateText",
     "canvas/component/View",
-    "rebrand/semantic/layout/default",
-    "rebrand/semantic/color/rebrandLight",
-    "rebrand/semantic/color/rebrandDark",
     "rebrand/component/AiInformation",
     "rebrand/component/Alert",
     "rebrand/component/AppNav",
@@ -83,6 +81,7 @@
     "rebrand/component/Breadcrumb",
     "rebrand/component/Byline",
     "rebrand/component/Calendar",
+    "rebrand/component/Chart",
     "rebrand/component/Checkbox",
     "rebrand/component/ColorContrast",
     "rebrand/component/ColorIndicator",
@@ -138,6 +137,9 @@
     "rebrand/component/Tray",
     "rebrand/component/TreeBrowser",
     "rebrand/component/TruncateText",
-    "rebrand/component/View"
+    "rebrand/component/View",
+    "rebrand/semantic/layout/default",
+    "rebrand/semantic/color/rebrandLight",
+    "rebrand/semantic/color/rebrandDark"
   ]
 }
