@@ -1,15 +1,15 @@
 {
   "sideNavBar": {
     "backgroundColor": {
-      "value": "{color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "fill": {
-      "value": "{color.icon.interactive.action.primaryOnColor.base}",
+      "value": "{semantic.color.icon.interactive.action.primaryOnColor.base}",
       "type": "color"
     },
     "fontColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "minimizedWidth": {
@@ -25,7 +25,7 @@
       "type": "sizing"
     },
     "margin": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "minimizedMargin": {
@@ -37,7 +37,7 @@
       "type": "spacing"
     },
     "contentGap": {
-      "value": "{spacing.spaceXs}",
+      "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
     },
     "boxShadow": {
@@ -47,7 +47,7 @@
           "y": "0.0625rem",
           "blur": "0.125rem",
           "spread": "0rem",
-          "color": "{color.dropShadow.shadowColor1}",
+          "color": "{semantic.color.dropShadow.shadowColor1}",
           "type": "dropShadow"
         },
         {
@@ -55,7 +55,7 @@
           "y": "0.125rem",
           "blur": "0.25rem",
           "spread": "0.125rem",
-          "color": "{color.dropShadow.shadowColor2}",
+          "color": "{semantic.color.dropShadow.shadowColor2}",
           "type": "dropShadow"
         }
       ],
@@ -63,11 +63,11 @@
       "description": "Do not use this for other components"
     },
     "borderRadius": {
-      "value": "{borderRadius.container.md}",
+      "value": "{semantic.borderRadius.container.md}",
       "type": "borderRadius"
     },
     "minimizedBorderRadius": {
-      "value": "{borderRadius.container.sm}",
+      "value": "{semantic.borderRadius.container.sm}",
       "type": "borderRadius"
     }
   },
@@ -77,7 +77,7 @@
       "type": "sizing"
     },
     "borderRadius": {
-      "value": "{borderRadius.lg}",
+      "value": "{semantic.borderRadius.lg}",
       "type": "borderRadius"
     },
     "backgroundColor": {
@@ -89,27 +89,27 @@
       "type": "spacing"
     },
     "fontColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontSize": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "hoverBackgroundColor": {
-      "value": "{color.background.interactive.action.tertiary.hover}",
+      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
       "type": "color"
     },
     "lineHeight": {
-      "value": "{lineHeight.paragraph.base}",
+      "value": "{semantic.lineHeight.paragraph.base}",
       "type": "lineHeights"
     },
     "linkTextDecoration": {
@@ -117,27 +117,27 @@
       "type": "other"
     },
     "selectedBackgroundColor": {
-      "value": "{color.background.brand}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "selectedFontColor": {
-      "value": "{color.text.inverse}",
+      "value": "{semantic.color.text.inverse}",
       "type": "color"
     },
     "innerFocusOutlineColor": {
-      "value": "{color.stroke.interactive.focusRing.base}",
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
       "type": "color"
     },
     "selectedInnerFocusOutlineColor": {
-      "value": "{color.icon.inverse}",
+      "value": "{semantic.color.icon.inverse}",
       "type": "color"
     },
     "outerFocusOutlineColor": {
-      "value": "{color.transparentColor}",
+      "value": "{semantic.color.transparentColor}",
       "type": "color"
     },
     "selectedOuterFocusOutlineColor": {
-      "value": "{color.transparentColor}",
+      "value": "{semantic.color.transparentColor}",
       "type": "color"
     }
   }

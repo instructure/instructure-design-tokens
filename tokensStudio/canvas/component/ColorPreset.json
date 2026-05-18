@@ -1,39 +1,39 @@
 {
   "colorPreset": {
     "popoverContentBlockBottomMargin": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "popoverContentBlockTopMargin": {
-      "value": "{spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     },
     "popoverContentBlockTopPadding": {
-      "value": "{spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     },
     "popoverDividerColor": {
-      "value": "{color.stroke.muted}",
+      "value": "{semantic.color.stroke.muted}",
       "type": "color"
     },
     "popoverFooterColor": {
-      "value": "{color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "selectedIndicatorBackgroundColor": {
-      "value": "{color.background.onColor}",
+      "value": "{semantic.color.background.onColor}",
       "type": "color"
     },
     "selectedIndicatorBorderColor": {
-      "value": "{color.stroke.container.dark}",
+      "value": "{semantic.color.stroke.container.dark}",
       "type": "color"
     },
     "smallBorder": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "smallSpacing": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "xxSmallSpacing": {

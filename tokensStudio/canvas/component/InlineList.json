@@ -1,51 +1,51 @@
 {
   "inlineListItem": {
     "arrowSpacing": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "color": {
-      "value": "{color.institutional.brandFontColorDark}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "delimiterColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontSizeLarge": {
-      "value": "{fontSize.textLg}",
+      "value": "{semantic.fontSize.textLg}",
       "type": "fontSizes"
     },
     "fontSizeMedium": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "fontSizeSmall": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "lineHeight": {
-      "value": "{lineHeight.standalone.base}",
+      "value": "{semantic.lineHeight.standalone.base}",
       "type": "lineHeights"
     },
     "noneSpacing": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "pipeSpacing": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "slashSpacing": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "spacingLarge": {
@@ -53,11 +53,11 @@
       "type": "spacing"
     },
     "spacingMedium": {
-      "value": "{spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     },
     "spacingSmall": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "spacingXLarge": {
@@ -65,7 +65,7 @@
       "type": "spacing"
     },
     "spacingXSmall": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "spacingXXLarge": {
@@ -77,7 +77,7 @@
       "type": "spacing"
     },
     "spacingXXXSmall": {
-      "value": "{spacing.space2xs}",
+      "value": "{semantic.spacing.space2xs}",
       "type": "spacing"
     }
   }

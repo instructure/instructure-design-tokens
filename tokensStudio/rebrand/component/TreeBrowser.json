@@ -1,127 +1,127 @@
 {
   "treeBrowser": {
     "borderRadius": {
-      "value": "{borderRadius.md}",
+      "value": "{semantic.borderRadius.md}",
       "type": "borderRadius"
     }
   },
   "treeBrowserTreeButton": {
     "baseSpacingLarge": {
-      "value": "{spacing.spaceLg}",
+      "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
     },
     "baseSpacingMedium": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "baseSpacingSmall": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "borderColor": {
-      "value": "{color.stroke.strong}",
+      "value": "{semantic.color.stroke.strong}",
       "type": "color"
     },
     "borderRadius": {
-      "value": "{borderRadius.md}",
+      "value": "{semantic.borderRadius.md}",
       "type": "borderRadius"
     },
     "borderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "descriptorFontSizeLarge": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "descriptorFontSizeMedium": {
-      "value": "{fontSize.textXs}",
+      "value": "{semantic.fontSize.textXs}",
       "type": "fontSizes"
     },
     "descriptorFontSizeSmall": {
-      "value": "{fontSize.textXs}",
+      "value": "{semantic.fontSize.textXs}",
       "type": "fontSizes"
     },
     "descriptorMarginTop": {
-      "value": "{spacing.space2xs}",
+      "value": "{semantic.spacing.space2xs}",
       "type": "spacing"
     },
     "descriptorTextColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "hoverBackgroundColor": {
-      "value": "{color.background.brand}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "hoverTextColor": {
-      "value": "{color.text.inverse}",
+      "value": "{semantic.color.text.inverse}",
       "type": "color"
     },
     "nameFontSizeLarge": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "nameFontSizeMedium": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "nameFontSizeSmall": {
-      "value": "{fontSize.textXs}",
+      "value": "{semantic.fontSize.textXs}",
       "type": "fontSizes"
     },
     "nameTextColor": {
-      "value": "{color.text.interactive.navigation.primary.base}",
+      "value": "{semantic.color.text.interactive.navigation.primary.base}",
       "type": "color"
     },
     "selectedBackgroundColor": {
-      "value": "{color.background.accent.grey}",
+      "value": "{semantic.color.background.accent.grey}",
       "type": "color"
     },
     "selectedTextColor": {
-      "value": "{color.text.onColor}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "textLineHeight": {
-      "value": "{lineHeight.standalone.base}",
+      "value": "{semantic.lineHeight.standalone.base}",
       "type": "lineHeights"
     },
     "iconsMarginRightSmall": {
-      "value": "{spacing.spaceXs}",
+      "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
     },
     "iconsMarginRightMedium": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "iconsMarginRightLarge": {
-      "value": "{spacing.spaceLg}",
+      "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
     }
   },
   "treeBrowserTreeCollection": {
     "baseSpacingLarge": {
-      "value": "{spacing.spaceLg}",
+      "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
     },
     "baseSpacingMedium": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "baseSpacingSmall": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "borderColor": {
-      "value": "{color.stroke.strong}",
+      "value": "{semantic.color.stroke.strong}",
       "type": "color"
     },
     "borderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     }
   }

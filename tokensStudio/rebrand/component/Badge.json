@@ -1,39 +1,39 @@
 {
   "badge": {
     "borderRadius": {
-      "value": "{borderRadius.full}",
+      "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "color": {
-      "value": "{color.text.onColor}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "colorInverse": {
-      "value": "{color.text.dark}",
+      "value": "{semantic.color.text.dark}",
       "type": "color"
     },
     "colorDanger": {
-      "value": "{color.background.error}",
+      "value": "{semantic.color.background.error}",
       "type": "color"
     },
     "colorSuccess": {
-      "value": "{color.background.success}",
+      "value": "{semantic.color.background.success}",
       "type": "color"
     },
     "colorPrimary": {
-      "value": "{color.background.info}",
+      "value": "{semantic.color.background.info}",
       "type": "color"
     },
     "fontSize": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     },
     "sizeNotification": {
@@ -45,7 +45,7 @@
       "type": "sizing"
     },
     "padding": {
-      "value": "{spacing.spaceXs}",
+      "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
     },
     "notificationOffset": {

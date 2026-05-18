@@ -2,27 +2,27 @@
   "sharedTokens": {
     "borderRadius": {
       "xs": {
-        "value": "{borderRadius.xs}",
+        "value": "{semantic.borderRadius.xs}",
         "type": "borderRadius"
       },
       "sm": {
-        "value": "{borderRadius.sm}",
+        "value": "{semantic.borderRadius.sm}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "{borderRadius.md}",
+        "value": "{semantic.borderRadius.md}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "{borderRadius.lg}",
+        "value": "{semantic.borderRadius.lg}",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "{borderRadius.xl}",
+        "value": "{semantic.borderRadius.xl}",
         "type": "borderRadius"
       },
       "xxl": {
-        "value": "{borderRadius.xxl}",
+        "value": "{semantic.borderRadius.xxl}",
         "type": "borderRadius"
       },
       "full": {
@@ -31,28 +31,28 @@
       },
       "card": {
         "sm": {
-          "value": "{borderRadius.container.sm}",
+          "value": "{semantic.borderRadius.container.sm}",
           "type": "borderRadius"
         },
         "md": {
-          "value": "{borderRadius.container.md}",
+          "value": "{semantic.borderRadius.container.md}",
           "type": "borderRadius"
         },
         "lg": {
-          "value": "{borderRadius.container.lg}",
+          "value": "{semantic.borderRadius.container.lg}",
           "type": "borderRadius"
         },
         "nestedContainer": {
           "sm": {
-            "value": "{borderRadius.sm}",
+            "value": "{semantic.borderRadius.sm}",
             "type": "borderRadius"
           },
           "md": {
-            "value": "{borderRadius.md}",
+            "value": "{semantic.borderRadius.md}",
             "type": "borderRadius"
           },
           "lg": {
-            "value": "{borderRadius.md}",
+            "value": "{semantic.borderRadius.md}",
             "type": "borderRadius"
           }
         }
@@ -226,19 +226,19 @@
       "elevation1": {
         "value": [
           {
-            "x": "{dropShadow.x.elevation1.dropshadow1}",
-            "y": "{dropShadow.y.elevation1.dropshadow1}",
-            "blur": "{dropShadow.blur.elevation1.dropshadow1}",
-            "spread": "{dropShadow.spread.elevation1.dropshadow1}",
-            "color": "{color.dropShadow.shadowColor1}",
+            "x": "{semantic.dropShadow.x.elevation1.dropshadow1}",
+            "y": "{semantic.dropShadow.y.elevation1.dropshadow1}",
+            "blur": "{semantic.dropShadow.blur.elevation1.dropshadow1}",
+            "spread": "{semantic.dropShadow.spread.elevation1.dropshadow1}",
+            "color": "{semantic.color.dropShadow.shadowColor1}",
             "type": "dropShadow"
           },
           {
-            "x": "{dropShadow.x.elevation1.dropshadow2}",
-            "y": "{dropShadow.y.elevation1.dropshadow2}",
-            "blur": "{dropShadow.blur.elevation1.dropshadow2}",
-            "spread": "{dropShadow.spread.elevation1.dropshadow2}",
-            "color": "{color.dropShadow.shadowColor2}",
+            "x": "{semantic.dropShadow.x.elevation1.dropshadow2}",
+            "y": "{semantic.dropShadow.y.elevation1.dropshadow2}",
+            "blur": "{semantic.dropShadow.blur.elevation1.dropshadow2}",
+            "spread": "{semantic.dropShadow.spread.elevation1.dropshadow2}",
+            "color": "{semantic.color.dropShadow.shadowColor2}",
             "type": "dropShadow"
           }
         ],
@@ -248,19 +248,19 @@
       "elevation2": {
         "value": [
           {
-            "x": "{dropShadow.x.elevation2.dropshadow1}",
-            "y": "{dropShadow.y.elevation2.dropshadow1}",
-            "blur": "{dropShadow.blur.elevation2.dropshadow1}",
-            "spread": "{dropShadow.spread.elevation2.dropshadow1}",
-            "color": "{color.dropShadow.shadowColor2}",
+            "x": "{semantic.dropShadow.x.elevation2.dropshadow1}",
+            "y": "{semantic.dropShadow.y.elevation2.dropshadow1}",
+            "blur": "{semantic.dropShadow.blur.elevation2.dropshadow1}",
+            "spread": "{semantic.dropShadow.spread.elevation2.dropshadow1}",
+            "color": "{semantic.color.dropShadow.shadowColor2}",
             "type": "dropShadow"
           },
           {
-            "x": "{dropShadow.x.elevation2.dropshadow2}",
-            "y": "{dropShadow.y.elevation2.dropshadow2}",
-            "blur": "{dropShadow.blur.elevation2.dropshadow2}",
-            "spread": "{dropShadow.spread.elevation2.dropshadow2}",
-            "color": "{color.dropShadow.shadowColor1}",
+            "x": "{semantic.dropShadow.x.elevation2.dropshadow2}",
+            "y": "{semantic.dropShadow.y.elevation2.dropshadow2}",
+            "blur": "{semantic.dropShadow.blur.elevation2.dropshadow2}",
+            "spread": "{semantic.dropShadow.spread.elevation2.dropshadow2}",
+            "color": "{semantic.color.dropShadow.shadowColor1}",
             "type": "dropShadow"
           }
         ],
@@ -270,19 +270,19 @@
       "elevation3": {
         "value": [
           {
-            "x": "{dropShadow.x.elevation3.dropshadow1}",
-            "y": "{dropShadow.y.elevation3.dropshadow1}",
-            "blur": "{dropShadow.blur.elevation3.dropshadow1}",
-            "spread": "{dropShadow.spread.elevation3.dropshadow1}",
-            "color": "{color.dropShadow.shadowColor2}",
+            "x": "{semantic.dropShadow.x.elevation3.dropshadow1}",
+            "y": "{semantic.dropShadow.y.elevation3.dropshadow1}",
+            "blur": "{semantic.dropShadow.blur.elevation3.dropshadow1}",
+            "spread": "{semantic.dropShadow.spread.elevation3.dropshadow1}",
+            "color": "{semantic.color.dropShadow.shadowColor2}",
             "type": "dropShadow"
           },
           {
-            "x": "{dropShadow.x.elevation3.dropshadow2}",
-            "y": "{dropShadow.y.elevation3.dropshadow2}",
-            "blur": "{dropShadow.blur.elevation3.dropshadow2}",
-            "spread": "{dropShadow.spread.elevation3.dropshadow2}",
-            "color": "{color.dropShadow.shadowColor1}",
+            "x": "{semantic.dropShadow.x.elevation3.dropshadow2}",
+            "y": "{semantic.dropShadow.y.elevation3.dropshadow2}",
+            "blur": "{semantic.dropShadow.blur.elevation3.dropshadow2}",
+            "spread": "{semantic.dropShadow.spread.elevation3.dropshadow2}",
+            "color": "{semantic.color.dropShadow.shadowColor1}",
             "type": "dropShadow"
           }
         ],
@@ -292,19 +292,19 @@
       "elevation4": {
         "value": [
           {
-            "x": "{dropShadow.x.elevation4.dropshadow1}",
-            "y": "{dropShadow.y.elevation4.dropshadow1}",
-            "blur": "{dropShadow.blur.elevation4.dropshadow1}",
-            "spread": "{dropShadow.spread.elevation4.dropshadow1}",
-            "color": "{color.dropShadow.shadowColor2}",
+            "x": "{semantic.dropShadow.x.elevation4.dropshadow1}",
+            "y": "{semantic.dropShadow.y.elevation4.dropshadow1}",
+            "blur": "{semantic.dropShadow.blur.elevation4.dropshadow1}",
+            "spread": "{semantic.dropShadow.spread.elevation4.dropshadow1}",
+            "color": "{semantic.color.dropShadow.shadowColor2}",
             "type": "dropShadow"
           },
           {
-            "x": "{dropShadow.x.elevation4.dropshadow2}",
-            "y": "{dropShadow.y.elevation4.dropshadow2}",
-            "blur": "{dropShadow.blur.elevation4.dropshadow2}",
-            "spread": "{dropShadow.spread.elevation4.dropshadow2}",
-            "color": "{color.dropShadow.shadowColor1}",
+            "x": "{semantic.dropShadow.x.elevation4.dropshadow2}",
+            "y": "{semantic.dropShadow.y.elevation4.dropshadow2}",
+            "blur": "{semantic.dropShadow.blur.elevation4.dropshadow2}",
+            "spread": "{semantic.dropShadow.spread.elevation4.dropshadow2}",
+            "color": "{semantic.color.dropShadow.shadowColor1}",
             "type": "dropShadow"
           }
         ],
@@ -315,31 +315,31 @@
     "spacing": {
       "general": {
         "space2xs": {
-          "value": "{spacing.space2xs}",
+          "value": "{semantic.spacing.space2xs}",
           "type": "spacing"
         },
         "spaceXs": {
-          "value": "{spacing.spaceXs}",
+          "value": "{semantic.spacing.spaceXs}",
           "type": "spacing"
         },
         "spaceSm": {
-          "value": "{spacing.spaceSm}",
+          "value": "{semantic.spacing.spaceSm}",
           "type": "spacing"
         },
         "spaceMd": {
-          "value": "{spacing.spaceMd}",
+          "value": "{semantic.spacing.spaceMd}",
           "type": "spacing"
         },
         "spaceLg": {
-          "value": "{spacing.spaceLg}",
+          "value": "{semantic.spacing.spaceLg}",
           "type": "spacing"
         },
         "spaceXl": {
-          "value": "{spacing.spaceXl}",
+          "value": "{semantic.spacing.spaceXl}",
           "type": "spacing"
         },
         "space2xl": {
-          "value": "{spacing.space2xl}",
+          "value": "{semantic.spacing.space2xl}",
           "type": "spacing"
         },
         "spaceNone": {
@@ -349,48 +349,48 @@
       },
       "gap": {
         "sections": {
-          "value": "{spacing.gap.sections}",
+          "value": "{semantic.spacing.gap.sections}",
           "type": "spacing"
         },
         "buttons": {
-          "value": "{spacing.spaceSm}",
+          "value": "{semantic.spacing.spaceSm}",
           "type": "spacing"
         },
         "cards": {
           "sm": {
-            "value": "{spacing.gap.cards.sm}",
+            "value": "{semantic.spacing.gap.cards.sm}",
             "type": "spacing"
           },
           "md": {
-            "value": "{spacing.gap.cards.md}",
+            "value": "{semantic.spacing.gap.cards.md}",
             "type": "spacing"
           },
           "lg": {
-            "value": "{spacing.gap.cards.lg}",
+            "value": "{semantic.spacing.gap.cards.lg}",
             "type": "spacing"
           },
           "nestedContainers": {
             "sm": {
-              "value": "{spacing.spaceSm}",
+              "value": "{semantic.spacing.spaceSm}",
               "type": "spacing"
             },
             "md": {
-              "value": "{spacing.spaceMd}",
+              "value": "{semantic.spacing.spaceMd}",
               "type": "spacing"
             },
             "lg": {
-              "value": "{spacing.spaceLg}",
+              "value": "{semantic.spacing.spaceLg}",
               "type": "spacing"
             }
           }
         },
         "inputs": {
           "horizontal": {
-            "value": "{spacing.gap.inputs.horizontal}",
+            "value": "{semantic.spacing.gap.inputs.horizontal}",
             "type": "spacing"
           },
           "vertical": {
-            "value": "{spacing.gap.inputs.vertical}",
+            "value": "{semantic.spacing.gap.inputs.vertical}",
             "type": "spacing"
           }
         }
@@ -398,15 +398,15 @@
       "padding": {
         "card": {
           "sm": {
-            "value": "{spacing.padding.container.xxs}",
+            "value": "{semantic.spacing.padding.container.xxs}",
             "type": "spacing"
           },
           "md": {
-            "value": "{spacing.padding.container.xs}",
+            "value": "{semantic.spacing.padding.container.xs}",
             "type": "spacing"
           },
           "lg": {
-            "value": "{spacing.padding.container.sm}",
+            "value": "{semantic.spacing.padding.container.sm}",
             "type": "spacing"
           }
         }
@@ -414,7 +414,7 @@
     },
     "focusOutline": {
       "offset": {
-        "value": "{spacing.space2xs}",
+        "value": "{semantic.spacing.space2xs}",
         "type": "spacing"
       },
       "inset": {
@@ -422,23 +422,23 @@
         "type": "spacing"
       },
       "width": {
-        "value": "{borderWidth.md}",
+        "value": "{semantic.borderWidth.md}",
         "type": "borderWidth"
       },
       "infoColor": {
-        "value": "{color.stroke.interactive.focusRing.base}",
+        "value": "{semantic.color.stroke.interactive.focusRing.base}",
         "type": "color"
       },
       "onColor": {
-        "value": "{color.stroke.interactive.focusRing.onColor}",
+        "value": "{semantic.color.stroke.interactive.focusRing.onColor}",
         "type": "color"
       },
       "successColor": {
-        "value": "{color.stroke.interactive.action.success.base}",
+        "value": "{semantic.color.stroke.interactive.action.success.base}",
         "type": "color"
       },
       "dangerColor": {
-        "value": "{color.stroke.interactive.action.destructive.base}",
+        "value": "{semantic.color.stroke.interactive.action.destructive.base}",
         "type": "color"
       },
       "style": {
@@ -448,224 +448,224 @@
     },
     "background": {
       "containerColor": {
-        "value": "{color.background.container}",
+        "value": "{semantic.color.background.container}",
         "type": "color"
       },
       "baseColor": {
-        "value": "{color.background.base}",
+        "value": "{semantic.color.background.base}",
         "type": "color"
       },
       "pageColor": {
-        "value": "{color.background.page}",
+        "value": "{semantic.color.background.page}",
         "type": "color"
       },
       "mutedColor": {
-        "value": "{color.background.muted}",
+        "value": "{semantic.color.background.muted}",
         "type": "color"
       },
       "brandColor": {
-        "value": "{color.background.brand}",
+        "value": "{semantic.color.background.brand}",
         "type": "color"
       },
       "onColor": {
-        "value": "{color.background.onColor}",
+        "value": "{semantic.color.background.onColor}",
         "type": "color"
       },
       "inverseColor": {
-        "value": "{color.background.inverse}",
+        "value": "{semantic.color.background.inverse}",
         "type": "color",
         "description": "Background color for inverse components. Dark grey in light mode; light grey in dark mode."
       },
       "successColor": {
-        "value": "{color.background.success}",
+        "value": "{semantic.color.background.success}",
         "type": "color"
       },
       "errorColor": {
-        "value": "{color.background.error}",
+        "value": "{semantic.color.background.error}",
         "type": "color"
       },
       "warningColor": {
-        "value": "{color.background.warning}",
+        "value": "{semantic.color.background.warning}",
         "type": "color"
       },
       "infoColor": {
-        "value": "{color.background.info}",
+        "value": "{semantic.color.background.info}",
         "type": "color"
       },
       "aiTopGradientColor": {
-        "value": "{color.background.aiTopGradient}",
+        "value": "{semantic.color.background.aiTopGradient}",
         "type": "color"
       },
       "aiBottomGradientColor": {
-        "value": "{color.background.aiBottomGradient}",
+        "value": "{semantic.color.background.aiBottomGradient}",
         "type": "color"
       },
       "aiTextColor": {
-        "value": "{color.background.aiText}",
+        "value": "{semantic.color.background.aiText}",
         "type": "color"
       },
       "accentAsh": {
-        "value": "{color.background.accent.ash}",
+        "value": "{semantic.color.background.accent.ash}",
         "type": "color"
       },
       "accentAurora": {
-        "value": "{color.background.accent.aurora}",
+        "value": "{semantic.color.background.accent.aurora}",
         "type": "color"
       },
       "accentBlue": {
-        "value": "{color.background.accent.blue}",
+        "value": "{semantic.color.background.accent.blue}",
         "type": "color"
       },
       "accentGreen": {
-        "value": "{color.background.accent.green}",
+        "value": "{semantic.color.background.accent.green}",
         "type": "color"
       },
       "accentGrey": {
-        "value": "{color.background.accent.grey}",
+        "value": "{semantic.color.background.accent.grey}",
         "type": "color"
       },
       "accentHoney": {
-        "value": "{color.background.accent.honey}",
+        "value": "{semantic.color.background.accent.honey}",
         "type": "color"
       },
       "accentOrange": {
-        "value": "{color.background.accent.orange}",
+        "value": "{semantic.color.background.accent.orange}",
         "type": "color"
       },
       "accentPlum": {
-        "value": "{color.background.accent.plum}",
+        "value": "{semantic.color.background.accent.plum}",
         "type": "color"
       },
       "accentRed": {
-        "value": "{color.background.accent.red}",
+        "value": "{semantic.color.background.accent.red}",
         "type": "color"
       },
       "accentSea": {
-        "value": "{color.background.accent.sea}",
+        "value": "{semantic.color.background.accent.sea}",
         "type": "color"
       },
       "accentSky": {
-        "value": "{color.background.accent.sky}",
+        "value": "{semantic.color.background.accent.sky}",
         "type": "color"
       },
       "accentStone": {
-        "value": "{color.background.accent.stone}",
+        "value": "{semantic.color.background.accent.stone}",
         "type": "color"
       },
       "accentViolet": {
-        "value": "{color.background.accent.violet}",
+        "value": "{semantic.color.background.accent.violet}",
         "type": "color"
       }
     },
     "stroke": {
       "baseColor": {
-        "value": "{color.stroke.base}",
+        "value": "{semantic.color.stroke.base}",
         "type": "color"
       },
       "mutedColor": {
-        "value": "{color.stroke.muted}",
+        "value": "{semantic.color.stroke.muted}",
         "type": "color"
       },
       "strongColor": {
-        "value": "{color.stroke.strong}",
+        "value": "{semantic.color.stroke.strong}",
         "type": "color"
       },
       "brandColor": {
-        "value": "{color.stroke.brand}",
+        "value": "{semantic.color.stroke.brand}",
         "type": "color"
       },
       "successColor": {
-        "value": "{color.stroke.success}",
+        "value": "{semantic.color.stroke.success}",
         "type": "color"
       },
       "errorColor": {
-        "value": "{color.stroke.error}",
+        "value": "{semantic.color.stroke.error}",
         "type": "color"
       },
       "warningColor": {
-        "value": "{color.stroke.warning}",
+        "value": "{semantic.color.stroke.warning}",
         "type": "color"
       },
       "infoColor": {
-        "value": "{color.stroke.info}",
+        "value": "{semantic.color.stroke.info}",
         "type": "color"
       },
       "aiTopGradientColor": {
-        "value": "{color.stroke.aiTopGradient}",
+        "value": "{semantic.color.stroke.aiTopGradient}",
         "type": "color"
       },
       "aiBottomGradientColor": {
-        "value": "{color.stroke.aiBottomGradient}",
+        "value": "{semantic.color.stroke.aiBottomGradient}",
         "type": "color"
       },
       "accentAsh": {
-        "value": "{color.stroke.accent.ash}",
+        "value": "{semantic.color.stroke.accent.ash}",
         "type": "color"
       },
       "accentAurora": {
-        "value": "{color.stroke.accent.aurora}",
+        "value": "{semantic.color.stroke.accent.aurora}",
         "type": "color"
       },
       "accentBlue": {
-        "value": "{color.stroke.accent.blue}",
+        "value": "{semantic.color.stroke.accent.blue}",
         "type": "color"
       },
       "accentGreen": {
-        "value": "{color.stroke.accent.green}",
+        "value": "{semantic.color.stroke.accent.green}",
         "type": "color"
       },
       "accentGrey": {
-        "value": "{color.stroke.accent.grey}",
+        "value": "{semantic.color.stroke.accent.grey}",
         "type": "color"
       },
       "accentHoney": {
-        "value": "{color.stroke.accent.honey}",
+        "value": "{semantic.color.stroke.accent.honey}",
         "type": "color"
       },
       "accentOrange": {
-        "value": "{color.stroke.accent.orange}",
+        "value": "{semantic.color.stroke.accent.orange}",
         "type": "color"
       },
       "accentPlum": {
-        "value": "{color.stroke.accent.plum}",
+        "value": "{semantic.color.stroke.accent.plum}",
         "type": "color"
       },
       "accentRed": {
-        "value": "{color.stroke.accent.red}",
+        "value": "{semantic.color.stroke.accent.red}",
         "type": "color"
       },
       "accentSea": {
-        "value": "{color.stroke.accent.sea}",
+        "value": "{semantic.color.stroke.accent.sea}",
         "type": "color"
       },
       "accentSky": {
-        "value": "{color.stroke.accent.sky}",
+        "value": "{semantic.color.stroke.accent.sky}",
         "type": "color"
       },
       "accentStone": {
-        "value": "{color.stroke.accent.stone}",
+        "value": "{semantic.color.stroke.accent.stone}",
         "type": "color"
       },
       "accentViolet": {
-        "value": "{color.stroke.accent.violet}",
+        "value": "{semantic.color.stroke.accent.violet}",
         "type": "color"
       },
       "visualSeparator": {
-        "value": "{color.background.container}",
+        "value": "{semantic.color.background.container}",
         "type": "color"
       }
     },
     "strokeWidth": {
       "sm": {
-        "value": "{borderWidth.sm}",
+        "value": "{semantic.borderWidth.sm}",
         "type": "borderWidth"
       },
       "md": {
-        "value": "{borderWidth.md}",
+        "value": "{semantic.borderWidth.md}",
         "type": "borderWidth"
       },
       "lg": {
-        "value": "{borderWidth.lg}",
+        "value": "{semantic.borderWidth.lg}",
         "type": "borderWidth"
       }
     }

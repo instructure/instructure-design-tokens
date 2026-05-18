@@ -1,7 +1,7 @@
 {
   "mask": {
     "backgroundColor": {
-      "value": "{color.background.overlay.base}",
+      "value": "{semantic.color.background.overlay.base}",
       "type": "color"
     }
   }

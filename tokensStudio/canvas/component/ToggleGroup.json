@@ -1,7 +1,7 @@
 {
   "toggleGroup": {
     "borderColor": {
-      "value": "{color.stroke.base}",
+      "value": "{semantic.color.stroke.base}",
       "type": "color"
     }
   }

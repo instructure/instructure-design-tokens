@@ -1,35 +1,35 @@
 {
   "nutritionFacts": {
     "borderRadius": {
-      "value": "{borderRadius.lg}",
+      "value": "{semantic.borderRadius.lg}",
       "type": "borderRadius"
     },
     "cardBorderColor": {
-      "value": "{color.stroke.muted}",
+      "value": "{semantic.color.stroke.muted}",
       "type": "color"
     },
     "cardBorderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "cardPadding": {
-      "value": "{spacing.gap.cards.sm}",
+      "value": "{semantic.spacing.gap.cards.sm}",
       "type": "spacing"
     },
     "cardExplainerContainerBottomMargin": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "cardGap": {
-      "value": "{spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     },
     "bodyPadding": {
-      "value": "{spacing.padding.container.md}",
+      "value": "{semantic.spacing.padding.container.md}",
       "type": "spacing"
     },
     "blockGap": {
-      "value": "{spacing.gap.cards.md}",
+      "value": "{semantic.spacing.gap.cards.md}",
       "type": "spacing"
     }
   }

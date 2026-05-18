@@ -1,35 +1,35 @@
 {
   "billboard": {
     "backgroundColor": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "paddingSmall": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "paddingMedium": {
-      "value": "{spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     },
     "paddingLarge": {
-      "value": "{spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     },
     "mediumMargin": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "largeMargin": {
-      "value": "{spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     },
     "buttonBorderWidth": {
-      "value": "{borderWidth.md}",
+      "value": "{semantic.borderWidth.md}",
       "type": "borderWidth"
     },
     "buttonBorderStyle": {
@@ -45,31 +45,31 @@
       "type": "borderRadius"
     },
     "messageColor": {
-      "value": "{color.text.interactive.navigation.primary.base}",
+      "value": "{semantic.color.text.interactive.navigation.primary.base}",
       "type": "color"
     },
     "messageColorClickable": {
-      "value": "{color.institutional.linkColor}",
+      "value": "{semantic.color.institutional.linkColor}",
       "type": "color"
     },
     "clickableActiveBg": {
-      "value": "{color.background.interactive.action.primary.active}",
+      "value": "{semantic.color.background.interactive.action.primary.active}",
       "type": "color"
     },
     "clickableActiveText": {
-      "value": "{color.text.onColor}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "messageFontSizeSmall": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "messageFontSizeMedium": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "messageFontSizeLarge": {
-      "value": "{fontSize.textLg}",
+      "value": "{semantic.fontSize.textLg}",
       "type": "fontSizes"
     }
   }

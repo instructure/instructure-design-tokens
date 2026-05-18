@@ -1,11 +1,11 @@
 {
   "alert": {
     "background": {
-      "value": "{color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "borderRadius": {
-      "value": "{borderRadius.lg}",
+      "value": "{semantic.borderRadius.lg}",
       "type": "borderRadius"
     },
     "borderStyle": {
@@ -13,7 +13,7 @@
       "type": "other"
     },
     "borderWidth": {
-      "value": "{borderWidth.md}",
+      "value": "{semantic.borderWidth.md}",
       "type": "borderWidth"
     },
     "closeButtonMarginRight": {
@@ -25,67 +25,67 @@
       "type": "other"
     },
     "color": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "contentFontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "contentFontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "contentFontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "contentLineHeight": {
-      "value": "{lineHeight.standalone.base}",
+      "value": "{semantic.lineHeight.standalone.base}",
       "type": "lineHeights"
     },
     "dangerBorderColor": {
-      "value": "{color.stroke.error}",
+      "value": "{semantic.color.stroke.error}",
       "type": "color"
     },
     "dangerIconBackground": {
-      "value": "{color.background.error}",
+      "value": "{semantic.color.background.error}",
       "type": "color"
     },
     "iconColor": {
-      "value": "{color.icon.onColor}",
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "infoBorderColor": {
-      "value": "{color.stroke.info}",
+      "value": "{semantic.color.stroke.info}",
       "type": "color"
     },
     "infoIconBackground": {
-      "value": "{color.background.info}",
+      "value": "{semantic.color.background.info}",
       "type": "color"
     },
     "successBorderColor": {
-      "value": "{color.stroke.success}",
+      "value": "{semantic.color.stroke.success}",
       "type": "color"
     },
     "successIconBackground": {
-      "value": "{color.background.success}",
+      "value": "{semantic.color.background.success}",
       "type": "color"
     },
     "warningBorderColor": {
-      "value": "{color.stroke.warning}",
+      "value": "{semantic.color.stroke.warning}",
       "type": "color"
     },
     "warningIconBackground": {
-      "value": "{color.background.warning}",
+      "value": "{semantic.color.background.warning}",
       "type": "color"
     },
     "contentPaddingVertical": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "contentPaddingHorizontal": {
-      "value": "{spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     }
   }

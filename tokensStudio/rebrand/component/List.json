@@ -1,35 +1,35 @@
 {
   "listItem": {
     "color": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "fontSizeLarge": {
-      "value": "{fontSize.textLg}",
+      "value": "{semantic.fontSize.textLg}",
       "type": "fontSizes"
     },
     "fontSizeMedium": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "fontSizeSmall": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "lineHeight": {
-      "value": "{lineHeight.paragraph.base}",
+      "value": "{semantic.lineHeight.paragraph.base}",
       "type": "lineHeights"
     },
     "spacingXXXSmall": {
-      "value": "{spacing.space2xs}",
+      "value": "{semantic.spacing.space2xs}",
       "type": "spacing"
     },
     "spacingXXSmall": {
@@ -37,15 +37,15 @@
       "type": "spacing"
     },
     "spacingXSmall": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "spacingSmall": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "spacingMedium": {
-      "value": "{spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     },
     "spacingLarge": {
@@ -62,16 +62,16 @@
     },
     "delimiterDashedBorder": {
       "value": {
-        "color": "{color.stroke.muted}",
-        "width": "{borderWidth.sm}",
+        "color": "{semantic.color.stroke.muted}",
+        "width": "{semantic.borderWidth.sm}",
         "style": "dashed"
       },
       "type": "border"
     },
     "delimiterSolidBorder": {
       "value": {
-        "color": "{color.stroke.muted}",
-        "width": "{borderWidth.sm}",
+        "color": "{semantic.color.stroke.muted}",
+        "width": "{semantic.borderWidth.sm}",
         "style": "solid"
       },
       "type": "border"
@@ -83,11 +83,11 @@
       "type": "spacing"
     },
     "orderedNumberMargin": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "orderedNumberFontWeight": {
-      "value": "{fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     }
   }

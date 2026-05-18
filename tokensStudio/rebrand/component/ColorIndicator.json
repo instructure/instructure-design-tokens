@@ -13,11 +13,11 @@
       "type": "sizing"
     },
     "borderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "rectangularIndicatorBorderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "circleIndicatorSize": {
@@ -25,7 +25,7 @@
       "type": "sizing"
     },
     "colorIndicatorBorderColor": {
-      "value": "{color.stroke.muted}",
+      "value": "{semantic.color.stroke.muted}",
       "type": "color"
     },
     "rectangleIndicatorSize": {
@@ -33,7 +33,7 @@
       "type": "sizing"
     },
     "rectangularIndicatorBorderRadius": {
-      "value": "{borderRadius.md}",
+      "value": "{semantic.borderRadius.md}",
       "type": "borderRadius"
     }
   }

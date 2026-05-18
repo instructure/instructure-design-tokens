@@ -1,23 +1,23 @@
 {
   "byline": {
     "background": {
-      "value": "{color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "color": {
-      "value": "{color.institutional.brandFontColorDark}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "descriptionFontSize": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "descriptionFontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "descriptionLineHeight": {
-      "value": "{lineHeight.standalone.base}",
+      "value": "{semantic.lineHeight.standalone.base}",
       "type": "lineHeights"
     },
     "figureMargin": {
@@ -25,7 +25,7 @@
       "type": "spacing"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "titleFontSize": {
@@ -33,11 +33,11 @@
       "type": "fontSizes"
     },
     "titleFontWeight": {
-      "value": "{fontWeight.heading.base}",
+      "value": "{semantic.fontWeight.heading.base}",
       "type": "fontWeights"
     },
     "titleLineHeight": {
-      "value": "{lineHeight.paragraph.textSm}",
+      "value": "{semantic.lineHeight.paragraph.textSm}",
       "type": "lineHeights"
     },
     "titleMargin": {

@@ -5,35 +5,35 @@
       "type": "sizing"
     },
     "backgroundColor": {
-      "value": "{color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "borderColor": {
-      "value": "{color.stroke.container.base}",
+      "value": "{semantic.color.stroke.container.base}",
       "type": "color"
     },
     "inverseBackgroundColor": {
-      "value": "{color.background.dark}",
+      "value": "{semantic.color.background.dark}",
       "type": "color"
     },
     "inverseBorderColor": {
-      "value": "{color.stroke.container.dark}",
+      "value": "{semantic.color.stroke.container.dark}",
       "type": "color"
     },
     "borderRadius": {
-      "value": "{borderRadius.xl}",
+      "value": "{semantic.borderRadius.xl}",
       "type": "borderRadius"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "textColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "inverseTextColor": {
-      "value": "{color.text.onColor}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "largeMaxWidth": {
@@ -51,19 +51,19 @@
     "boxShadow": {
       "value": [
         {
-          "x": "{dropShadow.x.elevation4.dropshadow1}",
-          "y": "{dropShadow.y.elevation4.dropshadow1}",
-          "blur": "{dropShadow.blur.elevation4.dropshadow1}",
-          "spread": "{dropShadow.spread.elevation4.dropshadow1}",
-          "color": "{color.dropShadow.shadowColor2}",
+          "x": "{semantic.dropShadow.x.elevation4.dropshadow1}",
+          "y": "{semantic.dropShadow.y.elevation4.dropshadow1}",
+          "blur": "{semantic.dropShadow.blur.elevation4.dropshadow1}",
+          "spread": "{semantic.dropShadow.spread.elevation4.dropshadow1}",
+          "color": "{semantic.color.dropShadow.shadowColor2}",
           "type": "dropShadow"
         },
         {
-          "x": "{dropShadow.x.elevation4.dropshadow2}",
-          "y": "{dropShadow.y.elevation4.dropshadow2}",
-          "blur": "{dropShadow.blur.elevation4.dropshadow2}",
-          "spread": "{dropShadow.spread.elevation4.dropshadow2}",
-          "color": "{color.dropShadow.shadowColor1}",
+          "x": "{semantic.dropShadow.x.elevation4.dropshadow2}",
+          "y": "{semantic.dropShadow.y.elevation4.dropshadow2}",
+          "blur": "{semantic.dropShadow.blur.elevation4.dropshadow2}",
+          "spread": "{semantic.dropShadow.spread.elevation4.dropshadow2}",
+          "color": "{semantic.color.dropShadow.shadowColor1}",
           "type": "dropShadow"
         }
       ],
@@ -71,85 +71,85 @@
       "description": "Do not use this for other components"
     },
     "borderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     }
   },
   "modalHeader": {
     "backgroundColor": {
-      "value": "{color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "inverseBackgroundColor": {
-      "value": "{color.background.dark}",
+      "value": "{semantic.color.background.dark}",
       "type": "color"
     },
     "borderColor": {
-      "value": "{color.stroke.container.base}",
+      "value": "{semantic.color.stroke.container.base}",
       "type": "color"
     },
     "inverseBorderColor": {
-      "value": "{color.stroke.container.dark}",
+      "value": "{semantic.color.stroke.container.dark}",
       "type": "color"
     },
     "padding": {
-      "value": "{spacing.padding.container.md}",
+      "value": "{semantic.spacing.padding.container.md}",
       "type": "spacing"
     },
     "paddingCompact": {
-      "value": "{spacing.padding.container.xs}",
+      "value": "{semantic.spacing.padding.container.xs}",
       "type": "spacing"
     },
     "borderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     }
   },
   "modalBody": {
     "inverseBackgroundColor": {
-      "value": "{color.background.dark}",
+      "value": "{semantic.color.background.dark}",
       "type": "color"
     },
     "padding": {
-      "value": "{spacing.padding.container.md}",
+      "value": "{semantic.spacing.padding.container.md}",
       "type": "spacing"
     },
     "paddingCompact": {
-      "value": "{spacing.padding.container.xs}",
+      "value": "{semantic.spacing.padding.container.xs}",
       "type": "spacing"
     }
   },
   "modalFooter": {
     "borderColor": {
-      "value": "{color.stroke.container.base}",
+      "value": "{semantic.color.stroke.container.base}",
       "type": "color"
     },
     "inverseBorderColor": {
-      "value": "{color.stroke.container.dark}",
+      "value": "{semantic.color.stroke.container.dark}",
       "type": "color"
     },
     "borderRadius": {
-      "value": "{borderRadius.xl}",
+      "value": "{semantic.borderRadius.xl}",
       "type": "borderRadius"
     },
     "borderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "backgroundColor": {
-      "value": "{color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "inverseBackgroundColor": {
-      "value": "{color.background.dark}",
+      "value": "{semantic.color.background.dark}",
       "type": "color"
     },
     "padding": {
-      "value": "{spacing.padding.container.md}",
+      "value": "{semantic.spacing.padding.container.md}",
       "type": "spacing"
     },
     "paddingCompact": {
-      "value": "{spacing.padding.container.xs}",
+      "value": "{semantic.spacing.padding.container.xs}",
       "type": "spacing"
     }
   }

@@ -1,19 +1,19 @@
 {
   "avatar": {
     "backgroundColor": {
-      "value": "{color.background.base}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "borderColor": {
-      "value": "{color.stroke.base}",
+      "value": "{semantic.color.stroke.base}",
       "type": "color"
     },
     "borderWidthSm": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "borderWidthMd": {
-      "value": "{borderWidth.md}",
+      "value": "{semantic.borderWidth.md}",
       "type": "borderWidth"
     },
     "boxShadow": {
@@ -33,67 +33,67 @@
       "description": "Do not use this for other components"
     },
     "fontWeight": {
-      "value": "{fontWeight.heading.base}",
+      "value": "{semantic.fontWeight.heading.base}",
       "type": "fontWeights"
     },
     "blueBackgroundColor": {
-      "value": "{color.background.accent.blue}",
+      "value": "{semantic.color.background.accent.blue}",
       "type": "color"
     },
     "blueTextColor": {
-      "value": "{color.text.accent.blue}",
+      "value": "{semantic.color.text.accent.blue}",
       "type": "color"
     },
     "greenBackgroundColor": {
-      "value": "{color.background.accent.green}",
+      "value": "{semantic.color.background.accent.green}",
       "type": "color"
     },
     "greenTextColor": {
-      "value": "{color.text.accent.green}",
+      "value": "{semantic.color.text.accent.green}",
       "type": "color"
     },
     "redBackgroundColor": {
-      "value": "{color.background.accent.red}",
+      "value": "{semantic.color.background.accent.red}",
       "type": "color"
     },
     "redTextColor": {
-      "value": "{color.text.accent.red}",
+      "value": "{semantic.color.text.accent.red}",
       "type": "color"
     },
     "orangeBackgroundColor": {
-      "value": "{color.background.accent.orange}",
+      "value": "{semantic.color.background.accent.orange}",
       "type": "color"
     },
     "orangeTextColor": {
-      "value": "{color.text.accent.orange}",
+      "value": "{semantic.color.text.accent.orange}",
       "type": "color"
     },
     "greyBackgroundColor": {
-      "value": "{color.background.accent.grey}",
+      "value": "{semantic.color.background.accent.grey}",
       "type": "color"
     },
     "greyTextColor": {
-      "value": "{color.text.accent.grey}",
+      "value": "{semantic.color.text.accent.grey}",
       "type": "color"
     },
     "ashBackgroundColor": {
-      "value": "{color.background.accent.ash}",
+      "value": "{semantic.color.background.accent.ash}",
       "type": "color"
     },
     "ashTextColor": {
-      "value": "{color.text.accent.ash}",
+      "value": "{semantic.color.text.accent.ash}",
       "type": "color"
     },
     "aiBottomGradientColor": {
-      "value": "{color.background.aiBottomGradient}",
+      "value": "{semantic.color.background.aiBottomGradient}",
       "type": "color"
     },
     "aiTopGradientColor": {
-      "value": "{color.background.aiTopGradient}",
+      "value": "{semantic.color.background.aiTopGradient}",
       "type": "color"
     },
     "textOnColor": {
-      "value": "{color.text.onColor}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "size2xs": {
@@ -125,39 +125,39 @@
       "type": "sizing"
     },
     "fontSize2xs": {
-      "value": "{fontSize.textXs}",
+      "value": "{semantic.fontSize.textXs}",
       "type": "fontSizes"
     },
     "fontSizeXs": {
-      "value": "{fontSize.textXs}",
+      "value": "{semantic.fontSize.textXs}",
       "type": "fontSizes"
     },
     "fontSizeSm": {
-      "value": "{fontSize.textSm}",
+      "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
     "fontSizeMd": {
-      "value": "{fontSize.textBase}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "fontSizeLg": {
-      "value": "{fontSize.textLg}",
+      "value": "{semantic.fontSize.textLg}",
       "type": "fontSizes"
     },
     "fontSizeXl": {
-      "value": "{fontSize.textXl}",
+      "value": "{semantic.fontSize.textXl}",
       "type": "fontSizes"
     },
     "fontSize2xl": {
-      "value": "{fontSize.text2xl}",
+      "value": "{semantic.fontSize.text2xl}",
       "type": "fontSizes"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "rectangleRadius": {
-      "value": "{borderRadius.sm}",
+      "value": "{semantic.borderRadius.sm}",
       "type": "borderRadius"
     }
   }

@@ -1,27 +1,27 @@
 {
   "drilldown": {
     "borderColor": {
-      "value": "{color.stroke.muted}",
+      "value": "{semantic.color.stroke.muted}",
       "type": "color"
     },
     "headerActionColor": {
-      "value": "{color.text.interactive.navigation.primary.base}",
+      "value": "{semantic.color.text.interactive.navigation.primary.base}",
       "type": "color"
     },
     "headerTitleFontWeight": {
-      "value": "{fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     },
     "labelInfoColor": {
-      "value": "{color.text.muted}",
+      "value": "{semantic.color.text.muted}",
       "type": "color"
     },
     "borderRadius": {
-      "value": "{borderRadius.sm}",
+      "value": "{semantic.borderRadius.sm}",
       "type": "borderRadius"
     },
     "labelInfoPadding": {
-      "value": "{spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     }
   }

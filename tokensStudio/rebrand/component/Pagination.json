@@ -1,13 +1,13 @@
 {
   "pagination": {
     "pageIndicatorGap": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     }
   },
   "paginationPageInput": {
     "inputSpacing": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "inputWidth": {
@@ -15,7 +15,7 @@
       "type": "sizing"
     },
     "labelColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     }
   }

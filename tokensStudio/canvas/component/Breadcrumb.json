@@ -1,15 +1,15 @@
 {
   "breadcrumb": {
     "gapSm": {
-      "value": "{spacing.space2xs}",
+      "value": "{semantic.spacing.space2xs}",
       "type": "spacing"
     },
     "gapMd": {
-      "value": "{spacing.spaceXs}",
+      "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
     },
     "gapLg": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     }
   }

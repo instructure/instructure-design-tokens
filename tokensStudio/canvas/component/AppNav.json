@@ -1,7 +1,7 @@
 {
   "appNav": {
     "borderColor": {
-      "value": "{color.stroke.muted}",
+      "value": "{semantic.color.stroke.muted}",
       "type": "color"
     },
     "borderStyle": {
@@ -9,11 +9,11 @@
       "type": "other"
     },
     "borderWidth": {
-      "value": "{borderWidth.sm}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "height": {
@@ -31,15 +31,15 @@
   },
   "appNavItem": {
     "fontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "backgroundColor": {
-      "value": "{color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "fontWeight": {
-      "value": "{fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     },
     "height": {
@@ -47,15 +47,15 @@
       "type": "sizing"
     },
     "padding": {
-      "value": "{spacing.padding.container.xs}",
+      "value": "{semantic.spacing.padding.container.xs}",
       "type": "spacing"
     },
     "textColor": {
-      "value": "{color.text.accent.blue}",
+      "value": "{semantic.color.text.accent.blue}",
       "type": "color"
     },
     "textColorSelected": {
-      "value": "{color.text.accent.ash}",
+      "value": "{semantic.color.text.accent.ash}",
       "type": "color"
     },
     "fontSize": {

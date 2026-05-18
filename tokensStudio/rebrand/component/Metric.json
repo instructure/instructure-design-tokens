@@ -1,51 +1,51 @@
 {
   "metric": {
     "labelColor": {
-      "value": "{color.text.muted}",
+      "value": "{semantic.color.text.muted}",
       "type": "color"
     },
     "labelFontSize": {
-      "value": "{fontSize.textXs}",
+      "value": "{semantic.fontSize.textXs}",
       "type": "fontSizes"
     },
     "paddingHorizontal": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "valueColor": {
-      "value": "{color.text.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "valueFontSize": {
-      "value": "{fontSize.textXl}",
+      "value": "{semantic.fontSize.textXl}",
       "type": "fontSizes"
     },
     "gapTexts": {
-      "value": "{spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "labelLineHeight": {
-      "value": "{lineHeight.standalone.textXs}",
+      "value": "{semantic.lineHeight.standalone.textXs}",
       "type": "lineHeights"
     },
     "valueLineHeight": {
-      "value": "{lineHeight.standalone.text2xl}",
+      "value": "{semantic.lineHeight.standalone.text2xl}",
       "type": "lineHeights"
     },
     "labelFontFamily": {
-      "value": "{fontFamily.base}",
+      "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
     },
     "valueFontFamily": {
-      "value": "{fontFamily.heading}",
+      "value": "{semantic.fontFamily.heading}",
       "type": "fontFamilies"
     },
     "labelFontWeight": {
-      "value": "{fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "valueFontWeight": {
-      "value": "{fontWeight.heading.base}",
+      "value": "{semantic.fontWeight.heading.base}",
       "type": "fontWeights"
     }
   }
