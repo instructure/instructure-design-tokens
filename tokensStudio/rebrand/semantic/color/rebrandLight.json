@@ -92,7 +92,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "{color.grey.grey10}",
+              "value": "{color.white}",
               "type": "color"
             },
             "readonly": {
