@@ -73,6 +73,10 @@
     "borderWidth": {
       "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
+    },
+    "fullScreenMargin": {
+      "value": "40px",
+      "type": "spacing"
     }
   },
   "modalHeader": {
