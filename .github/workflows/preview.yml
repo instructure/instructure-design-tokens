@@ -1,0 +1,82 @@
+name: Deploy preview docs from PR
+concurrency: preview-${{ github.ref }}
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  deploy-preview:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PULL_REQUEST_PREVIEW: 'true'
+      PR_NUMBER: ${{ github.event.pull_request.number }}
+      PUBLIC_PATH: /instructure-design-tokens/pr-preview/pr-${{ github.event.pull_request.number }}/
+    steps:
+      - name: Checkout instructure-design-tokens (this PR)
+        uses: actions/checkout@v4
+
+      # checkout latest master of instructure-ui for the pr preview
+      - name: Checkout instructure-ui (master)
+        if: github.event.action != 'closed'
+        uses: actions/checkout@v4
+        with:
+          repository: instructure/instructure-ui
+          ref: master
+          path: instructure-ui
+
+      - name: Point instructure-ui at this PR's tokens
+        if: github.event.action != 'closed'
+        env:
+          HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          # Rewrite the @instructure/instructure-design-tokens spec in ui-scripts'
+          # package.json to point at this PR's head commit. Pinning to the SHA on
+          # the head repo handles fork PRs and is stable across reruns even if
+          # new commits land on the PR after this job starts.
+          pkg=instructure-ui/packages/ui-scripts/package.json
+          spec="github:${HEAD_REPO}#${HEAD_SHA}"
+          echo "Rewriting @instructure/instructure-design-tokens -> ${spec}"
+          jq --arg spec "$spec" \
+            '.dependencies["@instructure/instructure-design-tokens"] = $spec' \
+            "$pkg" > "$pkg.tmp" && mv "$pkg.tmp" "$pkg"
+
+      - uses: pnpm/action-setup@v4
+        if: github.event.action != 'closed'
+        with:
+          # This repo doesn't pin pnpm; read the version from instructure-ui's
+          # `packageManager` field instead of the default `./package.json`.
+          package_json_file: instructure-ui/package.json
+
+      - name: Install Node 24
+        if: github.event.action != 'closed'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'pnpm'
+          cache-dependency-path: instructure-ui/pnpm-lock.yaml
+
+      - name: Install and bootstrap instructure-ui
+        if: github.event.action != 'closed'
+        working-directory: instructure-ui
+        # --no-frozen-lockfile because we just rewrote the tokens dep spec.
+        run: pnpm install --no-frozen-lockfile && pnpm run bootstrap
+
+      - name: Build docs-app
+        if: github.event.action != 'closed'
+        working-directory: instructure-ui
+        run: pnpm run build:docs
+
+      - uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: ./instructure-ui/packages/__docs__/__build__
+          preview-branch: gh-pages
+          umbrella-dir: pr-preview
+          pages-base-url: instructure.github.io/instructure-design-tokens
+          action: auto
