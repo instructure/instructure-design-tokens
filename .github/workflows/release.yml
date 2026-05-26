@@ -1,0 +1,30 @@
+name: Release
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Compute next minor tag
+        id: next
+        run: |
+          latest=$(git describe --tags --abbrev=0)
+          ver=${latest#v}
+          IFS=. read -r major minor _ <<< "$ver"
+          new="v${major}.$((minor + 1)).0"
+          echo "tag=$new" >> "$GITHUB_OUTPUT"
+
+      - name: Tag and push
+        run: |
+          git tag "${{ steps.next.outputs.tag }}"
+          git push origin "${{ steps.next.outputs.tag }}"
