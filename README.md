@@ -123,3 +123,27 @@ tokenStudio/
         ├── BaseButton.json
         └── ...
 ```
+
+## Release process
+
+Releases are cut with the [Release workflow](.github/workflows/release.yml), which is triggered manually.
+
+1. Go to the repository's **Actions** tab on GitHub.
+2. Select the **Release** workflow.
+3. Click **Run workflow** and choose the `main` branch.
+
+The workflow then:
+
+- Checks out the latest `main`.
+- Reads the most recent version tag (e.g. `v1.2.0`) and computes the next **minor** version by bumping the minor number and resetting the patch to `0` (e.g. `v1.2.0` → `v1.3.0`).
+- Creates that git tag and pushes it to the repository.
+
+Consumers installing via `github:instructure/instructure-design-tokens` can pin to a specific release by referencing the tag:
+
+```json
+"dependencies": {
+  "@instructure/instructure-design-tokens": "github:instructure/instructure-design-tokens#v1.3.0"
+}
+```
+
+> **Note:** the workflow only bumps the minor version — it does not support patch or major releases, and it creates a git tag only (it does not publish to npm or create a GitHub Release). The first release requires at least one existing `vX.Y.Z` tag to bump from.
