@@ -18,6 +18,10 @@ jobs:
       - name: Compute next minor tag
         id: next
         run: |
+          if existing=$(git describe --tags --exact-match HEAD 2>/dev/null); then
+            echo "::error::HEAD is already released as ${existing}; refusing to tag an already-tagged commit"
+            exit 1
+          fi
           latest=$(git describe --tags --abbrev=0)
           ver=${latest#v}
           IFS=. read -r major minor _ <<< "$ver"
