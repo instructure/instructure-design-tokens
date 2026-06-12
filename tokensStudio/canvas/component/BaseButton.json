@@ -4,14 +4,6 @@
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
-    "primaryColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
-      "type": "color"
-    },
-    "primaryBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color"
-    },
     "primaryHoverBackground": {
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color",
@@ -25,44 +17,89 @@
         }
       }
     },
+    "primaryActiveBackground": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "primaryDisabledBackgroundColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color"
+    },
+    "primaryBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
     "primaryHoverBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.primary.hover}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "primaryActiveBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "primaryDisabledBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "primaryColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
       "type": "color"
     },
     "primaryHoverTextColor": {
       "value": "{semantic.color.text.interactive.action.primary.hover}",
       "type": "color"
     },
-    "primaryActiveBackground": {
-      "value": "{semantic.color.background.interactive.action.primary.active}",
-      "type": "color"
-    },
-    "primaryActiveBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.primary.active}",
-      "type": "color"
-    },
     "primaryActiveTextColor": {
       "value": "{semantic.color.text.interactive.action.primary.active}",
       "type": "color"
     },
-    "primaryDisabledBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.primary.disabled}",
-      "type": "color"
-    },
-    "primaryDisabledBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.primary.disabled}",
-      "type": "color"
-    },
     "primaryDisabledTextColor": {
       "value": "{semantic.color.text.interactive.action.primary.disabled}",
-      "type": "color"
-    },
-    "primaryGhostActiveBackground": {
-      "value": "{semantic.color.background.interactive.action.tertiary.active}",
-      "type": "color"
-    },
-    "primaryGhostBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.tertiary.base}",
       "type": "color"
     },
     "primaryGhostColor": {
@@ -71,6 +108,14 @@
     },
     "primaryGhostHoverBackground": {
       "value": "{semantic.color.background.interactive.action.tertiary.hover}",
+      "type": "color"
+    },
+    "primaryGhostActiveBackground": {
+      "value": "{semantic.color.background.interactive.action.tertiary.active}",
+      "type": "color"
+    },
+    "primaryGhostBorderColor": {
+      "value": "{semantic.color.stroke.interactive.action.tertiary.base}",
       "type": "color"
     },
     "primaryInverseActiveBackground": {
