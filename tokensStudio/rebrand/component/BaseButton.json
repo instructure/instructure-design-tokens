@@ -580,7 +580,7 @@
       "type": "opacity"
     },
     "opacityDisabled": {
-      "value": "{semantic.opacity.base}",
+      "value": "{semantic.opacity.disabled}",
       "type": "opacity"
     },
     "tertiaryActiveBorderColor": {
