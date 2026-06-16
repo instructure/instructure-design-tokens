@@ -2089,12 +2089,20 @@
           "value": "{color.blue.blue130}",
           "type": "color"
         },
+        "brandButtonPrimaryText": {
+          "value": "{color.white}",
+          "type": "color"
+        },
         "brandButtonPrimaryBgd": {
           "value": "{color.blue.blue130}",
           "type": "color"
         },
-        "brandButtonPrimaryText": {
-          "value": "{color.white}",
+        "brandButtonSecondaryBgd": {
+          "value": "{color.grey.grey10}",
+          "type": "color"
+        },
+        "brandButtonSecondaryText": {
+          "value": "{color.grey.grey170}",
           "type": "color"
         },
         "brandGlobalNavBgd": {
