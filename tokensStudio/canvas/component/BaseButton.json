@@ -182,49 +182,115 @@
       "value": "{semantic.color.text.interactive.action.primaryOnColor.hover}",
       "type": "color"
     },
-    "secondaryActiveBackground": {
-      "value": "{semantic.color.background.interactive.action.secondary.active}",
-      "type": "color"
-    },
-    "secondaryActiveBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.active}",
-      "type": "color"
-    },
-    "secondaryActiveTextColor": {
-      "value": "{semantic.color.text.interactive.action.secondary.active}",
-      "type": "color"
-    },
     "secondaryBackground": {
-      "value": "{semantic.color.background.interactive.action.secondary.base}",
-      "type": "color"
-    },
-    "secondaryBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.base}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color"
     },
     "secondaryColor": {
-      "value": "{semantic.color.text.interactive.action.secondary.base}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
+    },
+    "secondaryBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "secondaryHoverBackground": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "secondaryHoverTextColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
+      "type": "color"
+    },
+    "secondaryHoverBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "secondaryActiveBackground": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "secondaryActiveTextColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
+      "type": "color"
+    },
+    "secondaryActiveBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "secondaryDisabledBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.secondary.disabled}",
-      "type": "color"
-    },
-    "secondaryDisabledBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.disabled}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color"
     },
     "secondaryDisabledTextColor": {
-      "value": "{semantic.color.text.interactive.action.secondary.disabled}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
-    "secondaryGhostBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.base}",
+    "secondaryDisabledBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color",
-      "description": "This token is not used in design, kept only for backward compatibility reasons."
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "secondaryGhostColor": {
       "value": "{semantic.color.text.interactive.action.secondary.base}",
+      "type": "color",
+      "description": "This token is not used in design, kept only for backward compatibility reasons."
+    },
+    "secondaryGhostBorderColor": {
+      "value": "{semantic.color.stroke.interactive.action.secondary.base}",
       "type": "color",
       "description": "This token is not used in design, kept only for backward compatibility reasons."
     },
@@ -232,18 +298,6 @@
       "value": "{semantic.color.background.interactive.action.secondary.hover}",
       "type": "color",
       "description": "This token is not used in design, kept only for backward compatibility reasons."
-    },
-    "secondaryHoverBackground": {
-      "value": "{semantic.color.background.interactive.action.secondary.hover}",
-      "type": "color"
-    },
-    "secondaryHoverBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.hover}",
-      "type": "color"
-    },
-    "secondaryHoverTextColor": {
-      "value": "{semantic.color.text.interactive.action.secondary.hover}",
-      "type": "color"
     },
     "secondaryOnColorActiveBorderColor": {
       "value": "{semantic.color.stroke.interactive.action.secondaryOnColor.active}",

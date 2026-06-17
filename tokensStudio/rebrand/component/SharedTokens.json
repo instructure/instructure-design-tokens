@@ -651,7 +651,8 @@
       },
       "visualSeparator": {
         "value": "{semantic.color.background.container}",
-        "type": "color"
+        "type": "color",
+        "description": "Defines visual boundaries between chart elements."
       }
     },
     "strokeWidth": {
