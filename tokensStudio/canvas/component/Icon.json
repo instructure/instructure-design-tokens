@@ -149,19 +149,19 @@
       "type": "color"
     },
     "actionSecondaryBaseColor": {
-      "value": "{semantic.color.icon.interactive.action.secondary.base}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
     "actionSecondaryHoverColor": {
-      "value": "{semantic.color.icon.interactive.action.secondary.hover}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
     "actionSecondaryActiveColor": {
-      "value": "{semantic.color.icon.interactive.action.secondary.active}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
     "actionSecondaryDisabledColor": {
-      "value": "{semantic.color.icon.interactive.action.secondary.disabled}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
     "actionStatusBaseColor": {
