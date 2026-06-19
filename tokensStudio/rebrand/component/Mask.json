@@ -3,6 +3,10 @@
     "backgroundColor": {
       "value": "{semantic.color.background.overlay.base}",
       "type": "color"
+    },
+    "zIndex": {
+      "value": 9999,
+      "type": "number"
     }
   }
 }
