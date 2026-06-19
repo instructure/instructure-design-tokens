@@ -42,48 +42,25 @@
         }
       },
       "breakpoints": {
-        "xxs": {
-          "value": "8em",
-          "type": "sizing"
-        },
-        "xs": {
-          "value": "16em",
-          "type": "sizing"
-        },
         "sm": {
           "value": "30em",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "Compact layouts stack here. Typical for phones in portrait orientation."
         },
         "md": {
           "value": "48em",
           "type": "sizing",
-          "description": "Tablet"
+          "description": "The point where single-column layouts typically become two-column. Typical for tablets and large phones in landscape."
         },
         "lg": {
-          "value": "62em",
-          "type": "sizing"
-        },
-        "desktop": {
           "value": "64em",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "Multi-column and side-by-side layouts are practical. Typical for laptops and standard desktop screens."
         },
         "xl": {
-          "value": "75em",
-          "type": "sizing"
-        }
-      },
-      "media": {
-        "mediumMin": {
-          "value": "48em",
-          "type": "sizing"
-        },
-        "largeMin": {
-          "value": "62em",
-          "type": "sizing"
-        },
-        "xLargeMin": {
-          "value": "75em",
-          "type": "sizing"
+          "value": "80em",
+          "type": "sizing",
+          "description": "Content areas have more room. Typical for large monitors where layouts can use wider columns and more generous spacing."
         }
       }
     },
