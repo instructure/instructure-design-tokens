@@ -308,17 +308,8 @@
       "description": "This token is not used in design, kept only for backward compatibility reasons."
     },
     "secondaryGhostBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.1",
-            "space": "hsl"
-          }
-        }
-      },
       "description": "This token is not used in design, kept only for backward compatibility reasons."
     },
     "secondaryGhostHoverBackground": {
