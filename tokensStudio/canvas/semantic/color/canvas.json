@@ -289,7 +289,7 @@
                 "type": "color"
               },
               "active": {
-                "value": "{color.blue.blue20}",
+                "value": "{color.transparent}",
                 "type": "color"
               }
             },
@@ -2095,6 +2095,14 @@
         },
         "brandButtonPrimaryText": {
           "value": "{color.white}",
+          "type": "color"
+        },
+        "brandButtonSecondaryBgd": {
+          "value": "{color.grey.grey10}",
+          "type": "color"
+        },
+        "brandButtonSecondaryText": {
+          "value": "{color.grey.grey170}",
           "type": "color"
         },
         "brandGlobalNavBgd": {

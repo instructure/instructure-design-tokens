@@ -1,5 +1,27 @@
 {
   "sharedTokens": {
+    "breakpoints": {
+      "sm": {
+        "value": "{semantic.breakpoints.sm}",
+        "type": "sizing",
+        "description": "Compact layouts stack here. Typical for phones in portrait orientation."
+      },
+      "md": {
+        "value": "{semantic.breakpoints.md}",
+        "type": "sizing",
+        "description": "The point where single-column layouts typically become two-column. Typical for tablets and large phones in landscape."
+      },
+      "lg": {
+        "value": "{semantic.breakpoints.lg}",
+        "type": "sizing",
+        "description": "Multi-column and side-by-side layouts are practical. Typical for laptops and standard desktop screens."
+      },
+      "xl": {
+        "value": "{semantic.breakpoints.xl}",
+        "type": "sizing",
+        "description": "Content areas have more room. Typical for large monitors where layouts can use wider columns and more generous spacing."
+      }
+    },
     "borderRadius": {
       "xs": {
         "value": "{semantic.borderRadius.xs}",
@@ -652,7 +674,8 @@
       },
       "visualSeparator": {
         "value": "{semantic.color.background.container}",
-        "type": "color"
+        "type": "color",
+        "description": "Defines visual boundaries between chart elements."
       }
     },
     "strokeWidth": {

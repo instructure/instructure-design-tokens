@@ -2102,6 +2102,14 @@
           "value": "{color.navy.navy170}",
           "type": "color"
         },
+        "brandButtonSecondaryBgd": {
+          "value": "{color.navy.navy130}",
+          "type": "color"
+        },
+        "brandButtonSecondaryText": {
+          "value": "{color.white}",
+          "type": "color"
+        },
         "brandGlobalNavBgd": {
           "value": "{color.grey.grey170}",
           "type": "color"
