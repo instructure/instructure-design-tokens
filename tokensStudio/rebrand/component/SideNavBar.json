@@ -128,16 +128,16 @@
       "value": "{semantic.color.stroke.interactive.focusRing.base}",
       "type": "color"
     },
-    "selectedInnerFocusOutlineColor": {
-      "value": "{semantic.color.icon.inverse}",
-      "type": "color"
-    },
     "outerFocusOutlineColor": {
       "value": "{semantic.color.transparentColor}",
       "type": "color"
     },
+    "selectedInnerFocusOutlineColor": {
+      "value": "{semantic.color.icon.inverse}",
+      "type": "color"
+    },
     "selectedOuterFocusOutlineColor": {
-      "value": "{semantic.color.transparentColor}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     }
   }
