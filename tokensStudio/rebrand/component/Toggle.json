@@ -89,7 +89,7 @@
       "type": "color"
     },
     "labelDisabledColor": {
-      "value": "{semantic.color.institutional.brandFontColorDark}",
+      "value": "{semantic.color.text.interactive.disabled.base}",
       "type": "color"
     },
     "uncheckedIconBorderColor": {

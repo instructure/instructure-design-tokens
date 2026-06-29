@@ -161,7 +161,7 @@
       "type": "color"
     },
     "actionSecondaryDisabledColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
+      "value": "{semantic.color.icon.interactive.action.secondary.disabled}",
       "type": "color"
     },
     "actionStatusBaseColor": {
@@ -217,7 +217,7 @@
       "type": "color"
     },
     "actionPrimaryDisabledColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
+      "value": "{semantic.color.icon.interactive.action.primary.disabled}",
       "type": "color"
     },
     "actionPrimaryOnColorBaseColor": {
