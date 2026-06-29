@@ -64,34 +64,34 @@
       "type": "color"
     },
     "primaryGhostActiveBackground": {
-      "value": "{semantic.color.background.interactive.action.tertiary.active}",
-      "type": "color"
-    },
-    "primaryGhostBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "darken",
-            "value": "0.1",
+            "type": "alpha",
+            "value": "0.5",
             "space": "hsl"
           }
         }
       }
+    },
+    "primaryGhostBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color"
     },
     "primaryGhostColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
     "primaryGhostHoverBackground": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.1",
+            "value": "0.2",
             "space": "hsl"
           }
         }
@@ -211,7 +211,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.2",
+            "value": "0.1",
             "space": "hsl"
           }
         }
@@ -227,16 +227,7 @@
     },
     "secondaryBorderColor": {
       "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.1",
-            "space": "hsl"
-          }
-        }
-      }
+      "type": "color"
     },
     "secondaryColor": {
       "value": "{semantic.color.institutional.brandButtonSecondaryText}",
@@ -275,7 +266,7 @@
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "darken",
+            "type": "lighten",
             "value": "0.1",
             "space": "hsl"
           }
@@ -288,8 +279,8 @@
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "darken",
-            "value": "0.2",
+            "type": "lighten",
+            "value": "0.1",
             "space": "hsl"
           }
         }
@@ -692,11 +683,11 @@
       "type": "opacity"
     },
     "tertiaryActiveBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.tertiary.active}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color"
     },
     "tertiaryActiveTextColor": {
-      "value": "{semantic.color.text.interactive.action.tertiary.active}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
     "tertiaryDisabledBorderColor": {
@@ -708,11 +699,11 @@
       "type": "color"
     },
     "tertiaryHoverBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.tertiary.hover}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color"
     },
     "tertiaryHoverTextColor": {
-      "value": "{semantic.color.text.interactive.action.tertiary.hover}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
     "dangerBoxShadow": {
