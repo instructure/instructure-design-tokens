@@ -49,11 +49,11 @@
       "type": "borderWidth"
     },
     "textColor": {
-      "value": "{semantic.color.text.interactive.input.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "textReadonlyColor": {
-      "value": "{semantic.color.text.interactive.input.readonly}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "textDisabledColor": {

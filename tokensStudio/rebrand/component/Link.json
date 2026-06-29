@@ -1,7 +1,7 @@
 {
   "link": {
     "textColor": {
-      "value": "{semantic.color.text.interactive.navigation.primary.base}",
+      "value": "{semantic.color.institutional.linkColor}",
       "type": "color"
     },
     "textHoverColor": {

@@ -21,7 +21,7 @@
       "type": "color"
     },
     "borderHoverColor": {
-      "value": "{semantic.color.stroke.interactive.input.hover}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "borderReadonlyColor": {
@@ -89,11 +89,11 @@
       "type": "borderWidth"
     },
     "labelBaseColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "labelHoverColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "labelDisabledColor": {

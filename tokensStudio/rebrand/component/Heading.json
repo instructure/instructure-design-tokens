@@ -81,7 +81,7 @@
       "type": "borderWidth"
     },
     "baseColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "baseOnColor": {

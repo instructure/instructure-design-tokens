@@ -17,7 +17,7 @@
       "type": "color"
     },
     "backgroundCheckedColor": {
-      "value": "{semantic.color.background.interactive.input.selected}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "borderColor": {
@@ -49,7 +49,7 @@
       "type": "color"
     },
     "borderCheckedColor": {
-      "value": "{semantic.color.stroke.interactive.input.selected}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "fontSizeSm": {
@@ -101,11 +101,11 @@
       "type": "borderWidth"
     },
     "labelBaseColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "labelHoverColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "labelDisabledColor": {
@@ -113,7 +113,7 @@
       "type": "color"
     },
     "labelReadonlyColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "controlVerticalMargin": {
