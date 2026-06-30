@@ -73,36 +73,90 @@
       "type": "sizing"
     },
     "arrowsBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.secondary.base}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color"
     },
     "arrowsBackgroundHoverColor": {
-      "value": "{semantic.color.background.interactive.action.secondary.hover}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "arrowsBackgroundActiveColor": {
-      "value": "{semantic.color.background.interactive.action.secondary.active}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "arrowsBackgroundDisabledColor": {
-      "value": "{semantic.color.background.interactive.action.secondary.disabled}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color"
     },
     "arrowsBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.base}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "arrowsBorderHoverColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.hover}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "arrowsBorderActiveColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.active}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "arrowsBorderDisabledColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.disabled}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "lch"
+          }
+        }
+      }
     },
     "fontFamily": {
       "value": "{semantic.fontFamily.base}",

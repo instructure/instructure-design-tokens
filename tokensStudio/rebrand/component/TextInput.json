@@ -73,23 +73,41 @@
       "type": "sizing"
     },
     "arrowsBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.secondary.base}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color"
     },
     "arrowsBackgroundHoverColor": {
-      "value": "{semantic.color.background.interactive.action.secondary.hover}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "arrowsBackgroundActiveColor": {
       "value": "{semantic.color.background.interactive.action.secondary.active}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "arrowsBackgroundDisabledColor": {
       "value": "{semantic.color.background.interactive.action.secondary.disabled}",
       "type": "color"
     },
     "arrowsBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.base}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color"
     },
     "fontFamily": {
@@ -141,12 +159,30 @@
       "type": "spacing"
     },
     "arrowsBorderHoverColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.hover}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "arrowsBorderActiveColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondary.active}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "arrowsBorderDisabledColor": {
       "value": "{semantic.color.stroke.interactive.action.secondary.disabled}",
