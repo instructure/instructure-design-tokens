@@ -64,34 +64,43 @@
       "type": "color"
     },
     "primaryGhostActiveBackground": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.5",
+            "value": "0.15",
             "space": "hsl"
           }
         }
       }
     },
     "primaryGhostBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.3",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "primaryGhostColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
     "primaryGhostHoverBackground": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.2",
+            "value": "0.1",
             "space": "hsl"
           }
         }
@@ -683,11 +692,20 @@
       "type": "opacity"
     },
     "tertiaryActiveBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.3",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "tertiaryActiveTextColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
     "tertiaryDisabledBorderColor": {
@@ -699,11 +717,20 @@
       "type": "color"
     },
     "tertiaryHoverBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.3",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "tertiaryHoverTextColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
     "dangerBoxShadow": {
