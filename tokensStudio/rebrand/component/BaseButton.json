@@ -36,16 +36,7 @@
     },
     "primaryBorderColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.1",
-            "space": "hsl"
-          }
-        }
-      }
+      "type": "color"
     },
     "primaryColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryText}",
