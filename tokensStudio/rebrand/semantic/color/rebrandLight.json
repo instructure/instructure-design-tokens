@@ -2103,8 +2103,17 @@
           "type": "color"
         },
         "brandButtonSecondaryBgd": {
-          "value": "{color.navy.navy30}",
-          "type": "color"
+          "value": "{color.navy.navy110}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "hsl"
+              }
+            }
+          }
         },
         "brandButtonSecondaryText": {
           "value": "{color.navy.navy170}",

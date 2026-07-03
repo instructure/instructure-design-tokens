@@ -120,8 +120,17 @@
       }
     },
     "primaryGhostActiveBackground": {
-      "value": "{semantic.color.transparentColor}",
-      "type": "color"
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "primaryGhostBorderColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
@@ -295,7 +304,7 @@
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "lighten",
+            "type": "darken",
             "value": "0.1",
             "space": "hsl"
           }
@@ -308,17 +317,8 @@
       "description": "This token is not used in design, kept only for backward compatibility reasons."
     },
     "secondaryGhostBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.1",
-            "space": "hsl"
-          }
-        }
-      },
       "description": "This token is not used in design, kept only for backward compatibility reasons."
     },
     "secondaryGhostHoverBackground": {
@@ -719,27 +719,27 @@
       "type": "opacity"
     },
     "tertiaryActiveBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.tertiary.active}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
     "tertiaryActiveTextColor": {
-      "value": "{semantic.color.text.interactive.action.tertiary.active}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
     "tertiaryDisabledBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.tertiary.disabled}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
     "tertiaryDisabledTextColor": {
-      "value": "{semantic.color.text.interactive.action.tertiary.disabled}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
     "tertiaryHoverBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.tertiary.hover}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
     "tertiaryHoverTextColor": {
-      "value": "{semantic.color.text.interactive.action.tertiary.hover}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
     "dangerBoxShadow": {

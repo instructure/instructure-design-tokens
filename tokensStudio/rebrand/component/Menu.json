@@ -27,7 +27,7 @@
       "type": "fontWeights"
     },
     "color": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "paddingHorizontal": {
@@ -41,7 +41,7 @@
   },
   "menuItem": {
     "activeBackground": {
-      "value": "{semantic.color.background.interactive.action.primary.base}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "activeLabelColor": {
@@ -70,7 +70,7 @@
       "description": "code only token"
     },
     "labelColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "labelInfoColor": {

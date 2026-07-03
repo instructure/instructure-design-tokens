@@ -1,7 +1,7 @@
 {
   "formFieldLayout": {
     "textColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "readonlyTextColor": {
@@ -31,10 +31,6 @@
     "gapPrimitives": {
       "value": "{semantic.spacing.gap.inputElements}",
       "type": "spacing"
-    },
-    "stackedOrInlineBreakpoint": {
-      "value": "48em",
-      "type": "sizing"
     },
     "gapInputs": {
       "value": "0.75rem",

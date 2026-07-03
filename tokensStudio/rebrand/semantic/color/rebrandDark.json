@@ -1783,9 +1783,7 @@
           "value": "{color.navy.navy10}",
           "type": "color",
           "$extensions": {
-            "com.figma.scopes": [
-              "STROKE_COLOR"
-            ]
+            "com.figma.scopes": ["STROKE_COLOR"]
           }
         },
         "interactive": {
@@ -2103,8 +2101,17 @@
           "type": "color"
         },
         "brandButtonSecondaryBgd": {
-          "value": "{color.navy.navy130}",
-          "type": "color"
+          "value": "{color.navy.navy60}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
+                "space": "hsl"
+              }
+            }
+          }
         },
         "brandButtonSecondaryText": {
           "value": "{color.white}",

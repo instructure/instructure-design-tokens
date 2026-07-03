@@ -73,7 +73,7 @@
       "type": "borderWidth"
     },
     "baseColor": {
-      "value": "{semantic.color.icon.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "mutedColor": {
@@ -117,11 +117,11 @@
       "type": "color"
     },
     "sideNavColor": {
-      "value": "{semantic.color.icon.brand}",
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
       "type": "color"
     },
     "sideNavActiveColor": {
-      "value": "{semantic.color.icon.inverse}",
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
       "type": "color"
     },
     "navigationPrimaryBaseColor": {
@@ -149,15 +149,15 @@
       "type": "color"
     },
     "actionSecondaryBaseColor": {
-      "value": "{semantic.color.icon.interactive.action.secondary.base}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
     "actionSecondaryHoverColor": {
-      "value": "{semantic.color.icon.interactive.action.secondary.hover}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
     "actionSecondaryActiveColor": {
-      "value": "{semantic.color.icon.interactive.action.secondary.active}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
     "actionSecondaryDisabledColor": {
@@ -205,15 +205,15 @@
       "type": "color"
     },
     "actionPrimaryBaseColor": {
-      "value": "{semantic.color.icon.interactive.action.primary.base}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
       "type": "color"
     },
     "actionPrimaryHoverColor": {
-      "value": "{semantic.color.icon.interactive.action.primary.hover}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
       "type": "color"
     },
     "actionPrimaryActiveColor": {
-      "value": "{semantic.color.icon.interactive.action.primary.active}",
+      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
       "type": "color"
     },
     "actionPrimaryDisabledColor": {

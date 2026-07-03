@@ -1,7 +1,7 @@
 {
   "sideNavBar": {
     "backgroundColor": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
     },
     "fill": {
@@ -9,7 +9,7 @@
       "type": "color"
     },
     "fontColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
       "type": "color"
     },
     "minimizedWidth": {
@@ -89,7 +89,7 @@
       "type": "spacing"
     },
     "fontColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
       "type": "color"
     },
     "fontFamily": {
@@ -105,7 +105,7 @@
       "type": "fontWeights"
     },
     "hoverBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
+      "value": "{semantic.color.institutional.globalNavLinkHover}",
       "type": "color"
     },
     "lineHeight": {
@@ -117,27 +117,27 @@
       "type": "other"
     },
     "selectedBackgroundColor": {
-      "value": "{semantic.color.background.brand}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "selectedFontColor": {
-      "value": "{semantic.color.text.inverse}",
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
       "type": "color"
     },
     "innerFocusOutlineColor": {
       "value": "{semantic.color.stroke.interactive.focusRing.base}",
       "type": "color"
     },
-    "selectedInnerFocusOutlineColor": {
-      "value": "{semantic.color.icon.inverse}",
-      "type": "color"
-    },
     "outerFocusOutlineColor": {
       "value": "{semantic.color.transparentColor}",
       "type": "color"
     },
+    "selectedInnerFocusOutlineColor": {
+      "value": "{semantic.color.icon.inverse}",
+      "type": "color"
+    },
     "selectedOuterFocusOutlineColor": {
-      "value": "{semantic.color.transparentColor}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     }
   }

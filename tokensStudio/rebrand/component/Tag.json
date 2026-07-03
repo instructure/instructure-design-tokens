@@ -33,7 +33,7 @@
       "type": "borderWidth"
     },
     "defaultColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "inlineColor": {

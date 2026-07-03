@@ -1,7 +1,7 @@
 {
   "formFieldMessage": {
     "hintTextColor": {
-      "value": "{semantic.color.text.muted}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "errorTextColor": {

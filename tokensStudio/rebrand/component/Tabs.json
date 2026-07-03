@@ -35,7 +35,7 @@
       "type": "color"
     },
     "textColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "borderWidth": {
@@ -65,7 +65,7 @@
   },
   "tabsTab": {
     "defaultTextColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "defaultHoverBorderColor": {
@@ -73,7 +73,7 @@
       "type": "color"
     },
     "defaultSelectedBorderColor": {
-      "value": "{semantic.color.stroke.brand}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "fontFamily": {
@@ -93,7 +93,7 @@
       "type": "lineHeights"
     },
     "secondaryTextColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "secondarySelectedTextColor": {
