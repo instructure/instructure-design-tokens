@@ -6,7 +6,8 @@
     },
     "lineHeight": {
       "value": "{semantic.lineHeight.paragraph.base}",
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "description": "Only use % values here."
     }
   }
 }
