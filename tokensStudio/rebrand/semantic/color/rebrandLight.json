@@ -2124,7 +2124,7 @@
           "type": "color"
         },
         "globalNavLinkHover": {
-          "value": "{color.grey.grey170}",
+          "value": "{color.navy.navy10}",
           "type": "color"
         },
         "brandGlobalNavMenuItemTextColor": {
