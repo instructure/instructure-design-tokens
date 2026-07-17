@@ -61,7 +61,7 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.1",
+            "value": "0.2",
             "space": "hsl"
           }
         }
@@ -74,7 +74,7 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.2",
+            "value": "0.4",
             "space": "hsl"
           }
         }
@@ -91,7 +91,7 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.05",
+            "value": "0.1",
             "space": "hsl"
           }
         }
@@ -257,6 +257,15 @@
     "secondaryGhostBorderColor": {
       "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      },
       "description": "This token is not used in design, kept only for backward compatibility reasons."
     },
     "secondaryGhostColor": {
@@ -739,7 +748,7 @@
     },
     "dangerGhostBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "dangerGhostBoxShadow": {
       "value": "none",
@@ -767,7 +776,7 @@
     },
     "primaryGhostBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "primaryHoverBoxShadow": {
       "value": "none",
@@ -779,7 +788,7 @@
     },
     "primaryInverseGhostBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "primaryInverseGhostBoxShadow": {
       "value": "none",
@@ -799,11 +808,11 @@
     },
     "secondaryGhostActiveBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "secondaryGhostBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "secondaryGhostBoxShadow": {
       "value": "none",
@@ -823,7 +832,7 @@
     },
     "successGhostBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "successGhostBoxShadow": {
       "value": "none",

@@ -3,10 +3,6 @@
     "fontFamily": {
       "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
-    },
-    "lineHeight": {
-      "value": "{semantic.lineHeight.paragraph.base}",
-      "type": "lineHeights"
     }
   }
 }

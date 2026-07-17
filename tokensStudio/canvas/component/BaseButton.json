@@ -748,7 +748,7 @@
     },
     "dangerGhostBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "dangerGhostBoxShadow": {
       "value": "none",
@@ -776,7 +776,7 @@
     },
     "primaryGhostBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "primaryHoverBoxShadow": {
       "value": "none",
@@ -788,7 +788,7 @@
     },
     "primaryInverseGhostBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "primaryInverseGhostBoxShadow": {
       "value": "none",
@@ -808,11 +808,11 @@
     },
     "secondaryGhostActiveBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "secondaryGhostBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "secondaryGhostBoxShadow": {
       "value": "none",
@@ -832,7 +832,7 @@
     },
     "successGhostBackground": {
       "value": "transparent",
-      "type": "text"
+      "type": "color"
     },
     "successGhostBoxShadow": {
       "value": "none",
