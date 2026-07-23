@@ -111,6 +111,10 @@
     "inlineIconHoverColor": {
       "value": "{semantic.color.background.interactive.action.primary.hover}",
       "type": "color"
+    },
+    "leadElementLabel": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
     }
   }
 }
