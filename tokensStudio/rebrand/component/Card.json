@@ -1,0 +1,104 @@
+{
+  "card": {
+    "borderRadius": {
+      "base": {
+        "sm": {
+          "value": "0.75rem",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "{semantic.borderRadius.container.md}",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "{semantic.borderRadius.container.md}",
+          "type": "borderRadius"
+        }
+      },
+      "nested": {
+        "sm": {
+          "value": "{semantic.borderRadius.md}",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "{semantic.borderRadius.md}",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "{semantic.borderRadius.lg}",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "padding": {
+      "base": {
+        "sm": {
+          "value": "{semantic.spacing.padding.container.sm}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{semantic.spacing.padding.container.md}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{semantic.spacing.padding.container.lg}",
+          "type": "spacing"
+        }
+      },
+      "nested": {
+        "sm": {
+          "value": "{semantic.spacing.padding.container.xxs}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{semantic.spacing.padding.container.xs}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{semantic.spacing.padding.container.sm}",
+          "type": "spacing"
+        }
+      }
+    },
+    "boxShadow": {
+      "value": [
+        {
+          "x": "{semantic.dropShadow.x.elevation1.dropshadow1}",
+          "y": "{semantic.dropShadow.y.elevation1.dropshadow1}",
+          "blur": "{semantic.dropShadow.blur.elevation1.dropshadow1}",
+          "spread": "{semantic.dropShadow.spread.elevation1.dropshadow1}",
+          "color": "{semantic.color.dropShadow.shadowColor1}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "{semantic.dropShadow.x.elevation1.dropshadow1}",
+          "y": "{semantic.dropShadow.y.elevation1.dropshadow2}",
+          "blur": "{semantic.dropShadow.blur.elevation1.dropshadow2}",
+          "spread": "{semantic.dropShadow.spread.elevation1.dropshadow2}",
+          "color": "{semantic.color.dropShadow.shadowColor2}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Elevated base surfaces: Persistent UI and everyday interactive surfaces like navigation, cards, inputs, and buttons."
+    },
+    "backgroundColor": {
+      "value": "{semantic.color.background.container}",
+      "type": "color"
+    },
+    "nestedBorderColor": {
+      "value": "{semantic.color.stroke.muted}",
+      "type": "color"
+    },
+    "breakpoint": {
+      "md": {
+        "value": "20rem",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "40rem",
+        "type": "sizing"
+      }
+    }
+  }
+}
