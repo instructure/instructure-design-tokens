@@ -1,0 +1,125 @@
+{
+  "banner": {
+    "borderRadius": {
+      "value": "{semantic.borderRadius.container.md}",
+      "type": "borderRadius"
+    },
+    "relaxedIconBorderRadius": {
+      "value": "{semantic.borderRadius.lg}",
+      "type": "borderRadius"
+    },
+    "compactIconBorderRadius": {
+      "value": "{semantic.borderRadius.md}",
+      "type": "borderRadius"
+    },
+    "borderStyle": {
+      "value": "solid",
+      "type": "other"
+    },
+    "borderWidth": {
+      "value": "{semantic.borderWidth.sm}",
+      "type": "borderWidth"
+    },
+    "color": {
+      "value": "{semantic.color.institutional.brandFontColorDark}",
+      "type": "color"
+    },
+    "contentFontFamily": {
+      "value": "{semantic.fontFamily.base}",
+      "type": "fontFamilies"
+    },
+    "contentFontSize": {
+      "value": "{semantic.fontSize.textBase}",
+      "type": "fontSizes"
+    },
+    "contentFontWeight": {
+      "value": "{semantic.fontWeight.body.base}",
+      "type": "fontWeights"
+    },
+    "contentLineHeight": {
+      "value": "{semantic.lineHeight.standalone.base}",
+      "type": "lineHeights"
+    },
+    "borderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "iconColor": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "violetBackground": {
+      "value": "{semantic.color.background.pastel.violet}",
+      "type": "color"
+    },
+    "violetIconBackground": {
+      "value": "{semantic.color.background.accent.violet}",
+      "type": "color"
+    },
+    "seaBackground": {
+      "value": "{semantic.color.background.pastel.sea}",
+      "type": "color"
+    },
+    "seaIconBackground": {
+      "value": "{semantic.color.background.accent.sea}",
+      "type": "color"
+    },
+    "aiBackgroundTopGradientColor": {
+      "value": "{semantic.color.background.interactive.action.aiSecondary.active.topGradient}",
+      "type": "color"
+    },
+    "aiBackgroundBottomGradientColor": {
+      "value": "{semantic.color.background.interactive.action.aiSecondary.active.bottomGradient}",
+      "type": "color"
+    },
+    "relaxed": {
+      "paddingVertical": {
+        "value": "{semantic.spacing.spaceXl}",
+        "type": "spacing"
+      },
+      "paddingHorizontal": {
+        "value": "{semantic.spacing.spaceXl}",
+        "type": "spacing"
+      },
+      "contentGapHorizontal": {
+        "value": "{semantic.spacing.spaceLg}",
+        "type": "spacing"
+      }
+    },
+    "closeButtonMarginTop": {
+      "value": "0.5rem",
+      "type": "spacing"
+    },
+    "closeButtonMarginRight": {
+      "value": "0.5rem",
+      "type": "spacing"
+    },
+    "contentGapVertical": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "compact": {
+      "contentGapHorizontal": {
+        "value": "{semantic.spacing.spaceSm}",
+        "type": "spacing"
+      },
+      "paddingHorizontal": {
+        "value": "{semantic.spacing.spaceMd}",
+        "type": "spacing"
+      },
+      "paddingVertical": {
+        "value": "{semantic.spacing.spaceMd}",
+        "type": "spacing"
+      }
+    }
+  }
+}
