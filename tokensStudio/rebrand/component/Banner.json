@@ -24,22 +24,6 @@
       "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
-    "contentFontFamily": {
-      "value": "{semantic.fontFamily.base}",
-      "type": "fontFamilies"
-    },
-    "contentFontSize": {
-      "value": "{semantic.fontSize.textBase}",
-      "type": "fontSizes"
-    },
-    "contentFontWeight": {
-      "value": "{semantic.fontWeight.body.base}",
-      "type": "fontWeights"
-    },
-    "contentLineHeight": {
-      "value": "{semantic.lineHeight.standalone.base}",
-      "type": "lineHeights"
-    },
     "borderColor": {
       "value": "{semantic.color.stroke.strong}",
       "type": "color",
@@ -81,19 +65,9 @@
       "value": "{semantic.color.background.interactive.action.aiSecondary.active.bottomGradient}",
       "type": "color"
     },
-    "relaxed": {
-      "paddingVertical": {
-        "value": "{semantic.spacing.spaceXl}",
-        "type": "spacing"
-      },
-      "paddingHorizontal": {
-        "value": "{semantic.spacing.spaceXl}",
-        "type": "spacing"
-      },
-      "contentGapHorizontal": {
-        "value": "{semantic.spacing.spaceLg}",
-        "type": "spacing"
-      }
+    "relaxedPaddingVertical": {
+      "value": "{semantic.spacing.spaceXl}",
+      "type": "spacing"
     },
     "closeButtonMarginTop": {
       "value": "0.5rem",
@@ -107,19 +81,25 @@
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
-    "compact": {
-      "contentGapHorizontal": {
-        "value": "{semantic.spacing.spaceSm}",
-        "type": "spacing"
-      },
-      "paddingHorizontal": {
-        "value": "{semantic.spacing.spaceMd}",
-        "type": "spacing"
-      },
-      "paddingVertical": {
-        "value": "{semantic.spacing.spaceMd}",
-        "type": "spacing"
-      }
+    "relaxedPaddingHorizontal": {
+      "value": "{semantic.spacing.spaceXl}",
+      "type": "spacing"
+    },
+    "relaxedContentGapHorizontal": {
+      "value": "{semantic.spacing.spaceLg}",
+      "type": "spacing"
+    },
+    "compactContentGapHorizontal": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "compactPaddingHorizontal": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "compactPaddingVertical": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
     }
   }
 }
