@@ -1,0 +1,25 @@
+name: Check tokens
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Check changed token files
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          files=$(git diff --name-only --no-renames "$BASE_SHA"...HEAD -- 'tokensStudio/**/*.json')
+          [ -n "$files" ] || { echo "No token files changed"; exit 0; }
+          echo "$files" | xargs node scripts/check-changed-tokens.js
