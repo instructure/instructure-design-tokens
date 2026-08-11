@@ -1,64 +1,52 @@
 {
   "card": {
-    "borderRadius": {
-      "base": {
-        "sm": {
-          "value": "{semantic.borderRadius.container.sm}",
-          "type": "borderRadius"
-        },
-        "md": {
-          "value": "{semantic.borderRadius.container.md}",
-          "type": "borderRadius"
-        },
-        "lg": {
-          "value": "{semantic.borderRadius.container.md}",
-          "type": "borderRadius"
-        }
-      },
-      "nested": {
-        "sm": {
-          "value": "{semantic.borderRadius.sm}",
-          "type": "borderRadius"
-        },
-        "md": {
-          "value": "{semantic.borderRadius.sm}",
-          "type": "borderRadius"
-        },
-        "lg": {
-          "value": "{semantic.borderRadius.md}",
-          "type": "borderRadius"
-        }
-      }
+    "borderRadiusBaseSm": {
+      "value": "{semantic.borderRadius.container.sm}",
+      "type": "borderRadius"
     },
-    "padding": {
-      "base": {
-        "sm": {
-          "value": "{semantic.spacing.padding.container.sm}",
-          "type": "spacing"
-        },
-        "md": {
-          "value": "{semantic.spacing.padding.container.md}",
-          "type": "spacing"
-        },
-        "lg": {
-          "value": "{semantic.spacing.padding.container.lg}",
-          "type": "spacing"
-        }
-      },
-      "nested": {
-        "sm": {
-          "value": "{semantic.spacing.padding.container.xxs}",
-          "type": "spacing"
-        },
-        "md": {
-          "value": "{semantic.spacing.padding.container.xs}",
-          "type": "spacing"
-        },
-        "lg": {
-          "value": "{semantic.spacing.padding.container.sm}",
-          "type": "spacing"
-        }
-      }
+    "borderRadiusBaseMd": {
+      "value": "{semantic.borderRadius.container.md}",
+      "type": "borderRadius"
+    },
+    "borderRadiusBaseLg": {
+      "value": "{semantic.borderRadius.container.md}",
+      "type": "borderRadius"
+    },
+    "borderRadiusNestedSm": {
+      "value": "{semantic.borderRadius.sm}",
+      "type": "borderRadius"
+    },
+    "borderRadiusNestedMd": {
+      "value": "{semantic.borderRadius.sm}",
+      "type": "borderRadius"
+    },
+    "borderRadiusNestedLg": {
+      "value": "{semantic.borderRadius.md}",
+      "type": "borderRadius"
+    },
+    "paddingBaseSm": {
+      "value": "{semantic.spacing.padding.container.xs}",
+      "type": "spacing"
+    },
+    "paddingBaseMd": {
+      "value": "{semantic.spacing.padding.container.sm}",
+      "type": "spacing"
+    },
+    "paddingBaseLg": {
+      "value": "{semantic.spacing.padding.container.md}",
+      "type": "spacing"
+    },
+    "paddingNestedSm": {
+      "value": "{semantic.spacing.padding.container.xxs}",
+      "type": "spacing"
+    },
+    "paddingNestedMd": {
+      "value": "{semantic.spacing.padding.container.xs}",
+      "type": "spacing"
+    },
+    "paddingNestedLg": {
+      "value": "{semantic.spacing.padding.container.sm}",
+      "type": "spacing"
     },
     "boxShadow": {
       "value": [
@@ -90,15 +78,13 @@
       "value": "{semantic.color.stroke.muted}",
       "type": "color"
     },
-    "breakpoint": {
-      "md": {
-        "value": "20rem",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "40rem",
-        "type": "sizing"
-      }
+    "breakpointMd": {
+      "value": "20rem",
+      "type": "sizing"
+    },
+    "breakpointLg": {
+      "value": "40rem",
+      "type": "sizing"
     }
   }
 }

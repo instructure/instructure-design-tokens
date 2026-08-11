@@ -1042,6 +1042,16 @@
               "type": "color"
             }
           }
+        },
+        "pastel": {
+          "violet": {
+            "value": "{color.violet.violet20}",
+            "type": "color"
+          },
+          "sea": {
+            "value": "{color.sea.sea20}",
+            "type": "color"
+          }
         }
       },
       "stroke": {
