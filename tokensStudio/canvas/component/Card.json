@@ -25,15 +25,15 @@
       "type": "borderRadius"
     },
     "paddingBaseSm": {
-      "value": "{semantic.spacing.padding.container.sm}",
+      "value": "{semantic.spacing.padding.container.xs}",
       "type": "spacing"
     },
     "paddingBaseMd": {
-      "value": "{semantic.spacing.padding.container.md}",
+      "value": "{semantic.spacing.padding.container.sm}",
       "type": "spacing"
     },
     "paddingBaseLg": {
-      "value": "{semantic.spacing.padding.container.lg}",
+      "value": "{semantic.spacing.padding.container.md}",
       "type": "spacing"
     },
     "paddingNestedSm": {
