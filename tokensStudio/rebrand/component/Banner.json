@@ -70,7 +70,7 @@
       "type": "spacing"
     },
     "contentGapVertical": {
-      "value": "{semantic.spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "relaxedPaddingHorizontal": {
