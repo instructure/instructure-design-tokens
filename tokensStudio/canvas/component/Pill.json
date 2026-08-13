@@ -17,7 +17,7 @@
       "type": "fontSizes"
     },
     "textFontWeight": {
-      "value": "{semantic.fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     },
     "statusLabelFontWeight": {
@@ -44,12 +44,24 @@
       "value": "{semantic.color.stroke.info}",
       "type": "color"
     },
+    "infoBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
     "errorTextColor": {
       "value": "{semantic.color.text.error}",
       "type": "color"
     },
+    "errorIconColor": {
+      "value": "{semantic.color.icon.error}",
+      "type": "color"
+    },
     "errorBorderColor": {
       "value": "{semantic.color.stroke.error}",
+      "type": "color"
+    },
+    "errorBackgroundColor": {
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "successTextColor": {
@@ -60,12 +72,20 @@
       "value": "{semantic.color.stroke.success}",
       "type": "color"
     },
+    "successBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
     "warningTextColor": {
       "value": "{semantic.color.text.warning}",
       "type": "color"
     },
     "warningBorderColor": {
       "value": "{semantic.color.stroke.warning}",
+      "type": "color"
+    },
+    "warningBackgroundColor": {
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "borderRadius": {
