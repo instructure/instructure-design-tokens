@@ -1507,11 +1507,11 @@
           "type": "color"
         },
         "success": {
-          "value": "{color.green.green110}",
+          "value": "{color.green.green120}",
           "type": "color"
         },
         "error": {
-          "value": "{color.red.red110}",
+          "value": "{color.red.red120}",
           "type": "color"
         },
         "warning": {
@@ -1519,7 +1519,7 @@
           "type": "color"
         },
         "info": {
-          "value": "{color.blue.blue110}",
+          "value": "{color.blue.blue120}",
           "type": "color"
         },
         "aiColor": {
@@ -1849,11 +1849,11 @@
           "type": "color"
         },
         "success": {
-          "value": "{color.green.green110}",
+          "value": "{color.green.green120}",
           "type": "color"
         },
         "error": {
-          "value": "{color.red.red110}",
+          "value": "{color.red.red120}",
           "type": "color"
         },
         "warning": {
@@ -1861,7 +1861,7 @@
           "type": "color"
         },
         "info": {
-          "value": "{color.blue.blue110}",
+          "value": "{color.blue.blue120}",
           "type": "color"
         },
         "dark": {
