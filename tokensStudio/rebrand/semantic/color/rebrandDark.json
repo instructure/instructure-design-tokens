@@ -271,11 +271,11 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{color.navy.navy30}",
+                "value": "{color.navy.navy10}",
                 "type": "color"
               },
               "active": {
-                "value": "{color.navy.navy40}",
+                "value": "{color.navy.navy20}",
                 "type": "color"
               },
               "disabled": {
