@@ -1,0 +1,12 @@
+{
+  "mobileSharedTokens": {
+    "mobileNav": {
+      "value": "{semantic.color.background.mobileNav}",
+      "type": "color"
+    },
+    "mobileCourse": {
+      "value": "{semantic.color.mobileCourse}",
+      "type": "color"
+    }
+  }
+}

@@ -75,6 +75,19 @@
           "value": "{color.whiteOpacity10}",
           "type": "color"
         },
+        "mobileNav": {
+          "value": "{color.grey.grey10}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.5",
+                "space": "hsl"
+              }
+            }
+          }
+        },
         "divider": {
           "base": {
             "value": "{color.grey.grey40}",
@@ -2082,10 +2095,6 @@
           "type": "color"
         }
       },
-      "transparentColor": {
-        "value": "{color.transparent}",
-        "type": "color"
-      },
       "institutional": {
         "brandPrimary": {
           "value": "{color.blue.blue100}",
@@ -2131,6 +2140,14 @@
           "value": "{color.blue.blue130}",
           "type": "color"
         }
+      },
+      "transparentColor": {
+        "value": "{color.transparent}",
+        "type": "color"
+      },
+      "mobileCourse": {
+        "value": "{color.plum.plum110}",
+        "type": "color"
       }
     },
     "dropShadow": {
