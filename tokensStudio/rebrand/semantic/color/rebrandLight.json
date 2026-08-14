@@ -97,6 +97,26 @@
             "value": "{color.sea.sea20}",
             "type": "color"
           },
+          "plum": {
+            "value": "{color.plum.plum20}",
+            "type": "color"
+          },
+          "sky": {
+            "value": "{color.sky.sky20}",
+            "type": "color"
+          },
+          "stone": {
+            "value": "{color.stone.stone20}",
+            "type": "color"
+          },
+          "aurora": {
+            "value": "{color.aurora.aurora20}",
+            "type": "color"
+          },
+          "orange": {
+            "value": "{color.orange.orange20}",
+            "type": "color"
+          },
           "info": {
             "value": "{color.blue.blue20}",
             "type": "color"

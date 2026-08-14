@@ -88,6 +88,62 @@
       "value": "{semantic.color.background.base}",
       "type": "color"
     },
+    "plumBorderColor": {
+      "value": "{semantic.color.stroke.accent.plum}",
+      "type": "color"
+    },
+    "plumBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "auroraBorderColor": {
+      "value": "{semantic.color.stroke.accent.aurora}",
+      "type": "color"
+    },
+    "auroraBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "skyBorderColor": {
+      "value": "{semantic.color.stroke.accent.sky}",
+      "type": "color"
+    },
+    "skyBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "orangeBorderColor": {
+      "value": "{semantic.color.stroke.accent.orange}",
+      "type": "color"
+    },
+    "orangeBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "violetBorderColor": {
+      "value": "{semantic.color.stroke.accent.violet}",
+      "type": "color"
+    },
+    "violetBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "seaBorderColor": {
+      "value": "{semantic.color.stroke.accent.sea}",
+      "type": "color"
+    },
+    "stoneBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "stoneBorderColor": {
+      "value": "{semantic.color.stroke.accent.stone}",
+      "type": "color"
+    },
+    "seaBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
     "borderRadius": {
       "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"

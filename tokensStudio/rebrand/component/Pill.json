@@ -35,7 +35,7 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.1",
+            "value": "0.2",
             "space": "hsl"
           }
         }
@@ -56,7 +56,7 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.1",
+            "value": "0.2",
             "space": "hsl"
           }
         }
@@ -81,7 +81,7 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.1",
+            "value": "0.2",
             "space": "hsl"
           }
         }
@@ -102,7 +102,7 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.1",
+            "value": "0.2",
             "space": "hsl"
           }
         }
@@ -123,7 +123,7 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.1",
+            "value": "0.2",
             "space": "hsl"
           }
         }
@@ -131,6 +131,125 @@
     },
     "warningBackgroundColor": {
       "value": "{semantic.color.background.pastel.warning}",
+      "type": "color"
+    },
+    "plumBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "plumBackgroundColor": {
+      "value": "{semantic.color.background.pastel.plum}",
+      "type": "color"
+    },
+    "auroraBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "auroraBackgroundColor": {
+      "value": "{semantic.color.background.pastel.aurora}",
+      "type": "color"
+    },
+    "skyBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "skyBackgroundColor": {
+      "value": "{semantic.color.background.pastel.sky}",
+      "type": "color"
+    },
+    "orangeBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "orangeBackgroundColor": {
+      "value": "{semantic.color.background.pastel.orange}",
+      "type": "color"
+    },
+    "stoneBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "stoneBackgroundColor": {
+      "value": "{semantic.color.background.pastel.stone}",
+      "type": "color"
+    },
+    "violetBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "violetBackgroundColor": {
+      "value": "{semantic.color.background.pastel.violet}",
+      "type": "color"
+    },
+    "seaBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "seaBackgroundColor": {
+      "value": "{semantic.color.background.pastel.sea}",
       "type": "color"
     },
     "borderRadius": {
