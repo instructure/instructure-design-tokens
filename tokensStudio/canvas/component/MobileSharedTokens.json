@@ -2,11 +2,13 @@
   "mobileSharedTokens": {
     "mobileNav": {
       "value": "{semantic.color.background.mobileNav}",
-      "type": "color"
+      "type": "color",
+      "description": "Background color for mobile navigation"
     },
     "mobileCourse": {
       "value": "{semantic.color.mobileCourse}",
-      "type": "color"
+      "type": "color",
+      "description": "Accent color for mobile course context"
     }
   }
 }
