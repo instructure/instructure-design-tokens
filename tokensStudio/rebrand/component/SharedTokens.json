@@ -98,203 +98,203 @@
         "xxxSmall": {
           "value": "0.125rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "xxSmall": {
           "value": "0.375rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "xSmall": {
           "value": "0.5rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "small": {
           "value": "0.75rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "mediumSmall": {
           "value": "1rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "medium": {
           "value": "1.5rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "large": {
           "value": "2.25rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "xLarge": {
           "value": "3rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "xxLarge": {
           "value": "3.75rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "space0": {
           "value": "0rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "space2": {
           "value": "0.125rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "space4": {
           "value": "0.25rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "space8": {
           "value": "0.5rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "space12": {
           "value": "0.75rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "space16": {
           "value": "1rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "space24": {
           "value": "1.5rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "space36": {
           "value": "2.25rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "space48": {
           "value": "3rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "space60": {
           "value": "3.75rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "sections": {
           "value": "2.25rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "sectionElements": {
           "value": "1.5em",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "trayElements": {
           "value": "1.5em",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "modalElements": {
           "value": "1.5em",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "moduleElements": {
           "value": "1em",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "paddingCardLarge": {
           "value": "1.5rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "paddingCardMedium": {
           "value": "1rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "paddingCardSmall": {
           "value": "0.75rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "selects": {
           "value": "1rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "textareas": {
           "value": "1rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "inputFields": {
           "value": "1rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "checkboxes": {
           "value": "1rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "radios": {
           "value": "1rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "toggles": {
           "value": "1rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "buttons": {
           "value": "0.75rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "tags": {
           "value": "0.75rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "statusIndicators": {
           "value": "0.75rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         },
         "dataPoints": {
           "value": "0.75rem",
           "type": "spacing",
-          "description": "Legacy token \u2014 avoid in new work"
+          "description": "Legacy token - avoid in new work"
         }
       },
       "radiusSmall": {
         "value": "0.125rem",
         "type": "borderRadius",
-        "description": "Legacy token \u2014 avoid in new work"
+        "description": "Legacy token - avoid in new work"
       },
       "radiusMedium": {
         "value": "0.25rem",
         "type": "borderRadius",
-        "description": "Legacy token \u2014 avoid in new work"
+        "description": "Legacy token - avoid in new work"
       },
       "radiusLarge": {
         "value": "0.5rem",
         "type": "borderRadius",
-        "description": "Legacy token \u2014 avoid in new work"
+        "description": "Legacy token - avoid in new work"
       }
     },
     "boxShadow": {
