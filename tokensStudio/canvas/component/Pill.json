@@ -4,8 +4,20 @@
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
+    "paddingHorizontalRelaxed": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
     "height": {
       "value": "24px",
+      "type": "sizing"
+    },
+    "heightMedium": {
+      "value": "28px",
+      "type": "sizing"
+    },
+    "heightLarge": {
+      "value": "32px",
       "type": "sizing"
     },
     "backgroundColor": {
@@ -13,6 +25,14 @@
       "type": "color"
     },
     "textFontSize": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
+    },
+    "textFontSizeMedium": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
+    },
+    "textFontSizeLarge": {
       "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },

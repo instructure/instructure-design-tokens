@@ -4,12 +4,32 @@
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
+    "paddingHorizontalRelaxed": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
     "height": {
       "value": "24px",
       "type": "sizing"
     },
+    "heightMedium": {
+      "value": "28px",
+      "type": "sizing"
+    },
+    "heightLarge": {
+      "value": "32px",
+      "type": "sizing"
+    },
     "textFontSize": {
+      "value": "{semantic.fontSize.textXs}",
+      "type": "fontSizes"
+    },
+    "textFontSizeMedium": {
       "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
+    },
+    "textFontSizeLarge": {
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "textFontWeight": {
@@ -253,7 +273,7 @@
       "type": "color"
     },
     "borderRadius": {
-      "value": "{semantic.borderRadius.md}",
+      "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     },
     "borderWidth": {
