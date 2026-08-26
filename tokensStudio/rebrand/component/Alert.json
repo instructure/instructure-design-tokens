@@ -25,7 +25,15 @@
       "type": "other"
     },
     "color": {
-      "value": "{semantic.color.institutional.brandFontColorDark}",
+      "value": "{semantic.color.text.onColor}",
+      "type": "color"
+    },
+    "iconColor": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "closeIconColor": {
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "contentFontFamily": {
@@ -44,40 +52,132 @@
       "value": "{semantic.lineHeight.standalone.base}",
       "type": "lineHeights"
     },
+    "dangerBackground": {
+      "value": "{semantic.color.background.error}",
+      "type": "color"
+    },
+    "dangerSoftBackground": {
+      "value": "{semantic.color.background.pastel.error}",
+      "type": "color"
+    },
     "dangerBorderColor": {
       "value": "{semantic.color.stroke.error}",
       "type": "color"
+    },
+    "dangerBorderSoftColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "dangerIconBackground": {
       "value": "{semantic.color.background.error}",
       "type": "color"
     },
-    "iconColor": {
-      "value": "{semantic.color.icon.onColor}",
+    "infoBackground": {
+      "value": "{semantic.color.background.info}",
+      "type": "color"
+    },
+    "infoSoftBackground": {
+      "value": "{semantic.color.background.pastel.info}",
       "type": "color"
     },
     "infoBorderColor": {
       "value": "{semantic.color.stroke.info}",
       "type": "color"
     },
+    "infoBorderSoftColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
     "infoIconBackground": {
       "value": "{semantic.color.background.info}",
+      "type": "color"
+    },
+    "successBackground": {
+      "value": "{semantic.color.background.success}",
+      "type": "color"
+    },
+    "successSoftBackground": {
+      "value": "{semantic.color.background.pastel.success}",
       "type": "color"
     },
     "successBorderColor": {
       "value": "{semantic.color.stroke.success}",
       "type": "color"
     },
+    "successBorderSoftColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
     "successIconBackground": {
       "value": "{semantic.color.background.success}",
+      "type": "color"
+    },
+    "warningBackground": {
+      "value": "{semantic.color.background.warning}",
+      "type": "color"
+    },
+    "warningSoftBackground": {
+      "value": "{semantic.color.background.pastel.warning}",
       "type": "color"
     },
     "warningBorderColor": {
       "value": "{semantic.color.stroke.warning}",
       "type": "color"
     },
+    "warningBorderSoftColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
     "warningIconBackground": {
       "value": "{semantic.color.background.warning}",
+      "type": "color"
+    },
+    "warningColor": {
+      "value": "{semantic.color.text.dark}",
+      "type": "color"
+    },
+    "warningIconColor": {
+      "value": "{semantic.color.icon.dark}",
+      "type": "color"
+    },
+    "warningCloseIconColor": {
+      "value": "{semantic.color.icon.dark}",
       "type": "color"
     },
     "contentPaddingVertical": {

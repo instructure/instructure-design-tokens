@@ -24,6 +24,14 @@
       "value": "0.5rem",
       "type": "other"
     },
+    "iconColor": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "closeIconColor": {
+      "value": "{semantic.color.icon.base}",
+      "type": "color"
+    },
     "color": {
       "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
@@ -44,7 +52,19 @@
       "value": "{semantic.lineHeight.standalone.base}",
       "type": "lineHeights"
     },
+    "dangerBackground": {
+      "value": "{semantic.color.background.elevatedSurface.base}",
+      "type": "color"
+    },
+    "dangerSoftBackground": {
+      "value": "{semantic.color.background.elevatedSurface.base}",
+      "type": "color"
+    },
     "dangerBorderColor": {
+      "value": "{semantic.color.stroke.error}",
+      "type": "color"
+    },
+    "dangerBorderSoftColor": {
       "value": "{semantic.color.stroke.error}",
       "type": "color"
     },
@@ -52,11 +72,19 @@
       "value": "{semantic.color.background.error}",
       "type": "color"
     },
-    "iconColor": {
-      "value": "{semantic.color.icon.onColor}",
+    "infoBackground": {
+      "value": "{semantic.color.background.elevatedSurface.base}",
+      "type": "color"
+    },
+    "infoSoftBackground": {
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "infoBorderColor": {
+      "value": "{semantic.color.stroke.info}",
+      "type": "color"
+    },
+    "infoBorderSoftColor": {
       "value": "{semantic.color.stroke.info}",
       "type": "color"
     },
@@ -64,7 +92,19 @@
       "value": "{semantic.color.background.info}",
       "type": "color"
     },
+    "successBackground": {
+      "value": "{semantic.color.background.elevatedSurface.base}",
+      "type": "color"
+    },
+    "successSoftBackground": {
+      "value": "{semantic.color.background.elevatedSurface.base}",
+      "type": "color"
+    },
     "successBorderColor": {
+      "value": "{semantic.color.stroke.success}",
+      "type": "color"
+    },
+    "successBorderSoftColor": {
       "value": "{semantic.color.stroke.success}",
       "type": "color"
     },
@@ -72,12 +112,36 @@
       "value": "{semantic.color.background.success}",
       "type": "color"
     },
+    "warningBackground": {
+      "value": "{semantic.color.background.elevatedSurface.base}",
+      "type": "color"
+    },
+    "warningSoftBackground": {
+      "value": "{semantic.color.background.elevatedSurface.base}",
+      "type": "color"
+    },
     "warningBorderColor": {
+      "value": "{semantic.color.stroke.warning}",
+      "type": "color"
+    },
+    "warningBorderSoftColor": {
       "value": "{semantic.color.stroke.warning}",
       "type": "color"
     },
     "warningIconBackground": {
       "value": "{semantic.color.background.warning}",
+      "type": "color"
+    },
+    "warningIconColor": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "warningCloseIconColor": {
+      "value": "{semantic.color.icon.base}",
+      "type": "color"
+    },
+    "warningColor": {
+      "value": "{semantic.color.institutional.brandFontColorDark}",
       "type": "color"
     },
     "contentPaddingVertical": {

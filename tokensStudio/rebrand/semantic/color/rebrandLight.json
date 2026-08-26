@@ -1156,7 +1156,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange100}",
+          "value": "{color.honey.honey40}",
           "type": "color"
         },
         "info": {

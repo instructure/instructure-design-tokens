@@ -1084,6 +1084,22 @@
           "stone": {
             "value": "{color.stone.stone20}",
             "type": "color"
+          },
+          "info": {
+            "value": "{color.blue.blue20}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{color.green.green20}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{color.honey.honey20}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{color.red.red20}",
+            "type": "color"
           }
         }
       },
