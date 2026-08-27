@@ -16,6 +16,10 @@
       "value": "{semantic.borderWidth.md}",
       "type": "borderWidth"
     },
+    "iconBorderWidth": {
+      "value": "{icon.strokeWidthLg}",
+      "type": "borderWidth"
+    },
     "closeButtonMarginRight": {
       "value": "0.5rem",
       "type": "other"
@@ -151,6 +155,18 @@
     "contentPaddingHorizontal": {
       "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
+    },
+    "iconLeftPadding": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "iconRightPadding": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "iconHeight": {
+      "value": "{icon.sizeLg}",
+      "type": "sizing"
     }
   }
 }
