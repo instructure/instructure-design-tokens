@@ -32,12 +32,20 @@
       "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
+    "colorInline": {
+      "value": "{semantic.color.text.base}",
+      "type": "color"
+    },
     "iconColor": {
       "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "closeIconColor": {
       "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "closeIconColorInline": {
+      "value": "{semantic.color.icon.base}",
       "type": "color"
     },
     "contentFontFamily": {
@@ -60,7 +68,7 @@
       "value": "{semantic.color.background.error}",
       "type": "color"
     },
-    "dangerSoftBackground": {
+    "dangerBackgroundInline": {
       "value": "{semantic.color.background.pastel.error}",
       "type": "color"
     },
@@ -68,7 +76,7 @@
       "value": "{semantic.color.stroke.error}",
       "type": "color"
     },
-    "dangerBorderSoftColor": {
+    "dangerBorderColorInline": {
       "value": "{semantic.color.stroke.strong}",
       "type": "color",
       "$extensions": {
@@ -89,7 +97,7 @@
       "value": "{semantic.color.background.info}",
       "type": "color"
     },
-    "infoSoftBackground": {
+    "infoBackgroundInline": {
       "value": "{semantic.color.background.pastel.info}",
       "type": "color"
     },
@@ -97,7 +105,7 @@
       "value": "{semantic.color.stroke.info}",
       "type": "color"
     },
-    "infoBorderSoftColor": {
+    "infoBorderColorInline": {
       "value": "{semantic.color.stroke.strong}",
       "type": "color",
       "$extensions": {
@@ -118,7 +126,7 @@
       "value": "{semantic.color.background.success}",
       "type": "color"
     },
-    "successSoftBackground": {
+    "successBackgroundInline": {
       "value": "{semantic.color.background.pastel.success}",
       "type": "color"
     },
@@ -126,7 +134,7 @@
       "value": "{semantic.color.stroke.success}",
       "type": "color"
     },
-    "successBorderSoftColor": {
+    "successBorderColorInline": {
       "value": "{semantic.color.stroke.strong}",
       "type": "color",
       "$extensions": {
@@ -147,7 +155,7 @@
       "value": "{semantic.color.background.warning}",
       "type": "color"
     },
-    "warningSoftBackground": {
+    "warningBackgroundInline": {
       "value": "{semantic.color.background.pastel.warning}",
       "type": "color"
     },
@@ -155,7 +163,7 @@
       "value": "{semantic.color.stroke.warning}",
       "type": "color"
     },
-    "warningBorderSoftColor": {
+    "warningBorderColorInline": {
       "value": "{semantic.color.stroke.strong}",
       "type": "color",
       "$extensions": {
@@ -177,7 +185,7 @@
       "type": "color"
     },
     "warningIconColor": {
-      "value": "{semantic.color.icon.dark}",
+      "value": "{semantic.color.text.dark}",
       "type": "color"
     },
     "warningCloseIconColor": {
@@ -198,6 +206,10 @@
     },
     "iconRightPadding": {
       "value": "0",
+      "type": "spacing"
+    },
+    "iconTopPadding": {
+      "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
     },
     "iconHeight": {

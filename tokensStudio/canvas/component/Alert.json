@@ -60,7 +60,7 @@
       "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
-    "dangerSoftBackground": {
+    "dangerBackgroundInline": {
       "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
@@ -68,7 +68,7 @@
       "value": "{semantic.color.stroke.error}",
       "type": "color"
     },
-    "dangerBorderSoftColor": {
+    "dangerBorderColorInline": {
       "value": "{semantic.color.stroke.error}",
       "type": "color"
     },
@@ -80,7 +80,7 @@
       "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
-    "infoSoftBackground": {
+    "infoBackgroundInline": {
       "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
@@ -88,7 +88,7 @@
       "value": "{semantic.color.stroke.info}",
       "type": "color"
     },
-    "infoBorderSoftColor": {
+    "infoBorderColorInline": {
       "value": "{semantic.color.stroke.info}",
       "type": "color"
     },
@@ -100,7 +100,7 @@
       "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
-    "successSoftBackground": {
+    "successBackgroundInline": {
       "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
@@ -108,7 +108,7 @@
       "value": "{semantic.color.stroke.success}",
       "type": "color"
     },
-    "successBorderSoftColor": {
+    "successBorderColorInline": {
       "value": "{semantic.color.stroke.success}",
       "type": "color"
     },
@@ -120,7 +120,7 @@
       "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
-    "warningSoftBackground": {
+    "warningBackgroundInline": {
       "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
@@ -128,7 +128,7 @@
       "value": "{semantic.color.stroke.warning}",
       "type": "color"
     },
-    "warningBorderSoftColor": {
+    "warningBorderColorInline": {
       "value": "{semantic.color.stroke.warning}",
       "type": "color"
     },
@@ -167,6 +167,18 @@
     "iconHeight": {
       "value": "{icon.sizeLg}",
       "type": "sizing"
+    },
+    "iconTopPadding": {
+      "value": "{semantic.spacing.spaceLg}",
+      "type": "spacing"
+    },
+    "colorInline": {
+      "value": "{semantic.color.text.base}",
+      "type": "color"
+    },
+    "closeIconColorInline": {
+      "value": "{semantic.color.icon.base}",
+      "type": "color"
     }
   }
 }
