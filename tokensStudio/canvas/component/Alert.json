@@ -169,7 +169,7 @@
       "type": "sizing"
     },
     "iconTopPadding": {
-      "value": "{semantic.spacing.spaceLg}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "colorInline": {
