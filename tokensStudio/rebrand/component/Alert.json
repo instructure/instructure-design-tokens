@@ -185,7 +185,7 @@
       "type": "color"
     },
     "warningIconColor": {
-      "value": "{semantic.color.text.dark}",
+      "value": "{semantic.color.icon.dark}",
       "type": "color"
     },
     "warningCloseIconColor": {
