@@ -215,6 +215,22 @@
     "iconHeight": {
       "value": "{icon.sizeSm}",
       "type": "sizing"
+    },
+    "warningIconColorInline": {
+      "value": "{semantic.color.icon.warning}",
+      "type": "color"
+    },
+    "infoIconColorInline": {
+      "value": "{semantic.color.icon.info}",
+      "type": "color"
+    },
+    "dangerIconColorInline": {
+      "value": "{semantic.color.icon.error}",
+      "type": "color"
+    },
+    "successIconColorInline": {
+      "value": "{semantic.color.icon.success}",
+      "type": "color"
     }
   }
 }

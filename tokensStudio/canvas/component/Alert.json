@@ -33,11 +33,11 @@
       "type": "color"
     },
     "closeIconColor": {
-      "value": "{semantic.color.icon.base}",
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "color": {
-      "value": "{semantic.color.institutional.brandFontColorDark}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "contentFontFamily": {
@@ -57,11 +57,11 @@
       "type": "lineHeights"
     },
     "dangerBackground": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.error}",
       "type": "color"
     },
     "dangerBackgroundInline": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.error}",
       "type": "color"
     },
     "dangerBorderColor": {
@@ -77,11 +77,11 @@
       "type": "color"
     },
     "infoBackground": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.info}",
       "type": "color"
     },
     "infoBackgroundInline": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.info}",
       "type": "color"
     },
     "infoBorderColor": {
@@ -97,11 +97,11 @@
       "type": "color"
     },
     "successBackground": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.success}",
       "type": "color"
     },
     "successBackgroundInline": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.success}",
       "type": "color"
     },
     "successBorderColor": {
@@ -117,11 +117,11 @@
       "type": "color"
     },
     "warningBackground": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.warning}",
       "type": "color"
     },
     "warningBackgroundInline": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.warning}",
       "type": "color"
     },
     "warningBorderColor": {
@@ -141,11 +141,11 @@
       "type": "color"
     },
     "warningCloseIconColor": {
-      "value": "{semantic.color.icon.base}",
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "warningColor": {
-      "value": "{semantic.color.institutional.brandFontColorDark}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "contentPaddingVertical": {
@@ -173,11 +173,27 @@
       "type": "spacing"
     },
     "colorInline": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "closeIconColorInline": {
-      "value": "{semantic.color.icon.base}",
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "warningIconColorInline": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "infoIconColorInline": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "dangerIconColorInline": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "successIconColorInline": {
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     }
   }
