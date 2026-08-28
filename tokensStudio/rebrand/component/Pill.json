@@ -198,6 +198,10 @@
       "value": "{semantic.color.background.pastel.plum}",
       "type": "color"
     },
+    "plumTextColor": {
+      "value": "{semantic.color.text.accent.plum}",
+      "type": "color"
+    },
     "auroraBorderColor": {
       "value": "{semantic.color.stroke.strong}",
       "type": "color",
@@ -228,8 +232,16 @@
       "value": "{semantic.color.background.pastel.aurora}",
       "type": "color"
     },
+    "auroraTextColor": {
+      "value": "{semantic.color.text.accent.aurora}",
+      "type": "color"
+    },
     "skyBackgroundColor": {
       "value": "{semantic.color.background.pastel.sky}",
+      "type": "color"
+    },
+    "skyTextColor": {
+      "value": "{semantic.color.text.accent.sky}",
       "type": "color"
     },
     "orangeBorderColor": {
@@ -249,6 +261,10 @@
       "value": "{semantic.color.background.pastel.orange}",
       "type": "color"
     },
+    "orangeTextColor": {
+      "value": "{semantic.color.text.accent.orange}",
+      "type": "color"
+    },
     "stoneBorderColor": {
       "value": "{semantic.color.stroke.strong}",
       "type": "color",
@@ -264,6 +280,10 @@
     },
     "stoneBackgroundColor": {
       "value": "{semantic.color.background.pastel.stone}",
+      "type": "color"
+    },
+    "stoneTextColor": {
+      "value": "{semantic.color.text.accent.stone}",
       "type": "color"
     },
     "violetBorderColor": {
@@ -283,6 +303,10 @@
       "value": "{semantic.color.background.pastel.violet}",
       "type": "color"
     },
+    "violetTextColor": {
+      "value": "{semantic.color.text.accent.violet}",
+      "type": "color"
+    },
     "seaBorderColor": {
       "value": "{semantic.color.stroke.strong}",
       "type": "color",
@@ -298,6 +322,10 @@
     },
     "seaBackgroundColor": {
       "value": "{semantic.color.background.pastel.sea}",
+      "type": "color"
+    },
+    "seaTextColor": {
+      "value": "{semantic.color.text.accent.sea}",
       "type": "color"
     },
     "borderRadius": {
