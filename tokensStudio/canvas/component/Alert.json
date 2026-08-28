@@ -61,7 +61,7 @@
       "type": "color"
     },
     "dangerBackgroundInline": {
-      "value": "{semantic.color.background.error}",
+      "value": "{semantic.color.background.pastel.error}",
       "type": "color"
     },
     "dangerBorderColor": {
@@ -81,7 +81,7 @@
       "type": "color"
     },
     "infoBackgroundInline": {
-      "value": "{semantic.color.background.info}",
+      "value": "{semantic.color.background.pastel.info}",
       "type": "color"
     },
     "infoBorderColor": {
@@ -101,7 +101,7 @@
       "type": "color"
     },
     "successBackgroundInline": {
-      "value": "{semantic.color.background.success}",
+      "value": "{semantic.color.background.pastel.success}",
       "type": "color"
     },
     "successBorderColor": {
@@ -121,7 +121,7 @@
       "type": "color"
     },
     "warningBackgroundInline": {
-      "value": "{semantic.color.background.warning}",
+      "value": "{semantic.color.background.pastel.warning}",
       "type": "color"
     },
     "warningBorderColor": {
@@ -173,27 +173,27 @@
       "type": "spacing"
     },
     "colorInline": {
-      "value": "{semantic.color.text.onColor}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "closeIconColorInline": {
-      "value": "{semantic.color.icon.onColor}",
+      "value": "{semantic.color.icon.base}",
       "type": "color"
     },
     "warningIconColorInline": {
-      "value": "{semantic.color.icon.onColor}",
+      "value": "{semantic.color.icon.warning}",
       "type": "color"
     },
     "infoIconColorInline": {
-      "value": "{semantic.color.icon.onColor}",
+      "value": "{semantic.color.icon.info}",
       "type": "color"
     },
     "dangerIconColorInline": {
-      "value": "{semantic.color.icon.onColor}",
+      "value": "{semantic.color.icon.error}",
       "type": "color"
     },
     "successIconColorInline": {
-      "value": "{semantic.color.icon.onColor}",
+      "value": "{semantic.color.icon.success}",
       "type": "color"
     }
   }
