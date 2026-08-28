@@ -4,20 +4,48 @@
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
-    "paddingHorizontalRelaxed": {
+    "paddingHorizontalMedium": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
+    "paddingHorizontalLarge": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "paddingVertical": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
+    "gapIconLabel": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
+    "gapIconLabelMedium": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gapIconLabelLarge": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gapContent": {
+      "value": "{semantic.spacing.space2xs}",
+      "type": "spacing"
+    },
     "height": {
-      "value": "24px",
+      "value": "1.5rem",
       "type": "sizing"
     },
     "heightMedium": {
-      "value": "28px",
+      "value": "1.75rem",
       "type": "sizing"
     },
     "heightLarge": {
-      "value": "32px",
+      "value": "2rem",
+      "type": "sizing"
+    },
+    "iconHeight": {
+      "value": ".75rem",
       "type": "sizing"
     },
     "textFontSize": {
@@ -183,10 +211,6 @@
         }
       }
     },
-    "auroraBackgroundColor": {
-      "value": "{semantic.color.background.pastel.aurora}",
-      "type": "color"
-    },
     "skyBorderColor": {
       "value": "{semantic.color.stroke.strong}",
       "type": "color",
@@ -199,6 +223,10 @@
           }
         }
       }
+    },
+    "auroraBackgroundColor": {
+      "value": "{semantic.color.background.pastel.aurora}",
+      "type": "color"
     },
     "skyBackgroundColor": {
       "value": "{semantic.color.background.pastel.sky}",
@@ -278,6 +306,10 @@
     },
     "borderWidth": {
       "value": "{semantic.borderWidth.sm}",
+      "type": "borderWidth"
+    },
+    "iconBorderWidth": {
+      "value": "0.0625rem",
       "type": "borderWidth"
     },
     "lineHeight": {

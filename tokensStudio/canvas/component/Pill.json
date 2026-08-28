@@ -4,20 +4,24 @@
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
-    "paddingHorizontalRelaxed": {
+    "paddingHorizontalMedium": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "paddingHorizontalLarge": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "height": {
-      "value": "24px",
+      "value": "1.5rem",
       "type": "sizing"
     },
     "heightMedium": {
-      "value": "28px",
+      "value": "1.75rem",
       "type": "sizing"
     },
     "heightLarge": {
-      "value": "32px",
+      "value": "2rem",
       "type": "sizing"
     },
     "backgroundColor": {
@@ -172,6 +176,10 @@
       "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
+    "iconBorderWidth": {
+      "value": "0.078125rem",
+      "type": "borderWidth"
+    },
     "lineHeight": {
       "value": "{semantic.lineHeight.standalone.textSm}",
       "type": "lineHeights"
@@ -183,6 +191,30 @@
     "borderStyle": {
       "value": "solid",
       "type": "text"
+    },
+    "iconHeight": {
+      "value": "1rem",
+      "type": "sizing"
+    },
+    "paddingVertical": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
+    "gapIconLabel": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gapIconLabelMedium": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gapIconLabelLarge": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gapContent": {
+      "value": "{semantic.spacing.space2xs}",
+      "type": "spacing"
     }
   }
 }
