@@ -1100,6 +1100,10 @@
           "error": {
             "value": "{color.red.red20}",
             "type": "color"
+          },
+          "neutral": {
+            "value": "{color.grey.grey20}",
+            "type": "color"
           }
         }
       },

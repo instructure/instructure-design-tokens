@@ -714,6 +714,7 @@
       "semantic.color.background.pastel.success": "2b7b7bcc09afa6282133eb5dad6e94e83e6340bd",
       "semantic.color.background.pastel.warning": "fb8da3fd0b5c1e404b7e8e0898562e0bbdf654a1",
       "semantic.color.background.pastel.error": "e3543c233add3c2d37ad1813750896bd5cc11c40",
+      "semantic.color.background.pastel.neutral": "2b77e132d85d83a4acc1b017591ee82a08e71e21",
       "semantic.color.stroke.base": "f68d64e91be296dbc1914792050e726a48873970",
       "semantic.color.stroke.muted": "84c45604667e0d2307145846ed5bfa50cf54a4a8",
       "semantic.color.stroke.strong": "ed01b5ceef0abb5ad35107dc950dbe1214fdba4d",
@@ -2906,8 +2907,7 @@
       "view.stackingAbove": "5546c5f4795ebcb9d5e47ce79b86805267b1ebf8",
       "view.stackingBelow": "0c305b1ba62841d4bbc28b62893d64c7683fb24a",
       "view.stackingDeepest": "28c1d8760752a39e31aef9e59ebdefc572c2f56a",
-      "view.borderStyle": "17c5727ed0a973c5f12c41bb84ef5b6169b26ae0",
-      "semantic.color.background.pastel.neutral": "f1b262dda8f9319b89498c055c7f94e245ef57f4"
+      "view.borderStyle": "17c5727ed0a973c5f12c41bb84ef5b6169b26ae0"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -4357,6 +4357,7 @@
       "semantic.color.background.pastel.success": "2b7b7bcc09afa6282133eb5dad6e94e83e6340bd",
       "semantic.color.background.pastel.warning": "fb8da3fd0b5c1e404b7e8e0898562e0bbdf654a1",
       "semantic.color.background.pastel.error": "e3543c233add3c2d37ad1813750896bd5cc11c40",
+      "semantic.color.background.pastel.neutral": "2b77e132d85d83a4acc1b017591ee82a08e71e21",
       "semantic.color.stroke.base": "f68d64e91be296dbc1914792050e726a48873970",
       "semantic.color.stroke.muted": "84c45604667e0d2307145846ed5bfa50cf54a4a8",
       "semantic.color.stroke.strong": "ed01b5ceef0abb5ad35107dc950dbe1214fdba4d",
@@ -6549,8 +6550,7 @@
       "view.stackingAbove": "5546c5f4795ebcb9d5e47ce79b86805267b1ebf8",
       "view.stackingBelow": "0c305b1ba62841d4bbc28b62893d64c7683fb24a",
       "view.stackingDeepest": "28c1d8760752a39e31aef9e59ebdefc572c2f56a",
-      "view.borderStyle": "17c5727ed0a973c5f12c41bb84ef5b6169b26ae0",
-      "semantic.color.background.pastel.neutral": "f1b262dda8f9319b89498c055c7f94e245ef57f4"
+      "view.borderStyle": "17c5727ed0a973c5f12c41bb84ef5b6169b26ae0"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -7273,6 +7273,7 @@
       "semantic.color.background.pastel.success": "2b7b7bcc09afa6282133eb5dad6e94e83e6340bd",
       "semantic.color.background.pastel.warning": "fb8da3fd0b5c1e404b7e8e0898562e0bbdf654a1",
       "semantic.color.background.pastel.error": "e3543c233add3c2d37ad1813750896bd5cc11c40",
+      "semantic.color.background.pastel.neutral": "2b77e132d85d83a4acc1b017591ee82a08e71e21",
       "semantic.color.stroke.base": "f68d64e91be296dbc1914792050e726a48873970",
       "semantic.color.stroke.muted": "84c45604667e0d2307145846ed5bfa50cf54a4a8",
       "semantic.color.stroke.strong": "ed01b5ceef0abb5ad35107dc950dbe1214fdba4d",
@@ -10917,6 +10918,7 @@
       "semantic.color.background.pastel.success": "2b7b7bcc09afa6282133eb5dad6e94e83e6340bd",
       "semantic.color.background.pastel.warning": "fb8da3fd0b5c1e404b7e8e0898562e0bbdf654a1",
       "semantic.color.background.pastel.error": "e3543c233add3c2d37ad1813750896bd5cc11c40",
+      "semantic.color.background.pastel.neutral": "2b77e132d85d83a4acc1b017591ee82a08e71e21",
       "semantic.color.stroke.base": "f68d64e91be296dbc1914792050e726a48873970",
       "semantic.color.stroke.muted": "84c45604667e0d2307145846ed5bfa50cf54a4a8",
       "semantic.color.stroke.strong": "ed01b5ceef0abb5ad35107dc950dbe1214fdba4d",
