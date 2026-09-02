@@ -2907,7 +2907,7 @@
       "view.stackingBelow": "0c305b1ba62841d4bbc28b62893d64c7683fb24a",
       "view.stackingDeepest": "28c1d8760752a39e31aef9e59ebdefc572c2f56a",
       "view.borderStyle": "17c5727ed0a973c5f12c41bb84ef5b6169b26ae0",
-      "semantic.color.background.pastel.neutral": "118dd6059d47d2aec19303d130ed341db1069759"
+      "semantic.color.background.pastel.neutral": "f1b262dda8f9319b89498c055c7f94e245ef57f4"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6550,7 +6550,7 @@
       "view.stackingBelow": "0c305b1ba62841d4bbc28b62893d64c7683fb24a",
       "view.stackingDeepest": "28c1d8760752a39e31aef9e59ebdefc572c2f56a",
       "view.borderStyle": "17c5727ed0a973c5f12c41bb84ef5b6169b26ae0",
-      "semantic.color.background.pastel.neutral": "118dd6059d47d2aec19303d130ed341db1069759"
+      "semantic.color.background.pastel.neutral": "f1b262dda8f9319b89498c055c7f94e245ef57f4"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -7560,10 +7560,10 @@
       "alert.borderRadius": "3abe7e80ec4064e9bf2361e09d7b2a8dca2ed97a",
       "alert.borderWidth": "f4bdaeceac5fcfe1a34acc1c8371d3dffe8c1b31",
       "alert.iconBorderWidth": "e213c217826a8c59ecbcbb44ee86814d25e0fd4d",
-      "alert.color": "a4b2d8c4e8697db9201417632c798878ab32f879",
-      "alert.colorInline": "0b54da03be52013ef6d6b47d46842843e2d72975",
       "alert.iconColor": "97ec2abafb21b8c69166c1b44d3674fbcfb50cfa",
       "alert.closeIconColor": "a77e094233eb582f8a650a5e6f0e4e8bc9626a56",
+      "alert.color": "a4b2d8c4e8697db9201417632c798878ab32f879",
+      "alert.colorInline": "0b54da03be52013ef6d6b47d46842843e2d72975",
       "alert.closeIconColorInline": "fd55d94ec2aba10ab1795de7411cffd360f697ff",
       "alert.contentFontFamily": "8e0736d85d2bb4de4a659d035b3ba61e1903302e",
       "alert.contentFontSize": "3ce142a5507bf9834eaecf629299c9a0cf4c877a",
@@ -11204,10 +11204,10 @@
       "alert.borderRadius": "3abe7e80ec4064e9bf2361e09d7b2a8dca2ed97a",
       "alert.borderWidth": "f4bdaeceac5fcfe1a34acc1c8371d3dffe8c1b31",
       "alert.iconBorderWidth": "e213c217826a8c59ecbcbb44ee86814d25e0fd4d",
-      "alert.color": "a4b2d8c4e8697db9201417632c798878ab32f879",
-      "alert.colorInline": "0b54da03be52013ef6d6b47d46842843e2d72975",
       "alert.iconColor": "97ec2abafb21b8c69166c1b44d3674fbcfb50cfa",
       "alert.closeIconColor": "a77e094233eb582f8a650a5e6f0e4e8bc9626a56",
+      "alert.color": "a4b2d8c4e8697db9201417632c798878ab32f879",
+      "alert.colorInline": "0b54da03be52013ef6d6b47d46842843e2d72975",
       "alert.closeIconColorInline": "fd55d94ec2aba10ab1795de7411cffd360f697ff",
       "alert.contentFontFamily": "8e0736d85d2bb4de4a659d035b3ba61e1903302e",
       "alert.contentFontSize": "3ce142a5507bf9834eaecf629299c9a0cf4c877a",

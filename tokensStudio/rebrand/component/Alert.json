@@ -28,20 +28,20 @@
       "value": "0.5rem",
       "type": "other"
     },
-    "color": {
-      "value": "{semantic.color.text.onColor}",
-      "type": "color"
-    },
-    "colorInline": {
-      "value": "{semantic.color.text.base}",
-      "type": "color"
-    },
     "iconColor": {
       "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "closeIconColor": {
       "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "color": {
+      "value": "{semantic.color.text.onColor}",
+      "type": "color"
+    },
+    "colorInline": {
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "closeIconColorInline": {
