@@ -53,14 +53,6 @@
       "value": "{semantic.color.background.accent.sea}",
       "type": "color"
     },
-    "aiBackgroundTopGradientColor": {
-      "value": "{semantic.color.background.interactive.action.aiSecondary.active.topGradient}",
-      "type": "color"
-    },
-    "aiBackgroundBottomGradientColor": {
-      "value": "{semantic.color.background.interactive.action.aiSecondary.active.bottomGradient}",
-      "type": "color"
-    },
     "relaxedPaddingVertical": {
       "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
@@ -74,7 +66,7 @@
       "type": "spacing"
     },
     "contentGapVertical": {
-      "value": "{semantic.spacing.spaceMd}",
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "relaxedPaddingHorizontal": {

@@ -4,8 +4,24 @@
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
+    "paddingHorizontalMedium": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "paddingHorizontalLarge": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
     "height": {
-      "value": "24px",
+      "value": "1.5rem",
+      "type": "sizing"
+    },
+    "heightMedium": {
+      "value": "1.75rem",
+      "type": "sizing"
+    },
+    "heightLarge": {
+      "value": "2rem",
       "type": "sizing"
     },
     "backgroundColor": {
@@ -16,8 +32,16 @@
       "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
+    "textFontSizeMedium": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
+    },
+    "textFontSizeLarge": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
+    },
     "textFontWeight": {
-      "value": "{semantic.fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     },
     "statusLabelFontWeight": {
@@ -44,12 +68,24 @@
       "value": "{semantic.color.stroke.info}",
       "type": "color"
     },
+    "infoBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
     "errorTextColor": {
       "value": "{semantic.color.text.error}",
       "type": "color"
     },
+    "errorIconColor": {
+      "value": "{semantic.color.icon.error}",
+      "type": "color"
+    },
     "errorBorderColor": {
       "value": "{semantic.color.stroke.error}",
+      "type": "color"
+    },
+    "errorBackgroundColor": {
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "successTextColor": {
@@ -60,6 +96,10 @@
       "value": "{semantic.color.stroke.success}",
       "type": "color"
     },
+    "successBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
     "warningTextColor": {
       "value": "{semantic.color.text.warning}",
       "type": "color"
@@ -68,12 +108,104 @@
       "value": "{semantic.color.stroke.warning}",
       "type": "color"
     },
+    "warningBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "plumBorderColor": {
+      "value": "{semantic.color.stroke.accent.plum}",
+      "type": "color"
+    },
+    "plumTextColor": {
+      "value": "{semantic.color.text.accent.plum}",
+      "type": "color"
+    },
+    "plumBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "auroraBorderColor": {
+      "value": "{semantic.color.stroke.accent.aurora}",
+      "type": "color"
+    },
+    "auroraTextColor": {
+      "value": "{semantic.color.text.accent.aurora}",
+      "type": "color"
+    },
+    "auroraBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "skyBorderColor": {
+      "value": "{semantic.color.stroke.accent.sky}",
+      "type": "color"
+    },
+    "skyTextColor": {
+      "value": "{semantic.color.text.accent.sky}",
+      "type": "color"
+    },
+    "skyBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "orangeBorderColor": {
+      "value": "{semantic.color.stroke.accent.orange}",
+      "type": "color"
+    },
+    "orangeTextColor": {
+      "value": "{semantic.color.text.accent.orange}",
+      "type": "color"
+    },
+    "orangeBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "violetBorderColor": {
+      "value": "{semantic.color.stroke.accent.violet}",
+      "type": "color"
+    },
+    "violetTextColor": {
+      "value": "{semantic.color.text.accent.violet}",
+      "type": "color"
+    },
+    "violetBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "seaBorderColor": {
+      "value": "{semantic.color.stroke.accent.sea}",
+      "type": "color"
+    },
+    "seaTextColor": {
+      "value": "{semantic.color.text.accent.sea}",
+      "type": "color"
+    },
+    "stoneBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "stoneBorderColor": {
+      "value": "{semantic.color.stroke.accent.stone}",
+      "type": "color"
+    },
+    "stoneTextColor": {
+      "value": "{semantic.color.text.accent.stone}",
+      "type": "color"
+    },
+    "seaBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
     "borderRadius": {
       "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     },
     "borderWidth": {
       "value": "{semantic.borderWidth.sm}",
+      "type": "borderWidth"
+    },
+    "iconBorderWidth": {
+      "value": "0.078125rem",
       "type": "borderWidth"
     },
     "lineHeight": {
@@ -87,6 +219,30 @@
     "borderStyle": {
       "value": "solid",
       "type": "text"
+    },
+    "iconHeight": {
+      "value": "1rem",
+      "type": "sizing"
+    },
+    "paddingVertical": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
+    "gapIconLabel": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gapIconLabelMedium": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gapIconLabelLarge": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gapContent": {
+      "value": "{semantic.spacing.space2xs}",
+      "type": "spacing"
     }
   }
 }

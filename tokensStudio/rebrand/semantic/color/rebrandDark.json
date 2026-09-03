@@ -44,7 +44,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange100}",
+          "value": "{color.honey.honey40}",
           "type": "color"
         },
         "info": {
@@ -73,6 +73,10 @@
         },
         "opacityOnColor": {
           "value": "{color.whiteOpacity10}",
+          "type": "color"
+        },
+        "mobileNav": {
+          "value": "{color.grey.grey190}",
           "type": "color"
         },
         "divider": {
@@ -271,11 +275,11 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{color.navy.navy30}",
+                "value": "{color.navy.navy10}",
                 "type": "color"
               },
               "active": {
-                "value": "{color.navy.navy40}",
+                "value": "{color.navy.navy20}",
                 "type": "color"
               },
               "disabled": {
@@ -1051,6 +1055,46 @@
           "sea": {
             "value": "{color.sea.sea160}",
             "type": "color"
+          },
+          "plum": {
+            "value": "{color.plum.plum160}",
+            "type": "color"
+          },
+          "sky": {
+            "value": "{color.sky.sky160}",
+            "type": "color"
+          },
+          "stone": {
+            "value": "{color.stone.stone160}",
+            "type": "color"
+          },
+          "aurora": {
+            "value": "{color.aurora.aurora160}",
+            "type": "color"
+          },
+          "orange": {
+            "value": "{color.orange.orange160}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{color.blue.blue160}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{color.green.green160}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{color.honey.honey160}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{color.red.red160}",
+            "type": "color"
+          },
+          "neutral": {
+            "value": "{color.grey.grey160}",
+            "type": "color"
           }
         }
       },
@@ -1076,7 +1120,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange100}",
+          "value": "{color.honey.honey40}",
           "type": "color"
         },
         "info": {
@@ -1428,7 +1472,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange50}",
+          "value": "{color.honey.honey50}",
           "type": "color"
         },
         "info": {
@@ -1770,7 +1814,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange50}",
+          "value": "{color.honey.honey50}",
           "type": "color"
         },
         "info": {
@@ -2087,10 +2131,6 @@
           "type": "color"
         }
       },
-      "transparentColor": {
-        "value": "{color.transparent}",
-        "type": "color"
-      },
       "institutional": {
         "brandPrimary": {
           "value": "{color.navy.navy10}",
@@ -2145,6 +2185,14 @@
           "value": "{color.grey.grey180}",
           "type": "color"
         }
+      },
+      "transparentColor": {
+        "value": "{color.transparent}",
+        "type": "color"
+      },
+      "mobileCourse": {
+        "value": "{color.plum.plum50}",
+        "type": "color"
       }
     },
     "dropShadow": {

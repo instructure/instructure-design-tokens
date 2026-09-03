@@ -25,57 +25,70 @@
     "borderRadius": {
       "xs": {
         "value": "{semantic.borderRadius.xs}",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "description": "Subtle rounding for small, compact elements"
       },
       "sm": {
         "value": "{semantic.borderRadius.sm}",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "description": "Light rounding for compact interactive elements"
       },
       "md": {
         "value": "{semantic.borderRadius.md}",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "description": "Default rounding for most elements"
       },
       "lg": {
         "value": "{semantic.borderRadius.lg}",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "description": "Rounding for larger container elements"
       },
       "xl": {
         "value": "{semantic.borderRadius.xl}",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "description": "Rounding for prominent, elevated surfaces"
       },
       "xxl": {
         "value": "{semantic.borderRadius.xxl}",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "description": "Rounding for large feature surfaces"
       },
       "full": {
         "value": "999rem",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "description": "Fully rounded, pill-shaped elements"
       },
       "card": {
         "sm": {
           "value": "{semantic.borderRadius.container.sm}",
-          "type": "borderRadius"
+          "type": "borderRadius",
+          "description": "Corner radius for a small container"
         },
         "md": {
           "value": "{semantic.borderRadius.container.md}",
-          "type": "borderRadius"
+          "type": "borderRadius",
+          "description": "Corner radius for a medium container"
         },
         "lg": {
           "value": "{semantic.borderRadius.container.lg}",
-          "type": "borderRadius"
+          "type": "borderRadius",
+          "description": "Corner radius for a large container"
         },
         "nestedContainer": {
           "sm": {
             "value": "{semantic.borderRadius.sm}",
-            "type": "borderRadius"
+            "type": "borderRadius",
+            "description": "Corner radius for a small container nested inside another"
           },
           "md": {
             "value": "{semantic.borderRadius.md}",
-            "type": "borderRadius"
+            "type": "borderRadius",
+            "description": "Corner radius for a medium container nested inside another"
           },
           "lg": {
             "value": "{semantic.borderRadius.md}",
-            "type": "borderRadius"
+            "type": "borderRadius",
+            "description": "Corner radius for a large container nested inside another"
           }
         }
       }
@@ -84,164 +97,204 @@
       "spacing": {
         "xxxSmall": {
           "value": "0.125rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "xxSmall": {
           "value": "0.375rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "xSmall": {
           "value": "0.5rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "small": {
           "value": "0.75rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "mediumSmall": {
           "value": "1rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "medium": {
           "value": "1.5rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "large": {
           "value": "2.25rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "xLarge": {
           "value": "3rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "xxLarge": {
           "value": "3.75rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "space0": {
           "value": "0rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "space2": {
           "value": "0.125rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "space4": {
           "value": "0.25rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "space8": {
           "value": "0.5rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "space12": {
           "value": "0.75rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "space16": {
           "value": "1rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "space24": {
           "value": "1.5rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "space36": {
           "value": "2.25rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "space48": {
           "value": "3rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "space60": {
           "value": "3.75rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "sections": {
           "value": "2.25rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "sectionElements": {
           "value": "1.5em",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "trayElements": {
           "value": "1.5em",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "modalElements": {
           "value": "1.5em",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "moduleElements": {
           "value": "1em",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "paddingCardLarge": {
           "value": "1.5rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "paddingCardMedium": {
           "value": "1rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "paddingCardSmall": {
           "value": "0.75rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "selects": {
           "value": "1rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "textareas": {
           "value": "1rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "inputFields": {
           "value": "1rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "checkboxes": {
           "value": "1rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "radios": {
           "value": "1rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "toggles": {
           "value": "1rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "buttons": {
           "value": "0.75rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "tags": {
           "value": "0.75rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "statusIndicators": {
           "value": "0.75rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         },
         "dataPoints": {
           "value": "0.75rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Legacy token - avoid in new work"
         }
       },
       "radiusSmall": {
         "value": "0.125rem",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "description": "Legacy token - avoid in new work"
       },
       "radiusMedium": {
         "value": "0.25rem",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "description": "Legacy token - avoid in new work"
       },
       "radiusLarge": {
         "value": "0.5rem",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "description": "Legacy token - avoid in new work"
       }
     },
     "boxShadow": {
@@ -338,82 +391,100 @@
       "general": {
         "space2xs": {
           "value": "{semantic.spacing.space2xs}",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Tightest spacing, for closely related elements"
         },
         "spaceXs": {
           "value": "{semantic.spacing.spaceXs}",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Extra small spacing between related elements"
         },
         "spaceSm": {
           "value": "{semantic.spacing.spaceSm}",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Small spacing between related elements"
         },
         "spaceMd": {
           "value": "{semantic.spacing.spaceMd}",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Default spacing between related elements"
         },
         "spaceLg": {
           "value": "{semantic.spacing.spaceLg}",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Spacing for separating distinct groups of content"
         },
         "spaceXl": {
           "value": "{semantic.spacing.spaceXl}",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Spacing for separating major layout regions"
         },
         "space2xl": {
           "value": "{semantic.spacing.space2xl}",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Largest spacing, for separating high-level sections"
         },
         "spaceNone": {
           "value": "0rem",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Zero spacing, for flush layouts"
         }
       },
       "gap": {
         "sections": {
           "value": "{semantic.spacing.gap.sections}",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Gap between major layout sections"
         },
         "buttons": {
           "value": "{semantic.spacing.spaceSm}",
-          "type": "spacing"
+          "type": "spacing",
+          "description": "Gap between grouped interactive controls"
         },
         "cards": {
           "sm": {
             "value": "{semantic.spacing.gap.cards.sm}",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "Gap between small containers in a group"
           },
           "md": {
             "value": "{semantic.spacing.gap.cards.md}",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "Gap between medium containers in a group"
           },
           "lg": {
             "value": "{semantic.spacing.gap.cards.lg}",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "Gap between large containers in a group"
           },
           "nestedContainers": {
             "sm": {
               "value": "{semantic.spacing.spaceSm}",
-              "type": "spacing"
+              "type": "spacing",
+              "description": "Gap between containers nested in a small parent"
             },
             "md": {
               "value": "{semantic.spacing.spaceMd}",
-              "type": "spacing"
+              "type": "spacing",
+              "description": "Gap between containers nested in a medium parent"
             },
             "lg": {
               "value": "{semantic.spacing.spaceLg}",
-              "type": "spacing"
+              "type": "spacing",
+              "description": "Gap between containers nested in a large parent"
             }
           }
         },
         "inputs": {
           "horizontal": {
             "value": "{semantic.spacing.gap.inputs.horizontal}",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "Horizontal gap between adjacent form controls"
           },
           "vertical": {
             "value": "{semantic.spacing.gap.inputs.vertical}",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "Vertical gap between stacked form controls"
           }
         }
       },
@@ -421,15 +492,18 @@
         "card": {
           "sm": {
             "value": "{semantic.spacing.padding.container.xxs}",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "Inner padding for a small container"
           },
           "md": {
             "value": "{semantic.spacing.padding.container.xs}",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "Inner padding for a medium container"
           },
           "lg": {
             "value": "{semantic.spacing.padding.container.sm}",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "Inner padding for a large container"
           }
         }
       }
@@ -437,61 +511,75 @@
     "focusOutline": {
       "offset": {
         "value": "{semantic.spacing.space2xs}",
-        "type": "spacing"
+        "type": "spacing",
+        "description": "Gap between an element and its focus outline"
       },
       "inset": {
         "value": "0rem",
-        "type": "spacing"
+        "type": "spacing",
+        "description": "Inward offset for drawing the focus outline inside an element"
       },
       "width": {
         "value": "{semantic.borderWidth.md}",
-        "type": "borderWidth"
+        "type": "borderWidth",
+        "description": "Thickness of the focus outline"
       },
       "infoColor": {
         "value": "{semantic.color.stroke.interactive.focusRing.base}",
-        "type": "color"
+        "type": "color",
+        "description": "Default focus outline color"
       },
       "onColor": {
         "value": "{semantic.color.stroke.interactive.focusRing.onColor}",
-        "type": "color"
+        "type": "color",
+        "description": "Focus outline color on colored backgrounds"
       },
       "successColor": {
         "value": "{semantic.color.stroke.interactive.action.success.base}",
-        "type": "color"
+        "type": "color",
+        "description": "Focus outline color for success/confirm actions"
       },
       "dangerColor": {
         "value": "{semantic.color.stroke.interactive.action.destructive.base}",
-        "type": "color"
+        "type": "color",
+        "description": "Focus outline color for destructive actions"
       },
       "style": {
         "value": "solid",
-        "type": "text"
+        "type": "text",
+        "description": "Stroke style of the focus outline"
       }
     },
     "background": {
       "containerColor": {
         "value": "{semantic.color.background.container}",
-        "type": "color"
+        "type": "color",
+        "description": "Background for a contained surface, like a panel"
       },
       "baseColor": {
         "value": "{semantic.color.background.base}",
-        "type": "color"
+        "type": "color",
+        "description": "Default background for standard surfaces"
       },
       "pageColor": {
         "value": "{semantic.color.background.page}",
-        "type": "color"
+        "type": "color",
+        "description": "Background for the overall page canvas"
       },
       "mutedColor": {
         "value": "{semantic.color.background.muted}",
-        "type": "color"
+        "type": "color",
+        "description": "De-emphasized background color"
       },
       "brandColor": {
         "value": "{semantic.color.background.brand}",
-        "type": "color"
+        "type": "color",
+        "description": "Brand-colored background"
       },
       "onColor": {
         "value": "{semantic.color.background.onColor}",
-        "type": "color"
+        "type": "color",
+        "description": "Background for an element placed on a colored surface"
       },
       "inverseColor": {
         "value": "{semantic.color.background.inverse}",
@@ -500,177 +588,220 @@
       },
       "successColor": {
         "value": "{semantic.color.background.success}",
-        "type": "color"
+        "type": "color",
+        "description": "Background color signaling success"
       },
       "errorColor": {
         "value": "{semantic.color.background.error}",
-        "type": "color"
+        "type": "color",
+        "description": "Background color signaling an error"
       },
       "warningColor": {
         "value": "{semantic.color.background.warning}",
-        "type": "color"
+        "type": "color",
+        "description": "Background color signaling a warning"
       },
       "infoColor": {
         "value": "{semantic.color.background.info}",
-        "type": "color"
+        "type": "color",
+        "description": "Background color signaling information"
       },
       "aiTopGradientColor": {
         "value": "{semantic.color.background.aiTopGradient}",
-        "type": "color"
+        "type": "color",
+        "description": "Top gradient color for AI-related backgrounds"
       },
       "aiBottomGradientColor": {
         "value": "{semantic.color.background.aiBottomGradient}",
-        "type": "color"
+        "type": "color",
+        "description": "Bottom gradient color for AI-related backgrounds"
       },
       "aiTextColor": {
         "value": "{semantic.color.background.aiText}",
-        "type": "color"
+        "type": "color",
+        "description": "Background color behind text on AI-related surfaces"
       },
       "accentAsh": {
         "value": "{semantic.color.background.accent.ash}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentAurora": {
         "value": "{semantic.color.background.accent.aurora}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentBlue": {
         "value": "{semantic.color.background.accent.blue}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentGreen": {
         "value": "{semantic.color.background.accent.green}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentGrey": {
         "value": "{semantic.color.background.accent.grey}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentHoney": {
         "value": "{semantic.color.background.accent.honey}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentOrange": {
         "value": "{semantic.color.background.accent.orange}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentPlum": {
         "value": "{semantic.color.background.accent.plum}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentRed": {
         "value": "{semantic.color.background.accent.red}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentSea": {
         "value": "{semantic.color.background.accent.sea}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentSky": {
         "value": "{semantic.color.background.accent.sky}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentStone": {
         "value": "{semantic.color.background.accent.stone}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       },
       "accentViolet": {
         "value": "{semantic.color.background.accent.violet}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent background color for custom, non-semantic UI"
       }
     },
     "stroke": {
       "baseColor": {
         "value": "{semantic.color.stroke.base}",
-        "type": "color"
+        "type": "color",
+        "description": "Default border color"
       },
       "mutedColor": {
         "value": "{semantic.color.stroke.muted}",
-        "type": "color"
+        "type": "color",
+        "description": "De-emphasized border color"
       },
       "strongColor": {
         "value": "{semantic.color.stroke.strong}",
-        "type": "color"
+        "type": "color",
+        "description": "High-contrast border color for emphasis"
       },
       "brandColor": {
         "value": "{semantic.color.stroke.brand}",
-        "type": "color"
+        "type": "color",
+        "description": "Brand-colored border"
       },
       "successColor": {
         "value": "{semantic.color.stroke.success}",
-        "type": "color"
+        "type": "color",
+        "description": "Border color signaling success"
       },
       "errorColor": {
         "value": "{semantic.color.stroke.error}",
-        "type": "color"
+        "type": "color",
+        "description": "Border color signaling an error"
       },
       "warningColor": {
         "value": "{semantic.color.stroke.warning}",
-        "type": "color"
+        "type": "color",
+        "description": "Border color signaling a warning"
       },
       "infoColor": {
         "value": "{semantic.color.stroke.info}",
-        "type": "color"
+        "type": "color",
+        "description": "Border color signaling information"
       },
       "aiTopGradientColor": {
         "value": "{semantic.color.stroke.aiTopGradient}",
-        "type": "color"
+        "type": "color",
+        "description": "Top gradient color for AI-related borders"
       },
       "aiBottomGradientColor": {
         "value": "{semantic.color.stroke.aiBottomGradient}",
-        "type": "color"
+        "type": "color",
+        "description": "Bottom gradient color for AI-related borders"
       },
       "accentAsh": {
         "value": "{semantic.color.stroke.accent.ash}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentAurora": {
         "value": "{semantic.color.stroke.accent.aurora}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentBlue": {
         "value": "{semantic.color.stroke.accent.blue}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentGreen": {
         "value": "{semantic.color.stroke.accent.green}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentGrey": {
         "value": "{semantic.color.stroke.accent.grey}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentHoney": {
         "value": "{semantic.color.stroke.accent.honey}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentOrange": {
         "value": "{semantic.color.stroke.accent.orange}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentPlum": {
         "value": "{semantic.color.stroke.accent.plum}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentRed": {
         "value": "{semantic.color.stroke.accent.red}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentSea": {
         "value": "{semantic.color.stroke.accent.sea}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentSky": {
         "value": "{semantic.color.stroke.accent.sky}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentStone": {
         "value": "{semantic.color.stroke.accent.stone}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "accentViolet": {
         "value": "{semantic.color.stroke.accent.violet}",
-        "type": "color"
+        "type": "color",
+        "description": "Accent border color for custom, non-semantic UI"
       },
       "visualSeparator": {
         "value": "{semantic.color.background.container}",
@@ -681,15 +812,18 @@
     "strokeWidth": {
       "sm": {
         "value": "{semantic.borderWidth.sm}",
-        "type": "borderWidth"
+        "type": "borderWidth",
+        "description": "Thin border for subtle separation"
       },
       "md": {
         "value": "{semantic.borderWidth.md}",
-        "type": "borderWidth"
+        "type": "borderWidth",
+        "description": "Default border weight"
       },
       "lg": {
         "value": "{semantic.borderWidth.lg}",
-        "type": "borderWidth"
+        "type": "borderWidth",
+        "description": "Heavy border for strong separation"
       }
     }
   }

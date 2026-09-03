@@ -16,6 +16,10 @@
       "value": "{semantic.borderWidth.md}",
       "type": "borderWidth"
     },
+    "iconBorderWidth": {
+      "value": "{icon.strokeWidthLg}",
+      "type": "borderWidth"
+    },
     "closeButtonMarginRight": {
       "value": "0.5rem",
       "type": "other"
@@ -24,8 +28,16 @@
       "value": "0.5rem",
       "type": "other"
     },
+    "iconColor": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "closeIconColor": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
     "color": {
-      "value": "{semantic.color.institutional.brandFontColorDark}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "contentFontFamily": {
@@ -44,7 +56,19 @@
       "value": "{semantic.lineHeight.standalone.base}",
       "type": "lineHeights"
     },
+    "dangerBackground": {
+      "value": "{semantic.color.background.error}",
+      "type": "color"
+    },
+    "dangerBackgroundInline": {
+      "value": "{semantic.color.background.pastel.error}",
+      "type": "color"
+    },
     "dangerBorderColor": {
+      "value": "{semantic.color.stroke.error}",
+      "type": "color"
+    },
+    "dangerBorderColorInline": {
       "value": "{semantic.color.stroke.error}",
       "type": "color"
     },
@@ -52,11 +76,19 @@
       "value": "{semantic.color.background.error}",
       "type": "color"
     },
-    "iconColor": {
-      "value": "{semantic.color.icon.onColor}",
+    "infoBackground": {
+      "value": "{semantic.color.background.info}",
+      "type": "color"
+    },
+    "infoBackgroundInline": {
+      "value": "{semantic.color.background.pastel.info}",
       "type": "color"
     },
     "infoBorderColor": {
+      "value": "{semantic.color.stroke.info}",
+      "type": "color"
+    },
+    "infoBorderColorInline": {
       "value": "{semantic.color.stroke.info}",
       "type": "color"
     },
@@ -64,7 +96,19 @@
       "value": "{semantic.color.background.info}",
       "type": "color"
     },
+    "successBackground": {
+      "value": "{semantic.color.background.success}",
+      "type": "color"
+    },
+    "successBackgroundInline": {
+      "value": "{semantic.color.background.pastel.success}",
+      "type": "color"
+    },
     "successBorderColor": {
+      "value": "{semantic.color.stroke.success}",
+      "type": "color"
+    },
+    "successBorderColorInline": {
       "value": "{semantic.color.stroke.success}",
       "type": "color"
     },
@@ -72,12 +116,36 @@
       "value": "{semantic.color.background.success}",
       "type": "color"
     },
+    "warningBackground": {
+      "value": "{semantic.color.background.warning}",
+      "type": "color"
+    },
+    "warningBackgroundInline": {
+      "value": "{semantic.color.background.pastel.warning}",
+      "type": "color"
+    },
     "warningBorderColor": {
+      "value": "{semantic.color.stroke.warning}",
+      "type": "color"
+    },
+    "warningBorderColorInline": {
       "value": "{semantic.color.stroke.warning}",
       "type": "color"
     },
     "warningIconBackground": {
       "value": "{semantic.color.background.warning}",
+      "type": "color"
+    },
+    "warningIconColor": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "warningCloseIconColor": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "warningColor": {
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "contentPaddingVertical": {
@@ -87,6 +155,46 @@
     "contentPaddingHorizontal": {
       "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
+    },
+    "iconLeftPadding": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "iconRightPadding": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "iconHeight": {
+      "value": "{icon.sizeLg}",
+      "type": "sizing"
+    },
+    "iconTopPadding": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "colorInline": {
+      "value": "{semantic.color.text.base}",
+      "type": "color"
+    },
+    "closeIconColorInline": {
+      "value": "{semantic.color.icon.base}",
+      "type": "color"
+    },
+    "warningIconColorInline": {
+      "value": "{semantic.color.icon.warning}",
+      "type": "color"
+    },
+    "infoIconColorInline": {
+      "value": "{semantic.color.icon.info}",
+      "type": "color"
+    },
+    "dangerIconColorInline": {
+      "value": "{semantic.color.icon.error}",
+      "type": "color"
+    },
+    "successIconColorInline": {
+      "value": "{semantic.color.icon.success}",
+      "type": "color"
     }
   }
 }

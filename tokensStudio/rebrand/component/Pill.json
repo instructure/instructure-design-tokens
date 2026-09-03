@@ -4,24 +4,68 @@
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
+    "paddingHorizontalMedium": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "paddingHorizontalLarge": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "paddingVertical": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
+    "gapIconLabel": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
+    "gapIconLabelMedium": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gapIconLabelLarge": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gapContent": {
+      "value": "{semantic.spacing.space2xs}",
+      "type": "spacing"
+    },
     "height": {
-      "value": "24px",
+      "value": "1.5rem",
       "type": "sizing"
     },
-    "backgroundColor": {
-      "value": "{semantic.color.background.base}",
-      "type": "color"
+    "heightMedium": {
+      "value": "1.75rem",
+      "type": "sizing"
+    },
+    "heightLarge": {
+      "value": "2rem",
+      "type": "sizing"
+    },
+    "iconHeight": {
+      "value": ".75rem",
+      "type": "sizing"
     },
     "textFontSize": {
+      "value": "{semantic.fontSize.textXs}",
+      "type": "fontSizes"
+    },
+    "textFontSizeMedium": {
       "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
     },
+    "textFontSizeLarge": {
+      "value": "{semantic.fontSize.textBase}",
+      "type": "fontSizes"
+    },
     "textFontWeight": {
-      "value": "{semantic.fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "statusLabelFontWeight": {
-      "value": "{semantic.fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "maxWidth": {
@@ -33,7 +77,20 @@
       "type": "color"
     },
     "baseBorderColor": {
-      "value": "{semantic.color.stroke.base}",
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "backgroundColor": {
+      "value": "{semantic.color.background.pastel.neutral}",
       "type": "color"
     },
     "infoTextColor": {
@@ -41,15 +98,45 @@
       "type": "color"
     },
     "infoBorderColor": {
-      "value": "{semantic.color.stroke.info}",
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "infoBackgroundColor": {
+      "value": "{semantic.color.background.pastel.info}",
       "type": "color"
     },
     "errorTextColor": {
-      "value": "{semantic.color.text.error}",
+      "value": "{semantic.color.text.onColor}",
+      "type": "color"
+    },
+    "errorIconColor": {
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "errorBorderColor": {
-      "value": "{semantic.color.stroke.error}",
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "errorBackgroundColor": {
+      "value": "{semantic.color.background.error}",
       "type": "color"
     },
     "successTextColor": {
@@ -57,7 +144,20 @@
       "type": "color"
     },
     "successBorderColor": {
-      "value": "{semantic.color.stroke.success}",
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "successBackgroundColor": {
+      "value": "{semantic.color.background.pastel.success}",
       "type": "color"
     },
     "warningTextColor": {
@@ -65,15 +165,179 @@
       "type": "color"
     },
     "warningBorderColor": {
-      "value": "{semantic.color.stroke.warning}",
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "warningBackgroundColor": {
+      "value": "{semantic.color.background.pastel.warning}",
+      "type": "color"
+    },
+    "plumBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "plumBackgroundColor": {
+      "value": "{semantic.color.background.pastel.plum}",
+      "type": "color"
+    },
+    "plumTextColor": {
+      "value": "{semantic.color.text.accent.plum}",
+      "type": "color"
+    },
+    "auroraBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "skyBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "auroraBackgroundColor": {
+      "value": "{semantic.color.background.pastel.aurora}",
+      "type": "color"
+    },
+    "auroraTextColor": {
+      "value": "{semantic.color.text.accent.aurora}",
+      "type": "color"
+    },
+    "skyBackgroundColor": {
+      "value": "{semantic.color.background.pastel.sky}",
+      "type": "color"
+    },
+    "skyTextColor": {
+      "value": "{semantic.color.text.accent.sky}",
+      "type": "color"
+    },
+    "orangeBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "orangeBackgroundColor": {
+      "value": "{semantic.color.background.pastel.orange}",
+      "type": "color"
+    },
+    "orangeTextColor": {
+      "value": "{semantic.color.text.accent.orange}",
+      "type": "color"
+    },
+    "stoneBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "stoneBackgroundColor": {
+      "value": "{semantic.color.background.pastel.stone}",
+      "type": "color"
+    },
+    "stoneTextColor": {
+      "value": "{semantic.color.text.accent.stone}",
+      "type": "color"
+    },
+    "violetBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "violetBackgroundColor": {
+      "value": "{semantic.color.background.pastel.violet}",
+      "type": "color"
+    },
+    "violetTextColor": {
+      "value": "{semantic.color.text.accent.violet}",
+      "type": "color"
+    },
+    "seaBorderColor": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "seaBackgroundColor": {
+      "value": "{semantic.color.background.pastel.sea}",
+      "type": "color"
+    },
+    "seaTextColor": {
+      "value": "{semantic.color.text.accent.sea}",
       "type": "color"
     },
     "borderRadius": {
-      "value": "{semantic.borderRadius.md}",
+      "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     },
     "borderWidth": {
       "value": "{semantic.borderWidth.sm}",
+      "type": "borderWidth"
+    },
+    "iconBorderWidth": {
+      "value": "0.0625rem",
       "type": "borderWidth"
     },
     "lineHeight": {

@@ -1,7 +1,7 @@
 {
   "sideNavBarNew": {
     "backgroundColor": {
-      "value": "{semantic.color.background.dark}",
+      "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
     },
     "fill": {
@@ -9,7 +9,7 @@
       "type": "color"
     },
     "textColor": {
-      "value": "{semantic.color.text.onColor}",
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
       "type": "color"
     },
     "minimizedminWidth": {
@@ -21,7 +21,7 @@
       "type": "other"
     },
     "minWidth": {
-      "value": "15.75rem",
+      "value": "14.5rem",
       "type": "sizing"
     },
     "margin": {
@@ -108,7 +108,7 @@
         "type": "spacing"
       },
       "fontColor": {
-        "value": "{semantic.color.text.onColor}",
+        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
         "type": "color"
       },
       "fontFamily": {
@@ -124,7 +124,7 @@
         "type": "fontWeights"
       },
       "hoverBackgroundColor": {
-        "value": "{semantic.color.background.interactive.action.primary.hover}",
+        "value": "{semantic.color.institutional.globalNavLinkHover}",
         "type": "color"
       },
       "lineHeight": {
@@ -148,7 +148,7 @@
         "type": "color"
       },
       "currentTextColor": {
-        "value": "{semantic.color.text.interactive.navigation.primary.base}",
+        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
         "type": "color"
       },
       "selectedAccountFontColor": {
@@ -190,7 +190,7 @@
         "type": "color"
       },
       "textColor": {
-        "value": "{semantic.color.text.onColor}",
+        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
         "type": "color"
       },
       "selectedTextColor": {
@@ -208,7 +208,7 @@
     },
     "button": {
       "textColor": {
-        "value": "{semantic.color.text.onColor}",
+        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
         "type": "color"
       }
     },

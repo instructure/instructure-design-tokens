@@ -44,7 +44,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange100}",
+          "value": "{color.honey.honey40}",
           "type": "color"
         },
         "info": {
@@ -75,6 +75,19 @@
           "value": "{color.whiteOpacity10}",
           "type": "color"
         },
+        "mobileNav": {
+          "value": "{color.grey.grey10}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.5",
+                "space": "hsl"
+              }
+            }
+          }
+        },
         "pastel": {
           "violet": {
             "value": "{color.violet.violet20}",
@@ -82,6 +95,46 @@
           },
           "sea": {
             "value": "{color.sea.sea20}",
+            "type": "color"
+          },
+          "plum": {
+            "value": "{color.plum.plum20}",
+            "type": "color"
+          },
+          "sky": {
+            "value": "{color.sky.sky20}",
+            "type": "color"
+          },
+          "stone": {
+            "value": "{color.stone.stone20}",
+            "type": "color"
+          },
+          "aurora": {
+            "value": "{color.aurora.aurora20}",
+            "type": "color"
+          },
+          "orange": {
+            "value": "{color.orange.orange20}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{color.blue.blue20}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{color.green.green20}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{color.honey.honey20}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{color.red.red20}",
+            "type": "color"
+          },
+          "neutral": {
+            "value": "{color.grey.grey20}",
             "type": "color"
           }
         },
@@ -308,11 +361,11 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{color.navy.navy30}",
+                "value": "{color.navy.navy10}",
                 "type": "color"
               },
               "active": {
-                "value": "{color.navy.navy40}",
+                "value": "{color.navy.navy20}",
                 "type": "color"
               },
               "disabled": {
@@ -1103,7 +1156,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange100}",
+          "value": "{color.honey.honey40}",
           "type": "color"
         },
         "info": {
@@ -1474,19 +1527,19 @@
           "type": "color"
         },
         "success": {
-          "value": "{color.green.green110}",
+          "value": "{color.green.green120}",
           "type": "color"
         },
         "error": {
-          "value": "{color.red.red110}",
+          "value": "{color.red.red120}",
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange110}",
+          "value": "{color.honey.honey140}",
           "type": "color"
         },
         "info": {
-          "value": "{color.blue.blue110}",
+          "value": "{color.blue.blue120}",
           "type": "color"
         },
         "aiColor": {
@@ -1816,19 +1869,19 @@
           "type": "color"
         },
         "success": {
-          "value": "{color.green.green110}",
+          "value": "{color.green.green120}",
           "type": "color"
         },
         "error": {
-          "value": "{color.red.red110}",
+          "value": "{color.red.red120}",
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange110}",
+          "value": "{color.honey.honey140}",
           "type": "color"
         },
         "info": {
-          "value": "{color.blue.blue110}",
+          "value": "{color.blue.blue120}",
           "type": "color"
         },
         "dark": {
@@ -2141,10 +2194,6 @@
           "type": "color"
         }
       },
-      "transparentColor": {
-        "value": "{color.transparent}",
-        "type": "color"
-      },
       "institutional": {
         "brandPrimary": {
           "value": "{color.navy.navy170}",
@@ -2199,6 +2248,14 @@
           "value": "{color.white}",
           "type": "color"
         }
+      },
+      "transparentColor": {
+        "value": "{color.transparent}",
+        "type": "color"
+      },
+      "mobileCourse": {
+        "value": "{color.plum.plum110}",
+        "type": "color"
       }
     },
     "dropShadow": {
