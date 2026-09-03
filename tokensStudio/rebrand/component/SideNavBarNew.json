@@ -190,7 +190,7 @@
         "type": "color"
       },
       "textColor": {
-        "value": "{semantic.color.text.base}",
+        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
         "type": "color"
       },
       "selectedTextColor": {
@@ -208,7 +208,7 @@
     },
     "button": {
       "textColor": {
-        "value": "{semantic.color.text.base}",
+        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
         "type": "color"
       }
     },
