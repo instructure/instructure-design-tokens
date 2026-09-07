@@ -75,7 +75,7 @@
       "description": "Do not use this for other components"
     },
     "borderRadius": {
-      "value": "{semantic.borderRadius.container.md}",
+      "value": "{semantic.borderRadius.lg}",
       "type": "borderRadius"
     },
     "minimizedBorderRadius": {
