@@ -104,7 +104,16 @@
     },
     "primaryGhostColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "primaryGhostHoverBackground": {
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
