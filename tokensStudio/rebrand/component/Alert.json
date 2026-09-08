@@ -1,9 +1,5 @@
 {
   "alert": {
-    "background": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
-      "type": "color"
-    },
     "borderRadius": {
       "value": "{semantic.borderRadius.lg}",
       "type": "borderRadius"
@@ -28,24 +24,12 @@
       "value": "0.5rem",
       "type": "other"
     },
-    "iconColor": {
-      "value": "{semantic.color.icon.onColor}",
-      "type": "color"
-    },
-    "closeIconColor": {
-      "value": "{semantic.color.icon.onColor}",
-      "type": "color"
-    },
     "color": {
       "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "colorInline": {
       "value": "{semantic.color.text.base}",
-      "type": "color"
-    },
-    "closeIconColorInline": {
-      "value": "{semantic.color.icon.base}",
       "type": "color"
     },
     "contentFontFamily": {
@@ -184,14 +168,6 @@
       "value": "{semantic.color.text.dark}",
       "type": "color"
     },
-    "warningIconColor": {
-      "value": "{semantic.color.icon.dark}",
-      "type": "color"
-    },
-    "warningCloseIconColor": {
-      "value": "{semantic.color.icon.dark}",
-      "type": "color"
-    },
     "contentPaddingVertical": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
@@ -200,37 +176,21 @@
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
-    "iconLeftPadding": {
+    "iconPaddingLeft": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
-    "iconRightPadding": {
+    "iconPaddingRight": {
       "value": "0",
       "type": "spacing"
     },
-    "iconTopPadding": {
+    "iconPaddingVertical": {
       "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
     },
     "iconHeight": {
       "value": "{icon.sizeSm}",
       "type": "sizing"
-    },
-    "warningIconColorInline": {
-      "value": "{semantic.color.icon.warning}",
-      "type": "color"
-    },
-    "infoIconColorInline": {
-      "value": "{semantic.color.icon.info}",
-      "type": "color"
-    },
-    "dangerIconColorInline": {
-      "value": "{semantic.color.icon.error}",
-      "type": "color"
-    },
-    "successIconColorInline": {
-      "value": "{semantic.color.icon.success}",
-      "type": "color"
     }
   }
 }

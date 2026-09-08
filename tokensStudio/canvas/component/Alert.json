@@ -1,9 +1,5 @@
 {
   "alert": {
-    "background": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
-      "type": "color"
-    },
     "borderRadius": {
       "value": "{semantic.borderRadius.lg}",
       "type": "borderRadius"
@@ -27,14 +23,6 @@
     "closeButtonMarginTop": {
       "value": "0.5rem",
       "type": "other"
-    },
-    "iconColor": {
-      "value": "{semantic.color.icon.onColor}",
-      "type": "color"
-    },
-    "closeIconColor": {
-      "value": "{semantic.color.icon.onColor}",
-      "type": "color"
     },
     "color": {
       "value": "{semantic.color.text.onColor}",
@@ -136,14 +124,6 @@
       "value": "{semantic.color.background.warning}",
       "type": "color"
     },
-    "warningIconColor": {
-      "value": "{semantic.color.icon.onColor}",
-      "type": "color"
-    },
-    "warningCloseIconColor": {
-      "value": "{semantic.color.icon.onColor}",
-      "type": "color"
-    },
     "warningColor": {
       "value": "{semantic.color.text.onColor}",
       "type": "color"
@@ -156,11 +136,11 @@
       "value": "{semantic.spacing.spaceXl}",
       "type": "spacing"
     },
-    "iconLeftPadding": {
+    "iconPaddingLeft": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
-    "iconRightPadding": {
+    "iconPaddingRight": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
@@ -168,32 +148,12 @@
       "value": "{icon.sizeLg}",
       "type": "sizing"
     },
-    "iconTopPadding": {
-      "value": "{semantic.spacing.spaceMd}",
+    "iconPaddingVertical": {
+      "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
     },
     "colorInline": {
       "value": "{semantic.color.text.base}",
-      "type": "color"
-    },
-    "closeIconColorInline": {
-      "value": "{semantic.color.icon.base}",
-      "type": "color"
-    },
-    "warningIconColorInline": {
-      "value": "{semantic.color.icon.warning}",
-      "type": "color"
-    },
-    "infoIconColorInline": {
-      "value": "{semantic.color.icon.info}",
-      "type": "color"
-    },
-    "dangerIconColorInline": {
-      "value": "{semantic.color.icon.error}",
-      "type": "color"
-    },
-    "successIconColorInline": {
-      "value": "{semantic.color.icon.success}",
       "type": "color"
     }
   }
