@@ -92,6 +92,14 @@
     "compactPaddingVertical": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
+    },
+    "relaxedIconHeight": {
+      "value": "2rem",
+      "type": "sizing"
+    },
+    "compactIconHeight": {
+      "value": "1.5rem",
+      "type": "sizing"
     }
   }
 }

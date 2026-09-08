@@ -92,6 +92,14 @@
     "compactIconBorderRadius": {
       "value": "{semantic.borderRadius.md}",
       "type": "borderRadius"
+    },
+    "relaxedIconHeight": {
+      "value": "2rem",
+      "type": "sizing"
+    },
+    "compactIconHeight": {
+      "value": "1.5rem",
+      "type": "sizing"
     }
   }
 }
