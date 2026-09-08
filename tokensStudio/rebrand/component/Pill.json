@@ -32,6 +32,10 @@
       "value": "{semantic.spacing.space2xs}",
       "type": "spacing"
     },
+    "heightXSmall": {
+      "value": "1.25rem",
+      "type": "sizing"
+    },
     "height": {
       "value": "1.5rem",
       "type": "sizing"
@@ -42,10 +46,6 @@
     },
     "heightLarge": {
       "value": "2rem",
-      "type": "sizing"
-    },
-    "iconHeight": {
-      "value": ".75rem",
       "type": "sizing"
     },
     "textFontSize": {
@@ -72,10 +72,6 @@
       "value": "240px",
       "type": "sizing"
     },
-    "baseTextColor": {
-      "value": "{semantic.color.text.base}",
-      "type": "color"
-    },
     "baseBorderColor": {
       "value": "{semantic.color.stroke.strong}",
       "type": "color",
@@ -89,7 +85,11 @@
         }
       }
     },
-    "backgroundColor": {
+    "baseTextColor": {
+      "value": "{semantic.color.text.base}",
+      "type": "color"
+    },
+    "neutralBackgroundColor": {
       "value": "{semantic.color.background.pastel.neutral}",
       "type": "color"
     },
@@ -334,10 +334,6 @@
     },
     "borderWidth": {
       "value": "{semantic.borderWidth.sm}",
-      "type": "borderWidth"
-    },
-    "iconBorderWidth": {
-      "value": "0.0625rem",
       "type": "borderWidth"
     },
     "lineHeight": {
