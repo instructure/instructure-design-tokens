@@ -12,10 +12,6 @@
       "value": "{semantic.borderWidth.md}",
       "type": "borderWidth"
     },
-    "iconBorderWidth": {
-      "value": "{icon.strokeWidthLg}",
-      "type": "borderWidth"
-    },
     "closeButtonMarginRight": {
       "value": "0.5rem",
       "type": "other"
@@ -143,10 +139,6 @@
     "iconPaddingRight": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
-    },
-    "iconHeight": {
-      "value": "{icon.sizeLg}",
-      "type": "sizing"
     },
     "iconPaddingVertical": {
       "value": "{semantic.spacing.spaceLg}",
