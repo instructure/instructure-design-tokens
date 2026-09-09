@@ -20,14 +20,6 @@
       "value": "0.5rem",
       "type": "other"
     },
-    "color": {
-      "value": "{semantic.color.text.onColor}",
-      "type": "color"
-    },
-    "colorInline": {
-      "value": "{semantic.color.text.base}",
-      "type": "color"
-    },
     "contentFontFamily": {
       "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
@@ -158,10 +150,6 @@
     },
     "warningIconBackground": {
       "value": "{semantic.color.background.warning}",
-      "type": "color"
-    },
-    "warningColor": {
-      "value": "{semantic.color.text.dark}",
       "type": "color"
     },
     "contentPaddingVertical": {

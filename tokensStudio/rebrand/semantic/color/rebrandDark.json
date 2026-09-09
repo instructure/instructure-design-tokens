@@ -44,7 +44,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.honey.honey40}",
+          "value": "{color.honey.honey110}",
           "type": "color"
         },
         "info": {
@@ -1120,7 +1120,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.honey.honey40}",
+          "value": "{color.honey.honey110}",
           "type": "color"
         },
         "info": {

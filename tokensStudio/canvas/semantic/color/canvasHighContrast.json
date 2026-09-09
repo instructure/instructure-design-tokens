@@ -1129,7 +1129,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange140}",
+          "value": "{color.honey.honey140}",
           "type": "color"
         },
         "info": {
@@ -1823,7 +1823,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange130}",
+          "value": "{color.honey.honey130}",
           "type": "color"
         },
         "info": {

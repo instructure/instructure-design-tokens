@@ -20,10 +20,6 @@
       "value": "0.5rem",
       "type": "other"
     },
-    "color": {
-      "value": "{semantic.color.text.onColor}",
-      "type": "color"
-    },
     "contentFontFamily": {
       "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
@@ -45,7 +41,7 @@
       "type": "color"
     },
     "dangerBackgroundInline": {
-      "value": "{semantic.color.background.pastel.error}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "dangerBorderColor": {
@@ -65,7 +61,7 @@
       "type": "color"
     },
     "infoBackgroundInline": {
-      "value": "{semantic.color.background.pastel.info}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "infoBorderColor": {
@@ -85,7 +81,7 @@
       "type": "color"
     },
     "successBackgroundInline": {
-      "value": "{semantic.color.background.pastel.success}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "successBorderColor": {
@@ -101,11 +97,11 @@
       "type": "color"
     },
     "warningBackground": {
-      "value": "{semantic.color.background.warning}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "warningBackgroundInline": {
-      "value": "{semantic.color.background.pastel.warning}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "warningBorderColor": {
@@ -117,11 +113,7 @@
       "type": "color"
     },
     "warningIconBackground": {
-      "value": "{semantic.color.background.warning}",
-      "type": "color"
-    },
-    "warningColor": {
-      "value": "{semantic.color.text.onColor}",
+      "value": "{semantic.color.background.base}",
       "type": "color"
     },
     "contentPaddingVertical": {
@@ -143,10 +135,6 @@
     "iconPaddingVertical": {
       "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
-    },
-    "colorInline": {
-      "value": "{semantic.color.text.base}",
-      "type": "color"
     }
   }
 }
