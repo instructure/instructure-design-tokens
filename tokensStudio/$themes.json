@@ -75,7 +75,8 @@
       "rebrand/component/Chart": "enabled",
       "rebrand/component/Card": "enabled",
       "rebrand/component/Banner": "enabled",
-      "rebrand/component/MobileSharedTokens": "enabled"
+      "rebrand/component/MobileSharedTokens": "enabled",
+      "rebrand/component/SkeletonLoader": "enabled"
     },
     "$figmaStyleReferences": {
       "elevation1": "S:0c22a809359ba629b2e09fde021efd3495cd9543,",
@@ -986,6 +987,8 @@
       "semantic.dropShadow.spread.elevation3.dropshadow2": "5f9c5a28e234bfb54036ab50ba47e602afa03a05",
       "semantic.dropShadow.spread.elevation4.dropshadow1": "15a0438ea73a6d9d2206964ba1f42589256d6862",
       "semantic.dropShadow.spread.elevation4.dropshadow2": "a1dd57f2393c7cb342de0545404fce8594d467b0",
+      "semantic.color.background.skeleton.backgroundColor": "f2deee067a1a2ed021a06dbb68c726e1538f7319",
+      "semantic.color.background.skeleton.shimmerColor": "edeeafa8383b2ba3ee9a41f3e2b6f8bb1b7ba497",
       "semantic.size.interactive.height.xxs": "7b7b916bb9b59c700497107b1ee02ca6da195d47",
       "semantic.size.interactive.height.xs": "1516cc4e8ee0c76e66296b6cc3c0a150b8abc772",
       "semantic.size.interactive.height.sm": "3b32db09604a47795ca27cbdab5386bcdf152e20",
@@ -2484,6 +2487,8 @@
       "sideNavBarNew.institutionLogo.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93",
       "sideNavBarNew.insitutionLogo.padding": "fe4d8400a78ffab1104343d6efb0fa9ebc2a1eed",
       "sideNavBarNew.insitutionLogo.gap": "a102e2648a3e99dbb7ed0e3bff00fadf79cbcbae",
+      "skeletonLoader.backgroundColor": "70643cffe1e1d5fd80e6b09fcaa2b31c740bc6f0",
+      "skeletonLoader.shimmerColor": "0f5bfc106bb79600d1f3df5b0196dba300d4b9a0",
       "sourceCodeEditor.background": "753bcadd249cf00e7907044d50f6948a0e69b095",
       "sourceCodeEditor.borderColor": "87cf90ef8c27fe5c12764a7a5656f66d1aefd83b",
       "sourceCodeEditor.borderRadius": "9f0848b8ed3d6789ce7c71447d10a2ee54b6eccf",
@@ -2975,7 +2980,8 @@
       "rebrand/component/Chart": "enabled",
       "rebrand/component/Card": "enabled",
       "rebrand/component/Banner": "enabled",
-      "rebrand/component/MobileSharedTokens": "enabled"
+      "rebrand/component/MobileSharedTokens": "enabled",
+      "rebrand/component/SkeletonLoader": "enabled"
     },
     "$figmaStyleReferences": {
       "avatar.boxShadow": "S:ce597b947227d2e4b1f0fa80d2b7be88a5987dc2,",
@@ -4615,6 +4621,8 @@
       "semantic.dropShadow.spread.elevation3.dropshadow2": "5f9c5a28e234bfb54036ab50ba47e602afa03a05",
       "semantic.dropShadow.spread.elevation4.dropshadow1": "15a0438ea73a6d9d2206964ba1f42589256d6862",
       "semantic.dropShadow.spread.elevation4.dropshadow2": "a1dd57f2393c7cb342de0545404fce8594d467b0",
+      "semantic.color.background.skeleton.backgroundColor": "f2deee067a1a2ed021a06dbb68c726e1538f7319",
+      "semantic.color.background.skeleton.shimmerColor": "edeeafa8383b2ba3ee9a41f3e2b6f8bb1b7ba497",
       "semantic.size.interactive.height.xxs": "7b7b916bb9b59c700497107b1ee02ca6da195d47",
       "semantic.size.interactive.height.xs": "1516cc4e8ee0c76e66296b6cc3c0a150b8abc772",
       "semantic.size.interactive.height.sm": "3b32db09604a47795ca27cbdab5386bcdf152e20",
@@ -6113,6 +6121,8 @@
       "sideNavBarNew.institutionLogo.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93",
       "sideNavBarNew.insitutionLogo.padding": "fe4d8400a78ffab1104343d6efb0fa9ebc2a1eed",
       "sideNavBarNew.insitutionLogo.gap": "a102e2648a3e99dbb7ed0e3bff00fadf79cbcbae",
+      "skeletonLoader.backgroundColor": "70643cffe1e1d5fd80e6b09fcaa2b31c740bc6f0",
+      "skeletonLoader.shimmerColor": "0f5bfc106bb79600d1f3df5b0196dba300d4b9a0",
       "sourceCodeEditor.background": "753bcadd249cf00e7907044d50f6948a0e69b095",
       "sourceCodeEditor.borderColor": "87cf90ef8c27fe5c12764a7a5656f66d1aefd83b",
       "sourceCodeEditor.borderRadius": "9f0848b8ed3d6789ce7c71447d10a2ee54b6eccf",
@@ -6604,7 +6614,8 @@
       "canvas/component/Chart": "enabled",
       "canvas/component/Card": "enabled",
       "canvas/component/Banner": "enabled",
-      "canvas/component/MobileSharedTokens": "enabled"
+      "canvas/component/MobileSharedTokens": "enabled",
+      "canvas/component/SkeletonLoader": "enabled"
     },
     "$figmaStyleReferences": {
       "primaryBg": "S:7bfe47b8656807754868fc09a300778c7b28a4ea,",
@@ -7517,6 +7528,8 @@
       "semantic.dropShadow.spread.elevation3.dropshadow2": "5f9c5a28e234bfb54036ab50ba47e602afa03a05",
       "semantic.dropShadow.spread.elevation4.dropshadow1": "15a0438ea73a6d9d2206964ba1f42589256d6862",
       "semantic.dropShadow.spread.elevation4.dropshadow2": "a1dd57f2393c7cb342de0545404fce8594d467b0",
+      "semantic.color.background.skeleton.backgroundColor": "f2deee067a1a2ed021a06dbb68c726e1538f7319",
+      "semantic.color.background.skeleton.shimmerColor": "edeeafa8383b2ba3ee9a41f3e2b6f8bb1b7ba497",
       "aiInformation.bodyPadding": "56a9fbff12ee9eccabb8e25881d1c2be2c97f71c",
       "aiInformation.headingBottomMargin": "da7f5258b9dac3ae812f86a75d8bb5cc0d955a0b",
       "aiInformation.featureNameBottomMargin": "e60a258058bc7adee26c3624a936912429e67f96",
@@ -8931,6 +8944,8 @@
       "sideNavBarNew.institutionLogo.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93",
       "sideNavBarNew.insitutionLogo.padding": "fe4d8400a78ffab1104343d6efb0fa9ebc2a1eed",
       "sideNavBarNew.insitutionLogo.gap": "a102e2648a3e99dbb7ed0e3bff00fadf79cbcbae",
+      "skeletonLoader.backgroundColor": "70643cffe1e1d5fd80e6b09fcaa2b31c740bc6f0",
+      "skeletonLoader.shimmerColor": "0f5bfc106bb79600d1f3df5b0196dba300d4b9a0",
       "sourceCodeEditor.background": "753bcadd249cf00e7907044d50f6948a0e69b095",
       "sourceCodeEditor.borderColor": "87cf90ef8c27fe5c12764a7a5656f66d1aefd83b",
       "sourceCodeEditor.borderRadius": "9f0848b8ed3d6789ce7c71447d10a2ee54b6eccf",
@@ -9506,7 +9521,8 @@
       "canvas/component/Chart": "enabled",
       "canvas/component/Card": "enabled",
       "canvas/component/Banner": "enabled",
-      "canvas/component/MobileSharedTokens": "enabled"
+      "canvas/component/MobileSharedTokens": "enabled",
+      "canvas/component/SkeletonLoader": "enabled"
     },
     "$figmaStyleReferences": {
       "primaryBg": "S:7bfe47b8656807754868fc09a300778c7b28a4ea,",
@@ -11148,6 +11164,8 @@
       "semantic.dropShadow.spread.elevation3.dropshadow2": "5f9c5a28e234bfb54036ab50ba47e602afa03a05",
       "semantic.dropShadow.spread.elevation4.dropshadow1": "15a0438ea73a6d9d2206964ba1f42589256d6862",
       "semantic.dropShadow.spread.elevation4.dropshadow2": "a1dd57f2393c7cb342de0545404fce8594d467b0",
+      "semantic.color.background.skeleton.backgroundColor": "f2deee067a1a2ed021a06dbb68c726e1538f7319",
+      "semantic.color.background.skeleton.shimmerColor": "edeeafa8383b2ba3ee9a41f3e2b6f8bb1b7ba497",
       "aiInformation.bodyPadding": "56a9fbff12ee9eccabb8e25881d1c2be2c97f71c",
       "aiInformation.headingBottomMargin": "da7f5258b9dac3ae812f86a75d8bb5cc0d955a0b",
       "aiInformation.featureNameBottomMargin": "e60a258058bc7adee26c3624a936912429e67f96",
@@ -12562,6 +12580,8 @@
       "sideNavBarNew.institutionLogo.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93",
       "sideNavBarNew.insitutionLogo.padding": "fe4d8400a78ffab1104343d6efb0fa9ebc2a1eed",
       "sideNavBarNew.insitutionLogo.gap": "a102e2648a3e99dbb7ed0e3bff00fadf79cbcbae",
+      "skeletonLoader.backgroundColor": "70643cffe1e1d5fd80e6b09fcaa2b31c740bc6f0",
+      "skeletonLoader.shimmerColor": "0f5bfc106bb79600d1f3df5b0196dba300d4b9a0",
       "sourceCodeEditor.background": "753bcadd249cf00e7907044d50f6948a0e69b095",
       "sourceCodeEditor.borderColor": "87cf90ef8c27fe5c12764a7a5656f66d1aefd83b",
       "sourceCodeEditor.borderRadius": "9f0848b8ed3d6789ce7c71447d10a2ee54b6eccf",

@@ -1096,6 +1096,16 @@
             "value": "{color.grey.grey160}",
             "type": "color"
           }
+        },
+        "skeleton": {
+          "backgroundColor": {
+            "value": "{color.grey.grey110}",
+            "type": "color"
+          },
+          "shimmerColor": {
+            "value": "{color.grey.grey90}",
+            "type": "color"
+          }
         }
       },
       "stroke": {

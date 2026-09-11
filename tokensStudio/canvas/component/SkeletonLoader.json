@@ -1,0 +1,12 @@
+{
+  "skeletonLoader": {
+    "backgroundColor": {
+      "value": "{semantic.color.background.skeleton.backgroundColor}",
+      "type": "color"
+    },
+    "shimmerColor": {
+      "value": "{semantic.color.background.skeleton.shimmerColor}",
+      "type": "color"
+    }
+  }
+}
