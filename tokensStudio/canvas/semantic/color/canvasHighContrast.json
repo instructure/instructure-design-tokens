@@ -75,6 +75,19 @@
           "value": "{color.whiteOpacity10}",
           "type": "color"
         },
+        "mobileNav": {
+          "value": "{color.grey.grey10}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.5",
+                "space": "hsl"
+              }
+            }
+          }
+        },
         "divider": {
           "base": {
             "value": "{color.grey.grey40}",
@@ -1051,6 +1064,46 @@
           "sea": {
             "value": "{color.sea.sea20}",
             "type": "color"
+          },
+          "plum": {
+            "value": "{color.plum.plum20}",
+            "type": "color"
+          },
+          "sky": {
+            "value": "{color.sky.sky20}",
+            "type": "color"
+          },
+          "orange": {
+            "value": "{color.orange.orange20}",
+            "type": "color"
+          },
+          "aurora": {
+            "value": "{color.aurora.aurora20}",
+            "type": "color"
+          },
+          "stone": {
+            "value": "{color.stone.stone20}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{color.blue.blue20}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{color.green.green20}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{color.honey.honey20}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{color.red.red20}",
+            "type": "color"
+          },
+          "neutral": {
+            "value": "{color.grey.grey20}",
+            "type": "color"
           }
         }
       },
@@ -1076,7 +1129,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange140}",
+          "value": "{color.honey.honey140}",
           "type": "color"
         },
         "info": {
@@ -1770,7 +1823,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{color.orange.orange130}",
+          "value": "{color.honey.honey130}",
           "type": "color"
         },
         "info": {
@@ -2082,10 +2135,6 @@
           "type": "color"
         }
       },
-      "transparentColor": {
-        "value": "{color.transparent}",
-        "type": "color"
-      },
       "institutional": {
         "brandPrimary": {
           "value": "{color.blue.blue100}",
@@ -2131,6 +2180,14 @@
           "value": "{color.blue.blue130}",
           "type": "color"
         }
+      },
+      "transparentColor": {
+        "value": "{color.transparent}",
+        "type": "color"
+      },
+      "mobileCourse": {
+        "value": "{color.plum.plum110}",
+        "type": "color"
       }
     },
     "dropShadow": {

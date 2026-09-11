@@ -1,9 +1,5 @@
 {
   "alert": {
-    "background": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
-      "type": "color"
-    },
     "borderRadius": {
       "value": "{semantic.borderRadius.lg}",
       "type": "borderRadius"
@@ -13,7 +9,7 @@
       "type": "other"
     },
     "borderWidth": {
-      "value": "{semantic.borderWidth.md}",
+      "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
     "closeButtonMarginRight": {
@@ -23,10 +19,6 @@
     "closeButtonMarginTop": {
       "value": "0.5rem",
       "type": "other"
-    },
-    "color": {
-      "value": "{semantic.color.institutional.brandFontColorDark}",
-      "type": "color"
     },
     "contentFontFamily": {
       "value": "{semantic.fontFamily.base}",
@@ -44,37 +36,117 @@
       "value": "{semantic.lineHeight.standalone.base}",
       "type": "lineHeights"
     },
+    "dangerBackground": {
+      "value": "{semantic.color.background.error}",
+      "type": "color"
+    },
+    "dangerBackgroundInline": {
+      "value": "{semantic.color.background.pastel.error}",
+      "type": "color"
+    },
     "dangerBorderColor": {
       "value": "{semantic.color.stroke.error}",
       "type": "color"
+    },
+    "dangerBorderColorInline": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "dangerIconBackground": {
       "value": "{semantic.color.background.error}",
       "type": "color"
     },
-    "iconColor": {
-      "value": "{semantic.color.icon.onColor}",
+    "infoBackground": {
+      "value": "{semantic.color.background.info}",
+      "type": "color"
+    },
+    "infoBackgroundInline": {
+      "value": "{semantic.color.background.pastel.info}",
       "type": "color"
     },
     "infoBorderColor": {
       "value": "{semantic.color.stroke.info}",
       "type": "color"
     },
+    "infoBorderColorInline": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
     "infoIconBackground": {
       "value": "{semantic.color.background.info}",
+      "type": "color"
+    },
+    "successBackground": {
+      "value": "{semantic.color.background.success}",
+      "type": "color"
+    },
+    "successBackgroundInline": {
+      "value": "{semantic.color.background.pastel.success}",
       "type": "color"
     },
     "successBorderColor": {
       "value": "{semantic.color.stroke.success}",
       "type": "color"
     },
+    "successBorderColorInline": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
     "successIconBackground": {
       "value": "{semantic.color.background.success}",
+      "type": "color"
+    },
+    "warningBackground": {
+      "value": "{semantic.color.background.warning}",
+      "type": "color"
+    },
+    "warningBackgroundInline": {
+      "value": "{semantic.color.background.pastel.warning}",
       "type": "color"
     },
     "warningBorderColor": {
       "value": "{semantic.color.stroke.warning}",
       "type": "color"
+    },
+    "warningBorderColorInline": {
+      "value": "{semantic.color.stroke.strong}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "warningIconBackground": {
       "value": "{semantic.color.background.warning}",
@@ -85,7 +157,19 @@
       "type": "spacing"
     },
     "contentPaddingHorizontal": {
-      "value": "{semantic.spacing.spaceXl}",
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "iconPaddingLeft": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "iconPaddingRight": {
+      "value": "0",
+      "type": "spacing"
+    },
+    "iconPaddingVertical": {
+      "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
     }
   }

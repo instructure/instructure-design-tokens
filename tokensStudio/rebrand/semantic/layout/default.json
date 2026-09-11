@@ -402,7 +402,7 @@
         "type": "fontSizes"
       },
       "text2xl": {
-        "value": "{size.size40}",
+        "value": "{size.size36}",
         "type": "fontSizes"
       }
     },
