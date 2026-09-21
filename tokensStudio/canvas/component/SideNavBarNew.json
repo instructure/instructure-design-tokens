@@ -238,9 +238,7 @@
       "strokeColor": {
         "value": "{semantic.color.stroke.base}",
         "type": "color"
-      }
-    },
-    "insitutionLogo": {
+      },
       "padding": {
         "value": "{semantic.spacing.spaceSm}",
         "type": "spacing"
