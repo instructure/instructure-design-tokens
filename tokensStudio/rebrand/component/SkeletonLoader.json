@@ -12,6 +12,10 @@
       "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
+    "textHeightXxs": {
+      "value": "{semantic.fontSize.textXs}",
+      "type": "fontSizes"
+    },
     "textHeightSm": {
       "value": "{semantic.fontSize.textLg}",
       "type": "fontSizes"
@@ -31,6 +35,10 @@
     "textHeightXxl": {
       "value": "{semantic.fontSize.text2xl}",
       "type": "fontSizes"
+    },
+    "textPaddingXxs": {
+      "value": "0.1875rem",
+      "type": "spacing"
     },
     "textPaddingXs": {
       "value": "0.125rem",
@@ -67,6 +75,18 @@
     "avatarBorderRadius": {
       "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
+    },
+    "duration": {
+      "value": "1500ms",
+      "type": "duration"
+    },
+    "bezier": {
+      "value": "0.42, 0, 0.58, 1",
+      "type": "cubicBezier"
+    },
+    "motion": {
+      "value": "ease-in-out",
+      "type": "transition"
     }
   }
 }
