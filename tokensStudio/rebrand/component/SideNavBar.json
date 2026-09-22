@@ -117,7 +117,7 @@
       "type": "other"
     },
     "selectedBackgroundColor": {
-      "value": "{semantic.color.institutional.brandPrimary}",
+      "value": "{semantic.color.background.brand}",
       "type": "color"
     },
     "selectedFontColor": {

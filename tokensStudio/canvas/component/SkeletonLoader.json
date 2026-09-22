@@ -1,0 +1,92 @@
+{
+  "skeletonLoader": {
+    "backgroundColor": {
+      "value": "{semantic.color.background.skeleton.backgroundColor}",
+      "type": "color"
+    },
+    "shimmerColor": {
+      "value": "{semantic.color.background.skeleton.shimmerColor}",
+      "type": "color"
+    },
+    "textHeightXs": {
+      "value": "{semantic.fontSize.textBase}",
+      "type": "fontSizes"
+    },
+    "textHeightXxs": {
+      "value": "{semantic.fontSize.textXs}",
+      "type": "fontSizes"
+    },
+    "textHeightSm": {
+      "value": "{semantic.fontSize.textLg}",
+      "type": "fontSizes"
+    },
+    "textHeightMd": {
+      "value": "1.5rem",
+      "type": "fontSizes"
+    },
+    "textHeightLg": {
+      "value": "{semantic.fontSize.textXl}",
+      "type": "fontSizes"
+    },
+    "textHeightXl": {
+      "value": "2rem",
+      "type": "fontSizes"
+    },
+    "textHeightXxl": {
+      "value": "{semantic.fontSize.text2xl}",
+      "type": "fontSizes"
+    },
+    "textPaddingXxs": {
+      "value": "0.1875rem",
+      "type": "spacing"
+    },
+    "textPaddingXs": {
+      "value": "0.125rem",
+      "type": "spacing"
+    },
+    "textPaddingSm": {
+      "value": "0.15625rem",
+      "type": "spacing"
+    },
+    "textPaddingMd": {
+      "value": "0.1875rem",
+      "type": "spacing"
+    },
+    "textPaddingLg": {
+      "value": "0.21875rem",
+      "type": "spacing"
+    },
+    "textPaddingXl": {
+      "value": "0.25rem",
+      "type": "spacing"
+    },
+    "textPaddingXxl": {
+      "value": "0.28125rem",
+      "type": "spacing"
+    },
+    "textBorderRadius": {
+      "value": "{semantic.borderRadius.sm}",
+      "type": "borderRadius"
+    },
+    "imageBorderRadius": {
+      "value": "{semantic.borderRadius.md}",
+      "type": "borderRadius"
+    },
+    "avatarBorderRadius": {
+      "value": "{semantic.borderRadius.full}",
+      "type": "borderRadius"
+    },
+    "duration": {
+      "value": "1500ms",
+      "type": "duration"
+    },
+    "bezier": {
+      "value": "0.42, 0, 0.58, 1",
+      "type": "cubicBezier"
+    },
+    "motion": {
+      "value": "ease-in-out",
+      "type": "transition"
+    }
+  }
+}
