@@ -160,6 +160,30 @@
     "TrackBorderRadius": {
       "value": "{semantic.borderRadius.xl}",
       "type": "borderRadius"
+    },
+    "fontFamily": {
+      "value": "{semantic.fontFamily.base}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "{semantic.fontWeight.interactive}",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{semantic.lineHeight.standalone.base}",
+      "type": "lineHeights"
+    },
+    "fontSizeLg": {
+      "value": "1.125rem",
+      "type": "fontSizes"
+    },
+    "fontSizeMd": {
+      "value": "{semantic.fontSize.textBase}",
+      "type": "fontSizes"
+    },
+    "fontSizeSm": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
     }
   }
 }
