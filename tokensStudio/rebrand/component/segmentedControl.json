@@ -4,17 +4,46 @@
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
+    "trackBackgroundColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color"
+    },
+    "trackBackgroundDisabledColor": {
+      "value": "{semantic.color.background.interactive.action.secondary.disabled}",
+      "type": "color"
+    },
     "selectedItemTextColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryText}",
       "type": "color"
     },
-    "selectedItemDisabledTextColor": {
+    "unselectedItemTextColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
+      "type": "color"
+    },
+    "unselectedItemTextDisabledColor": {
+      "value": "{semantic.color.text.interactive.action.secondary.disabled}",
+      "type": "color"
+    },
+    "selectedItemTextDisabledColor": {
       "value": "{semantic.color.text.interactive.action.primary.disabled}",
       "type": "color"
     },
     "selectedItemBackgroundDisabledColor": {
       "value": "{semantic.color.background.interactive.action.primary.disabled}",
       "type": "color"
+    },
+    "selectedItemBackgroundActiveColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
     },
     "selectedItemBackgroundHoverColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
@@ -29,8 +58,21 @@
         }
       }
     },
-    "selectedItemBackgroundActiveColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+    "unselectedItemBackgroundHoverColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "unselectedItemBackgroundActiveColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
