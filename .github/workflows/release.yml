@@ -2,6 +2,11 @@ name: Release
 
 on:
   workflow_dispatch:
+    inputs:
+      major:
+        description: 'Bump major version (x.0.0) instead of minor'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -15,8 +20,10 @@ jobs:
           fetch-depth: 0
           ref: main
 
-      - name: Compute next minor tag
+      - name: Compute next tag
         id: next
+        env:
+          BUMP_MAJOR: ${{ inputs.major }}
         run: |
           if existing=$(git describe --tags --exact-match HEAD 2>/dev/null); then
             echo "::error::HEAD is already released as ${existing}; refusing to tag an already-tagged commit"
@@ -25,7 +32,12 @@ jobs:
           latest=$(git describe --tags --abbrev=0)
           ver=${latest#v}
           IFS=. read -r major minor _ <<< "$ver"
-          new="v${major}.$((minor + 1)).0"
+          if [ "$BUMP_MAJOR" = "true" ]; then
+            new="v$((major + 1)).0.0"
+          else
+            new="v${major}.$((minor + 1)).0"
+          fi
+          echo "Latest tag: ${latest} -> new tag: ${new}"
           echo "tag=$new" >> "$GITHUB_OUTPUT"
 
       - name: Tag and push
