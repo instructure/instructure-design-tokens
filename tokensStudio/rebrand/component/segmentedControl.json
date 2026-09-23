@@ -1,0 +1,46 @@
+{
+  "segmentedControl": {
+    "selectedItemBackgroundColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color"
+    },
+    "selectedItemTextColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
+      "type": "color"
+    },
+    "selectedItemDisabledTextColor": {
+      "value": "{semantic.color.text.interactive.action.primary.disabled}",
+      "type": "color"
+    },
+    "selectedItemBackgroundDisabledColor": {
+      "value": "{semantic.color.background.interactive.action.primary.disabled}",
+      "type": "color"
+    },
+    "selectedItemBackgroundHoverColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "selectedItemBackgroundActiveColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    }
+  }
+}
