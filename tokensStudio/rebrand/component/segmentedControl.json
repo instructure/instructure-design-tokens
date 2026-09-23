@@ -83,6 +83,55 @@
           }
         }
       }
+    },
+    "selectedItemShadow": {
+      "value": [
+        {
+          "x": "{semantic.dropShadow.x.elevation1.dropshadow1}",
+          "y": "{semantic.dropShadow.y.elevation1.dropshadow1}",
+          "blur": "{semantic.dropShadow.blur.elevation1.dropshadow1}",
+          "spread": "{semantic.dropShadow.spread.elevation1.dropshadow1}",
+          "color": "{semantic.color.dropShadow.shadowColor1}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "{semantic.dropShadow.x.elevation1.dropshadow2}",
+          "y": "{semantic.dropShadow.y.elevation1.dropshadow2}",
+          "blur": "{semantic.dropShadow.blur.elevation1.dropshadow2}",
+          "spread": "{semantic.dropShadow.spread.elevation1.dropshadow2}",
+          "color": "{semantic.color.dropShadow.shadowColor2}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "paddingHorizontalLg": {
+      "value": "{semantic.spacing.padding.interactive.horizontal.xl}",
+      "type": "spacing"
+    },
+    "paddingHorizontalMd": {
+      "value": "{semantic.spacing.padding.interactive.horizontal.lg}",
+      "type": "spacing"
+    },
+    "paddingHorizontalSm": {
+      "value": "{semantic.spacing.padding.interactive.horizontal.md}",
+      "type": "spacing"
+    },
+    "paddingHorizontalXs": {
+      "value": "{semantic.spacing.padding.interactive.horizontal.sm}",
+      "type": "spacing"
+    },
+    "gapContentLg": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "gapContentMd": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gapContentSm": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
     }
   }
 }
