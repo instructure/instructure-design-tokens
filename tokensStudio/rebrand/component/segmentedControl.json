@@ -105,33 +105,61 @@
       ],
       "type": "boxShadow"
     },
-    "paddingHorizontalLg": {
+    "itemPaddingHorizontalLg": {
       "value": "{semantic.spacing.padding.interactive.horizontal.xl}",
       "type": "spacing"
     },
-    "paddingHorizontalMd": {
+    "itemPaddingHorizontalMd": {
       "value": "{semantic.spacing.padding.interactive.horizontal.lg}",
       "type": "spacing"
     },
-    "paddingHorizontalSm": {
+    "itemPaddingHorizontalSm": {
       "value": "{semantic.spacing.padding.interactive.horizontal.md}",
       "type": "spacing"
     },
-    "paddingHorizontalXs": {
+    "itemPaddingHorizontalXs": {
       "value": "{semantic.spacing.padding.interactive.horizontal.sm}",
       "type": "spacing"
     },
-    "gapContentLg": {
+    "trackPadding": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
+    "itemGapLg": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
-    "gapContentMd": {
+    "itemGapMd": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
-    "gapContentSm": {
+    "itemGapSm": {
       "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
+    },
+    "trackGap": {
+      "value": "{semantic.spacing.space2xs}",
+      "type": "spacing"
+    },
+    "heightLg": {
+      "value": "{semantic.size.interactive.height.lg}",
+      "type": "sizing"
+    },
+    "heightMd": {
+      "value": "{semantic.size.interactive.height.md}",
+      "type": "sizing"
+    },
+    "heightSm": {
+      "value": "{semantic.size.interactive.height.sm}",
+      "type": "sizing"
+    },
+    "itemBorderRadius": {
+      "value": "{semantic.borderRadius.interactive.base}",
+      "type": "borderRadius"
+    },
+    "TrackBorderRadius": {
+      "value": "{semantic.borderRadius.xl}",
+      "type": "borderRadius"
     }
   }
 }
