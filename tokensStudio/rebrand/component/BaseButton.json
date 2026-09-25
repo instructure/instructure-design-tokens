@@ -1,5 +1,47 @@
 {
   "baseButton": {
+    "primaryBackground": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color"
+    },
+    "primaryBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color"
+    },
+    "primaryColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
+      "type": "color"
+    },
+    "primaryHoverBackground": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "primaryHoverBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "primaryHoverTextColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
+      "type": "color"
+    },
     "primaryActiveBackground": {
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color",
@@ -20,25 +62,13 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.1",
+            "value": "0.2",
             "space": "hsl"
           }
         }
       }
     },
     "primaryActiveTextColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
-      "type": "color"
-    },
-    "primaryBackground": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color"
-    },
-    "primaryBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color"
-    },
-    "primaryColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryText}",
       "type": "color"
     },
@@ -96,36 +126,6 @@
           }
         }
       }
-    },
-    "primaryHoverBackground": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.1",
-            "space": "hsl"
-          }
-        }
-      }
-    },
-    "primaryHoverBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.1",
-            "space": "hsl"
-          }
-        }
-      }
-    },
-    "primaryHoverTextColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
-      "type": "color"
     },
     "primaryInverseActiveBackground": {
       "value": "{semantic.color.background.interactive.action.primaryOnColor.active}",
@@ -191,6 +191,57 @@
       "value": "{semantic.color.text.interactive.action.primaryOnColor.hover}",
       "type": "color"
     },
+    "secondaryBackground": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color"
+    },
+    "secondaryBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "secondaryColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
+      "type": "color"
+    },
+    "secondaryHoverBackground": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.4",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "secondaryHoverBorderColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "secondaryHoverTextColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
+      "type": "color"
+    },
     "secondaryActiveBackground": {
       "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color",
@@ -218,27 +269,6 @@
       }
     },
     "secondaryActiveTextColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
-      "type": "color"
-    },
-    "secondaryBackground": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
-      "type": "color"
-    },
-    "secondaryBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0",
-            "space": "hsl"
-          }
-        }
-      }
-    },
-    "secondaryColor": {
       "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
@@ -277,36 +307,6 @@
       "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color",
       "description": "This token is not used in design, kept only for backward compatibility reasons."
-    },
-    "secondaryHoverBackground": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.1",
-            "space": "hsl"
-          }
-        }
-      }
-    },
-    "secondaryHoverBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0",
-            "space": "hsl"
-          }
-        }
-      }
-    },
-    "secondaryHoverTextColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
-      "type": "color"
     },
     "secondaryOnColorActiveBorderColor": {
       "value": "{semantic.color.stroke.interactive.action.secondaryOnColor.active}",
