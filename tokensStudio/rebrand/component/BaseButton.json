@@ -49,7 +49,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.1",
+            "value": "0.15",
             "space": "hsl"
           }
         }
@@ -62,7 +62,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.2",
+            "value": "0.15",
             "space": "hsl"
           }
         }
@@ -249,7 +249,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.1",
+            "value": "0.15",
             "space": "hsl"
           }
         }
