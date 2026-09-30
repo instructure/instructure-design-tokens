@@ -1,0 +1,189 @@
+{
+  "segmentedControl": {
+    "selectedItemBackgroundColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color"
+    },
+    "trackBackgroundColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color"
+    },
+    "trackBackgroundDisabledColor": {
+      "value": "{semantic.color.background.interactive.action.secondary.disabled}",
+      "type": "color"
+    },
+    "selectedItemTextColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
+      "type": "color"
+    },
+    "unselectedItemTextColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
+      "type": "color"
+    },
+    "unselectedItemTextDisabledColor": {
+      "value": "{semantic.color.text.interactive.action.secondary.disabled}",
+      "type": "color"
+    },
+    "selectedItemTextDisabledColor": {
+      "value": "{semantic.color.text.interactive.action.primary.disabled}",
+      "type": "color"
+    },
+    "selectedItemBackgroundDisabledColor": {
+      "value": "{semantic.color.background.interactive.action.primary.disabled}",
+      "type": "color"
+    },
+    "selectedItemBackgroundActiveColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "selectedItemBackgroundHoverColor": {
+      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "unselectedItemBackgroundHoverColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "unselectedItemBackgroundActiveColor": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "selectedItemShadow": {
+      "value": [
+        {
+          "x": "{semantic.dropShadow.x.elevation1.dropshadow1}",
+          "y": "{semantic.dropShadow.y.elevation1.dropshadow1}",
+          "blur": "{semantic.dropShadow.blur.elevation1.dropshadow1}",
+          "spread": "{semantic.dropShadow.spread.elevation1.dropshadow1}",
+          "color": "{semantic.color.dropShadow.shadowColor1}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "{semantic.dropShadow.x.elevation1.dropshadow2}",
+          "y": "{semantic.dropShadow.y.elevation1.dropshadow2}",
+          "blur": "{semantic.dropShadow.blur.elevation1.dropshadow2}",
+          "spread": "{semantic.dropShadow.spread.elevation1.dropshadow2}",
+          "color": "{semantic.color.dropShadow.shadowColor2}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "itemPaddingHorizontalLg": {
+      "value": "{semantic.spacing.padding.interactive.horizontal.xl}",
+      "type": "spacing"
+    },
+    "itemPaddingHorizontalMd": {
+      "value": "{semantic.spacing.padding.interactive.horizontal.lg}",
+      "type": "spacing"
+    },
+    "itemPaddingHorizontalSm": {
+      "value": "{semantic.spacing.padding.interactive.horizontal.md}",
+      "type": "spacing"
+    },
+    "itemPaddingHorizontalXs": {
+      "value": "{semantic.spacing.padding.interactive.horizontal.sm}",
+      "type": "spacing"
+    },
+    "trackPadding": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
+    "itemGapLg": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "itemGapMd": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "itemGapSm": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
+    "trackGap": {
+      "value": "{semantic.spacing.space2xs}",
+      "type": "spacing"
+    },
+    "heightLg": {
+      "value": "{semantic.size.interactive.height.lg}",
+      "type": "sizing"
+    },
+    "heightMd": {
+      "value": "{semantic.size.interactive.height.md}",
+      "type": "sizing"
+    },
+    "heightSm": {
+      "value": "{semantic.size.interactive.height.sm}",
+      "type": "sizing"
+    },
+    "itemBorderRadius": {
+      "value": "{semantic.borderRadius.interactive.base}",
+      "type": "borderRadius"
+    },
+    "TrackBorderRadius": {
+      "value": "{semantic.borderRadius.xl}",
+      "type": "borderRadius"
+    },
+    "fontFamily": {
+      "value": "{semantic.fontFamily.base}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "{semantic.fontWeight.interactive}",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{semantic.lineHeight.standalone.base}",
+      "type": "lineHeights"
+    },
+    "fontSizeLg": {
+      "value": "1.125rem",
+      "type": "fontSizes"
+    },
+    "fontSizeMd": {
+      "value": "{semantic.fontSize.textBase}",
+      "type": "fontSizes"
+    },
+    "fontSizeSm": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
+    }
+  }
+}
