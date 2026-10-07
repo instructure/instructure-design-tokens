@@ -1,5 +1,5 @@
 {
-  "sideNavBarNew": {
+  "globalNav": {
     "backgroundColor": {
       "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
