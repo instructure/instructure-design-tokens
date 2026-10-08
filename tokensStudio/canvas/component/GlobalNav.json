@@ -216,12 +216,6 @@
         "type": "spacing"
       }
     },
-    "button": {
-      "textColor": {
-        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
-        "type": "color"
-      }
-    },
     "subNav": {
       "strokeColor": {
         "value": "{semantic.color.stroke.base}",
