@@ -2949,7 +2949,14 @@
       "view.stackingAbove": "5546c5f4795ebcb9d5e47ce79b86805267b1ebf8",
       "view.stackingBelow": "0c305b1ba62841d4bbc28b62893d64c7683fb24a",
       "view.stackingDeepest": "28c1d8760752a39e31aef9e59ebdefc572c2f56a",
-      "view.borderStyle": "17c5727ed0a973c5f12c41bb84ef5b6169b26ae0"
+      "view.borderStyle": "17c5727ed0a973c5f12c41bb84ef5b6169b26ae0",
+      "alert.contentLineHeight": "b4ca197e56d8bbd0cc1798149cb3013307f862f2",
+      "card.imgTextGapSm": "792462a2f6f4c7a39af31f079b2fdd22066c3dcc",
+      "card.imgTextGapMd": "2f744a159d9d430212abbd368aa7a58c959909c2",
+      "card.imgTextGapLg": "c64f5cb5cf17e3ebb79c22a9f4cbe5018f23318f",
+      "card.imgBorderRadiusSm": "290394c69631395e3d0c86d4aa1d0611ad0dbdb5",
+      "card.imgBorderRadiusMd": "bfb9a69c96b7b63c83f963e4802efe2cacd2d09c",
+      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6635,7 +6642,14 @@
       "view.stackingAbove": "5546c5f4795ebcb9d5e47ce79b86805267b1ebf8",
       "view.stackingBelow": "0c305b1ba62841d4bbc28b62893d64c7683fb24a",
       "view.stackingDeepest": "28c1d8760752a39e31aef9e59ebdefc572c2f56a",
-      "view.borderStyle": "17c5727ed0a973c5f12c41bb84ef5b6169b26ae0"
+      "view.borderStyle": "17c5727ed0a973c5f12c41bb84ef5b6169b26ae0",
+      "alert.contentLineHeight": "b4ca197e56d8bbd0cc1798149cb3013307f862f2",
+      "card.imgTextGapSm": "792462a2f6f4c7a39af31f079b2fdd22066c3dcc",
+      "card.imgTextGapMd": "2f744a159d9d430212abbd368aa7a58c959909c2",
+      "card.imgTextGapLg": "c64f5cb5cf17e3ebb79c22a9f4cbe5018f23318f",
+      "card.imgBorderRadiusSm": "290394c69631395e3d0c86d4aa1d0611ad0dbdb5",
+      "card.imgBorderRadiusMd": "bfb9a69c96b7b63c83f963e4802efe2cacd2d09c",
+      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9593,7 +9607,14 @@
       "semantic.fontSize.textXl": "37d22fb572834de0720c5557d28bc2525bbc96f8",
       "semantic.fontSize.text2xl": "894c45915a183beaee0f691db24f059b2c48a290",
       "semantic.opacity.base": "86ce8d7f5016628d3c9f5f268385cd5c2105baf7",
-      "semantic.opacity.disabled": "d22899731dafb77b8ce5fd08e2387d95ccb473ea"
+      "semantic.opacity.disabled": "d22899731dafb77b8ce5fd08e2387d95ccb473ea",
+      "alert.contentLineHeight": "b4ca197e56d8bbd0cc1798149cb3013307f862f2",
+      "card.imgTextGapSm": "792462a2f6f4c7a39af31f079b2fdd22066c3dcc",
+      "card.imgTextGapMd": "2f744a159d9d430212abbd368aa7a58c959909c2",
+      "card.imgTextGapLg": "c64f5cb5cf17e3ebb79c22a9f4cbe5018f23318f",
+      "card.imgBorderRadiusSm": "290394c69631395e3d0c86d4aa1d0611ad0dbdb5",
+      "card.imgBorderRadiusMd": "bfb9a69c96b7b63c83f963e4802efe2cacd2d09c",
+      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13281,7 +13302,14 @@
       "semantic.fontSize.textXl": "37d22fb572834de0720c5557d28bc2525bbc96f8",
       "semantic.fontSize.text2xl": "894c45915a183beaee0f691db24f059b2c48a290",
       "semantic.opacity.base": "86ce8d7f5016628d3c9f5f268385cd5c2105baf7",
-      "semantic.opacity.disabled": "d22899731dafb77b8ce5fd08e2387d95ccb473ea"
+      "semantic.opacity.disabled": "d22899731dafb77b8ce5fd08e2387d95ccb473ea",
+      "alert.contentLineHeight": "b4ca197e56d8bbd0cc1798149cb3013307f862f2",
+      "card.imgTextGapSm": "792462a2f6f4c7a39af31f079b2fdd22066c3dcc",
+      "card.imgTextGapMd": "2f744a159d9d430212abbd368aa7a58c959909c2",
+      "card.imgTextGapLg": "c64f5cb5cf17e3ebb79c22a9f4cbe5018f23318f",
+      "card.imgBorderRadiusSm": "290394c69631395e3d0c86d4aa1d0611ad0dbdb5",
+      "card.imgBorderRadiusMd": "bfb9a69c96b7b63c83f963e4802efe2cacd2d09c",
+      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",

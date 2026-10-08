@@ -85,6 +85,30 @@
     "breakpointLg": {
       "value": "40rem",
       "type": "sizing"
+    },
+    "imgTextGapSm": {
+      "value": "{semantic.spacing.gap.cards.md}",
+      "type": "spacing"
+    },
+    "imgTextGapMd": {
+      "value": "1.25rem",
+      "type": "spacing"
+    },
+    "imgTextGapLg": {
+      "value": "{semantic.spacing.gap.cards.lg}",
+      "type": "spacing"
+    },
+    "imgBorderRadiusSm": {
+      "value": "{semantic.borderRadius.md}",
+      "type": "borderRadius"
+    },
+    "imgBorderRadiusMd": {
+      "value": "{semantic.borderRadius.lg}",
+      "type": "borderRadius"
+    },
+    "imgBorderRadiusLg": {
+      "value": "{semantic.borderRadius.lg}",
+      "type": "borderRadius"
     }
   }
 }
