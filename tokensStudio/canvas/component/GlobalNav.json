@@ -32,17 +32,19 @@
       "value": "0rem",
       "type": "spacing"
     },
-    "mainNavMargin": {
-      "value": "0rem",
-      "type": "spacing"
-    },
-    "mainNavMinimizedMargin": {
-      "value": "0rem",
-      "type": "spacing"
-    },
-    "mainNavGap": {
-      "value": "0rem",
-      "type": "spacing"
+    "mainNav": {
+      "margin": {
+        "value": "0rem",
+        "type": "spacing"
+      },
+      "minimizedMargin": {
+        "value": "0rem",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "0rem",
+        "type": "spacing"
+      }
     },
     "navItemsGap": {
       "value": "0rem",
