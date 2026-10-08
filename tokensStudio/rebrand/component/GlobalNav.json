@@ -86,7 +86,7 @@
       "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
     },
-    "item": {
+    "mainNavItem": {
       "horizontalPadding": {
         "value": "{semantic.spacing.spaceSm}",
         "type": "spacing"
@@ -172,7 +172,7 @@
         "type": "color"
       }
     },
-    "drilldownOption": {
+    "subNavItem": {
       "backgroundColor": {
         "value": "{semantic.color.transparentColor}",
         "type": "color"
