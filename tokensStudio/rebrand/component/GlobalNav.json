@@ -36,6 +36,10 @@
       "value": "0.375rem",
       "type": "spacing"
     },
+    "navItemsGap": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
     "mainNav": {
       "margin": {
         "value": "0.75rem",
@@ -49,10 +53,6 @@
         "value": "{semantic.spacing.padding.container.xxs}",
         "type": "spacing"
       }
-    },
-    "navItemsGap": {
-      "value": "{semantic.spacing.spaceXs}",
-      "type": "spacing"
     },
     "boxShadow": {
       "value": [
