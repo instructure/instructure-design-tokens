@@ -204,6 +204,14 @@
       "borderRadius": {
         "value": "0rem",
         "type": "borderRadius"
+      },
+      "padding": {
+        "value": "{semantic.spacing.spaceMd}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{semantic.spacing.spaceSm}",
+        "type": "spacing"
       }
     },
     "button": {

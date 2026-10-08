@@ -100,7 +100,7 @@
         "type": "sizing"
       },
       "borderRadius": {
-        "value": "{semantic.borderRadius.lg}",
+        "value": "{semantic.borderRadius.md}",
         "type": "borderRadius"
       },
       "backgroundColor": {
@@ -204,6 +204,14 @@
       "borderRadius": {
         "value": "{semantic.borderRadius.lg}",
         "type": "borderRadius"
+      },
+      "padding": {
+        "value": "{semantic.spacing.spaceSm}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{semantic.spacing.spaceSm}",
+        "type": "spacing"
       }
     },
     "button": {

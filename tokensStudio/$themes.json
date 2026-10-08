@@ -2956,7 +2956,9 @@
       "card.imgTextGapLg": "c64f5cb5cf17e3ebb79c22a9f4cbe5018f23318f",
       "card.imgBorderRadiusSm": "290394c69631395e3d0c86d4aa1d0611ad0dbdb5",
       "card.imgBorderRadiusMd": "bfb9a69c96b7b63c83f963e4802efe2cacd2d09c",
-      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa"
+      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa",
+      "globalNav.subNavItem.padding": "5cd648636320e1a710512c9cedbc1e7d95ee472c",
+      "globalNav.subNavItem.gap": "35d22cae4c1f78f3a9164b1c09733b8a004ca041"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6649,7 +6651,9 @@
       "card.imgTextGapLg": "c64f5cb5cf17e3ebb79c22a9f4cbe5018f23318f",
       "card.imgBorderRadiusSm": "290394c69631395e3d0c86d4aa1d0611ad0dbdb5",
       "card.imgBorderRadiusMd": "bfb9a69c96b7b63c83f963e4802efe2cacd2d09c",
-      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa"
+      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa",
+      "globalNav.subNavItem.padding": "5cd648636320e1a710512c9cedbc1e7d95ee472c",
+      "globalNav.subNavItem.gap": "35d22cae4c1f78f3a9164b1c09733b8a004ca041"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9614,7 +9618,9 @@
       "card.imgTextGapLg": "c64f5cb5cf17e3ebb79c22a9f4cbe5018f23318f",
       "card.imgBorderRadiusSm": "290394c69631395e3d0c86d4aa1d0611ad0dbdb5",
       "card.imgBorderRadiusMd": "bfb9a69c96b7b63c83f963e4802efe2cacd2d09c",
-      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa"
+      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa",
+      "globalNav.subNavItem.padding": "5cd648636320e1a710512c9cedbc1e7d95ee472c",
+      "globalNav.subNavItem.gap": "35d22cae4c1f78f3a9164b1c09733b8a004ca041"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13309,7 +13315,9 @@
       "card.imgTextGapLg": "c64f5cb5cf17e3ebb79c22a9f4cbe5018f23318f",
       "card.imgBorderRadiusSm": "290394c69631395e3d0c86d4aa1d0611ad0dbdb5",
       "card.imgBorderRadiusMd": "bfb9a69c96b7b63c83f963e4802efe2cacd2d09c",
-      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa"
+      "card.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa",
+      "globalNav.subNavItem.padding": "5cd648636320e1a710512c9cedbc1e7d95ee472c",
+      "globalNav.subNavItem.gap": "35d22cae4c1f78f3a9164b1c09733b8a004ca041"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
