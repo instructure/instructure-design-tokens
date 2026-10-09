@@ -109,6 +109,18 @@
     "imgBorderRadiusLg": {
       "value": "{semantic.borderRadius.lg}",
       "type": "borderRadius"
+    },
+    "titleContentGapSm": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "titleContentGapMd": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "titleContentGapLg": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
     }
   }
 }
