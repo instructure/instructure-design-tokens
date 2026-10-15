@@ -98,7 +98,7 @@
         "type": "borderRadius"
       },
       "backgroundColor": {
-        "value": "transparent",
+        "value": "{semantic.color.institutional.brandGlobalNavBgd}",
         "type": "color"
       },
       "horizontalPadding": {
@@ -142,10 +142,6 @@
         "type": "color"
       },
       "selectedBackgroundColor": {
-        "value": "{semantic.color.background.interactive.action.tertiary.active}",
-        "type": "color"
-      },
-      "selectedAccountBackgroundColor": {
         "value": "{semantic.color.background.interactive.action.tertiary.active}",
         "type": "color"
       },
@@ -258,7 +254,7 @@
     },
     "accountItem": {
       "backgroundColor": {
-        "value": "transparent",
+        "value": "{semantic.color.institutional.brandGlobalNavBgd}",
         "type": "color"
       },
       "fontColor": {
@@ -289,10 +285,6 @@
         "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
         "type": "color"
       },
-      "selectedAccountBackgroundColor": {
-        "value": "{semantic.color.background.interactive.action.tertiary.active}",
-        "type": "color"
-      },
       "selectedAccountFontColor": {
         "value": "{semantic.color.text.base}",
         "type": "color"
@@ -314,8 +306,12 @@
         "type": "borderRadius"
       },
       "borderColor": {
-        "value": "{semantic.color.transparentColor}",
+        "value": "{semantic.color.stroke.muted}",
         "type": "color"
+      },
+      "minimizedItemSize": {
+        "value": "2.75rem",
+        "type": "sizing"
       }
     }
   }
