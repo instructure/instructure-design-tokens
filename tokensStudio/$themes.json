@@ -2112,7 +2112,6 @@
       "pill.lineHeight": "03d814797bc841305d9b4068d9bc21f02ed78bae",
       "pill.fontFamily": "dbb5bf2b3d20d8245128d312326dc5804430f309",
       "pill.borderStyle": "91f99f96054859b95ec76739634945f723f88f7f",
-      "pill.paddingVertical": "abc1592f909c3b23073ea3236c47dbd9c7852764",
       "pill.gapIconLabel": "26b6b8e43029805fd2a4c5c78c3dde016aac4c4d",
       "pill.gapIconLabelMedium": "0b2c99d68869f825dfad93b50497f821b45215c2",
       "pill.gapIconLabelLarge": "ed4e2aa8b165c14ea213c036b1e3046a858a4ef8",
@@ -2960,7 +2959,9 @@
       "globalNav.subNavItem.gap": "35d22cae4c1f78f3a9164b1c09733b8a004ca041",
       "card.titleContentGapSm": "35fcb6f93e955b484ce0f187dfaecd41027d0f3b",
       "card.titleContentGapMd": "b92ae35d057db94b366eaf4750879eb206603971",
-      "card.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b"
+      "card.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b",
+      "pill.lineHeightMedium": "4ee9159580bbdb933060f76801d68d0fa2c426e9",
+      "pill.lineHeightLarge": "61c7f0664b151d66d36d82afd7021276ef462b95"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -5809,7 +5810,6 @@
       "pill.lineHeight": "03d814797bc841305d9b4068d9bc21f02ed78bae",
       "pill.fontFamily": "dbb5bf2b3d20d8245128d312326dc5804430f309",
       "pill.borderStyle": "91f99f96054859b95ec76739634945f723f88f7f",
-      "pill.paddingVertical": "abc1592f909c3b23073ea3236c47dbd9c7852764",
       "pill.gapIconLabel": "26b6b8e43029805fd2a4c5c78c3dde016aac4c4d",
       "pill.gapIconLabelMedium": "0b2c99d68869f825dfad93b50497f821b45215c2",
       "pill.gapIconLabelLarge": "ed4e2aa8b165c14ea213c036b1e3046a858a4ef8",
@@ -6657,7 +6657,9 @@
       "globalNav.subNavItem.gap": "35d22cae4c1f78f3a9164b1c09733b8a004ca041",
       "card.titleContentGapSm": "35fcb6f93e955b484ce0f187dfaecd41027d0f3b",
       "card.titleContentGapMd": "b92ae35d057db94b366eaf4750879eb206603971",
-      "card.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b"
+      "card.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b",
+      "pill.lineHeightMedium": "4ee9159580bbdb933060f76801d68d0fa2c426e9",
+      "pill.lineHeightLarge": "61c7f0664b151d66d36d82afd7021276ef462b95"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -8642,7 +8644,6 @@
       "pill.paddingHorizontal": "91f067c6f1ac4c615586d1378c76f381c4193142",
       "pill.paddingHorizontalMedium": "3e19e4b2d8848e6218f0df975543ca59d7e6dc23",
       "pill.paddingHorizontalLarge": "137402abd9aaba543bb69b708ab45b5814c33f3f",
-      "pill.paddingVertical": "abc1592f909c3b23073ea3236c47dbd9c7852764",
       "pill.gapIconLabel": "26b6b8e43029805fd2a4c5c78c3dde016aac4c4d",
       "pill.gapIconLabelMedium": "0b2c99d68869f825dfad93b50497f821b45215c2",
       "pill.gapIconLabelLarge": "ed4e2aa8b165c14ea213c036b1e3046a858a4ef8",
@@ -9626,7 +9627,9 @@
       "globalNav.subNavItem.gap": "35d22cae4c1f78f3a9164b1c09733b8a004ca041",
       "card.titleContentGapSm": "35fcb6f93e955b484ce0f187dfaecd41027d0f3b",
       "card.titleContentGapMd": "b92ae35d057db94b366eaf4750879eb206603971",
-      "card.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b"
+      "card.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b",
+      "pill.lineHeightMedium": "4ee9159580bbdb933060f76801d68d0fa2c426e9",
+      "pill.lineHeightLarge": "61c7f0664b151d66d36d82afd7021276ef462b95"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -12341,7 +12344,6 @@
       "pill.paddingHorizontal": "91f067c6f1ac4c615586d1378c76f381c4193142",
       "pill.paddingHorizontalMedium": "3e19e4b2d8848e6218f0df975543ca59d7e6dc23",
       "pill.paddingHorizontalLarge": "137402abd9aaba543bb69b708ab45b5814c33f3f",
-      "pill.paddingVertical": "abc1592f909c3b23073ea3236c47dbd9c7852764",
       "pill.gapIconLabel": "26b6b8e43029805fd2a4c5c78c3dde016aac4c4d",
       "pill.gapIconLabelMedium": "0b2c99d68869f825dfad93b50497f821b45215c2",
       "pill.gapIconLabelLarge": "ed4e2aa8b165c14ea213c036b1e3046a858a4ef8",
@@ -13325,7 +13327,9 @@
       "globalNav.subNavItem.gap": "35d22cae4c1f78f3a9164b1c09733b8a004ca041",
       "card.titleContentGapSm": "35fcb6f93e955b484ce0f187dfaecd41027d0f3b",
       "card.titleContentGapMd": "b92ae35d057db94b366eaf4750879eb206603971",
-      "card.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b"
+      "card.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b",
+      "pill.lineHeightMedium": "4ee9159580bbdb933060f76801d68d0fa2c426e9",
+      "pill.lineHeightLarge": "61c7f0664b151d66d36d82afd7021276ef462b95"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",

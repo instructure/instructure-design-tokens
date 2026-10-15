@@ -212,6 +212,14 @@
       "value": "{semantic.lineHeight.standalone.textSm}",
       "type": "lineHeights"
     },
+    "lineHeightMedium": {
+      "value": "{semantic.lineHeight.standalone.textBase}",
+      "type": "lineHeights"
+    },
+    "lineHeightLarge": {
+      "value": "{semantic.lineHeight.standalone.textLg}",
+      "type": "lineHeights"
+    },
     "fontFamily": {
       "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
@@ -219,10 +227,6 @@
     "borderStyle": {
       "value": "solid",
       "type": "text"
-    },
-    "paddingVertical": {
-      "value": "{semantic.spacing.spaceXs}",
-      "type": "spacing"
     },
     "gapIconLabel": {
       "value": "{semantic.spacing.spaceSm}",

@@ -12,10 +12,6 @@
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
-    "paddingVertical": {
-      "value": "{semantic.spacing.spaceXs}",
-      "type": "spacing"
-    },
     "gapIconLabel": {
       "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
@@ -338,6 +334,14 @@
     },
     "lineHeight": {
       "value": "{semantic.lineHeight.standalone.textSm}",
+      "type": "lineHeights"
+    },
+    "lineHeightMedium": {
+      "value": "{semantic.lineHeight.standalone.textBase}",
+      "type": "lineHeights"
+    },
+    "lineHeightLarge": {
+      "value": "{semantic.lineHeight.standalone.textLg}",
       "type": "lineHeights"
     },
     "fontFamily": {
