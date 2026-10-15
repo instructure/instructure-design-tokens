@@ -101,6 +101,10 @@
         "value": "2.25rem",
         "type": "sizing"
       },
+      "minimizedItemSize": {
+        "value": "2.75rem",
+        "type": "sizing"
+      },
       "borderRadius": {
         "value": "{semantic.borderRadius.md}",
         "type": "borderRadius"
@@ -126,11 +130,11 @@
         "type": "fontWeights"
       },
       "innerFocusOutlineColor": {
-        "value": "{semantic.color.stroke.interactive.focusRing.base}",
+        "value": "{semantic.color.transparentColor}",
         "type": "color"
       },
       "outerFocusOutlineColor": {
-        "value": "{semantic.color.transparentColor}",
+        "value": "{semantic.color.stroke.interactive.focusRing.base}",
         "type": "color"
       },
       "hoverBackgroundColor": {
@@ -166,11 +170,11 @@
         "type": "color"
       },
       "selectedInnerFocusOutlineColor": {
-        "value": "{semantic.color.icon.inverse}",
+        "value": "{semantic.color.transparentColor}",
         "type": "color"
       },
       "selectedOuterFocusOutlineColor": {
-        "value": "{semantic.color.transparentColor}",
+        "value": "{sharedTokens.focusOutline.infoColor}",
         "type": "color"
       }
     },
@@ -250,6 +254,68 @@
       "gap": {
         "value": "{semantic.spacing.spaceMd}",
         "type": "spacing"
+      }
+    },
+    "accountItem": {
+      "backgroundColor": {
+        "value": "transparent",
+        "type": "color"
+      },
+      "fontColor": {
+        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+        "type": "color"
+      },
+      "innerFocusOutlineColor": {
+        "value": "{semantic.color.transparentColor}",
+        "type": "color"
+      },
+      "outerFocusOutlineColor": {
+        "value": "{semantic.color.stroke.interactive.focusRing.base}",
+        "type": "color"
+      },
+      "hoverBackgroundColor": {
+        "value": "{semantic.color.background.interactive.action.tertiary.hover}",
+        "type": "color"
+      },
+      "currentBackgroundColor": {
+        "value": "{semantic.color.institutional.brandPrimary}",
+        "type": "color"
+      },
+      "selectedBackgroundColor": {
+        "value": "{semantic.color.background.interactive.action.tertiary.active}",
+        "type": "color"
+      },
+      "currentTextColor": {
+        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
+        "type": "color"
+      },
+      "selectedAccountBackgroundColor": {
+        "value": "{semantic.color.background.interactive.action.tertiary.active}",
+        "type": "color"
+      },
+      "selectedAccountFontColor": {
+        "value": "{semantic.color.text.base}",
+        "type": "color"
+      },
+      "selectedInnerFocusOutlineColor": {
+        "value": "{semantic.color.transparentColor}",
+        "type": "color"
+      },
+      "selectedOuterFocusOutlineColor": {
+        "value": "{sharedTokens.focusOutline.infoColor}",
+        "type": "color"
+      },
+      "padding": {
+        "value": "{semantic.spacing.padding.container.xxs}",
+        "type": "spacing"
+      },
+      "borderRadius": {
+        "value": "{semantic.borderRadius.container.sm}",
+        "type": "borderRadius"
+      },
+      "borderColor": {
+        "value": "{semantic.color.stroke.muted}",
+        "type": "color"
       }
     }
   }
