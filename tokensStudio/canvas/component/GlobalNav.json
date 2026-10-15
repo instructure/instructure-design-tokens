@@ -196,7 +196,7 @@
         "type": "color"
       },
       "selectedTextColor": {
-        "value": "{semantic.color.text.interactive.navigation.primary.base}",
+        "value": "{semantic.color.text.onColor}",
         "type": "color"
       },
       "logoutTextColor": {
