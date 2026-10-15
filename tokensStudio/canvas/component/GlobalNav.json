@@ -44,11 +44,11 @@
       "gap": {
         "value": "0rem",
         "type": "spacing"
+      },
+      "navItemsGap": {
+        "value": "0rem",
+        "type": "spacing"
       }
-    },
-    "navItemsGap": {
-      "value": "0rem",
-      "type": "spacing"
     },
     "boxShadow": {
       "value": [
@@ -231,6 +231,10 @@
       },
       "gap": {
         "value": "{semantic.spacing.spaceSm}",
+        "type": "spacing"
+      },
+      "navItemsGap": {
+        "value": "0rem",
         "type": "spacing"
       }
     },

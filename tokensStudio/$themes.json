@@ -2477,7 +2477,6 @@
       "globalNav.mainNav.margin": "7c90459730de9350bf9bb4e0bb412c3b5efbb622",
       "globalNav.mainNav.minimizedMargin": "75ee35f23275e35fd50ef460d901a465230b7b1d",
       "globalNav.mainNav.gap": "4fa820104165eac11b31e43c85eb0526b454254d",
-      "globalNav.navItemsGap": "00008d3a76b80546bab5238b1202635f83f30c19",
       "globalNav.borderRadius": "8ef3b3b14810122cacc7e1c190c20e425d4ddd3e",
       "globalNav.minimizedBorderRadius": "1ec44553a6da0a2883b34e713a5232b9b1a342b3",
       "globalNav.borderColor": "14f52d598353c94a9e32e45fb8a992e259d768d7",
@@ -2976,7 +2975,9 @@
       "globalNav.accountItem.padding": "d8aee815097516fb2b8ba2439269b5023a908bf2",
       "globalNav.accountItem.borderRadius": "e6b2feecdade4684bcd8c4739e6435919cab03e4",
       "globalNav.accountItem.borderColor": "30b7cd1ee1257fdb6bbefe6555b210278fb31610",
-      "globalNav.accountItem.minimizedItemSize": "e0513197e8c2e2ab4ccfc8f0e9cbd1bf46611818"
+      "globalNav.accountItem.minimizedItemSize": "e0513197e8c2e2ab4ccfc8f0e9cbd1bf46611818",
+      "globalNav.mainNav.navItemsGap": "00008d3a76b80546bab5238b1202635f83f30c19",
+      "globalNav.subNav.navItemsGap": "83edc9f1345c401243c2b9006452bdb452f278e1"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6190,7 +6191,6 @@
       "globalNav.mainNav.margin": "7c90459730de9350bf9bb4e0bb412c3b5efbb622",
       "globalNav.mainNav.minimizedMargin": "75ee35f23275e35fd50ef460d901a465230b7b1d",
       "globalNav.mainNav.gap": "4fa820104165eac11b31e43c85eb0526b454254d",
-      "globalNav.navItemsGap": "00008d3a76b80546bab5238b1202635f83f30c19",
       "globalNav.borderRadius": "8ef3b3b14810122cacc7e1c190c20e425d4ddd3e",
       "globalNav.minimizedBorderRadius": "1ec44553a6da0a2883b34e713a5232b9b1a342b3",
       "globalNav.borderColor": "14f52d598353c94a9e32e45fb8a992e259d768d7",
@@ -6689,7 +6689,9 @@
       "globalNav.accountItem.padding": "d8aee815097516fb2b8ba2439269b5023a908bf2",
       "globalNav.accountItem.borderRadius": "e6b2feecdade4684bcd8c4739e6435919cab03e4",
       "globalNav.accountItem.borderColor": "30b7cd1ee1257fdb6bbefe6555b210278fb31610",
-      "globalNav.accountItem.minimizedItemSize": "e0513197e8c2e2ab4ccfc8f0e9cbd1bf46611818"
+      "globalNav.accountItem.minimizedItemSize": "e0513197e8c2e2ab4ccfc8f0e9cbd1bf46611818",
+      "globalNav.mainNav.navItemsGap": "00008d3a76b80546bab5238b1202635f83f30c19",
+      "globalNav.subNav.navItemsGap": "83edc9f1345c401243c2b9006452bdb452f278e1"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9092,7 +9094,6 @@
       "globalNav.mainNav.margin": "7c90459730de9350bf9bb4e0bb412c3b5efbb622",
       "globalNav.mainNav.minimizedMargin": "75ee35f23275e35fd50ef460d901a465230b7b1d",
       "globalNav.mainNav.gap": "4fa820104165eac11b31e43c85eb0526b454254d",
-      "globalNav.navItemsGap": "00008d3a76b80546bab5238b1202635f83f30c19",
       "globalNav.borderRadius": "8ef3b3b14810122cacc7e1c190c20e425d4ddd3e",
       "globalNav.minimizedBorderRadius": "1ec44553a6da0a2883b34e713a5232b9b1a342b3",
       "globalNav.borderWidth": "41fc164299272ff07a760d4a31e39dee357180cc",
@@ -9674,7 +9675,9 @@
       "globalNav.accountItem.padding": "d8aee815097516fb2b8ba2439269b5023a908bf2",
       "globalNav.accountItem.borderRadius": "e6b2feecdade4684bcd8c4739e6435919cab03e4",
       "globalNav.accountItem.borderColor": "30b7cd1ee1257fdb6bbefe6555b210278fb31610",
-      "globalNav.accountItem.minimizedItemSize": "e0513197e8c2e2ab4ccfc8f0e9cbd1bf46611818"
+      "globalNav.accountItem.minimizedItemSize": "e0513197e8c2e2ab4ccfc8f0e9cbd1bf46611818",
+      "globalNav.mainNav.navItemsGap": "00008d3a76b80546bab5238b1202635f83f30c19",
+      "globalNav.subNav.navItemsGap": "83edc9f1345c401243c2b9006452bdb452f278e1"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -12807,7 +12810,6 @@
       "globalNav.mainNav.margin": "7c90459730de9350bf9bb4e0bb412c3b5efbb622",
       "globalNav.mainNav.minimizedMargin": "75ee35f23275e35fd50ef460d901a465230b7b1d",
       "globalNav.mainNav.gap": "4fa820104165eac11b31e43c85eb0526b454254d",
-      "globalNav.navItemsGap": "00008d3a76b80546bab5238b1202635f83f30c19",
       "globalNav.borderRadius": "8ef3b3b14810122cacc7e1c190c20e425d4ddd3e",
       "globalNav.minimizedBorderRadius": "1ec44553a6da0a2883b34e713a5232b9b1a342b3",
       "globalNav.borderWidth": "41fc164299272ff07a760d4a31e39dee357180cc",
@@ -13389,7 +13391,9 @@
       "globalNav.accountItem.padding": "d8aee815097516fb2b8ba2439269b5023a908bf2",
       "globalNav.accountItem.borderRadius": "e6b2feecdade4684bcd8c4739e6435919cab03e4",
       "globalNav.accountItem.borderColor": "30b7cd1ee1257fdb6bbefe6555b210278fb31610",
-      "globalNav.accountItem.minimizedItemSize": "e0513197e8c2e2ab4ccfc8f0e9cbd1bf46611818"
+      "globalNav.accountItem.minimizedItemSize": "e0513197e8c2e2ab4ccfc8f0e9cbd1bf46611818",
+      "globalNav.mainNav.navItemsGap": "00008d3a76b80546bab5238b1202635f83f30c19",
+      "globalNav.subNav.navItemsGap": "83edc9f1345c401243c2b9006452bdb452f278e1"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
