@@ -12,10 +12,6 @@
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
-    "paddingVertical": {
-      "value": "{semantic.spacing.spaceXs}",
-      "type": "spacing"
-    },
     "gapIconLabel": {
       "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
@@ -65,7 +61,7 @@
       "type": "fontWeights"
     },
     "statusLabelFontWeight": {
-      "value": "{semantic.fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     },
     "maxWidth": {
@@ -338,6 +334,14 @@
     },
     "lineHeight": {
       "value": "{semantic.lineHeight.standalone.textSm}",
+      "type": "lineHeights"
+    },
+    "lineHeightMedium": {
+      "value": "{semantic.lineHeight.standalone.textBase}",
+      "type": "lineHeights"
+    },
+    "lineHeightLarge": {
+      "value": "{semantic.lineHeight.standalone.textLg}",
       "type": "lineHeights"
     },
     "fontFamily": {

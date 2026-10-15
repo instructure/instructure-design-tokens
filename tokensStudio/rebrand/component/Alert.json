@@ -33,7 +33,7 @@
       "type": "fontWeights"
     },
     "contentLineHeight": {
-      "value": "{semantic.lineHeight.standalone.base}",
+      "value": "{semantic.lineHeight.paragraph.textBase}",
       "type": "lineHeights"
     },
     "dangerBackground": {
