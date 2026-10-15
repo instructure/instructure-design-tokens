@@ -65,7 +65,7 @@
       "type": "fontWeights"
     },
     "statusLabelFontWeight": {
-      "value": "{semantic.fontWeight.body.base}",
+      "value": "{semantic.fontWeight.body.strong}",
       "type": "fontWeights"
     },
     "maxWidth": {

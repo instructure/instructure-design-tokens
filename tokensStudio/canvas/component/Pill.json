@@ -29,7 +29,7 @@
       "type": "sizing"
     },
     "textFontSize": {
-      "value": "{semantic.fontSize.textSm}",
+      "value": "{semantic.fontSize.textXs}",
       "type": "fontSizes"
     },
     "textFontSizeMedium": {
@@ -37,11 +37,11 @@
       "type": "fontSizes"
     },
     "textFontSizeLarge": {
-      "value": "{semantic.fontSize.textSm}",
+      "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
     },
     "textFontWeight": {
-      "value": "{semantic.fontWeight.body.strong}",
+      "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
     "statusLabelFontWeight": {
