@@ -302,7 +302,7 @@
         "type": "color"
       },
       "selectedOuterFocusOutlineColor": {
-        "value": "{sharedTokens.focusOutline.infoColor}",
+        "value": "{semantic.color.stroke.interactive.focusRing.base}",
         "type": "color"
       },
       "padding": {
