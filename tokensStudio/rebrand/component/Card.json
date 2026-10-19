@@ -86,5 +86,105 @@
       "value": "40rem",
       "type": "sizing"
     }
+  },
+  "imageCard": {
+    "borderRadiusBaseSm": {
+      "value": "0.75rem",
+      "type": "borderRadius"
+    },
+    "borderRadiusBaseMd": {
+      "value": "{semantic.borderRadius.container.md}",
+      "type": "borderRadius"
+    },
+    "borderRadiusBaseLg": {
+      "value": "{semantic.borderRadius.container.md}",
+      "type": "borderRadius"
+    },
+    "paddingBaseSm": {
+      "value": "{semantic.spacing.padding.container.xs}",
+      "type": "spacing"
+    },
+    "paddingBaseMd": {
+      "value": "{semantic.spacing.padding.container.sm}",
+      "type": "spacing"
+    },
+    "paddingBaseLg": {
+      "value": "{semantic.spacing.padding.container.md}",
+      "type": "spacing"
+    },
+    "boxShadow": {
+      "value": [
+        {
+          "x": "{semantic.dropShadow.x.elevation1.dropshadow1}",
+          "y": "{semantic.dropShadow.y.elevation1.dropshadow1}",
+          "blur": "{semantic.dropShadow.blur.elevation1.dropshadow1}",
+          "spread": "{semantic.dropShadow.spread.elevation1.dropshadow1}",
+          "color": "{semantic.color.dropShadow.shadowColor1}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "{semantic.dropShadow.x.elevation1.dropshadow1}",
+          "y": "{semantic.dropShadow.y.elevation1.dropshadow2}",
+          "blur": "{semantic.dropShadow.blur.elevation1.dropshadow2}",
+          "spread": "{semantic.dropShadow.spread.elevation1.dropshadow2}",
+          "color": "{semantic.color.dropShadow.shadowColor2}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Elevated base surfaces: Persistent UI and everyday interactive surfaces like navigation, cards, inputs, and buttons."
+    },
+    "backgroundColor": {
+      "value": "{semantic.color.background.container}",
+      "type": "color"
+    },
+    "breakpointMd": {
+      "value": "20rem",
+      "type": "sizing"
+    },
+    "breakpointLg": {
+      "value": "40rem",
+      "type": "sizing"
+    },
+    "imgTextGapSm": {
+      "value": "{semantic.spacing.gap.cards.md}",
+      "type": "spacing"
+    },
+    "imgTextGapMd": {
+      "value": "1.25rem",
+      "type": "spacing"
+    },
+    "imgTextGapLg": {
+      "value": "{semantic.spacing.gap.cards.lg}",
+      "type": "spacing"
+    },
+    "imgBorderRadiusSm": {
+      "value": "{semantic.borderRadius.md}",
+      "type": "borderRadius"
+    },
+    "imgBorderRadiusMd": {
+      "value": "{semantic.borderRadius.lg}",
+      "type": "borderRadius"
+    },
+    "imgBorderRadiusLg": {
+      "value": "{semantic.borderRadius.lg}",
+      "type": "borderRadius"
+    },
+    "titleContentGapSm": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "titleContentGapMd": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "titleContentGapLg": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "imgAspectRatio": {
+      "value": 1.77778,
+      "type": "number"
+    }
   }
 }
