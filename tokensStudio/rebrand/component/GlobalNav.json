@@ -161,10 +161,6 @@
         "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
         "type": "color"
       },
-      "selectedAccountFontColor": {
-        "value": "{semantic.color.text.base}",
-        "type": "color"
-      },
       "selectedInnerFocusOutlineColor": {
         "value": "{semantic.color.transparentColor}",
         "type": "color"
@@ -236,6 +232,18 @@
       "navItemsGap": {
         "value": "{semantic.spacing.spaceXs}",
         "type": "spacing"
+      },
+      "minimizedVerticalPadding": {
+        "value": "1.625rem",
+        "type": "spacing"
+      },
+      "minimizedWidth": {
+        "value": "2rem",
+        "type": "sizing"
+      },
+      "minimizedHoverWidth": {
+        "value": "2.25rem",
+        "type": "sizing"
       }
     },
     "institutionLogo": {
@@ -287,10 +295,6 @@
       },
       "currentTextColor": {
         "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
-        "type": "color"
-      },
-      "selectedAccountFontColor": {
-        "value": "{semantic.color.text.base}",
         "type": "color"
       },
       "selectedInnerFocusOutlineColor": {

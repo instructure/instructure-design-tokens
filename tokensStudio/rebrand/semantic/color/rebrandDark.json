@@ -2180,7 +2180,7 @@
           "type": "color"
         },
         "brandGlobalNavBgd": {
-          "value": "{color.grey.grey170}",
+          "value": "{color.grey.grey180}",
           "type": "color"
         },
         "globalNavLinkHover": {
