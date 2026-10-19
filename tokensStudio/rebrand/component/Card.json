@@ -87,7 +87,7 @@
       "type": "sizing"
     }
   },
-  "cardWithImage": {
+  "imageCard": {
     "borderRadiusBaseSm": {
       "value": "0.75rem",
       "type": "borderRadius"
