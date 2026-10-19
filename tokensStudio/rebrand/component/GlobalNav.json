@@ -36,24 +36,6 @@
       "value": "0.375rem",
       "type": "spacing"
     },
-    "mainNav": {
-      "margin": {
-        "value": "0.75rem",
-        "type": "spacing"
-      },
-      "minimizedMargin": {
-        "value": "0rem",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "{semantic.spacing.padding.container.xxs}",
-        "type": "spacing"
-      },
-      "navItemsGap": {
-        "value": "{semantic.spacing.spaceXs}",
-        "type": "spacing"
-      }
-    },
     "boxShadow": {
       "value": [
         {
@@ -87,240 +69,258 @@
     "borderWidth": {
       "value": "{semantic.borderWidth.sm}",
       "type": "borderWidth"
+    }
+  },
+  "mainNav": {
+    "margin": {
+      "value": "0.75rem",
+      "type": "spacing"
     },
-    "mainNavItem": {
-      "horizontalPadding": {
-        "value": "{semantic.spacing.spaceSm}",
-        "type": "spacing"
-      },
-      "verticalPadding": {
-        "value": "0.25rem",
-        "type": "spacing"
-      },
-      "iconWrapperHeight": {
-        "value": "2.25rem",
-        "type": "sizing"
-      },
-      "minimizedItemSize": {
-        "value": "2.75rem",
-        "type": "sizing"
-      },
-      "borderRadius": {
-        "value": "{semantic.borderRadius.md}",
-        "type": "borderRadius"
-      },
-      "backgroundColor": {
-        "value": "{semantic.color.institutional.brandGlobalNavBgd}",
-        "type": "color"
-      },
-      "fontColor": {
-        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
-        "type": "color"
-      },
-      "fontFamily": {
-        "value": "{semantic.fontFamily.base}",
-        "type": "fontFamilies"
-      },
-      "fontSize": {
-        "value": "{semantic.fontSize.textBase}",
-        "type": "fontSizes"
-      },
-      "fontWeight": {
-        "value": "{semantic.fontWeight.body.base}",
-        "type": "fontWeights"
-      },
-      "innerFocusOutlineColor": {
-        "value": "{semantic.color.transparentColor}",
-        "type": "color"
-      },
-      "outerFocusOutlineColor": {
-        "value": "{semantic.color.stroke.interactive.focusRing.base}",
-        "type": "color"
-      },
-      "hoverBackgroundColor": {
-        "value": "{semantic.color.background.interactive.action.tertiary.hover}",
-        "type": "color"
-      },
-      "lineHeight": {
-        "value": "{semantic.lineHeight.paragraph.base}",
-        "type": "lineHeights"
-      },
-      "linkTextDecoration": {
-        "value": "none",
-        "type": "other"
-      },
-      "currentBackgroundColor": {
-        "value": "{semantic.color.institutional.brandPrimary}",
-        "type": "color"
-      },
-      "selectedBackgroundColor": {
-        "value": "{semantic.color.background.interactive.action.tertiary.active}",
-        "type": "color"
-      },
-      "currentTextColor": {
-        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
-        "type": "color"
-      },
-      "selectedInnerFocusOutlineColor": {
-        "value": "{semantic.color.transparentColor}",
-        "type": "color"
-      },
-      "selectedOuterFocusOutlineColor": {
-        "value": "{semantic.color.stroke.interactive.focusRing.base}",
-        "type": "color"
-      }
+    "minimizedMargin": {
+      "value": "0rem",
+      "type": "spacing"
     },
-    "subNavItem": {
-      "backgroundColor": {
-        "value": "{semantic.color.transparentColor}",
-        "type": "color"
-      },
-      "hoverBackgroundColor": {
-        "value": "{semantic.color.background.interactive.action.tertiary.hover}",
-        "type": "color"
-      },
-      "activeBackgroundColor": {
-        "value": "{semantic.color.background.interactive.action.tertiary.active}",
-        "type": "color"
-      },
-      "selectedBackgroundColor": {
-        "value": "{semantic.color.background.brand}",
-        "type": "color"
-      },
-      "textColor": {
-        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
-        "type": "color"
-      },
-      "selectedTextColor": {
-        "value": "{semantic.color.text.inverse}",
-        "type": "color"
-      },
-      "logoutTextColor": {
-        "value": "{semantic.color.text.error}",
-        "type": "color"
-      },
-      "borderRadius": {
-        "value": "{semantic.borderRadius.lg}",
-        "type": "borderRadius"
-      },
-      "padding": {
-        "value": "{semantic.spacing.spaceSm}",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "{semantic.spacing.spaceSm}",
-        "type": "spacing"
-      }
+    "gap": {
+      "value": "{semantic.spacing.padding.container.xxs}",
+      "type": "spacing"
     },
-    "subNav": {
-      "strokeColor": {
-        "value": "{semantic.color.stroke.muted}",
-        "type": "color"
-      },
-      "textColor": {
-        "value": "{semantic.color.text.base}",
-        "type": "color"
-      },
-      "padding": {
-        "value": "{semantic.spacing.spaceMd}",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "{semantic.spacing.spaceSm}",
-        "type": "spacing"
-      },
-      "navItemsGap": {
-        "value": "{semantic.spacing.spaceXs}",
-        "type": "spacing"
-      },
-      "minimizedVerticalPadding": {
-        "value": "1.625rem",
-        "type": "spacing"
-      },
-      "minimizedWidth": {
-        "value": "2rem",
-        "type": "sizing"
-      },
-      "minimizedHoverWidth": {
-        "value": "2.25rem",
-        "type": "sizing"
-      }
+    "navItemsGap": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    }
+  },
+  "mainNavItem": {
+    "horizontalPadding": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
     },
-    "institutionLogo": {
-      "textColor": {
-        "value": "{semantic.color.text.base}",
-        "type": "color"
-      },
-      "strokeColor": {
-        "value": "{semantic.color.stroke.muted}",
-        "type": "color"
-      },
-      "padding": {
-        "value": "{semantic.spacing.spaceSm}",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "{semantic.spacing.spaceMd}",
-        "type": "spacing"
-      }
+    "verticalPadding": {
+      "value": "0.25rem",
+      "type": "spacing"
     },
-    "accountItem": {
-      "backgroundColor": {
-        "value": "{semantic.color.institutional.brandGlobalNavBgd}",
-        "type": "color"
-      },
-      "fontColor": {
-        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
-        "type": "color"
-      },
-      "innerFocusOutlineColor": {
-        "value": "{semantic.color.transparentColor}",
-        "type": "color"
-      },
-      "outerFocusOutlineColor": {
-        "value": "{semantic.color.stroke.interactive.focusRing.base}",
-        "type": "color"
-      },
-      "hoverBackgroundColor": {
-        "value": "{semantic.color.background.interactive.action.tertiary.hover}",
-        "type": "color"
-      },
-      "currentBackgroundColor": {
-        "value": "{semantic.color.institutional.brandPrimary}",
-        "type": "color"
-      },
-      "selectedBackgroundColor": {
-        "value": "{semantic.color.background.interactive.action.tertiary.active}",
-        "type": "color"
-      },
-      "currentTextColor": {
-        "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
-        "type": "color"
-      },
-      "selectedInnerFocusOutlineColor": {
-        "value": "{semantic.color.transparentColor}",
-        "type": "color"
-      },
-      "selectedOuterFocusOutlineColor": {
-        "value": "{semantic.color.stroke.interactive.focusRing.base}",
-        "type": "color"
-      },
-      "padding": {
-        "value": "{semantic.spacing.padding.container.xxs}",
-        "type": "spacing"
-      },
-      "borderRadius": {
-        "value": "{semantic.borderRadius.container.sm}",
-        "type": "borderRadius"
-      },
-      "borderColor": {
-        "value": "{semantic.color.stroke.muted}",
-        "type": "color"
-      },
-      "minimizedItemSize": {
-        "value": "2.75rem",
-        "type": "sizing"
-      }
+    "iconWrapperHeight": {
+      "value": "2.25rem",
+      "type": "sizing"
+    },
+    "minimizedItemSize": {
+      "value": "2.75rem",
+      "type": "sizing"
+    },
+    "borderRadius": {
+      "value": "{semantic.borderRadius.md}",
+      "type": "borderRadius"
+    },
+    "backgroundColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavBgd}",
+      "type": "color"
+    },
+    "fontColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+      "type": "color"
+    },
+    "fontFamily": {
+      "value": "{semantic.fontFamily.base}",
+      "type": "fontFamilies"
+    },
+    "fontSize": {
+      "value": "{semantic.fontSize.textBase}",
+      "type": "fontSizes"
+    },
+    "fontWeight": {
+      "value": "{semantic.fontWeight.body.base}",
+      "type": "fontWeights"
+    },
+    "innerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "outerFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
+    },
+    "hoverBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
+      "type": "color"
+    },
+    "lineHeight": {
+      "value": "{semantic.lineHeight.paragraph.base}",
+      "type": "lineHeights"
+    },
+    "linkTextDecoration": {
+      "value": "none",
+      "type": "other"
+    },
+    "currentBackgroundColor": {
+      "value": "{semantic.color.institutional.brandPrimary}",
+      "type": "color"
+    },
+    "selectedBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.active}",
+      "type": "color"
+    },
+    "currentTextColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
+      "type": "color"
+    },
+    "selectedInnerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "selectedOuterFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
+    }
+  },
+  "subNavItem": {
+    "backgroundColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "hoverBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
+      "type": "color"
+    },
+    "activeBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.active}",
+      "type": "color"
+    },
+    "selectedBackgroundColor": {
+      "value": "{semantic.color.background.brand}",
+      "type": "color"
+    },
+    "textColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+      "type": "color"
+    },
+    "selectedTextColor": {
+      "value": "{semantic.color.text.inverse}",
+      "type": "color"
+    },
+    "logoutTextColor": {
+      "value": "{semantic.color.text.error}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{semantic.borderRadius.lg}",
+      "type": "borderRadius"
+    },
+    "padding": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    }
+  },
+  "subNav": {
+    "strokeColor": {
+      "value": "{semantic.color.stroke.muted}",
+      "type": "color"
+    },
+    "textColor": {
+      "value": "{semantic.color.text.base}",
+      "type": "color"
+    },
+    "padding": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "navItemsGap": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
+    "minimizedVerticalPadding": {
+      "value": "1.625rem",
+      "type": "spacing"
+    },
+    "minimizedWidth": {
+      "value": "2rem",
+      "type": "sizing"
+    },
+    "minimizedHoverWidth": {
+      "value": "2.25rem",
+      "type": "sizing"
+    }
+  },
+  "mainNavInstitutionLogo": {
+    "textColor": {
+      "value": "{semantic.color.text.base}",
+      "type": "color"
+    },
+    "strokeColor": {
+      "value": "{semantic.color.stroke.muted}",
+      "type": "color"
+    },
+    "padding": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    }
+  },
+  "mainNavAccountItem": {
+    "backgroundColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavBgd}",
+      "type": "color"
+    },
+    "fontColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+      "type": "color"
+    },
+    "innerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "outerFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
+    },
+    "hoverBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
+      "type": "color"
+    },
+    "currentBackgroundColor": {
+      "value": "{semantic.color.institutional.brandPrimary}",
+      "type": "color"
+    },
+    "selectedBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.active}",
+      "type": "color"
+    },
+    "currentTextColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
+      "type": "color"
+    },
+    "selectedInnerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "selectedOuterFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
+    },
+    "padding": {
+      "value": "{semantic.spacing.padding.container.xxs}",
+      "type": "spacing"
+    },
+    "borderRadius": {
+      "value": "{semantic.borderRadius.container.sm}",
+      "type": "borderRadius"
+    },
+    "borderColor": {
+      "value": "{semantic.color.stroke.muted}",
+      "type": "color"
+    },
+    "minimizedItemSize": {
+      "value": "2.75rem",
+      "type": "sizing"
     }
   }
 }
