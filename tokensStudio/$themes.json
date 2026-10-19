@@ -2987,7 +2987,8 @@
       "imageCard.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa",
       "imageCard.titleContentGapSm": "35fcb6f93e955b484ce0f187dfaecd41027d0f3b",
       "imageCard.titleContentGapMd": "b92ae35d057db94b366eaf4750879eb206603971",
-      "imageCard.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b"
+      "imageCard.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b",
+      "imageCard.imgAspectRatio": "dda216a8065bb42cb010dbba64af87430a71415b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6711,7 +6712,8 @@
       "imageCard.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa",
       "imageCard.titleContentGapSm": "35fcb6f93e955b484ce0f187dfaecd41027d0f3b",
       "imageCard.titleContentGapMd": "b92ae35d057db94b366eaf4750879eb206603971",
-      "imageCard.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b"
+      "imageCard.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b",
+      "imageCard.imgAspectRatio": "dda216a8065bb42cb010dbba64af87430a71415b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9707,7 +9709,8 @@
       "imageCard.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa",
       "imageCard.titleContentGapSm": "35fcb6f93e955b484ce0f187dfaecd41027d0f3b",
       "imageCard.titleContentGapMd": "b92ae35d057db94b366eaf4750879eb206603971",
-      "imageCard.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b"
+      "imageCard.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b",
+      "imageCard.imgAspectRatio": "dda216a8065bb42cb010dbba64af87430a71415b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13433,7 +13436,8 @@
       "imageCard.imgBorderRadiusLg": "38b2f0e4c4321d158eec7d3b1f9165d766fd42aa",
       "imageCard.titleContentGapSm": "35fcb6f93e955b484ce0f187dfaecd41027d0f3b",
       "imageCard.titleContentGapMd": "b92ae35d057db94b366eaf4750879eb206603971",
-      "imageCard.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b"
+      "imageCard.titleContentGapLg": "dce47823f2a6af73e6733bf17b33e1bd17f6ea3b",
+      "imageCard.imgAspectRatio": "dda216a8065bb42cb010dbba64af87430a71415b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
