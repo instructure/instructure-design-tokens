@@ -100,18 +100,6 @@
       "value": "{semantic.borderRadius.container.md}",
       "type": "borderRadius"
     },
-    "borderRadiusNestedSm": {
-      "value": "{semantic.borderRadius.md}",
-      "type": "borderRadius"
-    },
-    "borderRadiusNestedMd": {
-      "value": "{semantic.borderRadius.md}",
-      "type": "borderRadius"
-    },
-    "borderRadiusNestedLg": {
-      "value": "{semantic.borderRadius.lg}",
-      "type": "borderRadius"
-    },
     "paddingBaseSm": {
       "value": "{semantic.spacing.padding.container.xs}",
       "type": "spacing"
@@ -122,18 +110,6 @@
     },
     "paddingBaseLg": {
       "value": "{semantic.spacing.padding.container.md}",
-      "type": "spacing"
-    },
-    "paddingNestedSm": {
-      "value": "{semantic.spacing.padding.container.xxs}",
-      "type": "spacing"
-    },
-    "paddingNestedMd": {
-      "value": "{semantic.spacing.padding.container.xs}",
-      "type": "spacing"
-    },
-    "paddingNestedLg": {
-      "value": "{semantic.spacing.padding.container.sm}",
       "type": "spacing"
     },
     "boxShadow": {
@@ -160,10 +136,6 @@
     },
     "backgroundColor": {
       "value": "{semantic.color.background.container}",
-      "type": "color"
-    },
-    "nestedBorderColor": {
-      "value": "{semantic.color.stroke.muted}",
       "type": "color"
     },
     "breakpointMd": {
