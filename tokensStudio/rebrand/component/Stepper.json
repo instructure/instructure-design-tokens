@@ -18,7 +18,8 @@
     },
     "stepStrokeRadius": {
       "value": "{semantic.borderRadius.xs}",
-      "type": "borderRadius"    }
+      "type": "borderRadius"
+    }
   },
   "stepper": {
     "stepGap": {
@@ -102,10 +103,6 @@
     "mobileToggleFocusOutlineColor": {
       "value": "{semantic.color.stroke.interactive.focusRing.base}",
       "type": "color"
-    },
-    "mobileToggleFocusOutlineRadius": {
-      "value": "{semantic.borderRadius.sm}",
-      "type": "borderRadius"
     }
   }
 }
