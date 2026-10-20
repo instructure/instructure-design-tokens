@@ -116,6 +116,14 @@
       "value": "{semantic.color.background.base}",
       "type": "color"
     },
+    "textOnColor": {
+      "value": "{semantic.color.text.onColor}",
+      "type": "color"
+    },
+    "textBase": {
+      "value": "{semantic.color.text.base}",
+      "type": "color"
+    },
     "contentPaddingVertical": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
