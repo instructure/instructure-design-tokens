@@ -1,0 +1,112 @@
+{
+  "stepItem": {
+    "stepStrokeFilledColor": {
+      "value": "{semantic.color.stroke.info}",
+      "type": "color"
+    },
+    "stepStrokeColor": {
+      "value": "{semantic.color.stroke.base}",
+      "type": "color"
+    },
+    "stepStrokeFilledWidth": {
+      "value": "{semantic.borderWidth.lg}",
+      "type": "borderWidth"
+    },
+    "stepStrokeWidth": {
+      "value": "{semantic.borderWidth.md}",
+      "type": "borderWidth"
+    },
+    "stepStrokeRadius": {
+      "value": "{semantic.borderRadius.xs}",
+      "type": "borderRadius"
+    }
+  },
+  "stepper": {
+    "stepGap": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "stepContentGap": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "stepPaddingInlineEnd": {
+      "value": "{semantic.spacing.spaceLg}",
+      "type": "spacing"
+    },
+    "stepPaddingBlockEnd": {
+      "value": "{semantic.spacing.spaceXl}",
+      "type": "spacing",
+      "description": "Vertical only."
+    },
+    "currentStepTextGap": {
+      "value": "{semantic.spacing.spaceXs}",
+      "type": "spacing"
+    },
+    "compactStrokeFilledColor": {
+      "value": "{semantic.color.stroke.info}",
+      "type": "color"
+    },
+    "compactStrokeColor": {
+      "value": "{semantic.color.stroke.base}",
+      "type": "color"
+    },
+    "compactStrokeErrorColor": {
+      "value": "{semantic.color.stroke.error}",
+      "type": "color"
+    },
+    "compactStrokeGap": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "compactStrokeHeight": {
+      "value": "{semantic.borderWidth.lg}",
+      "type": "borderWidth"
+    },
+    "compactStrokeRadius": {
+      "value": "{semantic.borderRadius.xs}",
+      "type": "borderRadius"
+    },
+    "mobileToggleBackground": {
+      "value": "{semantic.color.background.interactive.action.secondary.base}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "mobileToggleBorderRadius": {
+      "value": "{semantic.borderRadius.interactive.base}",
+      "type": "borderRadius"
+    },
+    "mobileTogglePaddingHorizontal": {
+      "value": "{semantic.spacing.padding.interactive.horizontal.lg}",
+      "type": "spacing"
+    },
+    "mobileTogglePaddingVertical": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "mobileToggleContentGap": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "mobileToggleFocusOutlineWidth": {
+      "value": "{semantic.borderWidth.md}",
+      "type": "borderWidth"
+    },
+    "mobileToggleFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
+    },
+    "mobileToggleFocusOutlineRadius": {
+      "value": "{semantic.borderRadius.sm}",
+      "type": "borderRadius"
+    }
+  }
+}
