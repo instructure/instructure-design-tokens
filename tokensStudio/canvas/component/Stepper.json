@@ -95,14 +95,6 @@
     "mobileToggleContentGap": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
-    },
-    "mobileToggleFocusOutlineWidth": {
-      "value": "{semantic.borderWidth.md}",
-      "type": "borderWidth"
-    },
-    "mobileToggleFocusOutlineColor": {
-      "value": "{semantic.color.stroke.interactive.focusRing.base}",
-      "type": "color"
     }
   }
 }
