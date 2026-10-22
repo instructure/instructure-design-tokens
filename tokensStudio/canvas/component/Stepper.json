@@ -36,13 +36,13 @@
     "iconTopPadding": {
       "value": "{semantic.spacing.space2xs}",
       "type": "spacing"
-    }
-  },
-  "stepper": {
+    },
     "stepContentGap": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
-    },
+    }
+  },
+  "stepper": {
     "compactStrokeFilledColor": {
       "value": "{semantic.color.stroke.info}",
       "type": "color"
