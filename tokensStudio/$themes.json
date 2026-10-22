@@ -3013,7 +3013,8 @@
       "stepper.mobileTogglePaddingVertical": "53cf88262bf0cdb507b4ce3c90d6c25916221060",
       "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e",
       "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
-      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b"
+      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b",
+      "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6763,7 +6764,8 @@
       "stepper.mobileTogglePaddingVertical": "53cf88262bf0cdb507b4ce3c90d6c25916221060",
       "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e",
       "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
-      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b"
+      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b",
+      "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9785,7 +9787,8 @@
       "stepper.mobileTogglePaddingVertical": "53cf88262bf0cdb507b4ce3c90d6c25916221060",
       "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e",
       "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
-      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b"
+      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b",
+      "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13537,7 +13540,8 @@
       "stepper.mobileTogglePaddingVertical": "53cf88262bf0cdb507b4ce3c90d6c25916221060",
       "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e",
       "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
-      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b"
+      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b",
+      "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",

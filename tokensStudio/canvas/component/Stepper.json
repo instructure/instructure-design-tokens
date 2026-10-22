@@ -68,13 +68,17 @@
       "type": "borderRadius"
     },
     "mobileToggleBackground": {
-      "value": "{semantic.color.background.interactive.action.secondary.base}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color"
+    },
+    "mobileToggleExpandedBackground": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "alpha",
-            "value": "0.2",
+            "type": "darken",
+            "value": "0.1",
             "space": "hsl"
           }
         }
