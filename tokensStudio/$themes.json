@@ -3011,7 +3011,9 @@
       "stepper.mobileToggleBorderRadius": "5b134a70fff9951092c36725d4357e6573da19f7",
       "stepper.mobileTogglePaddingHorizontal": "4780020d07b1c10b3c8419d2d1be43ad2d716126",
       "stepper.mobileTogglePaddingVertical": "53cf88262bf0cdb507b4ce3c90d6c25916221060",
-      "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e"
+      "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e",
+      "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
+      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6759,7 +6761,9 @@
       "stepper.mobileToggleBorderRadius": "5b134a70fff9951092c36725d4357e6573da19f7",
       "stepper.mobileTogglePaddingHorizontal": "4780020d07b1c10b3c8419d2d1be43ad2d716126",
       "stepper.mobileTogglePaddingVertical": "53cf88262bf0cdb507b4ce3c90d6c25916221060",
-      "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e"
+      "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e",
+      "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
+      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9779,7 +9783,9 @@
       "stepper.mobileToggleBorderRadius": "5b134a70fff9951092c36725d4357e6573da19f7",
       "stepper.mobileTogglePaddingHorizontal": "4780020d07b1c10b3c8419d2d1be43ad2d716126",
       "stepper.mobileTogglePaddingVertical": "53cf88262bf0cdb507b4ce3c90d6c25916221060",
-      "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e"
+      "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e",
+      "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
+      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13529,7 +13535,9 @@
       "stepper.mobileToggleBorderRadius": "5b134a70fff9951092c36725d4357e6573da19f7",
       "stepper.mobileTogglePaddingHorizontal": "4780020d07b1c10b3c8419d2d1be43ad2d716126",
       "stepper.mobileTogglePaddingVertical": "53cf88262bf0cdb507b4ce3c90d6c25916221060",
-      "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e"
+      "stepper.mobileToggleContentGap": "7d3691cbba445d633c99d63e81d608c3906c377e",
+      "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
+      "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
