@@ -19,30 +19,30 @@
     "stepStrokeRadius": {
       "value": "{semantic.borderRadius.xs}",
       "type": "borderRadius"
-    }
-  },
-  "stepper": {
+    },
     "stepGap": {
       "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "stepHorizontalPaddingEnd": {
+      "value": "{semantic.spacing.spaceLg}",
+      "type": "spacing"
+    },
+    "stepVerticalPaddingEnd": {
+      "value": "{semantic.spacing.spaceXl}",
+      "type": "spacing",
+      "description": "Vertical only."
+    },
+    "iconTopPadding": {
+      "value": "{semantic.spacing.space2xs}",
       "type": "spacing"
     },
     "stepContentGap": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
-    },
-    "stepPaddingInlineEnd": {
-      "value": "{semantic.spacing.spaceLg}",
-      "type": "spacing"
-    },
-    "stepPaddingBlockEnd": {
-      "value": "{semantic.spacing.spaceXl}",
-      "type": "spacing",
-      "description": "Vertical only."
-    },
-    "currentStepTextGap": {
-      "value": "{semantic.spacing.spaceXs}",
-      "type": "spacing"
-    },
+    }
+  },
+  "stepper": {
     "compactStrokeFilledColor": {
       "value": "{semantic.color.stroke.info}",
       "type": "color"
@@ -68,13 +68,17 @@
       "type": "borderRadius"
     },
     "mobileToggleBackground": {
-      "value": "{semantic.color.background.interactive.action.secondary.base}",
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "type": "color"
+    },
+    "mobileToggleExpandedBackground": {
+      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "alpha",
-            "value": "0.2",
+            "type": "darken",
+            "value": "0.15",
             "space": "hsl"
           }
         }
@@ -94,6 +98,10 @@
     },
     "mobileToggleContentGap": {
       "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "mobileToggleMainGap": {
+      "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
     }
   }
