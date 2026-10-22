@@ -283,7 +283,7 @@
       "type": "color"
     },
     "hoverBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
+      "value": "{semantic.color.institutional.globalNavLinkHover}",
       "type": "color"
     },
     "currentBackgroundColor": {
