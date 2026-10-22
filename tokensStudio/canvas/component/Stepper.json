@@ -19,14 +19,8 @@
     "stepStrokeRadius": {
       "value": "{semantic.borderRadius.xs}",
       "type": "borderRadius"
-    }
-  },
-  "stepper": {
-    "stepGap": {
-      "value": "{semantic.spacing.spaceSm}",
-      "type": "spacing"
     },
-    "stepContentGap": {
+    "stepGap": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
@@ -38,6 +32,12 @@
       "value": "{semantic.spacing.spaceXl}",
       "type": "spacing",
       "description": "Vertical only."
+    }
+  },
+  "stepper": {
+    "stepContentGap": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
     },
     "currentStepTextGap": {
       "value": "{semantic.spacing.spaceXs}",
