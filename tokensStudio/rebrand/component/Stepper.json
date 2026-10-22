@@ -24,11 +24,11 @@
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
-    "stepPaddingInlineEnd": {
+    "stepHorizontalPaddingEnd": {
       "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
     },
-    "stepPaddingBlockEnd": {
+    "stepVerticalPaddingEnd": {
       "value": "{semantic.spacing.spaceXl}",
       "type": "spacing",
       "description": "Vertical only."
