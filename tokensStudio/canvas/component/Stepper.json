@@ -32,15 +32,15 @@
       "value": "{semantic.spacing.spaceXl}",
       "type": "spacing",
       "description": "Vertical only."
+    },
+    "iconTopPadding": {
+      "value": "{semantic.spacing.space2xs}",
+      "type": "spacing"
     }
   },
   "stepper": {
     "stepContentGap": {
       "value": "{semantic.spacing.spaceSm}",
-      "type": "spacing"
-    },
-    "currentStepTextGap": {
-      "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
     },
     "compactStrokeFilledColor": {
@@ -94,6 +94,10 @@
     },
     "mobileToggleContentGap": {
       "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
+    "mobileToggleMainGap": {
+      "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
     }
   }
