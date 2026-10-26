@@ -245,6 +245,10 @@
     "minimizedHoverWidth": {
       "value": "2.25rem",
       "type": "sizing"
+    },
+    "backgroundColor": {
+      "value": "{semantic.color.background.container}",
+      "type": "color"
     }
   },
   "mainNavInstitutionLogo": {

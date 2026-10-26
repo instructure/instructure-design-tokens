@@ -189,7 +189,7 @@
       "type": "color"
     },
     "textColor": {
-      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+      "value": "{semantic.color.institutional.linkColor}",
       "type": "color"
     },
     "selectedTextColor": {
@@ -197,7 +197,7 @@
       "type": "color"
     },
     "logoutTextColor": {
-      "value": "{semantic.color.text.onColor}",
+      "value": "{semantic.color.text.error}",
       "type": "color"
     },
     "borderRadius": {
@@ -219,7 +219,11 @@
       "type": "color"
     },
     "textColor": {
-      "value": "{semantic.color.text.onColor}",
+      "value": "{semantic.color.text.base}",
+      "type": "color"
+    },
+    "backgroundColor": {
+      "value": "{semantic.color.background.container}",
       "type": "color"
     },
     "padding": {
