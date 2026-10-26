@@ -211,6 +211,14 @@
     "gap": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
+    },
+    "hoverTextColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+      "type": "color"
+    },
+    "activeTextColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+      "type": "color"
     }
   },
   "subNav": {

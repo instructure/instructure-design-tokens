@@ -192,6 +192,14 @@
       "value": "{semantic.color.institutional.linkColor}",
       "type": "color"
     },
+    "hoverTextColor": {
+      "value": "{semantic.color.text.onColor}",
+      "type": "color"
+    },
+    "activeTextColor": {
+      "value": "{semantic.color.text.onColor}",
+      "type": "color"
+    },
     "selectedTextColor": {
       "value": "{semantic.color.text.onColor}",
       "type": "color"

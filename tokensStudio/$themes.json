@@ -3015,7 +3015,9 @@
       "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
       "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b",
       "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6",
-      "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3"
+      "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3",
+      "subNavItem.hoverTextColor": "ba86121284befd4eb781a1dfc055e61fc98d5d1f",
+      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6767,7 +6769,9 @@
       "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
       "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b",
       "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6",
-      "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3"
+      "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3",
+      "subNavItem.hoverTextColor": "ba86121284befd4eb781a1dfc055e61fc98d5d1f",
+      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9791,7 +9795,9 @@
       "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
       "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b",
       "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6",
-      "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3"
+      "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3",
+      "subNavItem.hoverTextColor": "ba86121284befd4eb781a1dfc055e61fc98d5d1f",
+      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13545,7 +13551,9 @@
       "stepItem.iconTopPadding": "9cbac76ba32872278e2e25ff4f3e7545ed0fc370",
       "stepper.mobileToggleMainGap": "a9591c43c2fc434afca255498ee9c7c209b3be5b",
       "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6",
-      "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3"
+      "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3",
+      "subNavItem.hoverTextColor": "ba86121284befd4eb781a1dfc055e61fc98d5d1f",
+      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
