@@ -154,7 +154,7 @@
       "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
-    "selectedBackgroundColor": {
+    "activeBackgroundColor": {
       "value": "{semantic.color.background.interactive.action.tertiary.active}",
       "type": "color"
     },
@@ -333,6 +333,20 @@
     "minimizedItemSize": {
       "value": "2.75rem",
       "type": "sizing"
+    }
+  },
+  "collapseButton": {
+    "backgroundColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavBgd}",
+      "type": "color"
+    },
+    "hoverBackgroundColor": {
+      "value": "{semantic.color.institutional.globalNavLinkHover}",
+      "type": "color"
+    },
+    "activeBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.active}",
+      "type": "color"
     }
   }
 }

@@ -2484,7 +2484,6 @@
       "mainNavItem.fontWeight": "70b00dec6b69c4a69bff262ace88c6cd6ca60e4a",
       "mainNavItem.hoverBackgroundColor": "02ecb8a8500672ba54248252f5bf5c7e05757523",
       "mainNavItem.currentBackgroundColor": "81fc02483fbbc7e7dd536f9146d67ffdf5200fc0",
-      "mainNavItem.selectedBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
       "mainNavItem.currentTextColor": "d98ec32510148df78f8a75be57c45f8e2e3acac9",
       "mainNavItem.innerFocusOutlineColor": "d02104a23e354a28816594c965e592d1b7584f43",
       "mainNavItem.selectedInnerFocusOutlineColor": "b0c17fac272569fca7b2575679b902624417f5db",
@@ -3017,7 +3016,11 @@
       "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6",
       "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3",
       "subNavItem.hoverTextColor": "ba86121284befd4eb781a1dfc055e61fc98d5d1f",
-      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea"
+      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea",
+      "mainNavItem.activeBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
+      "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
+      "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
+      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6238,7 +6241,6 @@
       "mainNavItem.fontWeight": "70b00dec6b69c4a69bff262ace88c6cd6ca60e4a",
       "mainNavItem.hoverBackgroundColor": "02ecb8a8500672ba54248252f5bf5c7e05757523",
       "mainNavItem.currentBackgroundColor": "81fc02483fbbc7e7dd536f9146d67ffdf5200fc0",
-      "mainNavItem.selectedBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
       "mainNavItem.currentTextColor": "d98ec32510148df78f8a75be57c45f8e2e3acac9",
       "mainNavItem.innerFocusOutlineColor": "d02104a23e354a28816594c965e592d1b7584f43",
       "mainNavItem.selectedInnerFocusOutlineColor": "b0c17fac272569fca7b2575679b902624417f5db",
@@ -6771,7 +6773,11 @@
       "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6",
       "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3",
       "subNavItem.hoverTextColor": "ba86121284befd4eb781a1dfc055e61fc98d5d1f",
-      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea"
+      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea",
+      "mainNavItem.activeBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
+      "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
+      "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
+      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9182,7 +9188,6 @@
       "mainNavItem.outerFocusOutlineColor": "56eeaf7937e36c3e50d4eef1f151130040e79f22",
       "mainNavItem.hoverBackgroundColor": "02ecb8a8500672ba54248252f5bf5c7e05757523",
       "mainNavItem.currentBackgroundColor": "81fc02483fbbc7e7dd536f9146d67ffdf5200fc0",
-      "mainNavItem.selectedBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
       "mainNavItem.currentTextColor": "d98ec32510148df78f8a75be57c45f8e2e3acac9",
       "mainNavItem.selectedInnerFocusOutlineColor": "b0c17fac272569fca7b2575679b902624417f5db",
       "mainNavItem.selectedOuterFocusOutlineColor": "83af4e5dce8934f3ed33e13a87b5dcd2a05bafaa",
@@ -9797,7 +9802,11 @@
       "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6",
       "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3",
       "subNavItem.hoverTextColor": "ba86121284befd4eb781a1dfc055e61fc98d5d1f",
-      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea"
+      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea",
+      "mainNavItem.activeBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
+      "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
+      "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
+      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -12938,7 +12947,6 @@
       "mainNavItem.outerFocusOutlineColor": "56eeaf7937e36c3e50d4eef1f151130040e79f22",
       "mainNavItem.hoverBackgroundColor": "02ecb8a8500672ba54248252f5bf5c7e05757523",
       "mainNavItem.currentBackgroundColor": "81fc02483fbbc7e7dd536f9146d67ffdf5200fc0",
-      "mainNavItem.selectedBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
       "mainNavItem.currentTextColor": "d98ec32510148df78f8a75be57c45f8e2e3acac9",
       "mainNavItem.selectedInnerFocusOutlineColor": "b0c17fac272569fca7b2575679b902624417f5db",
       "mainNavItem.selectedOuterFocusOutlineColor": "83af4e5dce8934f3ed33e13a87b5dcd2a05bafaa",
@@ -13553,7 +13561,11 @@
       "stepper.mobileToggleExpandedBackground": "60eb8403b9e5d896e7d99362dc9c15c15d4b50c6",
       "subNav.backgroundColor": "74c044a603abd846755e15b9c7affa815421c9c3",
       "subNavItem.hoverTextColor": "ba86121284befd4eb781a1dfc055e61fc98d5d1f",
-      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea"
+      "subNavItem.activeTextColor": "96df7597e15f6dd1611c2962332a06a8fc91f2ea",
+      "mainNavItem.activeBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
+      "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
+      "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
+      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
