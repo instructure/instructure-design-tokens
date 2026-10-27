@@ -36,18 +36,18 @@
       "value": [
         {
           "x": "0rem",
-          "y": "0rem",
-          "blur": "0rem",
+          "y": "0.0625rem",
+          "blur": "0.125rem",
           "spread": "0rem",
-          "color": "{semantic.color.transparentColor}",
+          "color": "{semantic.color.dropShadow.shadowColor1}",
           "type": "dropShadow"
         },
         {
           "x": "0rem",
-          "y": "0rem",
-          "blur": "0rem",
-          "spread": "0rem",
-          "color": "{semantic.color.transparentColor}",
+          "y": "0.125rem",
+          "blur": "0.25rem",
+          "spread": "0.125rem",
+          "color": "{semantic.color.dropShadow.shadowColor2}",
           "type": "dropShadow"
         }
       ],
