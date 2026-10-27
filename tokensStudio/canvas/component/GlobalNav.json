@@ -80,6 +80,10 @@
       "value": "0rem",
       "type": "spacing"
     },
+    "minimizedGap": {
+      "value": "{semantic.spacing.spaceSm}",
+      "type": "spacing"
+    },
     "gap": {
       "value": "0rem",
       "type": "spacing"

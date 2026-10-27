@@ -2468,7 +2468,6 @@
       "globalNav.minimizedMargin": "58a36d676619bbeac441e4ea6c187efca7b1fcae",
       "mainNav.margin": "7c90459730de9350bf9bb4e0bb412c3b5efbb622",
       "mainNav.minimizedMargin": "75ee35f23275e35fd50ef460d901a465230b7b1d",
-      "mainNav.gap": "4fa820104165eac11b31e43c85eb0526b454254d",
       "globalNav.borderRadius": "8ef3b3b14810122cacc7e1c190c20e425d4ddd3e",
       "globalNav.minimizedBorderRadius": "1ec44553a6da0a2883b34e713a5232b9b1a342b3",
       "globalNav.borderColor": "14f52d598353c94a9e32e45fb8a992e259d768d7",
@@ -3021,7 +3020,9 @@
       "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
       "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
       "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
-      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6"
+      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6",
+      "mainNav.minimizedGap": "4fa820104165eac11b31e43c85eb0526b454254d",
+      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6226,7 +6227,6 @@
       "globalNav.minimizedMargin": "58a36d676619bbeac441e4ea6c187efca7b1fcae",
       "mainNav.margin": "7c90459730de9350bf9bb4e0bb412c3b5efbb622",
       "mainNav.minimizedMargin": "75ee35f23275e35fd50ef460d901a465230b7b1d",
-      "mainNav.gap": "4fa820104165eac11b31e43c85eb0526b454254d",
       "globalNav.borderRadius": "8ef3b3b14810122cacc7e1c190c20e425d4ddd3e",
       "globalNav.minimizedBorderRadius": "1ec44553a6da0a2883b34e713a5232b9b1a342b3",
       "globalNav.borderColor": "14f52d598353c94a9e32e45fb8a992e259d768d7",
@@ -6779,7 +6779,9 @@
       "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
       "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
       "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
-      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6"
+      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6",
+      "mainNav.minimizedGap": "4fa820104165eac11b31e43c85eb0526b454254d",
+      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9173,7 +9175,6 @@
       "globalNav.minimizedMargin": "58a36d676619bbeac441e4ea6c187efca7b1fcae",
       "mainNav.margin": "7c90459730de9350bf9bb4e0bb412c3b5efbb622",
       "mainNav.minimizedMargin": "75ee35f23275e35fd50ef460d901a465230b7b1d",
-      "mainNav.gap": "4fa820104165eac11b31e43c85eb0526b454254d",
       "globalNav.borderRadius": "8ef3b3b14810122cacc7e1c190c20e425d4ddd3e",
       "globalNav.minimizedBorderRadius": "1ec44553a6da0a2883b34e713a5232b9b1a342b3",
       "globalNav.borderWidth": "41fc164299272ff07a760d4a31e39dee357180cc",
@@ -9809,7 +9810,9 @@
       "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
       "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
       "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
-      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6"
+      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6",
+      "mainNav.minimizedGap": "4fa820104165eac11b31e43c85eb0526b454254d",
+      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -12933,7 +12936,6 @@
       "globalNav.minimizedMargin": "58a36d676619bbeac441e4ea6c187efca7b1fcae",
       "mainNav.margin": "7c90459730de9350bf9bb4e0bb412c3b5efbb622",
       "mainNav.minimizedMargin": "75ee35f23275e35fd50ef460d901a465230b7b1d",
-      "mainNav.gap": "4fa820104165eac11b31e43c85eb0526b454254d",
       "globalNav.borderRadius": "8ef3b3b14810122cacc7e1c190c20e425d4ddd3e",
       "globalNav.minimizedBorderRadius": "1ec44553a6da0a2883b34e713a5232b9b1a342b3",
       "globalNav.borderWidth": "41fc164299272ff07a760d4a31e39dee357180cc",
@@ -13569,7 +13571,9 @@
       "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
       "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
       "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
-      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6"
+      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6",
+      "mainNav.minimizedGap": "4fa820104165eac11b31e43c85eb0526b454254d",
+      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
