@@ -45,8 +45,8 @@
         {
           "x": "0rem",
           "y": "0.125rem",
-          "blur": "0.25rem",
-          "spread": "0.125rem",
+          "blur": "0.5rem",
+          "spread": "0rem",
           "color": "{semantic.color.dropShadow.shadowColor2}",
           "type": "dropShadow"
         }
