@@ -226,6 +226,10 @@
       "value": "{semantic.color.stroke.base}",
       "type": "color"
     },
+    "borderColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
     "textColor": {
       "value": "{semantic.color.text.base}",
       "type": "color"

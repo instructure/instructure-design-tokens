@@ -3020,7 +3020,8 @@
       "mainNavItem.activeBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
       "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
       "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
-      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d"
+      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
+      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6777,7 +6778,8 @@
       "mainNavItem.activeBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
       "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
       "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
-      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d"
+      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
+      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9806,7 +9808,8 @@
       "mainNavItem.activeBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
       "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
       "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
-      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d"
+      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
+      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13565,7 +13568,8 @@
       "mainNavItem.activeBackgroundColor": "15e15ea19f8926a1fe696cb2876789a8403648c8",
       "collapseButton.backgroundColor": "a09aceab43eef89786d8149c48aa4553c9ca878b",
       "collapseButton.hoverBackgroundColor": "8c3765014b7a917f41575fb71a204aa0186d7ae2",
-      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d"
+      "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
+      "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
