@@ -3022,7 +3022,14 @@
       "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
       "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6",
       "mainNav.minimizedGap": "4fa820104165eac11b31e43c85eb0526b454254d",
-      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc"
+      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc",
+      "banner.contentFontWeight": "013051646235486ee5fd8279f049b22cc09e4bf6",
+      "banner.headingFontWeight": "ad7229c29fcb4edf16e7af0634df021e508983cb",
+      "banner.relaxedContentFontSize": "2b353b6801d17a3aa8ee009eff37a3c5861ba6dc",
+      "banner.relaxedHeadingFontSize": "114331e48ec5c9a87f5227163431fa40c3475f4a",
+      "banner.compactContentFontSize": "f608b32c1bcf4a71ed85eb9b451a51ab13f486f5",
+      "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
+      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6781,7 +6788,14 @@
       "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
       "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6",
       "mainNav.minimizedGap": "4fa820104165eac11b31e43c85eb0526b454254d",
-      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc"
+      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc",
+      "banner.contentFontWeight": "013051646235486ee5fd8279f049b22cc09e4bf6",
+      "banner.headingFontWeight": "ad7229c29fcb4edf16e7af0634df021e508983cb",
+      "banner.relaxedContentFontSize": "2b353b6801d17a3aa8ee009eff37a3c5861ba6dc",
+      "banner.relaxedHeadingFontSize": "114331e48ec5c9a87f5227163431fa40c3475f4a",
+      "banner.compactContentFontSize": "f608b32c1bcf4a71ed85eb9b451a51ab13f486f5",
+      "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
+      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9812,7 +9826,14 @@
       "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
       "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6",
       "mainNav.minimizedGap": "4fa820104165eac11b31e43c85eb0526b454254d",
-      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc"
+      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc",
+      "banner.contentFontWeight": "013051646235486ee5fd8279f049b22cc09e4bf6",
+      "banner.headingFontWeight": "ad7229c29fcb4edf16e7af0634df021e508983cb",
+      "banner.relaxedContentFontSize": "2b353b6801d17a3aa8ee009eff37a3c5861ba6dc",
+      "banner.relaxedHeadingFontSize": "114331e48ec5c9a87f5227163431fa40c3475f4a",
+      "banner.compactContentFontSize": "f608b32c1bcf4a71ed85eb9b451a51ab13f486f5",
+      "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
+      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13573,7 +13594,14 @@
       "collapseButton.activeBackgroundColor": "a1b83cc858e75f58ed32a56e01d360ce8ec6397d",
       "subNav.borderColor": "6818ba29a4b9928d10a7643440a2ae8f8a2726d6",
       "mainNav.minimizedGap": "4fa820104165eac11b31e43c85eb0526b454254d",
-      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc"
+      "mainNav.gap": "ea3ffd0ab025cfcd9b3b54fc3489d36b19303ebc",
+      "banner.contentFontWeight": "013051646235486ee5fd8279f049b22cc09e4bf6",
+      "banner.headingFontWeight": "ad7229c29fcb4edf16e7af0634df021e508983cb",
+      "banner.relaxedContentFontSize": "2b353b6801d17a3aa8ee009eff37a3c5861ba6dc",
+      "banner.relaxedHeadingFontSize": "114331e48ec5c9a87f5227163431fa40c3475f4a",
+      "banner.compactContentFontSize": "f608b32c1bcf4a71ed85eb9b451a51ab13f486f5",
+      "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
+      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",

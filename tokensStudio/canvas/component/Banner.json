@@ -100,6 +100,42 @@
     "compactIconHeight": {
       "value": "1.5rem",
       "type": "sizing"
+    },
+    "contentLineHeight": {
+      "value": "{semantic.lineHeight.paragraph.base}",
+      "type": "lineHeights"
+    },
+    "headingLineHeight": {
+      "value": "{semantic.lineHeight.heading.base}",
+      "type": "lineHeights"
+    },
+    "relaxedContentFontSize": {
+      "value": "{semantic.fontSize.textBase}",
+      "type": "fontSizes"
+    },
+    "relaxedHeadingFontSize": {
+      "value": "{semantic.fontSize.textLg}",
+      "type": "fontSizes"
+    },
+    "compactContentFontSize": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
+    },
+    "compactHeadingFontSize": {
+      "value": "{semantic.fontSize.textBase}",
+      "type": "fontSizes"
+    },
+    "fontFamily": {
+      "value": "{semantic.fontFamily.base}",
+      "type": "fontFamilies"
+    },
+    "contentFontWeight": {
+      "value": "{semantic.fontWeight.body.base}",
+      "type": "fontWeights"
+    },
+    "headingFontWeight": {
+      "value": "{semantic.fontWeight.heading.strong}",
+      "type": "fontWeights"
     }
   }
 }
