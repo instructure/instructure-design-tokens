@@ -3031,7 +3031,9 @@
       "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
       "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9",
       "segmentedControl.opacityBase": "fd089e66b53c6000d4a7093934efa396d0e96d19",
-      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b"
+      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b",
+      "mainNav.width": "c0a4c425ff66de46bbafd05bef92373e79b5a378",
+      "mainNav.minimizedWidth": "7c15bc6a2f378dc315f303e6d1904047912ede6c"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6799,7 +6801,9 @@
       "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
       "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9",
       "segmentedControl.opacityBase": "fd089e66b53c6000d4a7093934efa396d0e96d19",
-      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b"
+      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b",
+      "mainNav.width": "c0a4c425ff66de46bbafd05bef92373e79b5a378",
+      "mainNav.minimizedWidth": "7c15bc6a2f378dc315f303e6d1904047912ede6c"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9839,7 +9843,9 @@
       "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
       "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9",
       "segmentedControl.opacityBase": "fd089e66b53c6000d4a7093934efa396d0e96d19",
-      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b"
+      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b",
+      "mainNav.width": "c0a4c425ff66de46bbafd05bef92373e79b5a378",
+      "mainNav.minimizedWidth": "7c15bc6a2f378dc315f303e6d1904047912ede6c"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13609,7 +13615,9 @@
       "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
       "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9",
       "segmentedControl.opacityBase": "fd089e66b53c6000d4a7093934efa396d0e96d19",
-      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b"
+      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b",
+      "mainNav.width": "c0a4c425ff66de46bbafd05bef92373e79b5a378",
+      "mainNav.minimizedWidth": "7c15bc6a2f378dc315f303e6d1904047912ede6c"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",

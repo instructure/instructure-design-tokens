@@ -91,6 +91,14 @@
     "navItemsGap": {
       "value": "0rem",
       "type": "spacing"
+    },
+    "width": {
+      "value": "12.5rem",
+      "type": "sizing"
+    },
+    "minimizedWidth": {
+      "value": "3.5rem",
+      "type": "sizing"
     }
   },
   "mainNavItem": {
