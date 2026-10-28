@@ -3029,7 +3029,9 @@
       "banner.relaxedHeadingFontSize": "114331e48ec5c9a87f5227163431fa40c3475f4a",
       "banner.compactContentFontSize": "f608b32c1bcf4a71ed85eb9b451a51ab13f486f5",
       "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
-      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9"
+      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9",
+      "segmentedControl.opacityBase": "fd089e66b53c6000d4a7093934efa396d0e96d19",
+      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6795,7 +6797,9 @@
       "banner.relaxedHeadingFontSize": "114331e48ec5c9a87f5227163431fa40c3475f4a",
       "banner.compactContentFontSize": "f608b32c1bcf4a71ed85eb9b451a51ab13f486f5",
       "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
-      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9"
+      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9",
+      "segmentedControl.opacityBase": "fd089e66b53c6000d4a7093934efa396d0e96d19",
+      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9833,7 +9837,9 @@
       "banner.relaxedHeadingFontSize": "114331e48ec5c9a87f5227163431fa40c3475f4a",
       "banner.compactContentFontSize": "f608b32c1bcf4a71ed85eb9b451a51ab13f486f5",
       "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
-      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9"
+      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9",
+      "segmentedControl.opacityBase": "fd089e66b53c6000d4a7093934efa396d0e96d19",
+      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13601,7 +13607,9 @@
       "banner.relaxedHeadingFontSize": "114331e48ec5c9a87f5227163431fa40c3475f4a",
       "banner.compactContentFontSize": "f608b32c1bcf4a71ed85eb9b451a51ab13f486f5",
       "banner.compactHeadingFontSize": "da05a2019c90e5b499765b02753d053b0b93773e",
-      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9"
+      "banner.fontFamily": "e5b940445ba9613e1be2450ebf16f03289a72ba9",
+      "segmentedControl.opacityBase": "fd089e66b53c6000d4a7093934efa396d0e96d19",
+      "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
