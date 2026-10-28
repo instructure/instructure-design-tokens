@@ -4,10 +4,6 @@
       "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
     },
-    "fill": {
-      "value": "{semantic.color.icon.interactive.action.primaryOnColor.base}",
-      "type": "color"
-    },
     "borderColor": {
       "value": "{semantic.color.stroke.muted}",
       "type": "color"
@@ -91,6 +87,10 @@
     "navItemsGap": {
       "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
+    },
+    "strokeColor": {
+      "value": "{semantic.color.stroke.muted}",
+      "type": "color"
     },
     "width": {
       "value": "12.5rem",
@@ -276,14 +276,6 @@
     }
   },
   "mainNavInstitutionLogo": {
-    "textColor": {
-      "value": "{semantic.color.text.base}",
-      "type": "color"
-    },
-    "strokeColor": {
-      "value": "{semantic.color.stroke.muted}",
-      "type": "color"
-    },
     "padding": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
