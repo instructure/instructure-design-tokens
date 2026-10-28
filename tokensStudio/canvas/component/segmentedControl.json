@@ -184,6 +184,14 @@
     "fontSizeSm": {
       "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
+    },
+    "opacityBase": {
+      "value": "{semantic.opacity.base}",
+      "type": "opacity"
+    },
+    "opacityDisabled": {
+      "value": "{semantic.opacity.disabled}",
+      "type": "opacity"
     }
   }
 }

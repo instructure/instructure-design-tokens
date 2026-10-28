@@ -183,7 +183,7 @@
       "type": "spacing"
     },
     "imgAspectRatio": {
-      "value": 1.77778,
+      "value": "1.77778",
       "type": "number"
     }
   }

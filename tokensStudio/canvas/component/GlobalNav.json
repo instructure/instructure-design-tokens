@@ -36,18 +36,18 @@
       "value": [
         {
           "x": "0rem",
-          "y": "0rem",
-          "blur": "0rem",
+          "y": "0.0625rem",
+          "blur": "0.125rem",
           "spread": "0rem",
-          "color": "{semantic.color.transparentColor}",
+          "color": "{semantic.color.dropShadow.shadowColor1}",
           "type": "dropShadow"
         },
         {
           "x": "0rem",
-          "y": "0rem",
-          "blur": "0rem",
+          "y": "0.125rem",
+          "blur": "0.5rem",
           "spread": "0rem",
-          "color": "{semantic.color.transparentColor}",
+          "color": "{semantic.color.dropShadow.shadowColor2}",
           "type": "dropShadow"
         }
       ],
@@ -78,6 +78,10 @@
     },
     "minimizedMargin": {
       "value": "0rem",
+      "type": "spacing"
+    },
+    "minimizedGap": {
+      "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "gap": {
@@ -142,7 +146,7 @@
       "value": "{semantic.color.background.base}",
       "type": "color"
     },
-    "selectedBackgroundColor": {
+    "activeBackgroundColor": {
       "value": "{semantic.color.background.interactive.action.tertiary.active}",
       "type": "color"
     },
@@ -189,7 +193,15 @@
       "type": "color"
     },
     "textColor": {
-      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+      "value": "{semantic.color.institutional.linkColor}",
+      "type": "color"
+    },
+    "hoverTextColor": {
+      "value": "{semantic.color.text.onColor}",
+      "type": "color"
+    },
+    "activeTextColor": {
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "selectedTextColor": {
@@ -197,7 +209,7 @@
       "type": "color"
     },
     "logoutTextColor": {
-      "value": "{semantic.color.text.onColor}",
+      "value": "{semantic.color.text.error}",
       "type": "color"
     },
     "borderRadius": {
@@ -218,8 +230,16 @@
       "value": "{semantic.color.stroke.base}",
       "type": "color"
     },
+    "borderColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
     "textColor": {
-      "value": "{semantic.color.text.onColor}",
+      "value": "{semantic.color.text.base}",
+      "type": "color"
+    },
+    "backgroundColor": {
+      "value": "{semantic.color.background.container}",
       "type": "color"
     },
     "padding": {
@@ -283,7 +303,7 @@
       "type": "color"
     },
     "hoverBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
+      "value": "{semantic.color.institutional.globalNavLinkHover}",
       "type": "color"
     },
     "currentBackgroundColor": {
@@ -321,6 +341,20 @@
     "minimizedItemSize": {
       "value": "2.75rem",
       "type": "sizing"
+    }
+  },
+  "collapseButton": {
+    "backgroundColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavBgd}",
+      "type": "color"
+    },
+    "hoverBackgroundColor": {
+      "value": "{semantic.color.institutional.globalNavLinkHover}",
+      "type": "color"
+    },
+    "activeBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.active}",
+      "type": "color"
     }
   }
 }
