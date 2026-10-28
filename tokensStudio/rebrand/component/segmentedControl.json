@@ -190,7 +190,7 @@
       "type": "opacity"
     },
     "opacityDisabled": {
-      "value": "{semantic.opacity.disabled}",
+      "value": "{semantic.opacity.base}",
       "type": "opacity"
     }
   }
