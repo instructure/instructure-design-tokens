@@ -67,6 +67,10 @@
       "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
+    "selectedDescriptionColor": {
+      "value": "{semantic.color.text.interactive.action.primary.base}",
+      "type": "color"
+    },
     "highlightedBackground": {
       "value": "{semantic.color.background.muted}",
       "type": "color"
@@ -111,6 +115,10 @@
     "nestedPadding": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
+    },
+    "selectedIndicatorColor": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
     }
   },
   "optionsSeparator": {

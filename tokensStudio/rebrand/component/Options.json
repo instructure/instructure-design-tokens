@@ -36,7 +36,11 @@
       "type": "color"
     },
     "descriptionColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.text.muted}",
+      "type": "color"
+    },
+    "selectedDescriptionColor": {
+      "value": "{semantic.color.text.muted}",
       "type": "color"
     },
     "descriptionFontSize": {
@@ -68,8 +72,17 @@
       "type": "fontWeights"
     },
     "highlightedBackground": {
-      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
-      "type": "color"
+      "value": "{semantic.color.background.interactive.action.primary.hover}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.1",
+            "space": "lch"
+          }
+        }
+      }
     },
     "highlightedLabelColor": {
       "value": "{semantic.color.text.base}",
@@ -93,15 +106,28 @@
       "type": "spacing"
     },
     "selectedBackground": {
-      "value": "{semantic.color.background.interactive.action.primary.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "selectedHighlightedBackground": {
       "value": "{semantic.color.background.interactive.action.primary.hover}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.1",
+            "space": "lch"
+          }
+        }
+      }
     },
     "selectedLabelColor": {
-      "value": "{semantic.color.text.interactive.action.primary.base}",
+      "value": "{semantic.color.text.base}",
+      "type": "color"
+    },
+    "selectedIndicatorColor": {
+      "value": "{semantic.color.icon.base}",
       "type": "color"
     },
     "descriptionPaddingStart": {

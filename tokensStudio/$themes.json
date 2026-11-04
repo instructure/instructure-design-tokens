@@ -3031,7 +3031,9 @@
       "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b",
       "mainNav.width": "c0a4c425ff66de46bbafd05bef92373e79b5a378",
       "mainNav.minimizedWidth": "7c15bc6a2f378dc315f303e6d1904047912ede6c",
-      "mainNav.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93"
+      "mainNav.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93",
+      "optionsItem.selectedDescriptionColor": "f37b0db7eee8ee172fd1ba149e02992707231105",
+      "optionsItem.selectedIndicatorColor": "fe8dd619dc26609c8945b3784a88e7ee04b1023a"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6799,7 +6801,9 @@
       "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b",
       "mainNav.width": "c0a4c425ff66de46bbafd05bef92373e79b5a378",
       "mainNav.minimizedWidth": "7c15bc6a2f378dc315f303e6d1904047912ede6c",
-      "mainNav.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93"
+      "mainNav.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93",
+      "optionsItem.selectedDescriptionColor": "f37b0db7eee8ee172fd1ba149e02992707231105",
+      "optionsItem.selectedIndicatorColor": "fe8dd619dc26609c8945b3784a88e7ee04b1023a"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9839,7 +9843,9 @@
       "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b",
       "mainNav.width": "c0a4c425ff66de46bbafd05bef92373e79b5a378",
       "mainNav.minimizedWidth": "7c15bc6a2f378dc315f303e6d1904047912ede6c",
-      "mainNav.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93"
+      "mainNav.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93",
+      "optionsItem.selectedDescriptionColor": "f37b0db7eee8ee172fd1ba149e02992707231105",
+      "optionsItem.selectedIndicatorColor": "fe8dd619dc26609c8945b3784a88e7ee04b1023a"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13609,7 +13615,9 @@
       "segmentedControl.opacityDisabled": "48b0fc4befd2b297288e93370c79e78ef46f4b2b",
       "mainNav.width": "c0a4c425ff66de46bbafd05bef92373e79b5a378",
       "mainNav.minimizedWidth": "7c15bc6a2f378dc315f303e6d1904047912ede6c",
-      "mainNav.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93"
+      "mainNav.strokeColor": "7710c8271b4f67db1c947a8123f0721cde396f93",
+      "optionsItem.selectedDescriptionColor": "f37b0db7eee8ee172fd1ba149e02992707231105",
+      "optionsItem.selectedIndicatorColor": "fe8dd619dc26609c8945b3784a88e7ee04b1023a"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
