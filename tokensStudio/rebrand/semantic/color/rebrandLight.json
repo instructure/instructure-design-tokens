@@ -2247,8 +2247,17 @@
           "type": "color"
         },
         "globalNavLinkHover": {
-          "value": "{color.navy.navy10}",
-          "type": "color"
+          "value": "{color.navy.navy170}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "hsl"
+              }
+            }
+          }
         },
         "brandGlobalNavMenuItemTextColor": {
           "value": "{color.grey.grey170}",
