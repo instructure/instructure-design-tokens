@@ -395,6 +395,10 @@
     "activeBackgroundColor": {
       "value": "{semantic.color.background.interactive.action.tertiary.active}",
       "type": "color"
+    },
+    "rightMargin": {
+      "value": "0rem",
+      "type": "spacing"
     }
   },
   "subnav": {

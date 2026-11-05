@@ -3043,7 +3043,8 @@
       "subNavItem.fontSize": "2e522d8c44f4fb8aab33c304fe5e6486f76ab525",
       "subnav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "subNav.titleFontWeight": "30bbe0ebf6c32dfe3065a024708c08c15251be2a",
-      "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607"
+      "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607",
+      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6823,7 +6824,8 @@
       "subNavItem.fontSize": "2e522d8c44f4fb8aab33c304fe5e6486f76ab525",
       "subnav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "subNav.titleFontWeight": "30bbe0ebf6c32dfe3065a024708c08c15251be2a",
-      "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607"
+      "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607",
+      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9875,7 +9877,8 @@
       "subNavItem.fontSize": "2e522d8c44f4fb8aab33c304fe5e6486f76ab525",
       "subnav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "subNav.titleFontWeight": "30bbe0ebf6c32dfe3065a024708c08c15251be2a",
-      "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607"
+      "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607",
+      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13657,7 +13660,8 @@
       "subNavItem.fontSize": "2e522d8c44f4fb8aab33c304fe5e6486f76ab525",
       "subnav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "subNav.titleFontWeight": "30bbe0ebf6c32dfe3065a024708c08c15251be2a",
-      "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607"
+      "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607",
+      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
