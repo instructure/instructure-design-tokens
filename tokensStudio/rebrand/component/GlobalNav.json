@@ -330,7 +330,7 @@
       "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
     },
-    "fontColor": {
+    "titleFontColor": {
       "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
       "type": "color"
     },
@@ -381,6 +381,22 @@
     "minimizedItemSize": {
       "value": "2.75rem",
       "type": "sizing"
+    },
+    "titleFontFamily": {
+      "value": "{semantic.fontFamily.heading}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "{semantic.fontWeight.heading.base}",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{semantic.lineHeight.heading.base}",
+      "type": "lineHeights"
+    },
+    "titleFontSize": {
+      "value": "{semantic.fontSize.textBase}",
+      "type": "fontSizes"
     }
   },
   "collapseButton": {

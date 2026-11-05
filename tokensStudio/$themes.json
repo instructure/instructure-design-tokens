@@ -2939,7 +2939,6 @@
       "pill.lineHeightLarge": "61c7f0664b151d66d36d82afd7021276ef462b95",
       "mainNavItem.minimizedItemSize": "37b0ff84916969f077c552370dd7bf84e9623120",
       "mainNavAccountItem.backgroundColor": "de1a35c6c70c5845f129369763f7ed3dd2362dbe",
-      "mainNavAccountItem.fontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
       "mainNavAccountItem.innerFocusOutlineColor": "e0fc3bc1c8cca8b43d43194e5b8c1191530e6ca4",
       "mainNavAccountItem.outerFocusOutlineColor": "3ff980a9e634d48283ed423599e2ab621e73547d",
       "mainNavAccountItem.hoverBackgroundColor": "0f3199c8c304e7e3e679f70fdd8dcec0e8e5521c",
@@ -3044,7 +3043,11 @@
       "subnav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "subNav.titleFontWeight": "30bbe0ebf6c32dfe3065a024708c08c15251be2a",
       "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607",
-      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694"
+      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694",
+      "mainNavAccountItem.titleFontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
+      "mainNavAccountItem.titleFontSize": "1319aa5a11a999fdcd30c66850df797983dce263",
+      "mainNavAccountItem.fontWeight": "5270b85d644e72e4b9552fd8922c2d2929e58b36",
+      "mainNavAccountItem.titleFontFamily": "69bbb06c63ba47f25bdce82dd523310d3f1f2677"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6720,7 +6723,6 @@
       "pill.lineHeightLarge": "61c7f0664b151d66d36d82afd7021276ef462b95",
       "mainNavItem.minimizedItemSize": "37b0ff84916969f077c552370dd7bf84e9623120",
       "mainNavAccountItem.backgroundColor": "de1a35c6c70c5845f129369763f7ed3dd2362dbe",
-      "mainNavAccountItem.fontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
       "mainNavAccountItem.innerFocusOutlineColor": "e0fc3bc1c8cca8b43d43194e5b8c1191530e6ca4",
       "mainNavAccountItem.outerFocusOutlineColor": "3ff980a9e634d48283ed423599e2ab621e73547d",
       "mainNavAccountItem.hoverBackgroundColor": "0f3199c8c304e7e3e679f70fdd8dcec0e8e5521c",
@@ -6825,7 +6827,11 @@
       "subnav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "subNav.titleFontWeight": "30bbe0ebf6c32dfe3065a024708c08c15251be2a",
       "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607",
-      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694"
+      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694",
+      "mainNavAccountItem.titleFontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
+      "mainNavAccountItem.titleFontSize": "1319aa5a11a999fdcd30c66850df797983dce263",
+      "mainNavAccountItem.fontWeight": "5270b85d644e72e4b9552fd8922c2d2929e58b36",
+      "mainNavAccountItem.titleFontFamily": "69bbb06c63ba47f25bdce82dd523310d3f1f2677"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9773,7 +9779,6 @@
       "pill.lineHeightLarge": "61c7f0664b151d66d36d82afd7021276ef462b95",
       "mainNavItem.minimizedItemSize": "37b0ff84916969f077c552370dd7bf84e9623120",
       "mainNavAccountItem.backgroundColor": "de1a35c6c70c5845f129369763f7ed3dd2362dbe",
-      "mainNavAccountItem.fontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
       "mainNavAccountItem.innerFocusOutlineColor": "e0fc3bc1c8cca8b43d43194e5b8c1191530e6ca4",
       "mainNavAccountItem.outerFocusOutlineColor": "3ff980a9e634d48283ed423599e2ab621e73547d",
       "mainNavAccountItem.hoverBackgroundColor": "0f3199c8c304e7e3e679f70fdd8dcec0e8e5521c",
@@ -9878,7 +9883,11 @@
       "subnav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "subNav.titleFontWeight": "30bbe0ebf6c32dfe3065a024708c08c15251be2a",
       "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607",
-      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694"
+      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694",
+      "mainNavAccountItem.titleFontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
+      "mainNavAccountItem.titleFontFamily": "69bbb06c63ba47f25bdce82dd523310d3f1f2677",
+      "mainNavAccountItem.fontWeight": "5270b85d644e72e4b9552fd8922c2d2929e58b36",
+      "mainNavAccountItem.titleFontSize": "1319aa5a11a999fdcd30c66850df797983dce263"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13556,7 +13565,6 @@
       "pill.lineHeightLarge": "61c7f0664b151d66d36d82afd7021276ef462b95",
       "mainNavItem.minimizedItemSize": "37b0ff84916969f077c552370dd7bf84e9623120",
       "mainNavAccountItem.backgroundColor": "de1a35c6c70c5845f129369763f7ed3dd2362dbe",
-      "mainNavAccountItem.fontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
       "mainNavAccountItem.innerFocusOutlineColor": "e0fc3bc1c8cca8b43d43194e5b8c1191530e6ca4",
       "mainNavAccountItem.outerFocusOutlineColor": "3ff980a9e634d48283ed423599e2ab621e73547d",
       "mainNavAccountItem.hoverBackgroundColor": "0f3199c8c304e7e3e679f70fdd8dcec0e8e5521c",
@@ -13661,7 +13669,11 @@
       "subnav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "subNav.titleFontWeight": "30bbe0ebf6c32dfe3065a024708c08c15251be2a",
       "subNav.titleFontSize": "cd3a458234ec8ac65bf810c27074c39532046607",
-      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694"
+      "collapseButton.rightMargin": "678bebb0e73407afb34efcc73947cd221b57b694",
+      "mainNavAccountItem.titleFontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
+      "mainNavAccountItem.titleFontFamily": "69bbb06c63ba47f25bdce82dd523310d3f1f2677",
+      "mainNavAccountItem.fontWeight": "5270b85d644e72e4b9552fd8922c2d2929e58b36",
+      "mainNavAccountItem.titleFontSize": "1319aa5a11a999fdcd30c66850df797983dce263"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
