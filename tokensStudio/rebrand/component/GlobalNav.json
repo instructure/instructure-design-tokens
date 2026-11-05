@@ -231,6 +231,22 @@
     "activeTextColor": {
       "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
       "type": "color"
+    },
+    "fontFamily": {
+      "value": "{semantic.fontFamily.base}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "{semantic.fontWeight.body.base}",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{semantic.lineHeight.paragraph.base}",
+      "type": "lineHeights"
+    },
+    "fontSize": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
     }
   },
   "subNav": {
@@ -273,6 +289,18 @@
     "backgroundColor": {
       "value": "{semantic.color.background.container}",
       "type": "color"
+    },
+    "width": {
+      "value": "12.5rem",
+      "type": "sizing"
+    },
+    "titleFontWeight": {
+      "value": "{semantic.fontWeight.heading.base}",
+      "type": "fontWeights"
+    },
+    "titleFontSize": {
+      "value": "{semantic.fontSize.textLg}",
+      "type": "fontSizes"
     }
   },
   "mainNavInstitutionLogo": {
@@ -283,6 +311,18 @@
     "gap": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
+    },
+    "minimizedWidth": {
+      "value": "2.5rem",
+      "type": "sizing"
+    },
+    "minimizedHeight": {
+      "value": "2.5rem",
+      "type": "sizing"
+    },
+    "wordmarkHeight": {
+      "value": "2rem",
+      "type": "sizing"
     }
   },
   "mainNavAccountItem": {
@@ -355,6 +395,16 @@
     "activeBackgroundColor": {
       "value": "{semantic.color.background.interactive.action.tertiary.active}",
       "type": "color"
+    }
+  },
+  "subnav": {
+    "titleFontFamily": {
+      "value": "{semantic.fontFamily.heading}",
+      "type": "fontFamilies"
+    },
+    "titleLineHeight": {
+      "value": "{semantic.lineHeight.heading.base}",
+      "type": "lineHeights"
     }
   }
 }

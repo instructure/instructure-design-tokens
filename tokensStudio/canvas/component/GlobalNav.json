@@ -9,7 +9,7 @@
       "type": "color"
     },
     "minimizedminWidth": {
-      "value": "5.75rem",
+      "value": "5.875rem",
       "type": "sizing"
     },
     "toggleTransition": {
@@ -17,7 +17,7 @@
       "type": "other"
     },
     "minWidth": {
-      "value": "14.5rem",
+      "value": "14.875rem",
       "type": "sizing"
     },
     "margin": {
@@ -231,6 +231,22 @@
     "gap": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
+    },
+    "fontFamily": {
+      "value": "{semantic.fontFamily.base}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "{semantic.fontWeight.body.base}",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{semantic.lineHeight.paragraph.base}",
+      "type": "lineHeights"
+    },
+    "fontSize": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
     }
   },
   "subNav": {
@@ -270,9 +286,21 @@
       "value": "2rem",
       "type": "sizing"
     },
+    "width": {
+      "value": "12.5rem",
+      "type": "sizing"
+    },
     "minimizedHoverWidth": {
       "value": "2.25rem",
       "type": "sizing"
+    },
+    "titleFontWeight": {
+      "value": "{semantic.fontWeight.heading.base}",
+      "type": "fontWeights"
+    },
+    "titleFontSize": {
+      "value": "{semantic.fontSize.textLg}",
+      "type": "fontSizes"
     }
   },
   "mainNavInstitutionLogo": {
@@ -283,6 +311,18 @@
     "gap": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
+    },
+    "minimizedWidth": {
+      "value": "2.5rem",
+      "type": "sizing"
+    },
+    "minimizedHeight": {
+      "value": "2.5rem",
+      "type": "sizing"
+    },
+    "wordmarkHeight": {
+      "value": "2rem",
+      "type": "sizing"
     }
   },
   "mainNavAccountItem": {
@@ -355,6 +395,16 @@
     "activeBackgroundColor": {
       "value": "{semantic.color.background.interactive.action.tertiary.active}",
       "type": "color"
+    }
+  },
+  "subnav": {
+    "titleFontFamily": {
+      "value": "{semantic.fontFamily.heading}",
+      "type": "fontFamilies"
+    },
+    "titleLineHeight": {
+      "value": "{semantic.lineHeight.heading.base}",
+      "type": "lineHeights"
     }
   }
 }
