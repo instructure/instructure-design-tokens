@@ -302,6 +302,10 @@
       "value": "{semantic.fontWeight.heading.base}",
       "type": "fontWeights"
     },
+    "titleLineHeight": {
+      "value": "{semantic.lineHeight.heading.base}",
+      "type": "lineHeights"
+    },
     "titleFontSize": {
       "value": "{semantic.fontSize.textLg}",
       "type": "fontSizes"
@@ -423,12 +427,6 @@
     "rightMargin": {
       "value": "0rem",
       "type": "spacing"
-    }
-  },
-  "subnav": {
-    "titleLineHeight": {
-      "value": "{semantic.lineHeight.heading.base}",
-      "type": "lineHeights"
     }
   }
 }
