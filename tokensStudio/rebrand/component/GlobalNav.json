@@ -294,6 +294,10 @@
       "value": "12.5rem",
       "type": "sizing"
     },
+    "titleFontFamily": {
+      "value": "{semantic.fontFamily.heading}",
+      "type": "fontFamilies"
+    },
     "titleFontWeight": {
       "value": "{semantic.fontWeight.heading.base}",
       "type": "fontWeights"
@@ -422,10 +426,6 @@
     }
   },
   "subnav": {
-    "titleFontFamily": {
-      "value": "{semantic.fontFamily.heading}",
-      "type": "fontFamilies"
-    },
     "titleLineHeight": {
       "value": "{semantic.lineHeight.heading.base}",
       "type": "lineHeights"
