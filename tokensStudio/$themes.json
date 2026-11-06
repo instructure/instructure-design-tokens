@@ -3047,7 +3047,8 @@
       "mainNavAccountItem.titleFontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
       "mainNavAccountItem.titleFontSize": "1319aa5a11a999fdcd30c66850df797983dce263",
       "mainNavAccountItem.fontWeight": "5270b85d644e72e4b9552fd8922c2d2929e58b36",
-      "mainNavAccountItem.titleFontFamily": "69bbb06c63ba47f25bdce82dd523310d3f1f2677"
+      "mainNavAccountItem.titleFontFamily": "69bbb06c63ba47f25bdce82dd523310d3f1f2677",
+      "mainNavInstitutionLogo.textColor": "7e737f6e842806c66c243db459557fe47e722f79"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6831,7 +6832,8 @@
       "mainNavAccountItem.titleFontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
       "mainNavAccountItem.titleFontSize": "1319aa5a11a999fdcd30c66850df797983dce263",
       "mainNavAccountItem.fontWeight": "5270b85d644e72e4b9552fd8922c2d2929e58b36",
-      "mainNavAccountItem.titleFontFamily": "69bbb06c63ba47f25bdce82dd523310d3f1f2677"
+      "mainNavAccountItem.titleFontFamily": "69bbb06c63ba47f25bdce82dd523310d3f1f2677",
+      "mainNavInstitutionLogo.textColor": "7e737f6e842806c66c243db459557fe47e722f79"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9887,7 +9889,8 @@
       "mainNavAccountItem.titleFontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
       "mainNavAccountItem.titleFontFamily": "69bbb06c63ba47f25bdce82dd523310d3f1f2677",
       "mainNavAccountItem.fontWeight": "5270b85d644e72e4b9552fd8922c2d2929e58b36",
-      "mainNavAccountItem.titleFontSize": "1319aa5a11a999fdcd30c66850df797983dce263"
+      "mainNavAccountItem.titleFontSize": "1319aa5a11a999fdcd30c66850df797983dce263",
+      "mainNavInstitutionLogo.textColor": "7e737f6e842806c66c243db459557fe47e722f79"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13673,7 +13676,8 @@
       "mainNavAccountItem.titleFontColor": "fb5c021324daeb3284b49f6c54e5852091f22ead",
       "mainNavAccountItem.titleFontFamily": "69bbb06c63ba47f25bdce82dd523310d3f1f2677",
       "mainNavAccountItem.fontWeight": "5270b85d644e72e4b9552fd8922c2d2929e58b36",
-      "mainNavAccountItem.titleFontSize": "1319aa5a11a999fdcd30c66850df797983dce263"
+      "mainNavAccountItem.titleFontSize": "1319aa5a11a999fdcd30c66850df797983dce263",
+      "mainNavInstitutionLogo.textColor": "7e737f6e842806c66c243db459557fe47e722f79"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",

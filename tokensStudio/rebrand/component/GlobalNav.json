@@ -323,6 +323,10 @@
     "wordmarkHeight": {
       "value": "2rem",
       "type": "sizing"
+    },
+    "textColor": {
+      "value": "{semantic.color.text.base}",
+      "type": "color"
     }
   },
   "mainNavAccountItem": {
