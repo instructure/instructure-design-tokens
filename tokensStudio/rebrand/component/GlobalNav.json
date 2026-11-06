@@ -4,10 +4,6 @@
       "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
     },
-    "fill": {
-      "value": "{semantic.color.icon.interactive.action.primaryOnColor.base}",
-      "type": "color"
-    },
     "borderColor": {
       "value": "{semantic.color.stroke.muted}",
       "type": "color"
@@ -91,6 +87,18 @@
     "navItemsGap": {
       "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
+    },
+    "strokeColor": {
+      "value": "{semantic.color.stroke.muted}",
+      "type": "color"
+    },
+    "width": {
+      "value": "12.5rem",
+      "type": "sizing"
+    },
+    "minimizedWidth": {
+      "value": "3.5rem",
+      "type": "sizing"
     }
   },
   "mainNavItem": {
@@ -223,6 +231,22 @@
     "activeTextColor": {
       "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
       "type": "color"
+    },
+    "fontFamily": {
+      "value": "{semantic.fontFamily.base}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "{semantic.fontWeight.body.base}",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{semantic.lineHeight.paragraph.base}",
+      "type": "lineHeights"
+    },
+    "fontSize": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
     }
   },
   "subNav": {
@@ -265,17 +289,29 @@
     "backgroundColor": {
       "value": "{semantic.color.background.container}",
       "type": "color"
+    },
+    "width": {
+      "value": "12.5rem",
+      "type": "sizing"
+    },
+    "titleFontFamily": {
+      "value": "{semantic.fontFamily.heading}",
+      "type": "fontFamilies"
+    },
+    "titleFontWeight": {
+      "value": "{semantic.fontWeight.heading.base}",
+      "type": "fontWeights"
+    },
+    "titleLineHeight": {
+      "value": "{semantic.lineHeight.heading.base}",
+      "type": "lineHeights"
+    },
+    "titleFontSize": {
+      "value": "{semantic.fontSize.textLg}",
+      "type": "fontSizes"
     }
   },
   "mainNavInstitutionLogo": {
-    "textColor": {
-      "value": "{semantic.color.text.base}",
-      "type": "color"
-    },
-    "strokeColor": {
-      "value": "{semantic.color.stroke.muted}",
-      "type": "color"
-    },
     "padding": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
@@ -283,6 +319,22 @@
     "gap": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
+    },
+    "minimizedWidth": {
+      "value": "2.5rem",
+      "type": "sizing"
+    },
+    "minimizedHeight": {
+      "value": "2.5rem",
+      "type": "sizing"
+    },
+    "wordmarkHeight": {
+      "value": "2rem",
+      "type": "sizing"
+    },
+    "textColor": {
+      "value": "{semantic.color.text.base}",
+      "type": "color"
     }
   },
   "mainNavAccountItem": {
@@ -290,7 +342,7 @@
       "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
     },
-    "fontColor": {
+    "titleFontColor": {
       "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
       "type": "color"
     },
@@ -341,6 +393,22 @@
     "minimizedItemSize": {
       "value": "2.75rem",
       "type": "sizing"
+    },
+    "titleFontFamily": {
+      "value": "{semantic.fontFamily.heading}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "{semantic.fontWeight.heading.base}",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{semantic.lineHeight.heading.base}",
+      "type": "lineHeights"
+    },
+    "titleFontSize": {
+      "value": "{semantic.fontSize.textBase}",
+      "type": "fontSizes"
     }
   },
   "collapseButton": {
@@ -355,6 +423,10 @@
     "activeBackgroundColor": {
       "value": "{semantic.color.background.interactive.action.tertiary.active}",
       "type": "color"
+    },
+    "rightMargin": {
+      "value": "0rem",
+      "type": "spacing"
     }
   }
 }
