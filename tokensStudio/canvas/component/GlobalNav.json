@@ -114,6 +114,10 @@
       "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
     },
+    "hoverBackgroundColor": {
+      "value": "{semantic.color.institutional.globalNavLinkHover}",
+      "type": "color"
+    },
     "horizontalPadding": {
       "value": "0.5rem",
       "type": "spacing"
@@ -121,6 +125,14 @@
     "verticalPadding": {
       "value": "0.375rem",
       "type": "spacing"
+    },
+    "activeBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.active}",
+      "type": "color"
+    },
+    "currentBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
     },
     "fontColor": {
       "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
@@ -142,10 +154,6 @@
       "value": "{semantic.fontWeight.body.base}",
       "type": "fontWeights"
     },
-    "hoverBackgroundColor": {
-      "value": "{semantic.color.institutional.globalNavLinkHover}",
-      "type": "color"
-    },
     "lineHeight": {
       "value": "{semantic.lineHeight.paragraph.base}",
       "type": "lineHeights"
@@ -153,14 +161,6 @@
     "linkTextDecoration": {
       "value": "none",
       "type": "other"
-    },
-    "currentBackgroundColor": {
-      "value": "{semantic.color.background.base}",
-      "type": "color"
-    },
-    "activeBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.tertiary.active}",
-      "type": "color"
     },
     "innerFocusOutlineColor": {
       "value": "{semantic.color.stroke.interactive.focusRing.onColor}",
