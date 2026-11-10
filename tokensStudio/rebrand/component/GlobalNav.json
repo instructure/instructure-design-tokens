@@ -409,6 +409,18 @@
     "titleFontSize": {
       "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
+    },
+    "verificationBadgeBackgroundColor": {
+      "value": "{semantic.color.background.warning}",
+      "type": "color"
+    },
+    "verificationBadgeSize": {
+      "value": "1.375rem",
+      "type": "sizing"
+    },
+    "verificationBadgeborderRadius": {
+      "value": "{semantic.borderRadius.full}",
+      "type": "borderRadius"
     }
   },
   "collapseButton": {

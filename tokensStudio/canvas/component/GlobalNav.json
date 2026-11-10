@@ -386,6 +386,10 @@
       "value": "0rem",
       "type": "borderRadius"
     },
+    "verificationBadgeborderRadius": {
+      "value": "{semantic.borderRadius.full}",
+      "type": "borderRadius"
+    },
     "borderColor": {
       "value": "{semantic.color.stroke.base}",
       "type": "color"
@@ -409,6 +413,14 @@
     "titleFontFamily": {
       "value": "{semantic.fontFamily.heading}",
       "type": "fontFamilies"
+    },
+    "verificationBadgeBackgroundColor": {
+      "value": "{semantic.color.background.warning}",
+      "type": "color"
+    },
+    "verificationBadgeSize": {
+      "value": "1.375rem",
+      "type": "sizing"
     }
   },
   "collapseButton": {
