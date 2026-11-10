@@ -1,9 +1,9 @@
 {
   "tokenSetOrder": [
     "primitives/default",
+    "canvas/semantic/layout/default",
     "canvas/semantic/color/canvas",
     "canvas/semantic/color/canvasHighContrast",
-    "canvas/semantic/layout/default",
     "canvas/component/AiInformation",
     "canvas/component/Alert",
     "canvas/component/AppNav",
@@ -55,7 +55,7 @@
     "canvas/component/RangeInput",
     "canvas/component/RatingIcon",
     "canvas/component/SharedTokens",
-    "canvas/component/segmentedControl",
+    "canvas/component/SegmentedControl",
     "canvas/component/Select",
     "canvas/component/SideNavBar",
     "canvas/component/SkeletonLoader",
@@ -130,7 +130,7 @@
     "rebrand/component/RadioInput",
     "rebrand/component/RangeInput",
     "rebrand/component/RatingIcon",
-    "rebrand/component/segmentedControl",
+    "rebrand/component/SegmentedControl",
     "rebrand/component/Select",
     "rebrand/component/SharedTokens",
     "rebrand/component/SideNavBar",
