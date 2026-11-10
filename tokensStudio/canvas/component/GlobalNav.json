@@ -126,6 +126,10 @@
       "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
       "type": "color"
     },
+    "currentTextColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
+      "type": "color"
+    },
     "fontFamily": {
       "value": "{semantic.fontFamily.base}",
       "type": "fontFamilies"
@@ -156,10 +160,6 @@
     },
     "activeBackgroundColor": {
       "value": "{semantic.color.background.interactive.action.tertiary.active}",
-      "type": "color"
-    },
-    "currentTextColor": {
-      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
       "type": "color"
     },
     "innerFocusOutlineColor": {
@@ -286,12 +286,12 @@
       "value": "2rem",
       "type": "sizing"
     },
-    "width": {
-      "value": "12.5rem",
-      "type": "sizing"
-    },
     "minimizedHoverWidth": {
       "value": "2.25rem",
+      "type": "sizing"
+    },
+    "width": {
+      "value": "12.5rem",
       "type": "sizing"
     },
     "titleFontFamily": {
@@ -342,32 +342,32 @@
       "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
     },
-    "titleFontColor": {
-      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
-      "type": "color"
-    },
-    "innerFocusOutlineColor": {
-      "value": "{semantic.color.transparentColor}",
-      "type": "color"
-    },
-    "outerFocusOutlineColor": {
-      "value": "{semantic.color.stroke.interactive.focusRing.base}",
-      "type": "color"
-    },
     "hoverBackgroundColor": {
       "value": "{semantic.color.institutional.globalNavLinkHover}",
-      "type": "color"
-    },
-    "currentBackgroundColor": {
-      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "selectedBackgroundColor": {
       "value": "{semantic.color.background.interactive.action.tertiary.active}",
       "type": "color"
     },
+    "currentBackgroundColor": {
+      "value": "{semantic.color.background.base}",
+      "type": "color"
+    },
+    "textColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+      "type": "color"
+    },
     "currentTextColor": {
       "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
+      "type": "color"
+    },
+    "outerFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
+    },
+    "innerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
       "type": "color"
     },
     "selectedInnerFocusOutlineColor": {

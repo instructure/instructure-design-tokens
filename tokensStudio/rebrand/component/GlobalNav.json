@@ -266,16 +266,16 @@
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
+    "minimizedVerticalPadding": {
+      "value": "1.625rem",
+      "type": "spacing"
+    },
     "gap": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "navItemsGap": {
       "value": "{semantic.spacing.spaceXs}",
-      "type": "spacing"
-    },
-    "minimizedVerticalPadding": {
-      "value": "1.625rem",
       "type": "spacing"
     },
     "minimizedWidth": {
@@ -342,8 +342,24 @@
       "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
     },
-    "titleFontColor": {
+    "hoverBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
+      "type": "color"
+    },
+    "selectedBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.active}",
+      "type": "color"
+    },
+    "currentBackgroundColor": {
+      "value": "{semantic.color.institutional.brandPrimary}",
+      "type": "color"
+    },
+    "textColor": {
       "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+      "type": "color"
+    },
+    "currentTextColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
       "type": "color"
     },
     "innerFocusOutlineColor": {
@@ -352,22 +368,6 @@
     },
     "outerFocusOutlineColor": {
       "value": "{semantic.color.stroke.interactive.focusRing.base}",
-      "type": "color"
-    },
-    "hoverBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
-      "type": "color"
-    },
-    "currentBackgroundColor": {
-      "value": "{semantic.color.institutional.brandPrimary}",
-      "type": "color"
-    },
-    "selectedBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.tertiary.active}",
-      "type": "color"
-    },
-    "currentTextColor": {
-      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
       "type": "color"
     },
     "selectedInnerFocusOutlineColor": {
