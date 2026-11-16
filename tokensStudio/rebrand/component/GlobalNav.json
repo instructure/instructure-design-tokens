@@ -335,6 +335,22 @@
     "textColor": {
       "value": "{semantic.color.text.base}",
       "type": "color"
+    },
+    "fontFamily": {
+      "value": "{semantic.fontFamily.base}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "{semantic.fontWeight.body.strong}",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{semantic.lineHeight.standalone.base}",
+      "type": "lineHeights"
+    },
+    "fontSize": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
     }
   },
   "mainNavAccountItem": {
@@ -421,6 +437,10 @@
     "verificationBadgeborderRadius": {
       "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
+    },
+    "verificationBadgeBorderColor": {
+      "value": "{semantic.color.stroke.onColor}",
+      "type": "color"
     }
   },
   "collapseButton": {
