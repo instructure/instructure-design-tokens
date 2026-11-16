@@ -179,6 +179,38 @@
     "iconPaddingVertical": {
       "value": "{semantic.spacing.spaceLg}",
       "type": "spacing"
+    },
+    "dangerIconBackgroundInline": {
+      "value": "{semantic.color.background.pastel.error}",
+      "type": "color"
+    },
+    "infoIconBackgroundInline": {
+      "value": "{semantic.color.background.pastel.info}",
+      "type": "color"
+    },
+    "successIconBackgroundInline": {
+      "value": "{semantic.color.background.pastel.success}",
+      "type": "color"
+    },
+    "warningIconBackgroundInline": {
+      "value": "{semantic.color.background.pastel.warning}",
+      "type": "color"
+    },
+    "infoIconInline": {
+      "value": "{icon.infoColor}",
+      "type": "color"
+    },
+    "warningIconInline": {
+      "value": "{icon.warningColor}",
+      "type": "color"
+    },
+    "dangerIconInline": {
+      "value": "{icon.errorColor}",
+      "type": "color"
+    },
+    "successIconInline": {
+      "value": "{icon.successColor}",
+      "type": "color"
     }
   }
 }
