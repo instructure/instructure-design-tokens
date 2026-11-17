@@ -3063,7 +3063,8 @@
       "alert.infoIconInline": "3beb5eccd8c808c0b51adb72560b96e9343ed997",
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
-      "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79"
+      "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
+      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6863,7 +6864,8 @@
       "alert.infoIconInline": "3beb5eccd8c808c0b51adb72560b96e9343ed997",
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
-      "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79"
+      "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
+      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9935,7 +9937,8 @@
       "alert.infoIconInline": "3beb5eccd8c808c0b51adb72560b96e9343ed997",
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
-      "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79"
+      "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
+      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13737,7 +13740,8 @@
       "alert.infoIconInline": "3beb5eccd8c808c0b51adb72560b96e9343ed997",
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
-      "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79"
+      "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
+      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
