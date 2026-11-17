@@ -125,6 +125,10 @@
       "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
     },
+    "ArrowPaddingLg": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
     "itemGapLg": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
