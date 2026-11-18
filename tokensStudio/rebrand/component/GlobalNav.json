@@ -450,7 +450,7 @@
       "value": "1.375rem",
       "type": "sizing"
     },
-    "verificationBadgeborderRadius": {
+    "verificationBadgeBorderRadius": {
       "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     },

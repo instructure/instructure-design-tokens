@@ -3051,7 +3051,6 @@
       "subNav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "mainNavAccountItem.verificationBadgeBackgroundColor": "1f8aa7994cac5d00ec79f286704e850b2f856fa5",
       "mainNavAccountItem.verificationBadgeSize": "ea62c895c486f92b78d7a8fa178f8007a54bcfa6",
-      "mainNavAccountItem.verificationBadgeborderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "mainNavInstitutionLogo.fontFamily": "2679454bf8d0febdd3a1be2357533d24be350ddf",
       "mainNavInstitutionLogo.fontWeight": "6a078c364bad2e4e8a63eaca11f51c97495fce10",
       "mainNavInstitutionLogo.fontSize": "92df78fc5addd72fb9284f73ec6e8990faca5d90",
@@ -3068,7 +3067,8 @@
       "subNavItem.outerFocusOutlineColor": "c13e21e60a4a3327738a80fd56f6d1a1bff68de5",
       "subNavItem.innerFocusOutlineColor": "379cab189e352a281b92cb08d6a112156bf8e9b1",
       "subNavItem.selectedInnerFocusOutlineColor": "06d15aa9209eced619fbaa7b87673788776a926f",
-      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b"
+      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b",
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6856,7 +6856,6 @@
       "subNav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "mainNavAccountItem.verificationBadgeBackgroundColor": "1f8aa7994cac5d00ec79f286704e850b2f856fa5",
       "mainNavAccountItem.verificationBadgeSize": "ea62c895c486f92b78d7a8fa178f8007a54bcfa6",
-      "mainNavAccountItem.verificationBadgeborderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "mainNavInstitutionLogo.fontFamily": "2679454bf8d0febdd3a1be2357533d24be350ddf",
       "mainNavInstitutionLogo.fontWeight": "6a078c364bad2e4e8a63eaca11f51c97495fce10",
       "mainNavInstitutionLogo.fontSize": "92df78fc5addd72fb9284f73ec6e8990faca5d90",
@@ -6873,7 +6872,8 @@
       "subNavItem.outerFocusOutlineColor": "c13e21e60a4a3327738a80fd56f6d1a1bff68de5",
       "subNavItem.innerFocusOutlineColor": "379cab189e352a281b92cb08d6a112156bf8e9b1",
       "subNavItem.selectedInnerFocusOutlineColor": "06d15aa9209eced619fbaa7b87673788776a926f",
-      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b"
+      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b",
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9933,7 +9933,6 @@
       "subNav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "mainNavAccountItem.verificationBadgeBackgroundColor": "1f8aa7994cac5d00ec79f286704e850b2f856fa5",
       "mainNavAccountItem.verificationBadgeSize": "ea62c895c486f92b78d7a8fa178f8007a54bcfa6",
-      "mainNavAccountItem.verificationBadgeborderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "mainNavInstitutionLogo.fontFamily": "2679454bf8d0febdd3a1be2357533d24be350ddf",
       "mainNavInstitutionLogo.fontWeight": "6a078c364bad2e4e8a63eaca11f51c97495fce10",
       "mainNavInstitutionLogo.fontSize": "92df78fc5addd72fb9284f73ec6e8990faca5d90",
@@ -9950,7 +9949,8 @@
       "subNavItem.innerFocusOutlineColor": "379cab189e352a281b92cb08d6a112156bf8e9b1",
       "subNavItem.outerFocusOutlineColor": "c13e21e60a4a3327738a80fd56f6d1a1bff68de5",
       "subNavItem.selectedInnerFocusOutlineColor": "06d15aa9209eced619fbaa7b87673788776a926f",
-      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b"
+      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b",
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13740,7 +13740,6 @@
       "subNav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "mainNavAccountItem.verificationBadgeBackgroundColor": "1f8aa7994cac5d00ec79f286704e850b2f856fa5",
       "mainNavAccountItem.verificationBadgeSize": "ea62c895c486f92b78d7a8fa178f8007a54bcfa6",
-      "mainNavAccountItem.verificationBadgeborderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "mainNavInstitutionLogo.fontFamily": "2679454bf8d0febdd3a1be2357533d24be350ddf",
       "mainNavInstitutionLogo.fontWeight": "6a078c364bad2e4e8a63eaca11f51c97495fce10",
       "mainNavInstitutionLogo.fontSize": "92df78fc5addd72fb9284f73ec6e8990faca5d90",
@@ -13757,7 +13756,8 @@
       "subNavItem.innerFocusOutlineColor": "379cab189e352a281b92cb08d6a112156bf8e9b1",
       "subNavItem.outerFocusOutlineColor": "c13e21e60a4a3327738a80fd56f6d1a1bff68de5",
       "subNavItem.selectedInnerFocusOutlineColor": "06d15aa9209eced619fbaa7b87673788776a926f",
-      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b"
+      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b",
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",

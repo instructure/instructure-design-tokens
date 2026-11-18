@@ -253,11 +253,11 @@
       "type": "color"
     },
     "innerFocusOutlineColor": {
-      "value": "{semantic.color.stroke.interactive.focusRing.onColor}",
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
       "type": "color"
     },
     "selectedInnerFocusOutlineColor": {
-      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "value": "{semantic.color.stroke.interactive.focusRing.onColor}",
       "type": "color"
     },
     "selectedOuterFocusOutlineColor": {
@@ -418,7 +418,7 @@
       "value": "0rem",
       "type": "borderRadius"
     },
-    "verificationBadgeborderRadius": {
+    "verificationBadgeBorderRadius": {
       "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     },
