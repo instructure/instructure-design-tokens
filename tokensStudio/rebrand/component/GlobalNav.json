@@ -475,6 +475,14 @@
     "rightMargin": {
       "value": "0rem",
       "type": "spacing"
+    },
+    "innerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "outerFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
     }
   }
 }
