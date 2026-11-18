@@ -197,19 +197,19 @@
       "type": "color"
     },
     "infoIconInline": {
-      "value": "{icon.infoColor}",
+      "value": "{semantic.color.icon.info}",
       "type": "color"
     },
     "warningIconInline": {
-      "value": "{icon.warningColor}",
+      "value": "{semantic.color.icon.warning}",
       "type": "color"
     },
     "dangerIconInline": {
-      "value": "{icon.errorColor}",
+      "value": "{semantic.color.icon.error}",
       "type": "color"
     },
     "successIconInline": {
-      "value": "{icon.successColor}",
+      "value": "{semantic.color.icon.success}",
       "type": "color"
     }
   }
