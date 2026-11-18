@@ -247,6 +247,22 @@
     "fontSize": {
       "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
+    },
+    "innerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "outerFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
+    },
+    "selectedInnerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "selectedOuterFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
     }
   },
   "subNav": {

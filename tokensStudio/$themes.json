@@ -3064,7 +3064,11 @@
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
       "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
-      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
+      "segmentedControl.arrowPaddingLg": "8ab4376d41b062f80e4a26bdb71e2d7fb9b174a8",
+      "subNavItem.outerFocusOutlineColor": "c13e21e60a4a3327738a80fd56f6d1a1bff68de5",
+      "subNavItem.innerFocusOutlineColor": "379cab189e352a281b92cb08d6a112156bf8e9b1",
+      "subNavItem.selectedInnerFocusOutlineColor": "06d15aa9209eced619fbaa7b87673788776a926f",
+      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6865,7 +6869,11 @@
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
       "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
-      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
+      "segmentedControl.arrowPaddingLg": "8ab4376d41b062f80e4a26bdb71e2d7fb9b174a8",
+      "subNavItem.outerFocusOutlineColor": "c13e21e60a4a3327738a80fd56f6d1a1bff68de5",
+      "subNavItem.innerFocusOutlineColor": "379cab189e352a281b92cb08d6a112156bf8e9b1",
+      "subNavItem.selectedInnerFocusOutlineColor": "06d15aa9209eced619fbaa7b87673788776a926f",
+      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9938,7 +9946,11 @@
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
       "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
-      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
+      "segmentedControl.arrowPaddingLg": "8ab4376d41b062f80e4a26bdb71e2d7fb9b174a8",
+      "subNavItem.innerFocusOutlineColor": "379cab189e352a281b92cb08d6a112156bf8e9b1",
+      "subNavItem.outerFocusOutlineColor": "c13e21e60a4a3327738a80fd56f6d1a1bff68de5",
+      "subNavItem.selectedInnerFocusOutlineColor": "06d15aa9209eced619fbaa7b87673788776a926f",
+      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13741,7 +13753,11 @@
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
       "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
-      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
+      "segmentedControl.arrowPaddingLg": "8ab4376d41b062f80e4a26bdb71e2d7fb9b174a8",
+      "subNavItem.innerFocusOutlineColor": "379cab189e352a281b92cb08d6a112156bf8e9b1",
+      "subNavItem.outerFocusOutlineColor": "c13e21e60a4a3327738a80fd56f6d1a1bff68de5",
+      "subNavItem.selectedInnerFocusOutlineColor": "06d15aa9209eced619fbaa7b87673788776a926f",
+      "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
