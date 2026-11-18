@@ -263,6 +263,14 @@
     "selectedOuterFocusOutlineColor": {
       "value": "{semantic.color.transparentColor}",
       "type": "color"
+    },
+    "iconColor": {
+      "value": "{semantic.color.icon.info}",
+      "type": "color"
+    },
+    "selectedIconColor": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
     }
   },
   "subNav": {

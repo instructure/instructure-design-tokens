@@ -3070,7 +3070,9 @@
       "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b",
       "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "collapseButton.innerFocusOutlineColor": "d3ab512879b28573287b44e6479876e34d2bdae2",
-      "collapseButton.outerFocusOutlineColor": "79a8c43b7c2dc2789ec64320bde7703f8831d0d3"
+      "collapseButton.outerFocusOutlineColor": "79a8c43b7c2dc2789ec64320bde7703f8831d0d3",
+      "subNavItem.iconColor": "d4097f5d626543715c7f1d1dd2fac8a49bd6d4af",
+      "subNavItem.selectedIconColor": "71135986d38fb9be5fd97b2be793041c18b55474"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6877,7 +6879,9 @@
       "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b",
       "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "collapseButton.innerFocusOutlineColor": "d3ab512879b28573287b44e6479876e34d2bdae2",
-      "collapseButton.outerFocusOutlineColor": "79a8c43b7c2dc2789ec64320bde7703f8831d0d3"
+      "collapseButton.outerFocusOutlineColor": "79a8c43b7c2dc2789ec64320bde7703f8831d0d3",
+      "subNavItem.iconColor": "d4097f5d626543715c7f1d1dd2fac8a49bd6d4af",
+      "subNavItem.selectedIconColor": "71135986d38fb9be5fd97b2be793041c18b55474"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9956,7 +9960,9 @@
       "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b",
       "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "collapseButton.innerFocusOutlineColor": "d3ab512879b28573287b44e6479876e34d2bdae2",
-      "collapseButton.outerFocusOutlineColor": "79a8c43b7c2dc2789ec64320bde7703f8831d0d3"
+      "collapseButton.outerFocusOutlineColor": "79a8c43b7c2dc2789ec64320bde7703f8831d0d3",
+      "subNavItem.iconColor": "d4097f5d626543715c7f1d1dd2fac8a49bd6d4af",
+      "subNavItem.selectedIconColor": "71135986d38fb9be5fd97b2be793041c18b55474"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13765,7 +13771,9 @@
       "subNavItem.selectedOuterFocusOutlineColor": "ad7bd96a70942594f568755b4a8437a90dc56d4b",
       "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "collapseButton.innerFocusOutlineColor": "d3ab512879b28573287b44e6479876e34d2bdae2",
-      "collapseButton.outerFocusOutlineColor": "79a8c43b7c2dc2789ec64320bde7703f8831d0d3"
+      "collapseButton.outerFocusOutlineColor": "79a8c43b7c2dc2789ec64320bde7703f8831d0d3",
+      "subNavItem.iconColor": "d4097f5d626543715c7f1d1dd2fac8a49bd6d4af",
+      "subNavItem.selectedIconColor": "71135986d38fb9be5fd97b2be793041c18b55474"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",

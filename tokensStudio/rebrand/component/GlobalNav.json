@@ -263,6 +263,14 @@
     "selectedOuterFocusOutlineColor": {
       "value": "{semantic.color.stroke.interactive.focusRing.base}",
       "type": "color"
+    },
+    "iconColor": {
+      "value": "{semantic.color.icon.base}",
+      "type": "color"
+    },
+    "selectedIconColor": {
+      "value": "{semantic.color.icon.inverse}",
+      "type": "color"
     }
   },
   "subNav": {
