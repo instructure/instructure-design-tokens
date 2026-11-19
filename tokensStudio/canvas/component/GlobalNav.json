@@ -299,7 +299,7 @@
       "type": "spacing"
     },
     "gap": {
-      "value": "{semantic.spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "navItemsGap": {
