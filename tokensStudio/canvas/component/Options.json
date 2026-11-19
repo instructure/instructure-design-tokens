@@ -68,7 +68,7 @@
       "type": "fontWeights"
     },
     "selectedDescriptionColor": {
-      "value": "{semantic.color.text.interactive.action.primary.base}",
+      "value": "{semantic.color.text.muted}",
       "type": "color"
     },
     "highlightedBackground": {
@@ -97,15 +97,15 @@
       "type": "spacing"
     },
     "selectedBackground": {
-      "value": "{semantic.color.background.interactive.action.primary.base}",
+      "value": "{semantic.color.background.elevatedSurface.base}",
       "type": "color"
     },
     "selectedHighlightedBackground": {
-      "value": "{semantic.color.background.interactive.action.primary.hover}",
+      "value": "{semantic.color.background.muted}",
       "type": "color"
     },
     "selectedLabelColor": {
-      "value": "{semantic.color.text.interactive.action.primary.base}",
+      "value": "{semantic.color.text.base}",
       "type": "color"
     },
     "descriptionPaddingStart": {
@@ -117,7 +117,7 @@
       "type": "spacing"
     },
     "selectedIndicatorColor": {
-      "value": "{semantic.color.icon.onColor}",
+      "value": "{semantic.color.icon.base}",
       "type": "color"
     }
   },

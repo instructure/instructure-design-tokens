@@ -125,6 +125,10 @@
       "value": "{semantic.spacing.spaceXs}",
       "type": "spacing"
     },
+    "arrowPaddingLg": {
+      "value": "{semantic.spacing.spaceMd}",
+      "type": "spacing"
+    },
     "itemGapLg": {
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
@@ -190,7 +194,7 @@
       "type": "opacity"
     },
     "opacityDisabled": {
-      "value": "{semantic.opacity.base}",
+      "value": "{semantic.opacity.disabled}",
       "type": "opacity"
     }
   }

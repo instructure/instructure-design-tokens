@@ -247,6 +247,30 @@
     "fontSize": {
       "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
+    },
+    "innerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "outerFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
+    },
+    "selectedInnerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "selectedOuterFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
+    },
+    "iconColor": {
+      "value": "{semantic.color.icon.base}",
+      "type": "color"
+    },
+    "selectedIconColor": {
+      "value": "{semantic.color.icon.inverse}",
+      "type": "color"
     }
   },
   "subNav": {
@@ -266,16 +290,16 @@
       "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
+    "minimizedVerticalPadding": {
+      "value": "1.625rem",
+      "type": "spacing"
+    },
     "gap": {
       "value": "{semantic.spacing.spaceSm}",
       "type": "spacing"
     },
     "navItemsGap": {
       "value": "{semantic.spacing.spaceXs}",
-      "type": "spacing"
-    },
-    "minimizedVerticalPadding": {
-      "value": "1.625rem",
       "type": "spacing"
     },
     "minimizedWidth": {
@@ -335,6 +359,22 @@
     "textColor": {
       "value": "{semantic.color.text.base}",
       "type": "color"
+    },
+    "fontFamily": {
+      "value": "{semantic.fontFamily.base}",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "{semantic.fontWeight.body.strong}",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "{semantic.lineHeight.standalone.base}",
+      "type": "lineHeights"
+    },
+    "fontSize": {
+      "value": "{semantic.fontSize.textSm}",
+      "type": "fontSizes"
     }
   },
   "mainNavAccountItem": {
@@ -342,8 +382,24 @@
       "value": "{semantic.color.institutional.brandGlobalNavBgd}",
       "type": "color"
     },
-    "titleFontColor": {
+    "hoverBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
+      "type": "color"
+    },
+    "selectedBackgroundColor": {
+      "value": "{semantic.color.background.interactive.action.tertiary.active}",
+      "type": "color"
+    },
+    "currentBackgroundColor": {
+      "value": "{semantic.color.institutional.brandPrimary}",
+      "type": "color"
+    },
+    "textColor": {
       "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+      "type": "color"
+    },
+    "currentTextColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
       "type": "color"
     },
     "innerFocusOutlineColor": {
@@ -352,22 +408,6 @@
     },
     "outerFocusOutlineColor": {
       "value": "{semantic.color.stroke.interactive.focusRing.base}",
-      "type": "color"
-    },
-    "hoverBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.tertiary.hover}",
-      "type": "color"
-    },
-    "currentBackgroundColor": {
-      "value": "{semantic.color.institutional.brandPrimary}",
-      "type": "color"
-    },
-    "selectedBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.tertiary.active}",
-      "type": "color"
-    },
-    "currentTextColor": {
-      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
       "type": "color"
     },
     "selectedInnerFocusOutlineColor": {
@@ -409,6 +449,22 @@
     "titleFontSize": {
       "value": "{semantic.fontSize.textBase}",
       "type": "fontSizes"
+    },
+    "verificationBadgeBackgroundColor": {
+      "value": "{semantic.color.background.warning}",
+      "type": "color"
+    },
+    "verificationBadgeSize": {
+      "value": "1.375rem",
+      "type": "sizing"
+    },
+    "verificationBadgeBorderRadius": {
+      "value": "{semantic.borderRadius.full}",
+      "type": "borderRadius"
+    },
+    "verificationBadgeBorderColor": {
+      "value": "{semantic.color.stroke.onColor}",
+      "type": "color"
     }
   },
   "collapseButton": {
@@ -427,6 +483,14 @@
     "rightMargin": {
       "value": "0rem",
       "type": "spacing"
+    },
+    "innerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "outerFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
+      "type": "color"
     }
   }
 }

@@ -56,6 +56,10 @@
       "value": "{semantic.color.background.error}",
       "type": "color"
     },
+    "dangerIconBackgroundInline": {
+      "value": "{semantic.color.background.error}",
+      "type": "color"
+    },
     "infoBackground": {
       "value": "{semantic.color.background.info}",
       "type": "color"
@@ -73,6 +77,10 @@
       "type": "color"
     },
     "infoIconBackground": {
+      "value": "{semantic.color.background.info}",
+      "type": "color"
+    },
+    "infoIconBackgroundInline": {
       "value": "{semantic.color.background.info}",
       "type": "color"
     },
@@ -96,8 +104,12 @@
       "value": "{semantic.color.background.success}",
       "type": "color"
     },
+    "successIconBackgroundInline": {
+      "value": "{semantic.color.background.success}",
+      "type": "color"
+    },
     "warningBackground": {
-      "value": "{semantic.color.background.base}",
+      "value": "{semantic.color.background.warning}",
       "type": "color"
     },
     "warningBackgroundInline": {
@@ -113,7 +125,11 @@
       "type": "color"
     },
     "warningIconBackground": {
-      "value": "{semantic.color.background.base}",
+      "value": "{semantic.color.background.warning}",
+      "type": "color"
+    },
+    "warningIconBackgroundInline": {
+      "value": "{semantic.color.background.warning}",
       "type": "color"
     },
     "textOnColor": {
@@ -122,6 +138,22 @@
     },
     "textBase": {
       "value": "{semantic.color.text.base}",
+      "type": "color"
+    },
+    "infoIconInline": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "warningIconInline": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "dangerIconInline": {
+      "value": "{semantic.color.icon.onColor}",
+      "type": "color"
+    },
+    "successIconInline": {
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "contentPaddingVertical": {
