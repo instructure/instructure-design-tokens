@@ -189,11 +189,11 @@
       "type": "color"
     },
     "hoverBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.primary.hover}",
+      "value": "{semantic.color.background.interactive.action.secondary.hover}",
       "type": "color"
     },
     "activeBackgroundColor": {
-      "value": "{semantic.color.background.interactive.action.primary.active}",
+      "value": "{semantic.color.background.interactive.action.secondary.active}",
       "type": "color"
     },
     "selectedBackgroundColor": {
@@ -205,11 +205,11 @@
       "type": "color"
     },
     "hoverTextColor": {
-      "value": "{semantic.color.text.onColor}",
+      "value": "{semantic.color.institutional.linkColor}",
       "type": "color"
     },
     "activeTextColor": {
-      "value": "{semantic.color.text.onColor}",
+      "value": "{semantic.color.institutional.linkColor}",
       "type": "color"
     },
     "selectedTextColor": {
@@ -299,7 +299,7 @@
       "type": "spacing"
     },
     "gap": {
-      "value": "{semantic.spacing.spaceSm}",
+      "value": "{semantic.spacing.spaceMd}",
       "type": "spacing"
     },
     "navItemsGap": {
