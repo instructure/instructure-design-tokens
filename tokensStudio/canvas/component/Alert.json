@@ -141,19 +141,19 @@
       "type": "color"
     },
     "infoIconInline": {
-      "value": "{icon.onColor}",
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "warningIconInline": {
-      "value": "{icon.onColor}",
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "dangerIconInline": {
-      "value": "{icon.onColor}",
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "successIconInline": {
-      "value": "{icon.onColor}",
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     },
     "contentPaddingVertical": {
