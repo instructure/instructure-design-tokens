@@ -135,7 +135,7 @@
       "type": "color"
     },
     "padding": {
-      "value": "{semantic.spacing.padding.container.xs}",
+      "value": "{semantic.spacing.padding.container.md}",
       "type": "spacing"
     },
     "paddingCompact": {

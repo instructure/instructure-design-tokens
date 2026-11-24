@@ -1117,35 +1117,35 @@
           }
         },
         "highlight": {
-          "honeyPastel": {
+          "searchPastel": {
             "value": "{color.honey.honey20}",
             "type": "color"
           },
-          "honeyStrong": {
+          "searchStrong": {
             "value": "{color.honey.honey150}",
             "type": "color"
           },
-          "navyPastel": {
+          "relatedPastel": {
             "value": "{color.navy.navy20}",
             "type": "color"
           },
-          "navyStrong": {
+          "relatedStrong": {
             "value": "{color.navy.navy150}",
             "type": "color"
           },
-          "seaPastel": {
+          "importantPastel": {
             "value": "{color.sea.sea20}",
             "type": "color"
           },
-          "seaStrong": {
+          "importantStrong": {
             "value": "{color.sea.sea150}",
             "type": "color"
           },
-          "orangePastel": {
+          "unclearPastel": {
             "value": "{color.orange.orange20}",
             "type": "color"
           },
-          "orangeStrong": {
+          "unclearStrong": {
             "value": "{color.orange.orange150}",
             "type": "color"
           }

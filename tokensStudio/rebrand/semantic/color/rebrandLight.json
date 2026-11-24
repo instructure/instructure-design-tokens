@@ -1144,35 +1144,35 @@
           }
         },
         "highlight": {
-          "honeyPastel": {
+          "searchPastel": {
             "value": "{color.honey.honey20}",
             "type": "color"
           },
-          "honeyStrong": {
+          "searchStrong": {
             "value": "{color.honey.honey90}",
             "type": "color"
           },
-          "navyPastel": {
+          "relatedPastel": {
             "value": "{color.navy.navy20}",
             "type": "color"
           },
-          "navyStrong": {
+          "relatedStrong": {
             "value": "{color.navy.navy90}",
             "type": "color"
           },
-          "seaPastel": {
+          "importantPastel": {
             "value": "{color.sea.sea20}",
             "type": "color"
           },
-          "seaStrong": {
+          "importantStrong": {
             "value": "{color.sea.sea90}",
             "type": "color"
           },
-          "orangePastel": {
+          "unclearPastel": {
             "value": "{color.orange.orange20}",
             "type": "color"
           },
-          "orangeStrong": {
+          "unclearStrong": {
             "value": "{color.orange.orange90}",
             "type": "color"
           }
@@ -1901,6 +1901,14 @@
             "value": "{color.aurora.aurora120}",
             "type": "color"
           }
+        },
+        "highlightSolid": {
+          "value": "{color.black}",
+          "type": "color"
+        },
+        "highlightUnderline": {
+          "value": "{color.black}",
+          "type": "color"
         }
       },
       "icon": {
