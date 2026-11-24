@@ -865,6 +865,71 @@
     "lineHeight": {
       "value": "{semantic.lineHeight.standalone.base}",
       "type": "lineHeights"
+    },
+    "loadingIconOpacityReducedMotion": {
+      "type": "opacity",
+      "value": 0.75,
+      "description": "Ring opacity when motion is reduced."
+    },
+    "successDrawEasing": {
+      "type": "cubicBezier",
+      "value": [
+        0.5,
+        1,
+        0.89,
+        1
+      ],
+      "description": "Ease out for the ring and check draw-in."
+    },
+    "loadingTurnEasing": {
+      "type": "cubicBezier",
+      "value": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "description": "Linear, for the ring turn."
+    },
+    "loadingDelay": {
+      "type": "duration",
+      "value": "300ms",
+      "description": "Time before the loading indicator appears. The button locks at once."
+    },
+    "loadingMinDuration": {
+      "type": "duration",
+      "value": "500ms",
+      "description": "Minimum time the indicator stays once shown. A proposal, to discuss."
+    },
+    "loadingTurnDuration": {
+      "type": "duration",
+      "value": "1000ms",
+      "description": "One turn of the loading ring."
+    },
+    "loadingTurnDurationReducedMotion": {
+      "type": "duration",
+      "value": "3000ms",
+      "description": "One turn of the loading ring when motion is reduced."
+    },
+    "successRingDuration": {
+      "type": "duration",
+      "value": "375ms",
+      "description": "Success ring draws in."
+    },
+    "successCheckDuration": {
+      "type": "duration",
+      "value": "290ms",
+      "description": "Success check draws in."
+    },
+    "successCheckDelay": {
+      "type": "duration",
+      "value": "425ms",
+      "description": "Delay before the check starts drawing."
+    },
+    "successFadeDurationReducedMotion": {
+      "type": "duration",
+      "value": "250ms",
+      "description": "Success fades in instead of drawing when motion is reduced."
     }
   }
 }
