@@ -1838,6 +1838,14 @@
             "value": "{color.aurora.aurora50}",
             "type": "color"
           }
+        },
+        "highlightSolid": {
+          "value": "{color.black}",
+          "type": "color"
+        },
+        "highlightUnderline": {
+          "value": "{color.white}",
+          "type": "color"
         }
       },
       "icon": {
