@@ -1847,6 +1847,14 @@
         "dark": {
           "value": "{color.grey.grey180}",
           "type": "color"
+        },
+        "highlightSolid": {
+          "value": "{color.black}",
+          "type": "color"
+        },
+        "highlightUnderline": {
+          "value": "{color.black}",
+          "type": "color"
         }
       },
       "icon": {
