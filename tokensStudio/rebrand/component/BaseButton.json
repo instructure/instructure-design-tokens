@@ -25,19 +25,6 @@
         }
       }
     },
-    "primaryLoadingBackground": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.2",
-            "space": "hsl"
-          }
-        }
-      }
-    },
     "primaryHoverBorderColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color",
@@ -51,24 +38,7 @@
         }
       }
     },
-    "primaryLoadingBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.2",
-            "space": "hsl"
-          }
-        }
-      }
-    },
     "primaryHoverTextColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryText}",
-      "type": "color"
-    },
-    "primaryLoadingTextColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryText}",
       "type": "color"
     },
@@ -157,19 +127,6 @@
         }
       }
     },
-    "primaryGhostLoadingBackground": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.1",
-            "space": "hsl"
-          }
-        }
-      }
-    },
     "primaryInverseActiveBackground": {
       "value": "{semantic.color.background.interactive.action.primaryOnColor.active}",
       "type": "color"
@@ -202,15 +159,7 @@
       "value": "{semantic.color.background.interactive.action.ghost.onColor.hover}",
       "type": "color"
     },
-    "primaryInverseGhostLoadingBackground": {
-      "value": "{semantic.color.background.interactive.action.ghost.onColor.hover}",
-      "type": "color"
-    },
     "primaryInverseHoverBackground": {
-      "value": "{semantic.color.background.interactive.action.primaryOnColor.hover}",
-      "type": "color"
-    },
-    "primaryInverseLoadingBackground": {
       "value": "{semantic.color.background.interactive.action.primaryOnColor.hover}",
       "type": "color"
     },
@@ -238,15 +187,7 @@
       "value": "{semantic.color.stroke.interactive.action.primaryOnColor.hover}",
       "type": "color"
     },
-    "primaryOnColorLoadingBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.primaryOnColor.hover}",
-      "type": "color"
-    },
     "primaryOnColorHoverTextColor": {
-      "value": "{semantic.color.text.interactive.action.primaryOnColor.hover}",
-      "type": "color"
-    },
-    "primaryOnColorLoadingTextColor": {
       "value": "{semantic.color.text.interactive.action.primaryOnColor.hover}",
       "type": "color"
     },
@@ -284,19 +225,6 @@
         }
       }
     },
-    "secondaryLoadingBackground": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.4",
-            "space": "hsl"
-          }
-        }
-      }
-    },
     "secondaryHoverBorderColor": {
       "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
       "type": "color",
@@ -310,24 +238,7 @@
         }
       }
     },
-    "secondaryLoadingBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0",
-            "space": "hsl"
-          }
-        }
-      }
-    },
     "secondaryHoverTextColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
-      "type": "color"
-    },
-    "secondaryLoadingTextColor": {
       "value": "{semantic.color.institutional.brandButtonSecondaryText}",
       "type": "color"
     },
@@ -397,11 +308,6 @@
       "type": "color",
       "description": "This token is not used in design, kept only for backward compatibility reasons."
     },
-    "secondaryGhostLoadingBackground": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
-      "type": "color",
-      "description": "This token is not used in design, kept only for backward compatibility reasons."
-    },
     "secondaryOnColorActiveBorderColor": {
       "value": "{semantic.color.stroke.interactive.action.secondaryOnColor.active}",
       "type": "color"
@@ -422,15 +328,7 @@
       "value": "{semantic.color.stroke.interactive.action.secondaryOnColor.hover}",
       "type": "color"
     },
-    "secondaryOnColorLoadingBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.secondaryOnColor.hover}",
-      "type": "color"
-    },
     "secondaryOnColorHoverTextColor": {
-      "value": "{semantic.color.text.interactive.action.secondaryOnColor.hover}",
-      "type": "color"
-    },
-    "secondaryOnColorLoadingTextColor": {
       "value": "{semantic.color.text.interactive.action.secondaryOnColor.hover}",
       "type": "color"
     },
@@ -486,15 +384,7 @@
       "value": "{semantic.color.background.interactive.action.success.secondary.hover}",
       "type": "color"
     },
-    "successGhostLoadingBackground": {
-      "value": "{semantic.color.background.interactive.action.success.secondary.hover}",
-      "type": "color"
-    },
     "successHoverBackground": {
-      "value": "{semantic.color.background.interactive.action.success.hover}",
-      "type": "color"
-    },
-    "successLoadingBackground": {
       "value": "{semantic.color.background.interactive.action.success.hover}",
       "type": "color"
     },
@@ -502,15 +392,7 @@
       "value": "{semantic.color.stroke.interactive.action.success.hover}",
       "type": "color"
     },
-    "successLoadingBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.success.hover}",
-      "type": "color"
-    },
     "successHoverTextColor": {
-      "value": "{semantic.color.text.interactive.action.status.hover}",
-      "type": "color"
-    },
-    "successLoadingTextColor": {
       "value": "{semantic.color.text.interactive.action.status.hover}",
       "type": "color"
     },
@@ -534,15 +416,7 @@
       "value": "{semantic.color.stroke.interactive.action.success.secondary.hover}",
       "type": "color"
     },
-    "successSecondaryLoadingBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.success.secondary.hover}",
-      "type": "color"
-    },
     "successSecondaryHoverTextColor": {
-      "value": "{semantic.color.text.interactive.action.successSecondary.hover}",
-      "type": "color"
-    },
-    "successSecondaryLoadingTextColor": {
       "value": "{semantic.color.text.interactive.action.successSecondary.hover}",
       "type": "color"
     },
@@ -570,15 +444,7 @@
       "value": "{semantic.color.background.interactive.action.destructive.secondary.hover}",
       "type": "color"
     },
-    "dangerGhostLoadingBackground": {
-      "value": "{semantic.color.background.interactive.action.destructive.secondary.hover}",
-      "type": "color"
-    },
     "dangerHoverBackground": {
-      "value": "{semantic.color.background.interactive.action.destructive.hover}",
-      "type": "color"
-    },
-    "dangerLoadingBackground": {
       "value": "{semantic.color.background.interactive.action.destructive.hover}",
       "type": "color"
     },
@@ -614,15 +480,7 @@
       "value": "{semantic.color.stroke.interactive.action.destructive.hover}",
       "type": "color"
     },
-    "destructiveLoadingBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.destructive.hover}",
-      "type": "color"
-    },
     "destructiveHoverTextColor": {
-      "value": "{semantic.color.text.interactive.action.status.hover}",
-      "type": "color"
-    },
-    "destructiveLoadingTextColor": {
       "value": "{semantic.color.text.interactive.action.status.hover}",
       "type": "color"
     },
@@ -646,15 +504,7 @@
       "value": "{semantic.color.stroke.interactive.action.destructive.secondary.hover}",
       "type": "color"
     },
-    "destructiveSecondaryLoadingBorderColor": {
-      "value": "{semantic.color.stroke.interactive.action.destructive.secondary.hover}",
-      "type": "color"
-    },
     "destructiveSecondaryHoverTextColor": {
-      "value": "{semantic.color.text.interactive.action.destructiveSecondary.hover}",
-      "type": "color"
-    },
-    "destructiveSecondaryLoadingTextColor": {
       "value": "{semantic.color.text.interactive.action.destructiveSecondary.hover}",
       "type": "color"
     },
@@ -714,15 +564,7 @@
       "value": "{semantic.color.background.interactive.action.ai.bottomGradient.hover}",
       "type": "color"
     },
-    "aiLoadingBackgroundBottomGradientColor": {
-      "value": "{semantic.color.background.interactive.action.ai.bottomGradient.hover}",
-      "type": "color"
-    },
     "aiHoverBackgroundTopGradientColor": {
-      "value": "{semantic.color.background.interactive.action.ai.topGradient.hover}",
-      "type": "color"
-    },
-    "aiLoadingBackgroundTopGradientColor": {
       "value": "{semantic.color.background.interactive.action.ai.topGradient.hover}",
       "type": "color"
     },
@@ -730,23 +572,11 @@
       "value": "{semantic.color.stroke.interactive.action.ai.bottomGradient.hover}",
       "type": "color"
     },
-    "aiLoadingBorderBottomGradientColor": {
-      "value": "{semantic.color.stroke.interactive.action.ai.bottomGradient.hover}",
-      "type": "color"
-    },
     "aiHoverBorderTopGradientColor": {
       "value": "{semantic.color.stroke.interactive.action.ai.topGradient.hover}",
       "type": "color"
     },
-    "aiLoadingBorderTopGradientColor": {
-      "value": "{semantic.color.stroke.interactive.action.ai.topGradient.hover}",
-      "type": "color"
-    },
     "aiHoverTextColor": {
-      "value": "{semantic.color.text.interactive.action.ai.hover}",
-      "type": "color"
-    },
-    "aiLoadingTextColor": {
       "value": "{semantic.color.text.interactive.action.ai.hover}",
       "type": "color"
     },
@@ -770,15 +600,7 @@
       "value": "{semantic.color.background.interactive.action.aiSecondary.hover.bottomGradient}",
       "type": "color"
     },
-    "aiSecondaryLoadingBackgroundBottomGradientColor": {
-      "value": "{semantic.color.background.interactive.action.aiSecondary.hover.bottomGradient}",
-      "type": "color"
-    },
     "aiSecondaryHoverBackgroundTopGradientColor": {
-      "value": "{semantic.color.background.interactive.action.aiSecondary.hover.topGradient}",
-      "type": "color"
-    },
-    "aiSecondaryLoadingBackgroundTopGradientColor": {
       "value": "{semantic.color.background.interactive.action.aiSecondary.hover.topGradient}",
       "type": "color"
     },
@@ -916,24 +738,7 @@
         }
       }
     },
-    "tertiaryLoadingBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.2",
-            "space": "hsl"
-          }
-        }
-      }
-    },
     "tertiaryHoverTextColor": {
-      "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
-      "type": "color"
-    },
-    "tertiaryLoadingTextColor": {
       "value": "{semantic.color.institutional.brandButtonPrimaryBgd}",
       "type": "color"
     },
