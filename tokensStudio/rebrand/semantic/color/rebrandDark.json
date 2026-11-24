@@ -2245,6 +2245,14 @@
         "brandGlobalNavMenuItemTextColorActive": {
           "value": "{color.grey.grey180}",
           "type": "color"
+        },
+        "brandGlobalNavIconSVGFill": {
+          "value": "{color.white}",
+          "type": "color"
+        },
+        "brandGlobalNavIconSVGFillActive": {
+          "value": "{color.grey.grey180}",
+          "type": "color"
         }
       },
       "transparentColor": {

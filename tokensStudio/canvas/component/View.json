@@ -25,11 +25,11 @@
       "type": "color"
     },
     "borderColorBrand": {
-      "value": "{semantic.color.stroke.brand}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "borderColorInfo": {
-      "value": "{semantic.color.stroke.info}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "borderColorAlert": {
@@ -65,11 +65,11 @@
       "type": "color"
     },
     "backgroundBrand": {
-      "value": "{semantic.color.background.brand}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "backgroundInfo": {
-      "value": "{semantic.color.background.info}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "backgroundAlert": {

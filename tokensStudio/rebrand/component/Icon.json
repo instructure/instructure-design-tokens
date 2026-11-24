@@ -117,11 +117,11 @@
       "type": "color"
     },
     "sideNavColor": {
-      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColor}",
+      "value": "{semantic.color.institutional.brandGlobalNavIconSVGFill}",
       "type": "color"
     },
     "sideNavActiveColor": {
-      "value": "{semantic.color.institutional.brandGlobalNavMenuItemTextColorActive}",
+      "value": "{semantic.color.institutional.brandGlobalNavIconSVGFillActive}",
       "type": "color"
     },
     "navigationPrimaryBaseColor": {

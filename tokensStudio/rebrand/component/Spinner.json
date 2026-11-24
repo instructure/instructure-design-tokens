@@ -1,7 +1,7 @@
 {
   "spinner": {
     "color": {
-      "value": "{semantic.color.icon.info}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "inverseColor": {
