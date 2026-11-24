@@ -17,7 +17,7 @@
       "type": "fontSizes"
     },
     "fontSizeXLarge": {
-      "value": "{semantic.fontSize.text2xl}",
+      "value": "{semantic.fontSize.textXl}",
       "type": "fontSizes"
     },
     "fontSizeXXLarge": {

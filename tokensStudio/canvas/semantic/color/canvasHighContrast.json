@@ -2189,7 +2189,7 @@
       },
       "institutional": {
         "brandPrimary": {
-          "value": "{color.blue.blue100}",
+          "value": "{color.blue.blue140}",
           "type": "color"
         },
         "brandFontColorDark": {

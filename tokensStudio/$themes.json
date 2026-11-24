@@ -3064,7 +3064,17 @@
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
       "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
-      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
+      "segmentedControl.arrowPaddingLg": "8ab4376d41b062f80e4a26bdb71e2d7fb9b174a8",
+      "semantic.color.background.highlight.searchPastel": "d6534b3177fc30c787124c42c3f9c6ffea2d8168",
+      "semantic.color.background.highlight.searchStrong": "5fb6f46ac2a38c70e83a5765efb89d2acce1af9b",
+      "semantic.color.background.highlight.relatedPastel": "1574c4521d921c1b081ba6610cd5eb3c0da1642f",
+      "semantic.color.background.highlight.relatedStrong": "410cb7738d60592066514a771045d8e85bbac7e8",
+      "semantic.color.background.highlight.importantPastel": "b3c887277517a6b52aeb400dd86950554f820c9e",
+      "semantic.color.background.highlight.importantStrong": "7d335c5fe5521aaa8fe05736d7804437fafb29d2",
+      "semantic.color.background.highlight.unclearPastel": "92ddba7ca92fb5cc6b12f1a55884d102e2a051b4",
+      "semantic.color.background.highlight.unclearStrong": "05437daae2ebf43c74846cbd72dc7f8bfac732c7",
+      "semantic.color.text.highlightSolid": "5250cd10ad57b003cdece29e0f50681affe600ac",
+      "semantic.color.text.highlightUnderline": "cee7a516428b03b75332a48b52aba2b3a56da410"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6865,7 +6875,17 @@
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
       "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
-      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
+      "segmentedControl.arrowPaddingLg": "8ab4376d41b062f80e4a26bdb71e2d7fb9b174a8",
+      "semantic.color.background.highlight.searchPastel": "d6534b3177fc30c787124c42c3f9c6ffea2d8168",
+      "semantic.color.background.highlight.searchStrong": "5fb6f46ac2a38c70e83a5765efb89d2acce1af9b",
+      "semantic.color.background.highlight.relatedPastel": "1574c4521d921c1b081ba6610cd5eb3c0da1642f",
+      "semantic.color.background.highlight.relatedStrong": "410cb7738d60592066514a771045d8e85bbac7e8",
+      "semantic.color.background.highlight.importantPastel": "b3c887277517a6b52aeb400dd86950554f820c9e",
+      "semantic.color.background.highlight.importantStrong": "7d335c5fe5521aaa8fe05736d7804437fafb29d2",
+      "semantic.color.background.highlight.unclearPastel": "92ddba7ca92fb5cc6b12f1a55884d102e2a051b4",
+      "semantic.color.background.highlight.unclearStrong": "05437daae2ebf43c74846cbd72dc7f8bfac732c7",
+      "semantic.color.text.highlightSolid": "5250cd10ad57b003cdece29e0f50681affe600ac",
+      "semantic.color.text.highlightUnderline": "cee7a516428b03b75332a48b52aba2b3a56da410"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9938,7 +9958,17 @@
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
       "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
-      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
+      "segmentedControl.arrowPaddingLg": "8ab4376d41b062f80e4a26bdb71e2d7fb9b174a8",
+      "semantic.color.background.highlight.searchPastel": "d6534b3177fc30c787124c42c3f9c6ffea2d8168",
+      "semantic.color.background.highlight.searchStrong": "5fb6f46ac2a38c70e83a5765efb89d2acce1af9b",
+      "semantic.color.background.highlight.relatedPastel": "1574c4521d921c1b081ba6610cd5eb3c0da1642f",
+      "semantic.color.background.highlight.relatedStrong": "410cb7738d60592066514a771045d8e85bbac7e8",
+      "semantic.color.background.highlight.importantPastel": "b3c887277517a6b52aeb400dd86950554f820c9e",
+      "semantic.color.background.highlight.importantStrong": "7d335c5fe5521aaa8fe05736d7804437fafb29d2",
+      "semantic.color.background.highlight.unclearPastel": "92ddba7ca92fb5cc6b12f1a55884d102e2a051b4",
+      "semantic.color.background.highlight.unclearStrong": "05437daae2ebf43c74846cbd72dc7f8bfac732c7",
+      "semantic.color.text.highlightSolid": "5250cd10ad57b003cdece29e0f50681affe600ac",
+      "semantic.color.text.highlightUnderline": "cee7a516428b03b75332a48b52aba2b3a56da410"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13741,7 +13771,17 @@
       "alert.warningIconInline": "642fdba5d84ff81707aa366054b4e8a443031705",
       "alert.dangerIconInline": "f826ebb9c6eed3b5c0d5b6356ebd1d154676415d",
       "alert.successIconInline": "b0fa1609c979546b4ec2d99b805e97b7e0d8fe79",
-      "segmentedControl.arrowPaddingLg": "a3db3e9d87fa6ce8ab1908af7c2ccffbdf70a8ff"
+      "segmentedControl.arrowPaddingLg": "8ab4376d41b062f80e4a26bdb71e2d7fb9b174a8",
+      "semantic.color.background.highlight.searchPastel": "d6534b3177fc30c787124c42c3f9c6ffea2d8168",
+      "semantic.color.background.highlight.searchStrong": "5fb6f46ac2a38c70e83a5765efb89d2acce1af9b",
+      "semantic.color.background.highlight.relatedPastel": "1574c4521d921c1b081ba6610cd5eb3c0da1642f",
+      "semantic.color.background.highlight.relatedStrong": "410cb7738d60592066514a771045d8e85bbac7e8",
+      "semantic.color.background.highlight.importantPastel": "b3c887277517a6b52aeb400dd86950554f820c9e",
+      "semantic.color.background.highlight.importantStrong": "7d335c5fe5521aaa8fe05736d7804437fafb29d2",
+      "semantic.color.background.highlight.unclearPastel": "92ddba7ca92fb5cc6b12f1a55884d102e2a051b4",
+      "semantic.color.background.highlight.unclearStrong": "05437daae2ebf43c74846cbd72dc7f8bfac732c7",
+      "semantic.color.text.highlightSolid": "5250cd10ad57b003cdece29e0f50681affe600ac",
+      "semantic.color.text.highlightUnderline": "cee7a516428b03b75332a48b52aba2b3a56da410"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
@@ -14327,7 +14367,8 @@
       "additionalSize.size2_5": "389d72b6e4f5cf66b9160d8aeb54e2f328da4a80",
       "additionalSize.size3": "8b2e40f6048af59ac598ea02d2ec83ecdb426e5b",
       "opacity50": "785b66ef43ceaeb3a327a4129154438c569dc874",
-      "opacity100": "9b7e245eea04026df4c5e14913597f07818b6d35"
+      "opacity100": "9b7e245eea04026df4c5e14913597f07818b6d35",
+      "color.black": "46cf4a168b3793f311561f0f00eedb3ae636d511"
     },
     "group": "Primitives"
   }
