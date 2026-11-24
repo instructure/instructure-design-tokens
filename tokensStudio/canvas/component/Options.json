@@ -72,11 +72,11 @@
       "type": "color"
     },
     "highlightedBackground": {
-      "value": "{semantic.color.background.muted}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "highlightedLabelColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "iconPadding": {
