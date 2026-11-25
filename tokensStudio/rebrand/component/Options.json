@@ -72,20 +72,11 @@
       "type": "fontWeights"
     },
     "highlightedBackground": {
-      "value": "{semantic.color.background.interactive.action.primary.hover}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.1",
-            "space": "lch"
-          }
-        }
-      }
+      "value": "{semantic.color.institutional.brandPrimary}",
+      "type": "color"
     },
     "highlightedLabelColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.text.inverse}",
       "type": "color"
     },
     "iconPadding": {
@@ -106,7 +97,7 @@
       "type": "spacing"
     },
     "selectedBackground": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.interactive.action.secondary.base}",
       "type": "color"
     },
     "selectedHighlightedBackground": {

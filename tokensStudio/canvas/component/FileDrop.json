@@ -1,7 +1,7 @@
 {
   "fileDrop": {
     "acceptedColor": {
-      "value": "{semantic.color.stroke.brand}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "backgroundColor": {

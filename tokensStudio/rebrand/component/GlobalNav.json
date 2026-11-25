@@ -247,30 +247,6 @@
     "fontSize": {
       "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
-    },
-    "innerFocusOutlineColor": {
-      "value": "{semantic.color.transparentColor}",
-      "type": "color"
-    },
-    "outerFocusOutlineColor": {
-      "value": "{semantic.color.stroke.interactive.focusRing.base}",
-      "type": "color"
-    },
-    "selectedInnerFocusOutlineColor": {
-      "value": "{semantic.color.transparentColor}",
-      "type": "color"
-    },
-    "selectedOuterFocusOutlineColor": {
-      "value": "{semantic.color.stroke.interactive.focusRing.base}",
-      "type": "color"
-    },
-    "iconColor": {
-      "value": "{semantic.color.icon.base}",
-      "type": "color"
-    },
-    "selectedIconColor": {
-      "value": "{semantic.color.icon.inverse}",
-      "type": "color"
     }
   },
   "subNav": {
@@ -458,7 +434,7 @@
       "value": "1.375rem",
       "type": "sizing"
     },
-    "verificationBadgeBorderRadius": {
+    "verificationBadgeborderRadius": {
       "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     },
@@ -483,14 +459,6 @@
     "rightMargin": {
       "value": "0rem",
       "type": "spacing"
-    },
-    "innerFocusOutlineColor": {
-      "value": "{semantic.color.transparentColor}",
-      "type": "color"
-    },
-    "outerFocusOutlineColor": {
-      "value": "{semantic.color.stroke.interactive.focusRing.base}",
-      "type": "color"
     }
   }
 }

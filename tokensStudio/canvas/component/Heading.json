@@ -58,7 +58,7 @@
       "value": {
         "fontFamily": "{semantic.fontFamily.heading}",
         "fontWeight": "{semantic.fontWeight.heading.strong}",
-        "fontSize": "{semantic.fontSize.textLg}",
+        "fontSize": "1.25rem",
         "lineHeight": "{semantic.lineHeight.heading.base}"
       },
       "type": "typography"

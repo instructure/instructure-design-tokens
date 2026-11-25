@@ -68,15 +68,15 @@
       "type": "fontWeights"
     },
     "selectedDescriptionColor": {
-      "value": "{semantic.color.text.muted}",
+      "value": "{semantic.color.text.interactive.action.primary.base}",
       "type": "color"
     },
     "highlightedBackground": {
-      "value": "{semantic.color.background.muted}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "highlightedLabelColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "iconPadding": {
@@ -97,15 +97,15 @@
       "type": "spacing"
     },
     "selectedBackground": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.accent.grey}",
       "type": "color"
     },
     "selectedHighlightedBackground": {
-      "value": "{semantic.color.background.muted}",
+      "value": "{semantic.color.background.interactive.action.primary.hover}",
       "type": "color"
     },
     "selectedLabelColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "descriptionPaddingStart": {
@@ -117,7 +117,7 @@
       "type": "spacing"
     },
     "selectedIndicatorColor": {
-      "value": "{semantic.color.icon.base}",
+      "value": "{semantic.color.icon.onColor}",
       "type": "color"
     }
   },

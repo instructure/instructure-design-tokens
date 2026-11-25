@@ -123,7 +123,7 @@
       "type": "spacing"
     },
     "verticalPadding": {
-      "value": "0.25rem",
+      "value": "0.375rem",
       "type": "spacing"
     },
     "activeBackgroundColor": {
@@ -247,30 +247,6 @@
     "fontSize": {
       "value": "{semantic.fontSize.textSm}",
       "type": "fontSizes"
-    },
-    "outerFocusOutlineColor": {
-      "value": "{semantic.color.transparentColor}",
-      "type": "color"
-    },
-    "innerFocusOutlineColor": {
-      "value": "{semantic.color.stroke.interactive.focusRing.base}",
-      "type": "color"
-    },
-    "selectedInnerFocusOutlineColor": {
-      "value": "{semantic.color.stroke.interactive.focusRing.onColor}",
-      "type": "color"
-    },
-    "selectedOuterFocusOutlineColor": {
-      "value": "{semantic.color.transparentColor}",
-      "type": "color"
-    },
-    "iconColor": {
-      "value": "{semantic.color.icon.info}",
-      "type": "color"
-    },
-    "selectedIconColor": {
-      "value": "{semantic.color.icon.onColor}",
-      "type": "color"
     }
   },
   "subNav": {
@@ -387,7 +363,7 @@
       "type": "color"
     },
     "selectedBackgroundColor": {
-      "value": "{semantic.color.institutional.brandGlobalNavBgd}",
+      "value": "{semantic.color.background.interactive.action.tertiary.active}",
       "type": "color"
     },
     "currentBackgroundColor": {
@@ -403,19 +379,19 @@
       "type": "color"
     },
     "outerFocusOutlineColor": {
-      "value": "{semantic.color.transparentColor}",
-      "type": "color"
-    },
-    "innerFocusOutlineColor": {
-      "value": "{semantic.color.stroke.interactive.focusRing.onColor}",
-      "type": "color"
-    },
-    "selectedInnerFocusOutlineColor": {
       "value": "{semantic.color.stroke.interactive.focusRing.base}",
       "type": "color"
     },
-    "selectedOuterFocusOutlineColor": {
+    "innerFocusOutlineColor": {
       "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "selectedInnerFocusOutlineColor": {
+      "value": "{semantic.color.transparentColor}",
+      "type": "color"
+    },
+    "selectedOuterFocusOutlineColor": {
+      "value": "{semantic.color.stroke.interactive.focusRing.base}",
       "type": "color"
     },
     "padding": {
@@ -426,7 +402,7 @@
       "value": "0rem",
       "type": "borderRadius"
     },
-    "verificationBadgeBorderRadius": {
+    "verificationBadgeborderRadius": {
       "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     },
@@ -483,14 +459,6 @@
     "rightMargin": {
       "value": "0.5rem",
       "type": "spacing"
-    },
-    "innerFocusOutlineColor": {
-      "value": "{semantic.color.stroke.interactive.focusRing.onColor}",
-      "type": "color"
-    },
-    "outerFocusOutlineColor": {
-      "value": "{semantic.color.transparentColor}",
-      "type": "color"
     }
   }
 }

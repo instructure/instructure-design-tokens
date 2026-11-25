@@ -94,7 +94,7 @@
       "type": "spacing"
     },
     "highlightedBackground": {
-      "value": "{semantic.color.background.muted}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "selectedHighlightedBackground": {
@@ -102,7 +102,7 @@
       "type": "color"
     },
     "highlightedLabelColor": {
-      "value": "{semantic.color.text.base}",
+      "value": "{semantic.color.text.onColor}",
       "type": "color"
     },
     "highlightedLabelInfoColor": {

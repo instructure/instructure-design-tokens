@@ -5,11 +5,11 @@
       "type": "spacing"
     },
     "iconEmptyColor": {
-      "value": "{semantic.color.stroke.brand}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "iconFilledColor": {
-      "value": "{semantic.color.background.brand}",
+      "value": "{semantic.color.institutional.brandPrimary}",
       "type": "color"
     },
     "smallIconFontSize": {

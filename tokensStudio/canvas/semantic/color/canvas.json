@@ -1115,6 +1115,40 @@
             "value": "{color.grey.grey50}",
             "type": "color"
           }
+        },
+        "highlight": {
+          "searchPastel": {
+            "value": "{color.honey.honey20}",
+            "type": "color"
+          },
+          "searchStrong": {
+            "value": "{color.honey.honey90}",
+            "type": "color"
+          },
+          "relatedPastel": {
+            "value": "{color.navy.navy20}",
+            "type": "color"
+          },
+          "relatedStrong": {
+            "value": "{color.navy.navy90}",
+            "type": "color"
+          },
+          "importantPastel": {
+            "value": "{color.sea.sea20}",
+            "type": "color"
+          },
+          "importantStrong": {
+            "value": "{color.sea.sea90}",
+            "type": "color"
+          },
+          "unclearPastel": {
+            "value": "{color.orange.orange20}",
+            "type": "color"
+          },
+          "unclearStrong": {
+            "value": "{color.orange.orange90}",
+            "type": "color"
+          }
         }
       },
       "stroke": {
@@ -1813,6 +1847,14 @@
         "dark": {
           "value": "{color.grey.grey180}",
           "type": "color"
+        },
+        "highlightSolid": {
+          "value": "{color.black}",
+          "type": "color"
+        },
+        "highlightUnderline": {
+          "value": "{color.black}",
+          "type": "color"
         }
       },
       "icon": {
@@ -2187,6 +2229,14 @@
           "type": "color"
         },
         "brandGlobalNavMenuItemTextColorActive": {
+          "value": "{color.blue.blue100}",
+          "type": "color"
+        },
+        "brandGlobalNavIconSVGFill": {
+          "value": "{color.white}",
+          "type": "color"
+        },
+        "brandGlobalNavIconSVGFillActive": {
           "value": "{color.blue.blue100}",
           "type": "color"
         }
