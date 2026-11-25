@@ -97,7 +97,7 @@
       "type": "spacing"
     },
     "selectedBackground": {
-      "value": "{semantic.color.background.elevatedSurface.base}",
+      "value": "{semantic.color.background.interactive.action.secondary.base}",
       "type": "color"
     },
     "selectedHighlightedBackground": {
