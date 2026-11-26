@@ -868,7 +868,7 @@
     },
     "loadingIconOpacityReducedMotion": {
       "type": "opacity",
-      "value": 0.75,
+      "value": "0.75",
       "description": "Ring opacity when motion is reduced."
     },
     "successDrawEasing": {

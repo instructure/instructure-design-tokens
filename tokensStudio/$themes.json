@@ -3051,7 +3051,6 @@
       "subNav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "mainNavAccountItem.verificationBadgeBackgroundColor": "1f8aa7994cac5d00ec79f286704e850b2f856fa5",
       "mainNavAccountItem.verificationBadgeSize": "ea62c895c486f92b78d7a8fa178f8007a54bcfa6",
-      "mainNavAccountItem.verificationBadgeborderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "mainNavInstitutionLogo.fontFamily": "2679454bf8d0febdd3a1be2357533d24be350ddf",
       "mainNavInstitutionLogo.fontWeight": "6a078c364bad2e4e8a63eaca11f51c97495fce10",
       "mainNavInstitutionLogo.fontSize": "92df78fc5addd72fb9284f73ec6e8990faca5d90",
@@ -3087,7 +3086,8 @@
       "baseButton.successFadeDurationReducedMotion": "9ebdc9588e581532d0742820c1693e137f471d15",
       "baseButton.successDrawEasing": "1b54d319a348ae3141cac8635bcf21e898aa3d02",
       "baseButton.loadingTurnEasing": "e58f093033215d9adf55924ef4c7d8524b58fe3c",
-      "baseButton.loadingIconOpacityReducedMotion": "a6a4ecc85de25f76820d4c15d50a8a0e190eb7f4"
+      "baseButton.loadingIconOpacityReducedMotion": "a6a4ecc85de25f76820d4c15d50a8a0e190eb7f4",
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6875,7 +6875,6 @@
       "subNav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "mainNavAccountItem.verificationBadgeBackgroundColor": "1f8aa7994cac5d00ec79f286704e850b2f856fa5",
       "mainNavAccountItem.verificationBadgeSize": "ea62c895c486f92b78d7a8fa178f8007a54bcfa6",
-      "mainNavAccountItem.verificationBadgeborderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "mainNavInstitutionLogo.fontFamily": "2679454bf8d0febdd3a1be2357533d24be350ddf",
       "mainNavInstitutionLogo.fontWeight": "6a078c364bad2e4e8a63eaca11f51c97495fce10",
       "mainNavInstitutionLogo.fontSize": "92df78fc5addd72fb9284f73ec6e8990faca5d90",
@@ -6911,7 +6910,8 @@
       "baseButton.successFadeDurationReducedMotion": "9ebdc9588e581532d0742820c1693e137f471d15",
       "baseButton.successDrawEasing": "1b54d319a348ae3141cac8635bcf21e898aa3d02",
       "baseButton.loadingTurnEasing": "e58f093033215d9adf55924ef4c7d8524b58fe3c",
-      "baseButton.loadingIconOpacityReducedMotion": "a6a4ecc85de25f76820d4c15d50a8a0e190eb7f4"
+      "baseButton.loadingIconOpacityReducedMotion": "a6a4ecc85de25f76820d4c15d50a8a0e190eb7f4",
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -9971,7 +9971,6 @@
       "subNav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "mainNavAccountItem.verificationBadgeBackgroundColor": "1f8aa7994cac5d00ec79f286704e850b2f856fa5",
       "mainNavAccountItem.verificationBadgeSize": "ea62c895c486f92b78d7a8fa178f8007a54bcfa6",
-      "mainNavAccountItem.verificationBadgeborderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "mainNavInstitutionLogo.fontFamily": "2679454bf8d0febdd3a1be2357533d24be350ddf",
       "mainNavInstitutionLogo.fontWeight": "6a078c364bad2e4e8a63eaca11f51c97495fce10",
       "mainNavInstitutionLogo.fontSize": "92df78fc5addd72fb9284f73ec6e8990faca5d90",
@@ -10007,7 +10006,8 @@
       "baseButton.successRingDuration": "b2c514d0a51ff6c022e7a75c8e85ad49bfbc181c",
       "baseButton.successCheckDuration": "654a4cfc23ef3d39983852e3906195e4c5d93c29",
       "baseButton.successCheckDelay": "cb7dda9a111b8e6c720b4768cf3dbb43dc41cd1f",
-      "baseButton.successFadeDurationReducedMotion": "9ebdc9588e581532d0742820c1693e137f471d15"
+      "baseButton.successFadeDurationReducedMotion": "9ebdc9588e581532d0742820c1693e137f471d15",
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13797,7 +13797,6 @@
       "subNav.titleFontFamily": "032cc66fbcc9e4fdd62d9e71736d30f1dd322fce",
       "mainNavAccountItem.verificationBadgeBackgroundColor": "1f8aa7994cac5d00ec79f286704e850b2f856fa5",
       "mainNavAccountItem.verificationBadgeSize": "ea62c895c486f92b78d7a8fa178f8007a54bcfa6",
-      "mainNavAccountItem.verificationBadgeborderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
       "mainNavInstitutionLogo.fontFamily": "2679454bf8d0febdd3a1be2357533d24be350ddf",
       "mainNavInstitutionLogo.fontWeight": "6a078c364bad2e4e8a63eaca11f51c97495fce10",
       "mainNavInstitutionLogo.fontSize": "92df78fc5addd72fb9284f73ec6e8990faca5d90",
@@ -13833,7 +13832,8 @@
       "baseButton.successRingDuration": "b2c514d0a51ff6c022e7a75c8e85ad49bfbc181c",
       "baseButton.successCheckDuration": "654a4cfc23ef3d39983852e3906195e4c5d93c29",
       "baseButton.successCheckDelay": "cb7dda9a111b8e6c720b4768cf3dbb43dc41cd1f",
-      "baseButton.successFadeDurationReducedMotion": "9ebdc9588e581532d0742820c1693e137f471d15"
+      "baseButton.successFadeDurationReducedMotion": "9ebdc9588e581532d0742820c1693e137f471d15",
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",

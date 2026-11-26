@@ -402,7 +402,7 @@
       "value": "0rem",
       "type": "borderRadius"
     },
-    "verificationBadgeborderRadius": {
+    "verificationBadgeBorderRadius": {
       "value": "{semantic.borderRadius.full}",
       "type": "borderRadius"
     },
