@@ -5,7 +5,7 @@
       "type": "color"
     },
     "fill": {
-      "value": "{semantic.color.icon.interactive.action.primaryOnColor.base}",
+      "value": "{semantic.color.institutional.brandGlobalNavIconSVGFill}",
       "type": "color"
     },
     "fontColor": {
@@ -138,6 +138,14 @@
     },
     "selectedOuterFocusOutlineColor": {
       "value": "{semantic.color.background.brand}",
+      "type": "color"
+    },
+    "iconColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavIconSVGFill}",
+      "type": "color"
+    },
+    "selectedIconColor": {
+      "value": "{semantic.color.institutional.brandGlobalNavIconSVGFillActive}",
       "type": "color"
     }
   }
