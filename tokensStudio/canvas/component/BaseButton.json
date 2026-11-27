@@ -267,17 +267,17 @@
       "type": "color"
     },
     "secondaryGhostColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
+      "value": "{semantic.color.text.interactive.action.secondary.base}",
       "type": "color",
       "description": "This token is not used in design, kept only for backward compatibility reasons."
     },
     "secondaryGhostBorderColor": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryText}",
+      "value": "{semantic.color.text.interactive.action.secondary.base}",
       "type": "color",
       "description": "This token is not used in design, kept only for backward compatibility reasons."
     },
     "secondaryGhostHoverBackground": {
-      "value": "{semantic.color.institutional.brandButtonSecondaryBgd}",
+      "value": "{semantic.color.background.interactive.action.secondary.base}",
       "type": "color",
       "description": "This token is not used in design, kept only for backward compatibility reasons."
     },

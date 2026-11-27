@@ -1610,7 +1610,7 @@
           "action": {
             "secondary": {
               "base": {
-                "value": "{color.grey.grey180}",
+                "value": "{color.grey.grey170}",
                 "type": "color"
               },
               "hover": {
