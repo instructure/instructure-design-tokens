@@ -3087,7 +3087,9 @@
       "baseButton.successDrawEasing": "1b54d319a348ae3141cac8635bcf21e898aa3d02",
       "baseButton.loadingTurnEasing": "e58f093033215d9adf55924ef4c7d8524b58fe3c",
       "baseButton.loadingIconOpacityReducedMotion": "a6a4ecc85de25f76820d4c15d50a8a0e190eb7f4",
-      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
+      "sideNavBarItem.iconColor": "e55b189addd29606586241c3a67e664f36321b09",
+      "sideNavBarItem.selectedIconColor": "6d5ef58a570b0ae318c19a5adeae1b387c92e2eb"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:2",
@@ -6911,7 +6913,9 @@
       "baseButton.successDrawEasing": "1b54d319a348ae3141cac8635bcf21e898aa3d02",
       "baseButton.loadingTurnEasing": "e58f093033215d9adf55924ef4c7d8524b58fe3c",
       "baseButton.loadingIconOpacityReducedMotion": "a6a4ecc85de25f76820d4c15d50a8a0e190eb7f4",
-      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
+      "sideNavBarItem.iconColor": "e55b189addd29606586241c3a67e664f36321b09",
+      "sideNavBarItem.selectedIconColor": "6d5ef58a570b0ae318c19a5adeae1b387c92e2eb"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:3",
@@ -10007,7 +10011,9 @@
       "baseButton.successCheckDuration": "654a4cfc23ef3d39983852e3906195e4c5d93c29",
       "baseButton.successCheckDelay": "cb7dda9a111b8e6c720b4768cf3dbb43dc41cd1f",
       "baseButton.successFadeDurationReducedMotion": "9ebdc9588e581532d0742820c1693e137f471d15",
-      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
+      "sideNavBarItem.iconColor": "e55b189addd29606586241c3a67e664f36321b09",
+      "sideNavBarItem.selectedIconColor": "6d5ef58a570b0ae318c19a5adeae1b387c92e2eb"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:0",
@@ -13833,7 +13839,9 @@
       "baseButton.successCheckDuration": "654a4cfc23ef3d39983852e3906195e4c5d93c29",
       "baseButton.successCheckDelay": "cb7dda9a111b8e6c720b4768cf3dbb43dc41cd1f",
       "baseButton.successFadeDurationReducedMotion": "9ebdc9588e581532d0742820c1693e137f471d15",
-      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7"
+      "mainNavAccountItem.verificationBadgeBorderRadius": "197d58d9f8659572b8aa9d7fa5db711bba7372e7",
+      "sideNavBarItem.iconColor": "e55b189addd29606586241c3a67e664f36321b09",
+      "sideNavBarItem.selectedIconColor": "6d5ef58a570b0ae318c19a5adeae1b387c92e2eb"
     },
     "$figmaCollectionId": "VariableCollectionId:2374:727",
     "$figmaModeId": "2374:1",
